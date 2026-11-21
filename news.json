@@ -1,12 +1,12 @@
 {
- "updated": 1795263083611,
+ "updated": 1795266391040,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 1,
+  "Sky Sports": 2,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 7,
+  "Evening Standard": 8,
   "The Sun": 1,
   "Mirror": 2,
   "Daily Mail": 6,
@@ -14,7 +14,7 @@
   "Independent": 1,
   "Express": 0,
   "Sports Mole": 14,
-  "CaughtOffside": 2,
+  "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 1,
   "구글뉴스(영어)": 66,
@@ -24,11 +24,11 @@
   "구글뉴스(한국어)": 16,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
-  "The Chelsea Blog": 10,
+  "The Chelsea Blog": "실패: fetch failed",
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Leeds United · 새 기사 49건"
+  "이번 상대": "Leeds United · 새 기사 57건"
  },
  "match": {
   "id": "8413998954361023232",
@@ -41,6 +41,26 @@
   "state": "pre",
   "items": [
    {
+    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXkxTzlCLWZ2X3JkRm5pMXNLMy1fZDZrbFpGOGNpOXVOZGJrM0ZFdXFwUEtNR0dPQXowWkN0VnJBWVZfZzZDelNxSHhlVTRHcFBoY0hPZnk2RmVRZmR4bExsYTlxNVh1dk9lT05BUGhzZUY0c2dSRFU2bnk2TTRJTWFnT3pPUzlaUzdHNlNDZ1FFaTJBLUtwS2hFREJnWmFSbFd3SmxOdHp4ZTA?oc=5",
+    "title": "Nine OPTA Stats that will get Leeds fans excited ahead of Chelsea clash",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXkxTzlCLWZ2X3JkRm5pMXNLMy1fZDZrbFpGOGNpOXVOZGJrM0ZFdXFwUEtNR0dPQXowWkN0VnJBWVZfZzZDelNxSHhlVTRHcFBoY0hPZnk2RmVRZmR4bExsYTlxNVh1dk9lT05BUGhzZUY0c2dSRFU2bnk2TTRJTWFnT3pPUzlaUzdHNlNDZ1FFaTJBLUtwS2hFREJnWmFSbFd3SmxOdHp4ZTA?oc=5",
+    "source": "Leeds United | Official Website",
+    "date": 1795265405000,
+    "added": 1795266379207,
+    "tag": "상대 소식",
+    "titleKo": "첼시와의 맞대결을 앞두고 리즈 팬들을 설레게 할 9가지 OPTA 통계"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2ljbFVCRE9HSjI0LXN2ZVVPU19mSXFfNThfOVl4bGZDTUxQTjRtRG1ONWZ2NlBMVWExSDV3TzRsTmpWcm5kU1dUd2d6VVhoM1RibHlpTDNTekNXWjBxOVpzeVpoMU9yajRPNlJ3QzlXY2psV05TUGk3cERlRDZoUWhHMzhOSnFhY0F0OUdB?oc=5",
+    "title": "Opposition scout – Leeds United | News | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2ljbFVCRE9HSjI0LXN2ZVVPU19mSXFfNThfOVl4bGZDTUxQTjRtRG1ONWZ2NlBMVWExSDV3TzRsTmpWcm5kU1dUd2d6VVhoM1RibHlpTDNTekNXWjBxOVpzeVpoMU9yajRPNlJ3QzlXY2psV05TUGk3cERlRDZoUWhHMzhOSnFhY0F0OUdB?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795262400000,
+    "added": 1795266379207,
+    "tag": "상대 소식",
+    "titleKo": "상대팀 스카우트 – 리즈 유나이티드 | 뉴스 | 공식 사이트"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkxUX29MOHJiaHhUWFRqbm5RQXVGbVU5VkFGT3hpREVWaFJtNkx1bjY3djhTaWJfUGVjY1UzNzNnbnBqMGdsU2k4X1psbTVaTDNJRndZZ0F0bVFneU9tQXduN2JiSVNudERLRTljU1pPc2JBR19WQlNSSWJjTHhBTk1uSlJEWjh5WmxfTUdyQm1raTA5SXdV?oc=5",
     "title": "Can I watch Chelsea vs Leeds United on TV? Live streams and TV channels",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkxUX29MOHJiaHhUWFRqbm5RQXVGbVU5VkFGT3hpREVWaFJtNkx1bjY3djhTaWJfUGVjY1UzNzNnbnBqMGdsU2k4X1psbTVaTDNJRndZZ0F0bVFneU9tQXduN2JiSVNudERLRTljU1pPc2JBR19WQlNSSWJjTHhBTk1uSlJEWjh5WmxfTUdyQm1raTA5SXdV?oc=5",
@@ -51,6 +71,16 @@
     "titleKo": "첼시와 리즈 유나이티드의 경기를 TV로 시청할 수 있나요? 실시간 스트리밍 및 TV 채널"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYTNfYlEwVENzSjBjMGZBRkFCZkNEUHIwc2FoTFA3UnF1TUk4WVlsRlFNRUJFbTZYaEV6Qnd6eE9WRmNtOHFJTzRDYlpKdUplcHRlV0t6R1JSbW1MQy1iR2FkdEFtYmhhSjFsZ0t2aXg4emd0N3MwMWpuWl9aRFhBMkRYZjBCSEV3aTZTZG01R29sdjlEdnVXNmI4YjZSNnBwLTRENkdleUprTHYxeTBxeVVnZjdCZThmRnExaXpXdE42Rm5BQ1NSQktJcW41UlBCR0Zja0ZrejVVLTljQW9ZRXBSZFh5X0XSAfsBQVVfeXFMTm1zZXFmNlREdXlHaU9QR3dEN1BoQ3FCU0lSak9oWXIta0x1SGNKLVdpZzVhSl9UUllJcTdHbE1TWkpESHRrTG9yVTU4R0t3VExORUhtQW9MbGtYdG1nUS1Rc0RvTFdhSVBzUWd0anhnbkFCVlB4N0I1c3RINWpBNUl4MHp6QTNlenNBZm4wcWJ4MVdVd2EtT1UxV3FzZ3pNRjVlZWZyS0lpUnhDckZNemtCYVhsVmVJV3FLUGVpQnR2UlhPWGtZZnVNcDcyek9xTWhXT21tNlpteHZmZjZ3RndOUlZmS21udU1vWlFDWnc2OFdaM050Yll5Ykk?oc=5",
+    "title": "How to watch Chelsea vs Leeds United soccer for free today: English Premier League live stream, TV channel, o",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYTNfYlEwVENzSjBjMGZBRkFCZkNEUHIwc2FoTFA3UnF1TUk4WVlsRlFNRUJFbTZYaEV6Qnd6eE9WRmNtOHFJTzRDYlpKdUplcHRlV0t6R1JSbW1MQy1iR2FkdEFtYmhhSjFsZ0t2aXg4emd0N3MwMWpuWl9aRFhBMkRYZjBCSEV3aTZTZG01R29sdjlEdnVXNmI4YjZSNnBwLTRENkdleUprTHYxeTBxeVVnZjdCZThmRnExaXpXdE42Rm5BQ1NSQktJcW41UlBCR0Zja0ZrejVVLTljQW9ZRXBSZFh5X0XSAfsBQVVfeXFMTm1zZXFmNlREdXlHaU9QR3dEN1BoQ3FCU0lSak9oWXIta0x1SGNKLVdpZzVhSl9UUllJcTdHbE1TWkpESHRrTG9yVTU4R0t3VExORUhtQW9MbGtYdG1nUS1Rc0RvTFdhSVBzUWd0anhnbkFCVlB4N0I1c3RINWpBNUl4MHp6QTNlenNBZm4wcWJ4MVdVd2EtT1UxV3FzZ3pNRjVlZWZyS0lpUnhDckZNemtCYVhsVmVJV3FLUGVpQnR2UlhPWGtZZnVNcDcyek9xTWhXT21tNlpteHZmZjZ3RndOUlZmS21udU1vWlFDWnc2OFdaM050Yll5Ykk?oc=5",
+    "source": "OregonLive.com",
+    "date": 1795261500000,
+    "added": 1795266379207,
+    "tag": "상대 소식",
+    "titleKo": "오늘 첼시 대 리즈 유나이티드 축구 경기를 무료로 시청하는 방법: 잉글리시 프리미어리그 라이브 스트리밍, TV 채널,"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTV81VFNWdTB6ZWJHdUtVYnhSRGNrRWNial91WF9lN2JoSVhocXBPcmxhcEpUd3lXMGJPNVpoZVpUMXlqYWhiQi1qejA1amJUbmZfVWRfU3BSNFp1OGhXUjNMVFoyTVgtQnNLeUhNYzJlcmFrV21MV1NHY3I0VXJ5V2lZbXV3RlZr?oc=5",
     "title": "What Leeds United fans just instantly told Henry Winter ahead of Chelsea showdown",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTV81VFNWdTB6ZWJHdUtVYnhSRGNrRWNial91WF9lN2JoSVhocXBPcmxhcEpUd3lXMGJPNVpoZVpUMXlqYWhiQi1qejA1amJUbmZfVWRfU3BSNFp1OGhXUjNMVFoyTVgtQnNLeUhNYzJlcmFrV21MV1NHY3I0VXJ5V2lZbXV3RlZr?oc=5",
@@ -59,6 +89,16 @@
     "added": 1795263076894,
     "tag": "상대 소식",
     "titleKo": "첼시와의 대결을 앞두고 리즈 유나이티드 팬들이 헨리 윈터에게 즉시 전한 내용"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dEeWNmQjVKLXc3RmZoRVFVOTU5VmFQMFZfNDFwWDlwZnBkM0NKSUptbHhMTXFXMjdRdVZLZ21LbDFPcGFnN2ZlUW83SXVuRXJ5UEV4R3pOendyY1ltRjYzUWZqZ3FodG9Ja0FPcmZLX1FDVVpfeXMzX2wwblZ1aXZ5UEZLZmRfOUV4LVV6T2ZkWE5hY2Q2YmxaN20taDNBNzFNM3VTMlZJS0duV3ZR?oc=5",
+    "title": "Chelsea vs Leeds United Predictions: Blues to maintain momentum",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dEeWNmQjVKLXc3RmZoRVFVOTU5VmFQMFZfNDFwWDlwZnBkM0NKSUptbHhMTXFXMjdRdVZLZ21LbDFPcGFnN2ZlUW83SXVuRXJ5UEV4R3pOendyY1ltRjYzUWZqZ3FodG9Ja0FPcmZLX1FDVVpfeXMzX2wwblZ1aXZ5UEZLZmRfOUV4LVV6T2ZkWE5hY2Q2YmxaN20taDNBNzFNM3VTMlZJS0duV3ZR?oc=5",
+    "source": "Goal.com",
+    "date": 1795259025000,
+    "added": 1795266379207,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "첼시 vs 리즈 유나이티드 경기 예측: 블루스가 기세를 유지할 것"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcDliRFpLMzhQTUNKUjRiTkN6UTd2VVJ1R1R3LTQ0bXVLbERTYzlaamprQlNWcjJpbHVBRm1LeU5XM0QzZUpoZmd5RkxwUm5rVUx2a3FtYWpJWmZWMzBreWVZY2cwNGJFRU5HaGdJR295aWVVS3NZUC0ydlM4Q29idS16Mk9IVHlvXzhkWVdsYUtYS2pLMXBULUpB?oc=5",
@@ -379,6 +419,16 @@
     "added": 1795221875905,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시는 리즈 유나이티드를 상대로 어떤 선발 명단을 내세워야 할까요?"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2RWSzRxaVJmV0hzWkhHU3ZVWWtwREFqWGVabVlFeVJMR1cwMjZJYXhvNlpfeTJ0bUpMTGNKYlNvMThGVUh0WklteXNDNkFwcVhfdFFmRjF1VlVNdWdCRlN0dExyRTNwU0l5dU5fbVFRWGZLSEl4R0hFUHExQ1Z4Wg?oc=5",
+    "title": "Will Joao Pedro play against Leeds? Latest Chelsea team news after Xabi Alonso update",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2RWSzRxaVJmV0hzWkhHU3ZVWWtwREFqWGVabVlFeVJMR1cwMjZJYXhvNlpfeTJ0bUpMTGNKYlNvMThGVUh0WklteXNDNkFwcVhfdFFmRjF1VlVNdWdCRlN0dExyRTNwU0l5dU5fbVFRWGZLSEl4R0hFUHExQ1Z4Wg?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795206736000,
+    "added": 1795266379207,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "주앙 페드로는 리즈와의 경기에서 뛸 수 있을까요? 사비 알론소 관련 소식 이후의 최신 첼시 팀 소식"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXVESVRGNWJNOHd6RmhGd3YxSjM1b2k0R0hlTnowd0hEMXRuMmNjNUN5a2o0RnpaV2gtRVJ1MnMxcVZNWVpXTlhLLWxkZnd1eVR2bDBSNjZ0SFVySlpCWU9PS2J4Rml2cmpxZjgyeERMTXV1RFgxNXZHVnk1UTVTYk0xRDE?oc=5",
@@ -789,60 +839,69 @@
     "added": 1795221875905,
     "tag": "상대 소식",
     "titleKo": "블루스와 알론소 감독에게 '중대한 시험대'가 될 리즈"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMU1TRjRWLUZ5QkJobTA4MUx3OWxjelpSMVcwVWdRc1NBNHpiOHdQemF2MFdkTEdWbmdpWkItUllNeVRFN0pfdnplNC1kQXpEaVJlT0NsWlp6MWhUcmgzY0pFa1YwR3REX1NjN2NHcEJ5YXVXY2lZUy1WRzBWaUNoNWozckE2VUN6SWc?oc=5",
-    "title": "Leeds aim to silence Stamford Bridge and play their own game",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMU1TRjRWLUZ5QkJobTA4MUx3OWxjelpSMVcwVWdRc1NBNHpiOHdQemF2MFdkTEdWbmdpWkItUllNeVRFN0pfdnplNC1kQXpEaVJlT0NsWlp6MWhUcmgzY0pFa1YwR3REX1NjN2NHcEJ5YXVXY2lZUy1WRzBWaUNoNWozckE2VUN6SWc?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795174365000,
-    "added": 1795222579063,
-    "tag": "상대 소식",
-    "titleKo": "리즈는 스탬퍼드 브리지의 함성을 잠재우고 자신들의 경기를 펼치고자 합니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1h5am51SU9iZVZKVUhVdENDYWNFRndRMjlTTm53RFQ4aTJlVk9SU3I2ZXdTNGtxa1BSWmNSdXVENW1WVXBXMkNBdmlzVmVHcUJVTHd4U29jeU5PdkVaQ2Z6WGlfSW5ab2dlZGtwTjFKelJCZm9hMHJEMmtSb2xQcl9yVktveEpjYUxtUGZUQVdnVkJ2SnQyUTdQMlUzVmtXZFU0?oc=5",
-    "title": "How to watch Chelsea vs Leeds in the UK, Ireland, USA and around the world",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1h5am51SU9iZVZKVUhVdENDYWNFRndRMjlTTm53RFQ4aTJlVk9SU3I2ZXdTNGtxa1BSWmNSdXVENW1WVXBXMkNBdmlzVmVHcUJVTHd4U29jeU5PdkVaQ2Z6WGlfSW5ab2dlZGtwTjFKelJCZm9hMHJEMmtSb2xQcl9yVktveEpjYUxtUGZUQVdnVkJ2SnQyUTdQMlUzVmtXZFU0?oc=5",
-    "source": "The Pride of London",
-    "date": 1795173205000,
-    "added": 1795221875905,
-    "tag": "상대 소식",
-    "titleKo": "영국, 아일랜드, 미국 및 전 세계에서 첼시 대 리즈 경기를 시청하는 방법"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUERqQ1NEc2R1dWRzUHN0VFViRURGWEF2SkdlREJma3RDTTFLYjQ0MF9LaUZyRmlYbVlDU2pxYmZUeUxvZ2dKNFU5UDlLN0taZ3JJYjgzSVF2ZEdsVDF2OEUxZklJR1d1RWdrRHozdlluanhNTzlURVk5QzViSzgxSDhxcHpZRGFFb0djYU1nV053RUQzOXlnNEdyT0xjN2dHZlBvV2Q5TC1YR055Q3REbQ?oc=5",
-    "title": "Chelsea vs Leeds United: Team news, key stats and everything you need to know",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUERqQ1NEc2R1dWRzUHN0VFViRURGWEF2SkdlREJma3RDTTFLYjQ0MF9LaUZyRmlYbVlDU2pxYmZUeUxvZ2dKNFU5UDlLN0taZ3JJYjgzSVF2ZEdsVDF2OEUxZklJR1d1RWdrRHozdlluanhNTzlURVk5QzViSzgxSDhxcHpZRGFFb0djYU1nV053RUQzOXlnNEdyT0xjN2dHZlBvV2Q5TC1YR055Q3REbQ?oc=5",
-    "source": "Leeds United | Official Website",
-    "date": 1795173071000,
-    "added": 1795221875905,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "첼시 vs 리즈 유나이티드: 팀 소식, 주요 통계 및 알아두어야 할 모든 것"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TaTJpTjJXZG1sNVg3N3dIZ3FON0FYNmVOWlVaS2lYT2VwbXdvcmVHWUhVaWVzZERSdVQxUmc0UXN5TmpQLTFackdHQ2tRcHh1Vkt5dWZITVBacmtPZFI5bHJYUDNEQQ?oc=5",
-    "title": "[오피셜] '맙소사' 손흥민 충격 공식발표...LA FC서 연봉 '150억' 수령, MLS 4위로 추락! 레반도프스키-그리즈만 추월→메시는 압도적 1위",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TaTJpTjJXZG1sNVg3N3dIZ3FON0FYNmVOWlVaS2lYT2VwbXdvcmVHWUhVaWVzZERSdVQxUmc0UXN5TmpQLTFackdHQ2tRcHh1Vkt5dWZITVBacmtPZFI5bHJYUDNEQQ?oc=5",
-    "source": "마이데일리",
-    "date": 1795172580000,
-    "added": 1795221875905,
-    "tag": "상대 소식",
-    "titleKo": "[오피셜] '맙소사' 손흥민 충격 공식발표...LA FC서 연봉 '150억' 수령, MLS 4위로 추락! 레반도프스키-그리즈만 추월→메시는 압도적 1위"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQa0NabzlFUE9sb3Q5d0llRnY3OGNsdXVrWnFTa3p0TTlwYTFLMDl5UDRfZ18yY0xEZEpHX2xuNVdkYmVPOTJfZ2tqc1JGbU9RNUMyVGg5ZlFNSlpGSFVYNndvdURBVjhpb1FaTmpOejNGYkY0a3hDbTV4S0IwUDZDRWJ0RGJEZDFJbFRFbXNhc1FCalQ2TkdwRjl0aWRZVjFWUjFxLVpMbTNHcDFJQ0ZDMzJGV1BkZFByejRocTZuSXRtTTFJWkZyS3htT2Z3SnVsWFBETmZjYVc3YTFxV053TE15dEpTalNCV2lnNFY3YVhON0dCRlRsVXVTb3NUZjJxUEk5a1E5d2M2Zw?oc=5",
-    "title": "Chelsea vs Leeds United: Confirmed team news as Alonso aims to leapfrog Liverpool",
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQa0NabzlFUE9sb3Q5d0llRnY3OGNsdXVrWnFTa3p0TTlwYTFLMDl5UDRfZ18yY0xEZEpHX2xuNVdkYmVPOTJfZ2tqc1JGbU9RNUMyVGg5ZlFNSlpGSFVYNndvdURBVjhpb1FaTmpOejNGYkY0a3hDbTV4S0IwUDZDRWJ0RGJEZDFJbFRFbXNhc1FCalQ2TkdwRjl0aWRZVjFWUjFxLVpMbTNHcDFJQ0ZDMzJGV1BkZFByejRocTZuSXRtTTFJWkZyS3htT2Z3SnVsWFBETmZjYVc3YTFxV053TE15dEpTalNCV2lnNFY3YVhON0dCRlRsVXVTb3NUZjJxUEk5a1E5d2M2Zw?oc=5",
-    "source": "TribalFootball",
-    "date": 1795169660000,
-    "added": 1795221875905,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "첼시 vs 리즈 유나이티드: 알론소가 리버풀을 제치고자 하는 가운데 확정된 팀 소식"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.football.london/chelsea-fc/fixtures-results/chelsea-vs-leeds-united-live-34944144",
+   "title": "Chelsea vs Leeds United LIVE - Goal and score updates, confirmed team news, live stream details",
+   "link": "https://www.football.london/chelsea-fc/fixtures-results/chelsea-vs-leeds-united-live-34944144",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795266000000,
+   "image": "https://i2-prod.football.london/incoming/article34945376.ece/ALTERNATES/s615/0_CFC-Leeds.jpg",
+   "added": 1795266377390,
+   "cat": "오피셜",
+   "titleKo": "첼시 vs 리즈 유나이티드 실시간 - 득점 및 점수 업데이트, 확정된 팀 소식, 실시간 스트리밍 정보"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-scott-vinicius-delmas-b1303142.html",
+   "title": "Transfer news LIVE: Arsenal in ‘serious’ midfield move; Chelsea learn Scott price; Man Utd, Liverpool latest",
+   "link": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-scott-vinicius-delmas-b1303142.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795265229000,
+   "image": "https://static.standard.co.uk/2026/11/21/12/12/Alex-Scott-Vinicius-Junior-Eduardo-Delmas.jpeg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795266377390,
+   "cat": "이적",
+   "titleKo": "이적 시장 뉴스 라이브: 아스널의 '진지한' 미드필더 영입 움직임, 첼시가 스콧의 몸값을 파악하다, 맨유와 리버풀의 최신 소식"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/predicted-xi-xabi-alonso-strikerless-system/",
+   "title": "Predicted XI: Xabi Alonso faces big decision over sticking with strikerless system after one win in four",
+   "link": "https://www.talkchelsea.net/news/predicted-xi-xabi-alonso-strikerless-system/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795265137000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/08/chelsea-v-luton-town-carabao-cup-second-round-2-550x367.jpg",
+   "added": 1795266377391,
+   "cat": "프리뷰",
+   "titleKo": "예상 선발 명단: 사비 알론소 감독, 4경기에서 1승을 거둔 후 스트라이커 없는 시스템을 고수할지 여부에 대한 중대한 결정에 직면"
+  },
+  {
+   "id": "https://www.skysports.com/football/liverpool-women-vs-chelsea-women/live/575829",
+   "title": "WSL: Liverpool vs Chelsea LIVE!",
+   "link": "https://www.skysports.com/football/liverpool-women-vs-chelsea-women/live/575829",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795263600000,
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-liverpool-chelsea_7407746.jpg?20261116124523",
+   "added": 1795266377390,
+   "cat": null,
+   "titleKo": "WSL: 리버풀 vs 첼시 라이브!"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxmelBrNXNDaVNIZEUzUDdENnlZNnBUTGUwMVAxWS0yVGhRZGR6TjZLelo0YzJaUEhkc3lTbE9Wb0NXT1FEc3QwbkVBZ3ZUcFRTazFhdzZTcEdSZ19hY2dyREJVTU1zV2hwaEwzZWdmelQ5UXdDWkw4cTgyQjdyRmpPUWhnVXRwdXVSN3BaMlZxcEJxNExMa2JlMU5Cd3ExdG92b0RtYVRBaXN0WjVnM2p5MA?oc=5",
+   "title": "Why Has Tom Brady Set His Sights On Chelsea After Leaving Birmingham City?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxmelBrNXNDaVNIZEUzUDdENnlZNnBUTGUwMVAxWS0yVGhRZGR6TjZLelo0YzJaUEhkc3lTbE9Wb0NXT1FEc3QwbkVBZ3ZUcFRTazFhdzZTcEdSZ19hY2dyREJVTU1zV2hwaEwzZWdmelQ5UXdDWkw4cTgyQjdyRmpPUWhnVXRwdXVSN3BaMlZxcEJxNExMa2JlMU5Cd3ExdG92b0RtYVRBaXN0WjVnM2p5MA?oc=5",
+   "source": "NDTV Sports",
+   "group": "영국 언론",
+   "date": 1795262915000,
+   "added": 1795266377391,
+   "cat": null,
+   "titleKo": "톰 브래디가 버밍엄 시티를 떠난 후 첼시를 눈여겨보는 이유는 무엇인가요?"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc0xZc3RnZTN4TF8tY3JUeXFuZkdqTDdVUlBWaTQ1cU95Vlo4b0I5WlVpSWdkbXpuNWg0dDVFNWZ0bkp4dVhFYVdXZ2t4REpnZVhCS1VFNVdheXZMSGdrTXlhSkR6Yk9pckZjZFpSb0JEUndNX01jX2FuTjFlZ0Y0ZFkxMU0xd0ZBaGMxTFJnSm1PbkRYQWJaVTNKSmZ6c0QyMk5aT2NJMXJtVHo2bTVGLXZkTElrMGh2c0E1SzlxbGNQamRPZkVDNHg1Q3ZzdkVfU1BqWHFxYUlqSTg?oc=5",
    "title": "Liverpool FCW vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch",
@@ -853,6 +912,17 @@
    "added": 1795263074949,
    "cat": "오피셜",
    "titleKo": "리버풀 FCW 대 첼시 FCW, 여자 슈퍼리그: 확정된 선발 명단, 시청 방법"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3NfbTUtZnliX1NHbVBCbVVUQlY2M3NlSmc2bThqdUdyNmU5Z0JxdVV0dVQxQnhrRVFfSFBiOEh6bGxGOTd5UXBBalRydzFsbHVvWjVOVjJBU0lkZUtRS3FyZUxxSi1OTUlUWGFOSWJrZVpUSktfeXMwR0FKRlBkRFFvTjZTLTNWU3lLSHJNSHZfSHI1b253VkxSODY?oc=5",
+   "title": "Chelsea Women's starting line up vs Liverpool confirmed | News | Official Site",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3NfbTUtZnliX1NHbVBCbVVUQlY2M3NlSmc2bThqdUdyNmU5Z0JxdVV0dVQxQnhrRVFfSFBiOEh6bGxGOTd5UXBBalRydzFsbHVvWjVOVjJBU0lkZUtRS3FyZUxxSi1OTUlUWGFOSWJrZVpUSktfeXMwR0FKRlBkRFFvTjZTLTNWU3lLSHJNSHZfSHI1b253VkxSODY?oc=5",
+   "source": "Chelsea Football Club",
+   "group": "영국 언론",
+   "date": 1795261500000,
+   "added": 1795266377390,
+   "cat": "오피셜",
+   "titleKo": "첼시 여자팀, 리버풀과의 경기 선발 명단 확정 | 뉴스 | 공식 사이트"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVFqZzk0Sl9rWU1aY1c0UDVsVVNlRkhDQkhzZGkwZDVvdW9HTkdJbWd0aWx1Q1VlVTRZZm5WdFNaLWNEY0dHT3NrYmxjRHpFdXYtN2lXbnVmYkNIUmlmNkNZbnFzdnBTYzFDU2swQ1BMNEZ1MkFyc1NmM3JMSDdsUjNuQWo5VjVsZVNOSUw2MHB3M2tTMGdGbkpHc3FRZ1BkbF9ZcGJJY3hUaHZfalR2a1lDelpkNGw0bGRZ?oc=5",
@@ -1352,6 +1422,17 @@
    "titleKo": "카드를 수집하는 것을 좋아하는 축구 선수! 토트넘의 스타 토신 아다라비오요가 첼시의 리스 제임스와 레비 콜윌과 함께 런던에 트레이딩 카드 매장을 열면서 수집에 대한 열정을 털어놓았습니다.",
    "imgTried": true,
    "image": "https://i.dailymail.com/1s/2026/11/20/18/112640591-0-image-a-9_1795199491297.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXUzbzY0N1lQT0k2SHVYQVpjbFRHMTFMT2kyeVpTTFZXZnBKNUprNVBJdE1veURkdlduQXlrS0FZZGE3ajJNbnlTWTV2SWZxejNqRkx3cXBwakFvSGlBTUxQQnFWS0dxcFFfLVJ4eEgyamp2RnN6RXAtZjNuWmpzNEhzeGZ3cXhpVVNKWUhuMXlaR2RPanFockNVai1pc2pxcm9fQVNpTnZkbDhHVm9UMzJtN1pGdUE?oc=5",
+   "title": "Chelsea lose appeal against £150,000 fan misconduct fine",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXUzbzY0N1lQT0k2SHVYQVpjbFRHMTFMT2kyeVpTTFZXZnBKNUprNVBJdE1veURkdlduQXlrS0FZZGE3ajJNbnlTWTV2SWZxejNqRkx3cXBwakFvSGlBTUxQQnFWS0dxcFFfLVJ4eEgyamp2RnN6RXAtZjNuWmpzNEhzeGZ3cXhpVVNKWUhuMXlaR2RPanFockNVai1pc2pxcm9fQVNpTnZkbDhHVm9UMzJtN1pGdUE?oc=5",
+   "source": "KarloBag.eu",
+   "group": "영국 언론",
+   "date": 1795215705000,
+   "added": 1795266377391,
+   "cat": null,
+   "titleKo": "첼시, 팬들의 부적절한 행동에 대한 15만 파운드 벌금 부과에 대한 항소 기각"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CUXJLeVByQVVTeHpKOHFwcVJ4djg2aTNXekx3ZVlMZ1BRdGRaRHl1WjJfQ2RKZVIxSW53QVBDeENDZjJqR2ZMR2hBWjlTYzlpTkV0SmZ4Q3M4LVhxM2IzUFNTemxDc0o1MjJzZW5ycTFzNUVxdmt2ejR3?oc=5",
@@ -4047,83 +4128,6 @@
    "added": 1795221030969,
    "cat": null,
    "titleKo": "경기 보고서: 첼시 여자팀 1-0 맨체스터 시티"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDd4LUEzRGtIenlLRDNmMldJcXMzTEZVa0ZhNnY1cWhUUlpsVjZ1Mjkxekd4blBBaWpua1hqT1ZobC1BbzRGdENBT1R2XzZod1NqcVBOZmxkUy1OeVdqSlpIOTBIMEdUV3BDREw4Y21xNmRKV3o3djFVa2hrS01PbklaUGIyT0dmQ28wbWNLbTlkZE1iYVk4QTE4cjJHOFdJeTUwVTNodzdmbzg4TTRjc1Jn?oc=5",
-   "title": "Chelsea Women v Manchester City Women | Match",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDd4LUEzRGtIenlLRDNmMldJcXMzTEZVa0ZhNnY1cWhUUlpsVjZ1Mjkxekd4blBBaWpua1hqT1ZobC1BbzRGdENBT1R2XzZod1NqcVBOZmxkUy1OeVdqSlpIOTBIMEdUV3BDREw4Y21xNmRKV3o3djFVa2hrS01PbklaUGIyT0dmQ28wbWNLbTlkZE1iYVk4QTE4cjJHOFdJeTUwVTNodzdmbzg4TTRjc1Jn?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1794671100000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "첼시 여자팀 vs 맨체스터 시티 여자팀 | 경기"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlFLTTJ5NlJDSkNGSXRBZGctY0pDSWdvX2tNT3hJNmx6Zk1fek82WmtLM3ZXU3NnZC10Q1Z2SWpBUXpUSTFkR3gyX2paSjV0dUlFWS1YNGlkSm9qbXI3Ykk3SDR1TkptTG5mNjdPTkNWVno1c3BvTVRZN3NyRlptenNGcS01WUJEOTBNVS1IMTM2bGlMZzFF?oc=5",
-   "title": "Confirmed Chelsea Women line up vs Manchester City",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlFLTTJ5NlJDSkNGSXRBZGctY0pDSWdvX2tNT3hJNmx6Zk1fek82WmtLM3ZXU3NnZC10Q1Z2SWpBUXpUSTFkR3gyX2paSjV0dUlFWS1YNGlkSm9qbXI3Ykk3SDR1TkptTG5mNjdPTkNWVno1c3BvTVRZN3NyRlptenNGcS01WUJEOTBNVS1IMTM2bGlMZzFF?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1794659400000,
-   "added": 1795221030969,
-   "cat": "오피셜",
-   "titleKo": "첼시 여자팀 vs 맨체스터 시티 선발 명단 확정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTE5YzB6ajdZX0R0dnA4XzdiQVBCTmxRNERHNmlTNm5iLUltWG9FQU9UYl9yTU5uYThndG5PTk14T0ZoVVJGMkhvdHozWUNWdUtSU2oyMXRjVHNGb2ZvajBTM01SWnhXV05pQnY5QVVRc09aYXdoYnVkZVFoRzZ5aFVFSm9iUDhCbnpRdUhrTDIzZklf?oc=5",
-   "title": "Late Stamford Bridge winners: the semi-final vote",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTE5YzB6ajdZX0R0dnA4XzdiQVBCTmxRNERHNmlTNm5iLUltWG9FQU9UYl9yTU5uYThndG5PTk14T0ZoVVJGMkhvdHozWUNWdUtSU2oyMXRjVHNGb2ZvajBTM01SWnhXV05pQnY5QVVRc09aYXdoYnVkZVFoRzZ5aFVFSm9iUDhCbnpRdUhrTDIzZklf?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1794646800000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "스탬퍼드 브리지 막판 승리: 준결승 투표"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjk1QTFodkxaVUxEM1I2ZjJjVExGV0poQ1ZnMDViTU14YllhZkM3X203Vnk1UEFWUkhhWEZTbmV5cENNRjRDZ3VCNVF2eEZhTV9USmlXQzgtT3R3YVpsMXlWLWxkQjJVQ1VscFFBYXFNbWJndkFsT1VjMlpIRjdZRm40Y3V0QVptcHF3Sk10c1BIcW05RnlUYm1FakJuTGdwY0FlQlNiQVFfendiY2Jv?oc=5",
-   "title": "Buchanan on togetherness and WSL title focus ahead of Man City visit",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjk1QTFodkxaVUxEM1I2ZjJjVExGV0poQ1ZnMDViTU14YllhZkM3X203Vnk1UEFWUkhhWEZTbmV5cENNRjRDZ3VCNVF2eEZhTV9USmlXQzgtT3R3YVpsMXlWLWxkQjJVQ1VscFFBYXFNbWJndkFsT1VjMlpIRjdZRm40Y3V0QVptcHF3Sk10c1BIcW05RnlUYm1FakJuTGdwY0FlQlNiQVFfendiY2Jv?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1794636000000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "맨체스터 시티와의 경기를 앞두고 단합과 WSL 우승에 집중하는 부캐넌"
-  },
-  {
-   "id": "https://chelsea.news/2026/11/morgan-rogers-scores-as-england-beat-croatia-2-1-and-reach-nations-league-quarter-finals/",
-   "title": "Morgan Rogers scores as England beat Croatia 2-1 and reach Nations League quarter-finals",
-   "link": "https://chelsea.news/2026/11/morgan-rogers-scores-as-england-beat-croatia-2-1-and-reach-nations-league-quarter-finals/",
-   "source": "Chelsea News",
-   "group": "팬 블로그",
-   "date": 1794558802000,
-   "cat": null,
-   "image": "https://chelsea.news/wp-content/uploads/2026/11/wembley-stadium-1.jpg",
-   "titleKo": "모건 로저스가 득점하며 잉글랜드가 크로아티아를 2-1로 꺾고 네이션스리그 8강에 진출했습니다."
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
-   "title": "Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United",
-   "link": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
-   "source": "The Guardian",
-   "group": "영국 언론",
-   "date": 1794553212000,
-   "cat": null,
-   "image": "https://i.guim.co.uk/img/media/20870a5fe499e872c54989430f12c8e18e6f1eda/371_0_3871_3096/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=f92738b61e8e2f478b456783384682f8",
-   "titleKo": "포체티노 감독의 첼시 소용돌이가 맨유의 미래를 가늠할 수 있는 최고의 잣대"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-   "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1794524947000,
-   "cat": "인터뷰",
-   "titleKo": "'거짓말'과 '터무니없는 소리' - 로저스 감독, '팔머는 잉글랜드 대표팀에 헌신하고 있다'고 말함",
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg"
   }
  ]
 }
