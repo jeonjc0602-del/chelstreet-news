@@ -1,5 +1,5 @@
 {
- "updated": 1795254958942,
+ "updated": 1795257608247,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -13,21 +13,21 @@
   "Telegraph": 5,
   "Independent": 1,
   "Express": 0,
-  "Sports Mole": 13,
+  "Sports Mole": 14,
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 1,
-  "구글뉴스(영어)": 66,
+  "구글뉴스(영어)": 64,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 15,
+  "구글뉴스(한국어)": 18,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": 10,
+  "FotMob": "실패: 403",
   "이번 상대": "Leeds United · 새 기사 50건"
  },
  "match": {
@@ -40,6 +40,26 @@
   "kickoff": 1795273200000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUpPM1VaWUxTcFdrdTUxS29WZFh1Z2lWdlh2R3FYRWw5UkZPcUkwLVdmVmZKOUNRcEVOYVExR2xSTlg5TGc3bEVRbEdESUIxYno1V0xmVERQV3JLd1NDdkMzRmJVd2gydGV0TjNlNjQ4amhEZnplc0NJWDYwRzNIamliYU9qV2dXalBQeU5XYWhuLTRWaThKMTcwZHhFMU4xU2RZ?oc=5",
+    "title": "11월 21일 22시, 프리미어 리그 11라운드 첼시 대 리즈 경기 생중계 링크입니다.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUpPM1VaWUxTcFdrdTUxS29WZFh1Z2lWdlh2R3FYRWw5UkZPcUkwLVdmVmZKOUNRcEVOYVExR2xSTlg5TGc3bEVRbEdESUIxYno1V0xmVERQV3JLd1NDdkMzRmJVd2gydGV0TjNlNjQ4amhEZnplc0NJWDYwRzNIamliYU9qV2dXalBQeU5XYWhuLTRWaThKMTcwZHhFMU4xU2RZ?oc=5",
+    "source": "Vietnam.vn",
+    "date": 1795257445000,
+    "added": 1795257607220,
+    "tag": "상대 소식",
+    "titleKo": "11월 21일 22시, 프리미어 리그 11라운드 첼시 대 리즈 경기 생중계 링크입니다."
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF9hMF92ZW9nam1iblVmeXFRZ182XzlBSjYzVnFLZ3BXUzJ0MElNRGMxNDJaRXZ0RVUtVzhtaFlYaElKR0Zocm51V3Q0NHEwOXhUVlJ2ZWZBaXdVdWJQVkthbjZtYVZQUWhicHJmM0NMTUVSSVlWcnB6cTRHYkNGWk5ocHlYZw?oc=5",
+    "title": "첼시 vs 리즈 경기 예측: 우승 경쟁의 뜨거운 승부",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF9hMF92ZW9nam1iblVmeXFRZ182XzlBSjYzVnFLZ3BXUzJ0MElNRGMxNDJaRXZ0RVUtVzhtaFlYaElKR0Zocm51V3Q0NHEwOXhUVlJ2ZWZBaXdVdWJQVkthbjZtYVZQUWhicHJmM0NMTUVSSVlWcnB6cTRHYkNGWk5ocHlYZw?oc=5",
+    "source": "Vietnam.vn",
+    "date": 1795257439000,
+    "added": 1795257607220,
+    "tag": "상대 소식",
+    "titleKo": "첼시 vs 리즈 경기 예측: 우승 경쟁의 뜨거운 승부"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRS1XT2dkS0otVFE0OXRlUVdOZmpfbk5BeXE0NHZHeGY2WjBWa0lsQkdPN1VZSDhYTXBHX3NHUnRpa1daMHFFTFZhdmltRjFCcUZMckRQOHRPb3pXdW5Rd0w3dW5LVVk0UVdfZGlFSklVWklCZ0pWSEk4UVY0b1pTaE54bVVYMXVHWFZLLTluQQ?oc=5",
     "title": "Chelsea fans’ preferred lineup against Leeds United: Back four and Mike Penders",
@@ -819,30 +839,43 @@
     "added": 1795221875905,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시 vs 리즈 유나이티드 경기 예측: 프리미어리그 프리뷰"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVHhXaU90QUVqal9pYUNWcnFyOE1zNWNkTFZ1aTMwbnFQSUgzM1hLQTc5bGtmVjJUMklrSTFwclZnU0Znc2pjbkFPc3ZOZmFmSFM0T09LMDFaX1dtOTZRQXVvWFhRcjJKMGg5Y1F2S2s5VjNqY0lBanpaWDBialp0RzhQTUEwUGtILUE?oc=5",
-    "title": "Daniel Farke already has Ethan Ampadu 2.0, but Leeds fans must wait to see him",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVHhXaU90QUVqal9pYUNWcnFyOE1zNWNkTFZ1aTMwbnFQSUgzM1hLQTc5bGtmVjJUMklrSTFwclZnU0Znc2pjbkFPc3ZOZmFmSFM0T09LMDFaX1dtOTZRQXVvWFhRcjJKMGg5Y1F2S2s5VjNqY0lBanpaWDBialp0RzhQTUEwUGtILUE?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795158000000,
-    "added": 1795221875905,
-    "tag": "상대 소식",
-    "titleKo": "다니엘 파르케 감독은 이미 에단 암파두 2.0을 보유하고 있지만, 리즈 팬들은 그를 보기 위해 기다려야 합니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTW54MzA3UE13XzFzRHA1Y0xFc09fZEpicHpObUpGeEQ1eDZISUhFSmUyMURNMXZwQzY2V0pQMEVOZHVYNjBtZUZYUjRyWkt6UnNpNkFYSXRzM245endqUklVTzF3d3UxU3ZiQVdwVkpRVTk0VThIMXRFY0NtemFvVVBTR0lJU3RZNnFN0gGQAUFVX3lxTE50Y0xERUNUbDAxV1ctNnMwLVUyU19EOVJxOEJrQjZ1cFpDV0N2eVZIaWh4WTZkcWFMTm9oZTFwakNCOXVadkFfXzdtYU5wWHJ4MzhUYWtKakNkbHFteEg3MHBsZWpYajZ6Z014RC1ZZlhsdHlHTUNSTDFCLUNYMDlzT2JVYVA2S29UUlpERlNFUQ?oc=5",
-    "title": "Estevao agreement reached, Joao Pedro decision made - Chelsea line-ups for Leeds United clash",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTW54MzA3UE13XzFzRHA1Y0xFc09fZEpicHpObUpGeEQ1eDZISUhFSmUyMURNMXZwQzY2V0pQMEVOZHVYNjBtZUZYUjRyWkt6UnNpNkFYSXRzM245endqUklVTzF3d3UxU3ZiQVdwVkpRVTk0VThIMXRFY0NtemFvVVBTR0lJU3RZNnFN0gGQAUFVX3lxTE50Y0xERUNUbDAxV1ctNnMwLVUyU19EOVJxOEJrQjZ1cFpDV0N2eVZIaWh4WTZkcWFMTm9oZTFwakNCOXVadkFfXzdtYU5wWHJ4MzhUYWtKakNkbHFteEg3MHBsZWpYajZ6Z014RC1ZZlhsdHlHTUNSTDFCLUNYMDlzT2JVYVA2S29UUlpERlNFUQ?oc=5",
-    "source": "Football London",
-    "date": 1795154669000,
-    "added": 1795221875905,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "에스테바오 영입 합의, 주앙 페드로 영입 결정 - 리즈 유나이티드와의 경기를 위한 첼시 선발 명단"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUpPM1VaWUxTcFdrdTUxS29WZFh1Z2lWdlh2R3FYRWw5UkZPcUkwLVdmVmZKOUNRcEVOYVExR2xSTlg5TGc3bEVRbEdESUIxYno1V0xmVERQV3JLd1NDdkMzRmJVd2gydGV0TjNlNjQ4amhEZnplc0NJWDYwRzNIamliYU9qV2dXalBQeU5XYWhuLTRWaThKMTcwZHhFMU4xU2RZ?oc=5",
+   "title": "11월 21일 22시, 프리미어 리그 11라운드 첼시 대 리즈 경기 생중계 링크입니다.",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUpPM1VaWUxTcFdrdTUxS29WZFh1Z2lWdlh2R3FYRWw5UkZPcUkwLVdmVmZKOUNRcEVOYVExR2xSTlg5TGc3bEVRbEdESUIxYno1V0xmVERQV3JLd1NDdkMzRmJVd2gydGV0TjNlNjQ4amhEZnplc0NJWDYwRzNIamliYU9qV2dXalBQeU5XYWhuLTRWaThKMTcwZHhFMU4xU2RZ?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795257445000,
+   "added": 1795257605202,
+   "cat": null,
+   "titleKo": "11월 21일 22시, 프리미어 리그 11라운드 첼시 대 리즈 경기 생중계 링크입니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF9hMF92ZW9nam1iblVmeXFRZ182XzlBSjYzVnFLZ3BXUzJ0MElNRGMxNDJaRXZ0RVUtVzhtaFlYaElKR0Zocm51V3Q0NHEwOXhUVlJ2ZWZBaXdVdWJQVkthbjZtYVZQUWhicHJmM0NMTUVSSVlWcnB6cTRHYkNGWk5ocHlYZw?oc=5",
+   "title": "첼시 vs 리즈 경기 예측: 우승 경쟁의 뜨거운 승부",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF9hMF92ZW9nam1iblVmeXFRZ182XzlBSjYzVnFLZ3BXUzJ0MElNRGMxNDJaRXZ0RVUtVzhtaFlYaElKR0Zocm51V3Q0NHEwOXhUVlJ2ZWZBaXdVdWJQVkthbjZtYVZQUWhicHJmM0NMTUVSSVlWcnB6cTRHYkNGWk5ocHlYZw?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795257439000,
+   "added": 1795257605202,
+   "cat": null,
+   "titleKo": "첼시 vs 리즈 경기 예측: 우승 경쟁의 뜨거운 승부"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyYU1NNUJXZG1leFpKMTZsb3NsUXNPNzNvZmxSdzlKN1RrNzl1dFMtQ3FXV3Y4bjlqYnF5Qy04UFlaczcxQjhITGFfU3ppN21qUHVVQUhNV05lLVZPMFRrTWJlMHprdzJMZWfSAW9BVV95cUxOMzdyZ293MjNMMi0yWTUwTWM1VDAybFphRlN6ZE1NRGtxSEJhbDF6UjhJeWhaVTVXSnh5Y2t0Sl9lSG1UZDNYaE1lTkIyVHppYjhlSkQ5RUdiWUVvdzZmZlFLaUg5Z3BsNkZDV2RaZDQ?oc=5",
+   "title": "'슈퍼볼 7회 우승 NFL 역대 최고 전설, 이번엔 첼시로 향한다' 톰 브래디, 버밍엄 지분 팔고 PL 명문 구단 투자 추진 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyYU1NNUJXZG1leFpKMTZsb3NsUXNPNzNvZmxSdzlKN1RrNzl1dFMtQ3FXV3Y4bjlqYnF5Qy04UFlaczcxQjhITGFfU3ppN21qUHVVQUhNV05lLVZPMFRrTWJlMHprdzJMZWfSAW9BVV95cUxOMzdyZ293MjNMMi0yWTUwTWM1VDAybFphRlN6ZE1NRGtxSEJhbDF6UjhJeWhaVTVXSnh5Y2t0Sl9lSG1UZDNYaE1lTkIyVHppYjhlSkQ5RUdiWUVvdzZmZlFLaUg5Z3BsNkZDV2RaZDQ?oc=5",
+   "source": "머니투데이",
+   "group": "한국 언론",
+   "date": 1795254900000,
+   "added": 1795257605202,
+   "cat": null,
+   "titleKo": "'슈퍼볼 7회 우승 NFL 역대 최고 전설, 이번엔 첼시로 향한다' 톰 브래디, 버밍엄 지분 팔고 PL 명문 구단 투자 추진 - 머니투데이"
+  },
   {
    "id": "https://www.standard.co.uk/sport/football/joao-pedro-chelsea-fc-injury-latest-fpl-b1305788.html",
    "title": "Will Joao Pedro play against Leeds? Latest Chelsea team news after Xabi Alonso update",
@@ -865,6 +898,18 @@
    "added": 1795254947264,
    "cat": null,
    "titleKo": "주앙 페드로는 리즈와의 경기에서 출전할까요? 첼시 관련 새로운 소식 이후의 최신 소식"
+  },
+  {
+   "id": "https://www.sportsmole.co.uk/football/chelsea/news/nfl-legend-brady-in-talks-over-chelsea-investment_609551.html",
+   "title": "Chelsea news: NFL legend Tom Brady 'in talks' over Chelsea investment",
+   "link": "https://www.sportsmole.co.uk/football/chelsea/news/nfl-legend-brady-in-talks-over-chelsea-investment_609551.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795252551000,
+   "image": "https://www.sportsmole.co.uk/thumbor/Lq7IJr7HH8F3RhRA4IdosTjIa_k=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsport-368177-0413-6b015e76d8c3e725068771.jpg",
+   "added": 1795257605202,
+   "cat": "이적",
+   "titleKo": "첼시 뉴스: NFL의 전설 톰 브래디, 첼시 투자 '협상 중'"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRS1XT2dkS0otVFE0OXRlUVdOZmpfbk5BeXE0NHZHeGY2WjBWa0lsQkdPN1VZSDhYTXBHX3NHUnRpa1daMHFFTFZhdmltRjFCcUZMckRQOHRPb3pXdW5Rd0w3dW5LVVk0UVdfZGlFSklVWklCZ0pWSEk4UVY0b1pTaE54bVVYMXVHWFZLLTluQQ?oc=5",
@@ -4076,51 +4121,6 @@
    "titleKo": "'팅커맨' 알론소 감독의 첼시, 여전히 정체성 모색 중",
    "group": "영국 언론",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c5vgj2lyem1po?at_medium=RSS&at_campaign=rss",
-   "title": "Sunderland 1-0 Chelsea: Penalty call goes against Blues",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5vgj2lyem1po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1794161859000,
-   "cat": null,
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9e11/live/3f537380-dba0-11f1-81e8-61c133a2b43c.jpg",
-   "titleKo": "선덜랜드 1-0 첼시: 블루스에게 불리한 페널티 판정"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-   "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
-   "link": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-   "source": "The Guardian",
-   "group": "영국 언론",
-   "date": 1794154594000,
-   "cat": null,
-   "image": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7",
-   "titleKo": "르 페의 페널티킥 골이 첼시를 놀라게 하고 저항하는 선덜랜드에 활기를 불어넣었습니다."
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
-   "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1794154416000,
-   "cat": "프리뷰",
-   "titleKo": "브로비와의 대결에 실패 - 선덜랜드 대 첼시 선수 평점",
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/414a/live/54cb1080-db8a-11f1-ab1c-6b6075dcdfe1.jpg"
-  },
-  {
-   "id": "https://thechelseablog.com/2026/11/08/sunderland-v-chelsea-preview-6/",
-   "title": "Sunderland v CHELSEA: Preview",
-   "link": "https://thechelseablog.com/2026/11/08/sunderland-v-chelsea-preview-6/",
-   "source": "The Chelsea Blog",
-   "group": "팬 블로그",
-   "date": 1794128400000,
-   "cat": "프리뷰",
-   "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2026/11/v-sund.png",
-   "titleKo": "선덜랜드 vs 첼시: 경기 전 분석"
   }
  ]
 }
