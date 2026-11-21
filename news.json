@@ -1,5 +1,5 @@
 {
- "updated": 1795241455057,
+ "updated": 1795245575578,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Leeds United · 새 기사 44건"
+  "이번 상대": "Leeds United · 새 기사 47건"
  },
  "match": {
   "id": "8413998954361023232",
@@ -40,6 +40,36 @@
   "kickoff": 1795273200000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXp4OHVqbExDMGxpcU1LdFlvUEJSNk93OTRqTnZGYWVLSm83SWRab2t5VjRLWVpDX2N5eDJfNG5vcDhjbXJMdTZuaE5Cb0cwTGI1Y0VJakU2WnVsZXhuWGduV0Y0UnNSM1FSc1R3Vmxwd09XUTd3Z1F3bm1JcXVpYXVBcVRSSklpY1E?oc=5",
+    "title": "Predicted Chelsea XI vs Leeds as Joao Pedro solution found and Estevao Willian decision made",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXp4OHVqbExDMGxpcU1LdFlvUEJSNk93OTRqTnZGYWVLSm83SWRab2t5VjRLWVpDX2N5eDJfNG5vcDhjbXJMdTZuaE5Cb0cwTGI1Y0VJakU2WnVsZXhuWGduV0Y0UnNSM1FSc1R3Vmxwd09XUTd3Z1F3bm1JcXVpYXVBcVRSSklpY1E?oc=5",
+    "source": "Football London",
+    "date": 1795244599000,
+    "added": 1795245570053,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "주앙 페드로 영입 문제 해결 및 에스테바오 윌리안 영입 결정에 따른 첼시의 리즈전 예상 선발 명단"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWpCTEJ2RUhCYnVpWUE2VHBnLUdwNE9aSmR1NXJGcHF6Zk1rbmk5ZG56SXBjU1gySS1pS1FkVWVUSWFJQU9ILWl5aTZFRDNGeWJOZ1ZIZFBGS1dLUEVGYzdaUW0yMV9jTzZYV2lZRHhuRUxqVWRMUVhyOGxqS3dEeHNfNU1SOU9faFQ3dmNLT1ZObDRqM2Nfdk9YbnVvVFRza1ppdWxUZUl0a3BlNzBMTWxFRXRoWHdPbkI3RXlsdU1wTU9yUEp6VFdvcklSNWZKUjVFTG90c21kNVUwRFBBLWhpNURJUExrZnRYbUd1TUdBNHVxUmtOWm1IdTk?oc=5",
+    "title": "Chelsea v Leeds United: Daniel Farke challenges Whites to continue proving Premier League credentials",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWpCTEJ2RUhCYnVpWUE2VHBnLUdwNE9aSmR1NXJGcHF6Zk1rbmk5ZG56SXBjU1gySS1pS1FkVWVUSWFJQU9ILWl5aTZFRDNGeWJOZ1ZIZFBGS1dLUEVGYzdaUW0yMV9jTzZYV2lZRHhuRUxqVWRMUVhyOGxqS3dEeHNfNU1SOU9faFQ3dmNLT1ZObDRqM2Nfdk9YbnVvVFRza1ppdWxUZUl0a3BlNzBMTWxFRXRoWHdPbkI3RXlsdU1wTU9yUEp6VFdvcklSNWZKUjVFTG90c21kNVUwRFBBLWhpNURJUExrZnRYbUd1TUdBNHVxUmtOWm1IdTk?oc=5",
+    "source": "Yorkshire Post",
+    "date": 1795244400000,
+    "added": 1795245570053,
+    "tag": "상대 소식",
+    "titleKo": "첼시 대 리즈 유나이티드: 다니엘 파르케 감독, 리즈 유나이티드 선수들에게 프리미어리그에서의 경쟁력을 계속 입증하라고 촉구"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXhDSG82bnRkUlFzcktwbHNUZGpCRy1VcF8wOG1kMVZtOTBFcUdPakRGYzB5MXNMVHdOemtzMHc5Zl80b2RmTjVmV0k4cTN5OTJETUI5X2llYjBKeGFGSTR6Y0NfSkpqVXZGdjhReDloZTk5c3kxbkhDOFZHX2lWeXNsQTVybTh2LUpoRGx6MWthcnVDOHc?oc=5",
+    "title": "프리미어 리그 11라운드: 맨시티 승리 유력, 아스널과 첼시 무승부 유력.",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXhDSG82bnRkUlFzcktwbHNUZGpCRy1VcF8wOG1kMVZtOTBFcUdPakRGYzB5MXNMVHdOemtzMHc5Zl80b2RmTjVmV0k4cTN5OTJETUI5X2llYjBKeGFGSTR6Y0NfSkpqVXZGdjhReDloZTk5c3kxbkhDOFZHX2lWeXNsQTVybTh2LUpoRGx6MWthcnVDOHc?oc=5",
+    "source": "Vietnam.vn",
+    "date": 1795242951000,
+    "added": 1795245570053,
+    "tag": "상대 소식",
+    "titleKo": "프리미어 리그 11라운드: 맨시티 승리 유력, 아스널과 첼시 무승부 유력."
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLThnMzBLZjFINEdyM2QzLWE1NWgzd1BYYUh4eFN1N0ZmSEtRN3VVZVIxTzhkREJUN2J1ZHdVbXRGNm1ISERtdlI4cHlMZ1B4N1RId3hiaHZQQ1drUTNOencwakR5WnNjUUl5QjFIX3lVQ1JBNnh5aHIwZ2Zjd2dPc19MUW5kZUNkXzlKWnJ3?oc=5",
     "title": "Chelsea vs Leeds: All you need to know | News | Official Site",
@@ -169,6 +199,16 @@
     "added": 1795221875905,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시 vs. 리즈: 프리미어리그 경기 예측, 날짜, 장소 및 시청 방법"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXRhWHFnWjNiY0JKM1IwVnlTdW92OTNwYXBobmNCU3NCbndWZHR0c01saHppd05XTEh0aDNoeVN1YmZEWmVsTzRBM3hUUFJad0NHR0xWdF9aRFF3MWlqN3Q5Rl9xSEFTYlBKdDZ5emdEa0phcmtpZkJya1VNRG9uU3NwaGlHTjVac2Uw?oc=5",
+    "title": "Leeds United receive double injury boost ahead of Chelsea clash",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXRhWHFnWjNiY0JKM1IwVnlTdW92OTNwYXBobmNCU3NCbndWZHR0c01saHppd05XTEh0aDNoeVN1YmZEWmVsTzRBM3hUUFJad0NHR0xWdF9aRFF3MWlqN3Q5Rl9xSEFTYlBKdDZ5emdEa0phcmtpZkJya1VNRG9uU3NwaGlHTjVac2Uw?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795200600000,
+    "added": 1795245570053,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "리즈 유나이티드, 첼시와의 맞대결을 앞두고 부상 선수가 두 명이나 복귀"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tMC1yb3U2MGlPZ213eUswT3RIMDZDcXlNZWJSeWNCRHB4MWwwY0hzdjhabXVvTF9GZHJpbWdOLV91Y0NKVGhzMHBheTE3VjVMMGJobDV3ZVN4T0tIQzVlX19GaHFjZzJHM21Z?oc=5",
@@ -799,46 +839,6 @@
     "added": 1795221875905,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시 대 리즈 유나이티드 경기가 TV에서 중계되나요? 킥오프 시간, 실시간 스트리밍, 팀 소식, 심판 및 VAR"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQi1ycTNRZEhmeFFfMklvNmN0eVZYSlRwUWdSdEdSSVY5Zlo3UHlTbUFuMkIzd3FrTTNlRUZVZEpfam15Z2Z2MXZNS0tQZWFsNmc0QTlUaWJKaUhmdkJMaXpvbDY4VjBLMUVQRHJSTG4wcHpvWHU0RkVIVXlZZUdRblFlY1BmbjlLcjBmUDNqWkY?oc=5",
-    "title": "Chelsea: Emiliano Martinez or Mike Penders vs Leeds debate settled by 2.23 stat",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQi1ycTNRZEhmeFFfMklvNmN0eVZYSlRwUWdSdEdSSVY5Zlo3UHlTbUFuMkIzd3FrTTNlRUZVZEpfam15Z2Z2MXZNS0tQZWFsNmc0QTlUaWJKaUhmdkJMaXpvbDY4VjBLMUVQRHJSTG4wcHpvWHU0RkVIVXlZZUdRblFlY1BmbjlLcjBmUDNqWkY?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795120500000,
-    "added": 1795222579063,
-    "tag": "상대 소식",
-    "titleKo": "첼시: 에밀리아노 마르티네스 또는 마이크 펜더스 대 리즈 경기에서 2.23의 통계로 논쟁이 종결되었습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGs2dFBQelpRRUFmWERCV1dxdHY4eG1iczVfUWRINEJpZ2NWSE91QmNraDFXenlYdUVJR2F4cGpqcnkxRVh5TFlnNjdHaVRid0dqb0t4OGxkQVRCNHZIT192UEdSd2pmTnJZU19ZajBFVkdrOTd3Sk1YZWp4VWNsZW9qQUpBMTBlNV9QaFpxcWw?oc=5",
-    "title": "Leeds United's spending compared to Chelsea after Daniel Farke's 'world class' transfer admission",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGs2dFBQelpRRUFmWERCV1dxdHY4eG1iczVfUWRINEJpZ2NWSE91QmNraDFXenlYdUVJR2F4cGpqcnkxRVh5TFlnNjdHaVRid0dqb0t4OGxkQVRCNHZIT192UEdSd2pmTnJZU19ZajBFVkdrOTd3Sk1YZWp4VWNsZW9qQUpBMTBlNV9QaFpxcWw?oc=5",
-    "source": "Yahoo",
-    "date": 1795118400000,
-    "added": 1795222579063,
-    "tag": "상대 소식",
-    "titleKo": "다니엘 파르케 감독이 '월드클래스' 이적을 인정한 후 리즈 유나이티드의 지출액을 첼시와 비교해 보았습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1hEVW51M2JBTlFEekRVT3QwN3lQVU1YQ3dkcW9Rb0RJNGJmWkl6Q0hIM1o3aUdWRjVNUXlNNWJ0eGRuTUdmV2NQcFVFanUwS096WFlLRlM0Y003ZEV3YUFBOG9fbmtqYkxWdTZKaWoxWnRnb2xIcFByemdjbHhqN1BvcmxDSUpWQ05DTG9FWktnTWM?oc=5",
-    "title": "Where are they now? The Leeds team when GTA V came out...",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1hEVW51M2JBTlFEekRVT3QwN3lQVU1YQ3dkcW9Rb0RJNGJmWkl6Q0hIM1o3aUdWRjVNUXlNNWJ0eGRuTUdmV2NQcFVFanUwS096WFlLRlM0Y003ZEV3YUFBOG9fbmtqYkxWdTZKaWoxWnRnb2xIcFByemdjbHhqN1BvcmxDSUpWQ05DTG9FWktnTWM?oc=5",
-    "source": "Leeds United",
-    "date": 1795118036000,
-    "added": 1795221875905,
-    "tag": "상대 소식",
-    "titleKo": "그들은 지금 어디에 있을까요? GTA V가 출시되었을 때의 리즈 팀..."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41ZmJDUFZxeWdGMjNjb3lLbUhvMUZRemgtaUJOanRBQ3Z3QldTTWpLVFQ0dEFXVGhldnVjN0UyYzFMal9BcnBkeWpOLXNCWVdqQWFLVjF2MUsxWG5mY0JiR1NuZjlQcW5Id2hJbC0wd2p6UzNRdWNWVg?oc=5",
-    "title": "Prediction: Chelsea vs Leeds United",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41ZmJDUFZxeWdGMjNjb3lLbUhvMUZRemgtaUJOanRBQ3Z3QldTTWpLVFQ0dEFXVGhldnVjN0UyYzFMal9BcnBkeWpOLXNCWVdqQWFLVjF2MUsxWG5mY0JiR1NuZjlQcW5Id2hJbC0wd2p6UzNRdWNWVg?oc=5",
-    "source": "Soccer News",
-    "date": 1795113234000,
-    "added": 1795234600606,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "예측: 첼시 vs 리즈 유나이티드"
    }
   ]
  },
@@ -854,6 +854,40 @@
    "titleKo": "‘백승호 소속팀’ 버밍엄 지분 팔더니 런던으로 눈 돌렸다!… NFL 전설 톰 브래디, 첼시 지분 인수",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314198_244948_2854.jpg"
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/predicted-chelsea-xi-vs-leeds-34942093",
+   "title": "Predicted Chelsea XI vs Leeds as Joao Pedro solution found and Estevao Willian decision made",
+   "link": "https://www.football.london/chelsea-fc/news/predicted-chelsea-xi-vs-leeds-34942093",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795244400000,
+   "image": "https://i2-prod.football.london/incoming/article34844513.ece/ALTERNATES/s615/0_GettyImages-2302846550.jpg",
+   "added": 1795245568568,
+   "cat": "프리뷰",
+   "titleKo": "조앙 페드로 영입이 확정되고 에스테바오 윌리안에 대한 결정이 내려진 가운데, 첼시의 리즈전 예상 선발 명단"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW1xTU9HNUZwYkVuUDlsM25VLVRORTFzZ0NZNExiOU1RVU1Fdm83bmFjRlFoNU5rRXhIcDNsS2V5SGhEbXprQmFucGQwVEJSVXYwQ3RlbTdlcDN4eUJDdHhzYVc5b2lTY1BuSzIxdmpSdHZvN1pnblhBdFdmcTFpazZGM1haUlN5Q3c3eC1ZTHMxSVZyMEpva0pEc0x2QXRfaUtKNg?oc=5",
+   "title": "The good, the bad and the ugly of Alonso’s start to Chelsea life",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW1xTU9HNUZwYkVuUDlsM25VLVRORTFzZ0NZNExiOU1RVU1Fdm83bmFjRlFoNU5rRXhIcDNsS2V5SGhEbXprQmFucGQwVEJSVXYwQ3RlbTdlcDN4eUJDdHhzYVc5b2lTY1BuSzIxdmpSdHZvN1pnblhBdFdmcTFpazZGM1haUlN5Q3c3eC1ZTHMxSVZyMEpva0pEc0x2QXRfaUtKNg?oc=5",
+   "source": "The Telegraph",
+   "group": "영국 언론",
+   "date": 1795244400000,
+   "added": 1795245568569,
+   "cat": null,
+   "titleKo": "알론소가 첼시에서 보낸 시간의 시작: 좋았던 점, 나빴던 점, 그리고 최악이었던 점"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXhDSG82bnRkUlFzcktwbHNUZGpCRy1VcF8wOG1kMVZtOTBFcUdPakRGYzB5MXNMVHdOemtzMHc5Zl80b2RmTjVmV0k4cTN5OTJETUI5X2llYjBKeGFGSTR6Y0NfSkpqVXZGdjhReDloZTk5c3kxbkhDOFZHX2lWeXNsQTVybTh2LUpoRGx6MWthcnVDOHc?oc=5",
+   "title": "프리미어 리그 11라운드: 맨시티 승리 유력, 아스널과 첼시 무승부 유력.",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXhDSG82bnRkUlFzcktwbHNUZGpCRy1VcF8wOG1kMVZtOTBFcUdPakRGYzB5MXNMVHdOemtzMHc5Zl80b2RmTjVmV0k4cTN5OTJETUI5X2llYjBKeGFGSTR6Y0NfSkpqVXZGdjhReDloZTk5c3kxbkhDOFZHX2lWeXNsQTVybTh2LUpoRGx6MWthcnVDOHc?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795242951000,
+   "added": 1795245568569,
+   "cat": null,
+   "titleKo": "프리미어 리그 11라운드: 맨시티 승리 유력, 아스널과 첼시 무승부 유력."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLThnMzBLZjFINEdyM2QzLWE1NWgzd1BYYUh4eFN1N0ZmSEtRN3VVZVIxTzhkREJUN2J1ZHdVbXRGNm1ISERtdlI4cHlMZ1B4N1RId3hiaHZQQ1drUTNOencwakR5WnNjUUl5QjFIX3lVQ1JBNnh5aHIwZ2Zjd2dPc19MUW5kZUNkXzlKWnJ3?oc=5",
@@ -1951,6 +1985,17 @@
    "cat": "부상",
    "titleKo": "사비 알론소 기자회견 라이브: 첼시 감독이 조앙 페드로의 부상, 카이세도의 최근 상황 및 리즈에 대해 이야기합니다.",
    "image": "https://i2-prod.football.london/incoming/article34932693.ece/ALTERNATES/s615/0_GettyImages-2303343771.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jZEl2VzVKZy1sYjR1UDEyekY4WDNOdHFUUnVYbV9sUUx1TDBZdDZBbEk5NUpiSGl2TjhxRHQ1NklrNmJCSXVCdnExdUdLd3dYTHItM1h0MnlQbktnbDZ5alQxcUtSelpXbXhZ?oc=5",
+   "title": "Chelsea news: Adarabioyo, James and Colwill launch trading cards shop",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jZEl2VzVKZy1sYjR1UDEyekY4WDNOdHFUUnVYbV9sUUx1TDBZdDZBbEk5NUpiSGl2TjhxRHQ1NklrNmJCSXVCdnExdUdLd3dYTHItM1h0MnlQbktnbDZ5alQxcUtSelpXbXhZ?oc=5",
+   "source": "BBC",
+   "group": "영국 언론",
+   "date": 1795176875000,
+   "added": 1795245568569,
+   "cat": null,
+   "titleKo": "첼시 뉴스: 아다라비오요, 제임스, 콜윌이 트레이딩 카드 숍을 오픈하다"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/cqvg21k52dj6o?at_medium=RSS&at_campaign=rss",
@@ -4072,52 +4117,6 @@
    "cat": null,
    "image": "https://i.guim.co.uk/img/media/57b3f124f1643c01a8a220abe3518bbba03640d1/243_0_2942_2354/master/2942.jpg?width=140&quality=85&auto=format&fit=max&s=c90d1a0e7a209cbb0f6aede96aaf7b03",
    "titleKo": "토트넘의 시즌이 마침내 시작되었습니다. 리그 순위에서 얼마나 높은 곳까지 올라갈 수 있을까요?"
-  },
-  {
-   "id": "https://www.theguardian.com/football/live/2026/oct/28/liverpool-v-chelsea-carabao-cup-fourth-round-live",
-   "title": "Liverpool beat Chelsea 6-5 on penalties: Carabao Cup plus quarter-final draw – as it happened",
-   "link": "https://www.theguardian.com/football/live/2026/oct/28/liverpool-v-chelsea-carabao-cup-fourth-round-live",
-   "source": "The Guardian",
-   "group": "영국 언론",
-   "date": 1793227400000,
-   "cat": null,
-   "image": "https://i.guim.co.uk/img/media/964cb3d70958b679b67a30c8a5c0c8125f780256/248_0_2683_2146/master/2683.jpg?width=140&quality=85&auto=format&fit=max&s=e28a0bf7a952216ca8fca8809999e543",
-   "titleKo": "리버풀, 첼시를 승부차기 6-5로 꺾음: 카라바오컵과 8강 대진 추첨 – 경기 내용"
-  },
-  {
-   "id": "https://thechelseablog.com/2026/10/28/liverpool-v-chelsea-carabao-cup-preview/",
-   "title": "Liverpool v CHELSEA: Carabao Cup Preview",
-   "link": "https://thechelseablog.com/2026/10/28/liverpool-v-chelsea-carabao-cup-preview/",
-   "source": "The Chelsea Blog",
-   "group": "팬 블로그",
-   "date": 1793178000000,
-   "cat": "프리뷰",
-   "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2026/01/efl-1000x600.jpg",
-   "titleKo": "리버풀 대 첼시: 카라바오컵 프리뷰"
-  },
-  {
-   "id": "https://latest.fotmob.com/2026/10/27/preview-liverpool-face-xabi-alonsos-chelsea-at-anfield/",
-   "title": "Preview: Liverpool face Xabi Alonso’s Chelsea at Anfield",
-   "link": "https://latest.fotmob.com/2026/10/27/preview-liverpool-face-xabi-alonsos-chelsea-at-anfield/",
-   "source": "FotMob",
-   "date": 1793116800000,
-   "cat": "프리뷰",
-   "titleKo": "프리뷰: 리버풀, 안필드에서 샤비 알론소가 이끄는 첼시와 맞대결",
-   "group": "공식·FotMob",
-   "image": "https://latest.fotmob.com/wp-content/uploads/2026/08/Covers_Liverpool-Forest-2-2908-1.png"
-  },
-  {
-   "id": "https://thechelseablog.com/2026/10/24/chelsea-0-2-tottenham-an-exercise-in-managerial-spectating/",
-   "title": "CHELSEA 0-2 Tottenham: An Exercise in Managerial Spectating",
-   "link": "https://thechelseablog.com/2026/10/24/chelsea-0-2-tottenham-an-exercise-in-managerial-spectating/",
-   "source": "The Chelsea Blog",
-   "group": "팬 블로그",
-   "date": 1792876374000,
-   "cat": null,
-   "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2026/10/today-640x600.jpg",
-   "titleKo": "첼시 0-2 토트넘: 감독의 관전 기술"
   }
  ]
 }
