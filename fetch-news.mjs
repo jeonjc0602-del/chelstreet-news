@@ -51,6 +51,7 @@ async function readFeed({ source, url, chelseaOnly }) {
     const link = tag(block, "link") || tag(block, "guid");
     if (!title || !link) continue;
     if (!chelseaOnly && !/chelsea/i.test(title)) continue;
+    if (/bet boost|betting|odds|acca|free bet|tips:/i.test(title)) continue; // 베팅 광고 기사 빼기
     const date = Date.parse(tag(block, "pubDate")) || Date.now();
     out.push({ title, link: link.split("#")[0], source, date });
   }
@@ -108,7 +109,7 @@ async function notify(item) {
 let old = { items: [] };
 try { old = JSON.parse(await readFile("news.json", "utf8")); } catch {}
 // 키워드를 고치면 예전 기사도 새 기준으로 다시 분류해요.
-old.items = old.items.map(x => ({ ...x, cat: classify(x.title, x.source) || x.cat }));
+old.items = old.items.filter(x => !/bet boost|betting|odds|acca|free bet|tips:/i.test(x.title)).map(x => ({ ...x, cat: classify(x.title, x.source) || x.cat }));
 const known = new Set(old.items.map(x => x.id));
 const firstRun = old.items.length === 0;
 
