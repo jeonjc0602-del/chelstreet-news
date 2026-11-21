@@ -1,15 +1,15 @@
 {
- "updated": 1795293595372,
+ "updated": 1795296010196,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 4,
+  "Sky Sports": 5,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
   "Evening Standard": 10,
   "The Sun": 5,
   "Mirror": 3,
-  "Daily Mail": 5,
+  "Daily Mail": 6,
   "Telegraph": 6,
   "Independent": 4,
   "Express": 0,
@@ -21,14 +21,14 @@
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 21,
+  "구글뉴스(한국어)": 22,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 11건"
+  "이번 상대": "Nottingham Forest · 새 기사 10건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDBqN3h0eGpqLXdJTkk5TGU5WmhDRWE4R3FnSGJxaHg3b3pzaWlxOXJfLWozSWhKWVBsZWNRTmJtM3p1Mnc5aFE3RDNyMzBJdmNNM3hMTUpKbHFMaS1Ra2Zyalp1Tm5YZ21MTjNRcHN0SnNucUFTMXBTTTBva2tLMg?oc=5",
+    "title": "3 Things To Learn From AFCB's Ninth Win In A Row Against Nottingham Forest",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDBqN3h0eGpqLXdJTkk5TGU5WmhDRWE4R3FnSGJxaHg3b3pzaWlxOXJfLWozSWhKWVBsZWNRTmJtM3p1Mnc5aFE3RDNyMzBJdmNNM3hMTUpKbHFMaS1Ra2Zyalp1Tm5YZ21MTjNRcHN0SnNucUFTMXBTTTBva2tLMg?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795293584000,
+    "added": 1795296004794,
+    "tag": "상대 소식",
+    "titleKo": "AFC 본머스의 노팅엄 포레스트를 상대로 한 9연승에서 배울 점 3가지"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSU1PcUxiQXNTZzNEQkJEX0hKaEx3czVqbGdzWFFBSlR1NXhQTDJhclRMTHdsdDRnTGduUUI0czlpeDBzQ1B0OUF1WWtiYXN1QXdMTmFCWTg1NjFDTUdOYXhnV01Gd2FYZXJLY0FqdWNsd0tBdUVVbEFtdzFqX0MtRWlwSTl3ZjhWQW9BMmRxcFNHcEdsRFE?oc=5",
     "title": "Glasner hints at January additions after Nottingham Forest’s defeat to Bournemouth",
@@ -829,20 +839,33 @@
     "added": 1795277863028,
     "tag": "상대 소식",
     "titleKo": "맨유와 첼시가 전설에게 경의를 표하기 위해 서둘러 나선 가운데, 후안 마타가 즉시 은퇴합니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFZqbEdTNlUyYkRFQWxpN3BrLXlUX1RDV1VSbl84RHRSdXE2SHRpT25zaHl3TXBFOFZpcGJCLUhocmloR2pFeHFsN2dlYzdBdUpMSVZlMnFyek1wRTJsVUZWNkhaMlFRNGRkNUlVMUFIbFZlaDlpUVlWc1I5aU83QlhJeHR0TzRmcTRfSW9FWFV4al9NQ0RXT2FlVGlmaGpJdVdpUnBWQ2NsLXpiWUZjQjRKTjA1Z0t6UEE?oc=5",
-    "title": "Nottingham Forest / Liverpool - Subway Players Cup - The City Ground, Nottingham",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFZqbEdTNlUyYkRFQWxpN3BrLXlUX1RDV1VSbl84RHRSdXE2SHRpT25zaHl3TXBFOFZpcGJCLUhocmloR2pFeHFsN2dlYzdBdUpMSVZlMnFyek1wRTJsVUZWNkhaMlFRNGRkNUlVMUFIbFZlaDlpUVlWc1I5aU83QlhJeHR0TzRmcTRfSW9FWFV4al9NQ0RXT2FlVGlmaGpJdVdpUnBWQ2NsLXpiWUZjQjRKTjA1Z0t6UEE?oc=5",
-    "source": "Liverpool FC",
-    "date": 1794988800000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 / 리버풀 - 서브웨이 플레이어스 컵 - 더 시티 그라운드, 노팅엄"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.dailymail.com/sport/football/article-16311993/Cole-Palmer-frosty-exchange-Joao-Pedro-Chelsea-4-1-humiliation-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Frustrated Cole Palmer shares frosty exchange with Joao Pedro after upsetting Chelsea staff member before walking off down the tunnel after Chelsea's 4-1 drubbing by Leeds",
+   "link": "https://www.dailymail.com/sport/football/article-16311993/Cole-Palmer-frosty-exchange-Joao-Pedro-Chelsea-4-1-humiliation-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795295609000,
+   "image": "https://i.dailymail.com/1s/2026/11/21/20/112653879-0-image-a-42_1795291709384.jpg",
+   "added": 1795296004046,
+   "cat": null,
+   "titleKo": "콜 파머, 첼시가 리즈에 4-1로 패한 후 첼시 직원에게 불쾌감을 준 뒤 터널로 내려가기 전 주앙 페드로와 냉담한 대화를 나눔"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lZWFIY0h1RjJLbm1Zb3BqWUxnVGs0c05jLUxGX05lQjdCYmVFVkZZeG05enhmOEZyb3FwSndyTU9tOEFBWERBRVp2eHlXZ3JzeTl3RkJKa1NLYjc2VG5lQ2RxR29XR1M1TTZINXVEOUw?oc=5",
+   "title": "우승 트로피 들고도 \"수원은 14위일 뿐\"...이정효, 유럽 전술 공부 착착 → 맨시티·첼시·아스널 경기 직접 본다",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lZWFIY0h1RjJLbm1Zb3BqWUxnVGs0c05jLUxGX05lQjdCYmVFVkZZeG05enhmOEZyb3FwSndyTU9tOEFBWERBRVp2eHlXZ3JzeTl3RkJKa1NLYjc2VG5lQ2RxR29XR1M1TTZINXVEOUw?oc=5",
+   "source": "SPOTV NEWS",
+   "group": "한국 언론",
+   "date": 1795295100000,
+   "added": 1795296004047,
+   "cat": null,
+   "titleKo": "우승 트로피 들고도 \"수원은 14위일 뿐\"...이정효, 유럽 전술 공부 착착 → 맨시티·첼시·아스널 경기 직접 본다"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzd1UU9NZnVRZnhBMkJtOHpTNmxnVGRMejBkMXdoR3pIZHRXckRRY0RNek1kSWVPVVRlTXByam5ESE1TYVh4NGktVUIzOWRZWGJram9aaE43TVFJTzJCTEFoMVpjb0VseXpUSzlFZ2VldFFBaWItS2VRckZISUJFa2dsMnFtLTBGb0VCS3VkOEhvOFU?oc=5",
    "title": "Cole Palmer ‘confronted by Joao Pedro and Chelsea FC coach’ after ignoring fans",
@@ -853,6 +876,18 @@
    "added": 1795293586382,
    "cat": null,
    "titleKo": "콜 파머, 팬들을 무시한 후 '주앙 페드로와 첼시 FC 코치와 대면'"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-news-palmer-joao-pedro-b1305854.html",
+   "title": "Cole Palmer ‘confronted by Joao Pedro and Chelsea coach’ after ignoring fans",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-news-palmer-joao-pedro-b1305854.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795293425000,
+   "image": "https://static.standard.co.uk/2026/11/21/20/13/FotoJet-(20).jpeg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795296004046,
+   "cat": null,
+   "titleKo": "콜 파머, 팬들을 무시한 후 '주앙 페드로와 첼시 코치의 질책을 받다'"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3VoUDEwRWJucmxJd1BaTXdOMlZEODFnSGNMckVSR0U4cWZzNHIxTkg2eUgwT3FrMXRab2dKZkdxbmpGOHB2WUFTUHBGOTIxeFFLc240UzZnOVhvY0pjQ3ZKWlc1LXd0M1AyaFZ2MjZEUzZrZjc2RHlPaVFqQmlHNWF5VzdET0xhZEU4eXZsUDhMd2VmSWFxUHhKSzRGR04xOEE?oc=5",
@@ -912,6 +947,17 @@
    "titleKo": "이게 이미 첼시에서의 사비 알론소의 마지막인가요? 그는 두 가지 신성한 '규칙'을 어겼습니다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aHFjOW90a05EMVpwMU10Y2ZFOHBDOFl0V2tOX0pyUXY2UDJlQjA0Y0FYdlJNeWJ2QWpYZlY1cGpJXzhfVW5FaF9mU3BNdWpPWlEwYVY0OWdiQXdkZTFZTG8tUFZMWC1u?oc=5",
+   "title": "Premier League highlights: Chelsea 1-4 Leeds United",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aHFjOW90a05EMVpwMU10Y2ZFOHBDOFl0V2tOX0pyUXY2UDJlQjA0Y0FYdlJNeWJ2QWpYZlY1cGpJXzhfVW5FaF9mU3BNdWpPWlEwYVY0OWdiQXdkZTFZTG8tUFZMWC1u?oc=5",
+   "source": "BBC",
+   "group": "영국 언론",
+   "date": 1795291153000,
+   "added": 1795296004046,
+   "cat": null,
+   "titleKo": "프리미어리그 하이라이트: 첼시 1-4 리즈 유나이티드"
+  },
+  {
    "id": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
    "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
    "link": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
@@ -957,6 +1003,18 @@
    "added": 1795291206287,
    "cat": null,
    "titleKo": "동영상: 리즈전 패배 후 콜 파머에게 화를 내는 첼시 스타의 모습이 포착됨"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/11095/13614992/chelsea-are-fragile-and-need-to-toughen-up-says-manager-xabi-alonso-after-humiliating-defeat-to-leeds-united",
+   "title": "Alonso: Chelsea are fragile and need to be tougher",
+   "link": "https://www.skysports.com/football/news/11095/13614992/chelsea-are-fragile-and-need-to-toughen-up-says-manager-xabi-alonso-after-humiliating-defeat-to-leeds-united",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795288380000,
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-cole-palmer-chelsea_7412951.jpg?20261121201852",
+   "added": 1795296004046,
+   "cat": null,
+   "titleKo": "알론소: 첼시는 약한 팀이며 더 강해져야 합니다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYU9oMHVGUllpWkZvTlhGU1NQbm56OXhBZXN0WldSTDhwOTVKMkZVajI1T2ZMTEE1MGd3TDhXNnNTX2ZTX3c5REVKYTZ6XzAtM3lXQ0hYM1Q3bzlad1gzWGc1UmhRVVZhNXc5NHJqS2h6Z0x4NlBmbTItTFhnQ1lUbDEyTVRLc200eUx0ZTlUY2FoaUYyTTBXY2xCYjhpQnRaMVpOYw?oc=5",
@@ -1958,6 +2016,17 @@
    "added": 1795266377391,
    "cat": null,
    "titleKo": "톰 브래디가 버밍엄 시티를 떠난 후 첼시를 눈여겨보는 이유는 무엇인가요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2ljbFVCRE9HSjI0LXN2ZVVPU19mSXFfNThfOVl4bGZDTUxQTjRtRG1ONWZ2NlBMVWExSDV3TzRsTmpWcm5kU1dUd2d6VVhoM1RibHlpTDNTekNXWjBxOVpzeVpoMU9yajRPNlJ3QzlXY2psV05TUGk3cERlRDZoUWhHMzhOSnFhY0F0OUdB?oc=5",
+   "title": "Opposition scout – Leeds United",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2ljbFVCRE9HSjI0LXN2ZVVPU19mSXFfNThfOVl4bGZDTUxQTjRtRG1ONWZ2NlBMVWExSDV3TzRsTmpWcm5kU1dUd2d6VVhoM1RibHlpTDNTekNXWjBxOVpzeVpoMU9yajRPNlJ3QzlXY2psV05TUGk3cERlRDZoUWhHMzhOSnFhY0F0OUdB?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795262400000,
+   "added": 1795296004047,
+   "cat": null,
+   "titleKo": "상대팀 스카우트 – 리즈 유나이티드"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkxUX29MOHJiaHhUWFRqbm5RQXVGbVU5VkFGT3hpREVWaFJtNkx1bjY3djhTaWJfUGVjY1UzNzNnbnBqMGdsU2k4X1psbTVaTDNJRndZZ0F0bVFneU9tQXduN2JiSVNudERLRTljU1pPc2JBR19WQlNSSWJjTHhBTk1uSlJEWjh5WmxfTUdyQm1raTA5SXdV?oc=5",
@@ -4121,68 +4190,6 @@
    "date": 1795104000000,
    "cat": "오피셜",
    "titleKo": "리버풀 vs 첼시 여자팀: 시청 방법, 킥오프 시간, 실시간 스트리밍 정보 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0YzLS1JTGxLYVVVb1ZjbzF0V1VzZE5rek9EZEdGYVl2bnZyOGpHd3VqN19FQi1OYzlvdDBqUl9nUFZtQVBSaEhHb3N1UTNSOWdGQ0l0aEZSOWp0UE5KWTdWbTFPbnhjb0stYXp3NF9OVVVLTUhEVDhCZDAtLW0tdnV2RXlpLU0?oc=5",
-   "title": "Chelsea - Aston Villa",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0YzLS1JTGxLYVVVb1ZjbzF0V1VzZE5rek9EZEdGYVl2bnZyOGpHd3VqN19FQi1OYzlvdDBqUl9nUFZtQVBSaEhHb3N1UTNSOWdGQ0l0aEZSOWp0UE5KWTdWbTFPbnhjb0stYXp3NF9OVVVLTUhEVDhCZDAtLW0tdnV2RXlpLU0?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795103053000,
-   "cat": null,
-   "titleKo": "첼시 - 아스톤 빌라"
-  },
-  {
-   "id": "https://www.football.london/premier-league/arsenal-tottenham-chelsea-premier-league-34937171",
-   "title": "Arsenal, Chelsea and Tottenham vote for extra protection as Man City case rumbles on",
-   "link": "https://www.football.london/premier-league/arsenal-tottenham-chelsea-premier-league-34937171",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795100722000,
-   "cat": null,
-   "titleKo": "맨체스터 시티 사건이 계속되는 가운데 아스널, 첼시, 토트넘이 추가 보호 조치에 찬성표를 던졌습니다.",
-   "image": "https://i2-prod.football.london/incoming/article34937305.ece/ALTERNATES/s615/0_GettyImages-2299722267.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU21iZDcza3BzcGc0OFZoeWt4bDVJeUI0dUJuZnBDY0tPOFZhdEktUF9jYmloTXQ4RFVnT0ZFVHZFMlpxSG15RmxtZkF6MUk4dlFvaFNnaWhhMmkzQ0tkTWlqbDVDeklMNFRHTUoxSGplUzczTEhFblVrTDdNNXRpUnVaRDF3ZXpnWF80cTN2TkNlbGppMFBwSnVzTjJ5T3NnTllqZnpn0gGrAUFVX3lxTE14Q2JuckpuejNUclRXWGp2QUtmTE9ZSmI2UDY3RC13MzlXaF9GdUJTY2pGbEctM3h3Y1BHTmJVX2Rod3dYREVwcURpUlR3WTZET1JyaUdnSURBSFFyTUh1X0pxWTQ3TGdCUGp0cEdHTnRoNTVvYjhoV3ljTy1wdFJFMER4eGs4VG9udGFRcV8wM0drYWl0RnVCdE8zVHlJWVNKbERLRnFEeEprZw?oc=5",
-   "title": "'Real quality' - Frank Lampard praises £100m Chelsea transfer target",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU21iZDcza3BzcGc0OFZoeWt4bDVJeUI0dUJuZnBDY0tPOFZhdEktUF9jYmloTXQ4RFVnT0ZFVHZFMlpxSG15RmxtZkF6MUk4dlFvaFNnaWhhMmkzQ0tkTWlqbDVDeklMNFRHTUoxSGplUzczTEhFblVrTDdNNXRpUnVaRDF3ZXpnWF80cTN2TkNlbGppMFBwSnVzTjJ5T3NnTllqZnpn0gGrAUFVX3lxTE14Q2JuckpuejNUclRXWGp2QUtmTE9ZSmI2UDY3RC13MzlXaF9GdUJTY2pGbEctM3h3Y1BHTmJVX2Rod3dYREVwcURpUlR3WTZET1JyaUdnSURBSFFyTUh1X0pxWTQ3TGdCUGp0cEdHTnRoNTVvYjhoV3ljTy1wdFJFMER4eGs4VG9udGFRcV8wM0drYWl0RnVCdE8zVHlJWVNKbERLRnFEeEprZw?oc=5",
-   "source": "Metro.co.uk",
-   "group": "영국 언론",
-   "date": 1795098420000,
-   "cat": "이적",
-   "titleKo": "'진정한 실력' - 프랭크 램파드, 1억 파운드(약 1,650억 원)의 첼시 영입 대상 선수를 칭찬하다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TRVY5WjM5VU5TdmFMeXR3S0J0dHdtbkRuWENHajViQkxJLTVhaWhNV250b3ZPbnA2UjF4ak55OGVXdHBHWFFjekUxZ0NxNGpfdzJsSFJCbTlHMDVWcFl0UGU3S0dGTm9HWERTdG1NQWQyUQ?oc=5",
-   "title": "英 매체 단독 보도! \"개인 조건도 상당 부분 합의!\"…첼시, 본머스 핵심 MF 스콧 영입전 선두! 이적료 최대 1,740억 원",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TRVY5WjM5VU5TdmFMeXR3S0J0dHdtbkRuWENHajViQkxJLTVhaWhNV250b3ZPbnA2UjF4ak55OGVXdHBHWFFjekUxZ0NxNGpfdzJsSFJCbTlHMDVWcFl0UGU3S0dGTm9HWERTdG1NQWQyUQ?oc=5",
-   "source": "포포투",
-   "group": "한국 언론",
-   "date": 1795096500000,
-   "cat": "이적",
-   "titleKo": "英 매체 단독 보도! \"개인 조건도 상당 부분 합의!\"…첼시, 본머스 핵심 MF 스콧 영입전 선두! 이적료 최대 1,740억 원"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/fixtures-results/chelsea-fixtures-changed-premier-league-34936252",
-   "title": "Two Chelsea fixtures moved including evening match fans are fearful of",
-   "link": "https://www.football.london/chelsea-fc/fixtures-results/chelsea-fixtures-changed-premier-league-34936252",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795095008000,
-   "cat": null,
-   "titleKo": "저녁 경기를 우려하는 팬들이 있는 가운데, 첼시의 경기 일정 2개가 변경되었습니다.",
-   "image": "https://i2-prod.chroniclelive.co.uk/incoming/article34936273.ece/ALTERNATES/s615/0_Chelsea-v-Brighton-Hove-Albion-Carabao-Cup-Third-Round.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnp3MTFlSGN3VzdnSEVCTHVVZ3lqc0lNdjFVN2ZQSm9ndFRfMTljdTlYVlY5NUNjMEhtNzdNcE81ZG05V29SaWE5NDRMTno0ZmI5TDQyX2t1WnRMQXA5VEhhdFhFelpHVXVnQVBqZ25OT0JISGFYamVTSDJudFJvVzVKMHBHUDA2WGVIYzhvZ0xWaFIxRTYyQkxtZ3h5amZNa1pwaDd0LW1tNEx5b1ZwRG5rb0dCUUgxRVR4bENEXzRoRDhR?oc=5",
-   "title": "Watch Liverpool FC Women vs Chelsea FC Women live today: Who is broadcasting the match on TV and via live stream?",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnp3MTFlSGN3VzdnSEVCTHVVZ3lqc0lNdjFVN2ZQSm9ndFRfMTljdTlYVlY5NUNjMEhtNzdNcE81ZG05V29SaWE5NDRMTno0ZmI5TDQyX2t1WnRMQXA5VEhhdFhFelpHVXVnQVBqZ25OT0JISGFYamVTSDJudFJvVzVKMHBHUDA2WGVIYzhvZ0xWaFIxRTYyQkxtZ3h5amZNa1pwaDd0LW1tNEx5b1ZwRG5rb0dCUUgxRVR4bENEXzRoRDhR?oc=5",
-   "source": "Goal.com",
-   "group": "영국 언론",
-   "date": 1795094635000,
-   "cat": null,
-   "titleKo": "오늘 리버풀 FC 여자팀 대 첼시 FC 여자팀 경기를 생중계로 시청하세요. TV와 온라인 생중계 방송사는 어디인가요?"
   }
  ]
 }
