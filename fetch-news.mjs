@@ -268,9 +268,14 @@ results.forEach((r, i) => {
 });
 
 const fresh = [];
+const oldById = new Map(old.items.map(x => [x.id, x]));
 for (const x of found) {
   const id = x.link, key = norm(x.title);
-  if (known.has(id) || knownTitles.has(key)) continue;
+  if (known.has(id) || knownTitles.has(key)) {
+    const o = oldById.get(id);
+    if (o && !o.image && x.image) o.image = x.image; // 예전 기사도 피드에 사진이 있으면 채워요.
+    continue;
+  }
   known.add(id); knownTitles.add(key);
   const item = { id, ...x, added: Date.now(), cat: classify(x.title, x.source) };
   if (HANGUL.test(x.title)) item.titleKo = x.title; // 한국어 기사는 번역 안 해요.
