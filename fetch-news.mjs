@@ -101,7 +101,7 @@ async function readFeed({ source, group, url, chelseaOnly, google, keepSource })
 }
 
 // 무료 번역(MyMemory). 하루 사용량이 정해져 있어서 한 번에 조금씩만 번역하고, 실패하면 다음 실행 때 다시 해요.
-const TRANSLATE_PER_RUN = 25;
+const TRANSLATE_PER_RUN = 40;
 const TRANSLATE_EMAIL = "jeonjc0602-del@users.noreply.github.com";
 async function translate(text) {
   const url = "https://api.mymemory.translated.net/get?langpair=en|ko&de=" + encodeURIComponent(TRANSLATE_EMAIL) + "&q=" + encodeURIComponent(text);
@@ -127,6 +127,83 @@ async function notify(item) {
       priority: item.cat === "오피셜" ? 5 : 3,
     }),
   }).catch(e => console.log("알림 실패:", e.message));
+}
+
+// ───────── 이번 상대 ─────────
+// Sky Sports 첼시 일정 페이지에서 다음 경기를 찾고, 상대팀 관련 뉴스를 구글 뉴스로 모아요.
+const FIXTURES = "https://www.skysports.com/chelsea-scores-fixtures";
+const TEAM_KO = {
+  "Arsenal":"아스널","Aston Villa":"아스톤 빌라","Bournemouth":"본머스","AFC Bournemouth":"본머스","Brentford":"브렌트퍼드",
+  "Brighton and Hove Albion":"브라이튼","Brighton & Hove Albion":"브라이튼","Burnley":"번리","Crystal Palace":"크리스탈 팰리스",
+  "Everton":"에버턴","Fulham":"풀럼","Leeds United":"리즈","Liverpool":"리버풀","Manchester City":"맨시티",
+  "Manchester United":"맨유","Newcastle United":"뉴캐슬","Nottingham Forest":"노팅엄","Sunderland":"선덜랜드",
+  "Tottenham Hotspur":"토트넘","West Ham United":"웨스트햄","Wolverhampton Wanderers":"울버햄튼","Wolves":"울버햄튼",
+  "Leicester City":"레스터","Southampton":"사우샘프턴","Ipswich Town":"입스위치","Real Madrid":"레알 마드리드",
+  "Barcelona":"바르셀로나","Atletico Madrid":"아틀레티코","Bayern Munich":"바이에른 뮌헨","Borussia Dortmund":"도르트문트",
+  "Paris Saint-Germain":"PSG","Inter Milan":"인테르","AC Milan":"AC 밀란","Juventus":"유벤투스","Napoli":"나폴리",
+  "Benfica":"벤피카","Porto":"포르투","Ajax":"아약스","Bayer Leverkusen":"레버쿠젠","Celtic":"셀틱"
+};
+const OPP_TAGS = [
+  ["라인업·팀뉴스", ["team news","lineup","line-up","predicted","starting xi","injury","injured","ruled out","doubt","fitness","suspended","선발","라인업","명단","부상","결장"]],
+  ["도발·발언", ["warns","warning","slams","mocks","taunt","jibe","fires","hits back","blasts","claims","says","insists","vows","message to","도발","저격","경고","발언","자신감","말했다","밝혔다"]],
+];
+const oppTag = t => { const s = t.toLowerCase(); for (const [tag, ks] of OPP_TAGS) if (ks.some(k => s.includes(k))) return tag; return "상대 소식"; };
+
+function londonToUTC(dateText, time) {
+  // "Saturday 21st November" + "15:00" (영국 시간) → UTC 시각
+  const m = dateText.match(/(\d{1,2})\w*\s+([A-Za-z]+)/); if (!m) return null;
+  const month = new Date(`${m[2]} 1, 2000`).getMonth(); if (isNaN(month)) return null;
+  const [hh, mm] = (time || "15:00").split(":").map(Number);
+  const now = new Date();
+  for (const y of [now.getUTCFullYear(), now.getUTCFullYear() + 1]) {
+    const guess = Date.UTC(y, month, +m[1], hh, mm);
+    const d = new Date(guess);
+    const london = new Date(d.toLocaleString("en-US", { timeZone: "Europe/London" }));
+    const utc = new Date(d.toLocaleString("en-US", { timeZone: "UTC" }));
+    const ts = guess - (london - utc);
+    if (ts > Date.now() - 3 * 3600e3) return ts;
+  }
+  return null;
+}
+
+async function nextMatch() {
+  const res = await fetch(FIXTURES, { headers: UA, signal: AbortSignal.timeout(20000) });
+  if (!res.ok) throw new Error(`${res.status}`);
+  const html = await res.text();
+  for (const m of html.matchAll(/data-state="(\{[^"]*?\})"/g)) {
+    let s; try { s = JSON.parse(decode(m[1].replace(/&quot;/g, '"'))); } catch { try { s = JSON.parse(m[1].replace(/&quot;/g, '"').replace(/&amp;/g, "&")); } catch { continue; } }
+    if (!s?.teams || !["pre", "in"].includes(s.matchState)) continue;
+    const home = s.teams.home?.name?.full, away = s.teams.away?.name?.full;
+    if (!home || !away) continue;
+    const chelseaHome = /chelsea/i.test(home);
+    const opponent = chelseaHome ? away : home;
+    return {
+      id: String(s.id), opponent, opponentShort: (chelseaHome ? s.teams.away : s.teams.home)?.name?.short || opponent,
+      opponentKo: TEAM_KO[opponent] || null, home: chelseaHome, competition: s.competition?.name?.full || "",
+      kickoff: londonToUTC(s.start?.date || "", s.start?.time), state: s.matchState,
+    };
+  }
+  return null;
+}
+
+async function opponentNews(match) {
+  const q = s => encodeURIComponent(s + " when:7d");
+  const esc = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const opp = [match.opponent, match.opponentShort, match.opponentKo].filter(Boolean).map(esc).join("|");
+  const hasOpp = new RegExp(opp, "i"), hasEither = new RegExp(opp + "|chelsea|첼시", "i");
+  // 상대+첼시 검색 결과는 제목에 둘 중 하나만 있어도 OK (감독 이름만 나오는 기사 등), 상대 팀뉴스 검색은 상대 이름이 꼭 있어야 해요.
+  const urls = [
+    { need: hasEither, url: `https://news.google.com/rss/search?q=${q(`"${match.opponent}" Chelsea`)}&hl=en-GB&gl=GB&ceid=GB:en` },
+    { need: hasOpp, url: `https://news.google.com/rss/search?q=${q(`"${match.opponent}" (team news OR lineup OR injury OR predicted)`)}&hl=en-GB&gl=GB&ceid=GB:en` },
+  ];
+  if (match.opponentKo) urls.push(
+    { need: hasEither, url: `https://news.google.com/rss/search?q=${q(`${match.opponentKo} 첼시`)}&hl=ko&gl=KR&ceid=KR:ko` },
+    { need: hasOpp, url: `https://news.google.com/rss/search?q=${q(`${match.opponentKo} 라인업 OR 부상 OR 선발`)}&hl=ko&gl=KR&ceid=KR:ko` },
+  );
+  const res = await Promise.allSettled(urls.map(u => readFeed({ source: "구글뉴스", group: "상대", url: u.url, chelseaOnly: true, google: true })));
+  const out = [];
+  res.forEach((r, i) => { if (r.status === "fulfilled") for (const x of r.value) if (urls[i].need.test(x.title)) out.push(x); });
+  return out;
 }
 
 // 같은 기사가 여러 곳에서 올라오면 하나만 남기려고 제목을 단순하게 바꿔 비교해요.
@@ -169,15 +246,40 @@ fresh.sort((a, b) => b.date - a.date);
 
 const items = [...fresh, ...old.items].sort((a, b) => b.date - a.date).slice(0, MAX_ITEMS);
 
-// 아직 한국어 제목이 없는 최신 기사부터 번역해요.
+// 이번 상대: 경기가 바뀌면 상대 뉴스도 새로 모아요.
+let match = old.match || null;
+try {
+  const nm = await nextMatch();
+  if (nm) {
+    const same = match && match.id === nm.id;
+    const prev = same ? (match.items || []) : [];
+    const seenOpp = new Set(prev.map(x => x.id)), seenOppT = new Set(prev.map(x => norm(x.title)));
+    const got = await opponentNews(nm);
+    const add = [];
+    for (const x of got) {
+      const key = norm(x.title);
+      if (seenOpp.has(x.link) || seenOppT.has(key)) continue;
+      seenOpp.add(x.link); seenOppT.add(key);
+      const it = { id: x.link, title: x.title, link: x.link, source: x.source, date: x.date, added: Date.now(), tag: oppTag(x.title) };
+      if (HANGUL.test(x.title)) it.titleKo = x.title;
+      add.push(it);
+    }
+    const weekAgo = Date.now() - 7 * 864e5;
+    match = { ...nm, items: [...add, ...prev].filter(x => x.date > weekAgo).sort((a, b) => b.date - a.date).slice(0, 80) };
+    stats["이번 상대"] = `${nm.opponent} · 새 기사 ${add.length}건`;
+  } else stats["이번 상대"] = "다음 경기를 못 찾음";
+} catch (e) { stats["이번 상대"] = "실패: " + e.message; }
+console.log("이번 상대:", stats["이번 상대"]);
+
+// 아직 한국어 제목이 없는 기사부터 번역해요. (이번 상대 뉴스 먼저)
 let translated = 0;
-for (const x of items.filter(x => !x.titleKo).slice(0, TRANSLATE_PER_RUN)) {
+for (const x of [...(match?.items || []), ...items].filter(x => !x.titleKo).slice(0, TRANSLATE_PER_RUN)) {
   try { x.titleKo = await translate(x.title); translated++; }
   catch (e) { console.log("번역 멈춤:", e.message); break; }
 }
 console.log(`번역 ${translated}건`);
 
-await writeFile("news.json", JSON.stringify({ updated: Date.now(), stats, items }, null, 1));
+await writeFile("news.json", JSON.stringify({ updated: Date.now(), stats, match, items }, null, 1));
 console.log(`새 뉴스 ${fresh.length}건`);
 
 // 처음 실행할 때는 기존 기사가 한꺼번에 알림으로 오지 않게 저장만 해요.

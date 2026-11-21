@@ -53,12 +53,21 @@ main{padding:22px max(5vw,16px) 48px}
 .item.fresh{animation:pop .6s ease-out}
 @keyframes pop{from{transform:translateY(-8px);opacity:0}}
 .tag{grid-row:span 2;align-self:start;text-align:center;font-weight:700;font-size:14px;border-radius:8px;padding:6px 0;color:#fff}
-.tabs{display:grid;grid-template-columns:1fr 1fr;gap:6px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px;margin-bottom:16px}
+.tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px;margin-bottom:16px}
 .tabs button{min-height:46px;border:0;border-radius:10px;background:transparent;color:var(--mute);font-weight:700;font-size:16px;cursor:pointer}
 .tabs button[aria-selected=true]{background:var(--gold);color:var(--goldInk)}
 .tabs button span{font:500 13px Oswald,sans-serif;margin-left:6px;opacity:.75}
 .tabs button:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
 [hidden]{display:none!important}
+.match{background:linear-gradient(135deg,#0d2a5c,#121212 70%);border:1px solid #1b5fd1;border-radius:16px;padding:20px 22px;margin-bottom:16px;display:grid;gap:6px}
+.match .comp{font-size:13px;color:#9fb6e6}
+.match .vs{font:400 clamp(24px,3.4vw,34px)/1.15 "Black Han Sans",sans-serif;color:#fff}
+.match .vs em{font-style:normal;color:var(--gold);margin:0 .35em;font-family:Oswald,sans-serif;font-size:.7em;vertical-align:.12em}
+.match .when{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;font-size:15px;color:#e6eeff}
+.match .dday{background:var(--gold);color:var(--goldInk);font:700 14px/1 Oswald,sans-serif;padding:6px 10px;border-radius:6px}
+.match .live{background:#e03b3e;color:#fff}
+.match .hint{font-size:13px;color:#9fb6e6}
+.t-라인업·팀뉴스{background:#1b5fd1}.t-도발·발언{background:#e03b3e}.t-상대{background:#262626;color:#bdbdbd}
 .t-none{background:#262626;color:#bdbdbd}
 .t-이적{background:#1b5fd1}.t-오피셜{background:var(--gold);color:var(--goldInk)}.t-부상{background:#e03b3e}.t-인터뷰{background:#1f9d55}.t-프리뷰{background:#3a3a3a;color:#fff;box-shadow:inset 0 0 0 1.5px #8a8a8a}
 .ttl{font-weight:700;font-size:17px;line-height:1.4}
@@ -107,10 +116,13 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
     <div class="tabs" id="tabs" role="tablist">
       <button type="button" role="tab" data-view="kw" aria-selected="true">키워드 뉴스<span id="nKw"></span></button>
       <button type="button" role="tab" data-view="all" aria-selected="false">전체 뉴스<span id="nAll"></span></button>
+      <button type="button" role="tab" data-view="opp" aria-selected="false">이번 상대<span id="nOpp"></span></button>
     </div>
+    <section class="match" id="matchCard" hidden></section>
     <div class="bar">
       <div class="chips" id="catChips" role="group" aria-label="키워드 분류"></div>
       <div class="chips" id="srcChips" role="group" aria-label="출처"></div>
+      <div class="chips" id="oppChips" role="group" aria-label="상대 뉴스 분류" hidden></div>
       <input class="search" id="q" type="search" placeholder="선수 이름, 단어로 찾기 (한국어·영어)" aria-label="뉴스 검색">
     </div>
     <div class="listhead"><span>최신순</span><button class="link" id="readAll" type="button" hidden>모두 읽음으로 표시</button></div>
@@ -154,13 +166,15 @@ function classify(title, source){
 const min = 60000, PAGE = 60;
 
 let items = [];
+let match = null, otag = "전체";
+const OPP_TAGS = ["라인업·팀뉴스","도발·발언","상대 소식"];
 let loaded = false;
 let cat = "전체", src = "전체", query = "", view = "kw", limit = PAGE;
 const store = {
   get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : v; } catch(e) { return d; } },
   set(k, v){ try { localStorage.setItem(k, v); } catch(e) {} }
 };
-if (store.get("cs_view", "kw") === "all") view = "all";
+view = ["kw","all","opp"].includes(store.get("cs_view","kw")) ? store.get("cs_view","kw") : "kw";
 let seen = new Set();
 try { seen = new Set(JSON.parse(store.get("cs_seen", "[]"))); } catch(e) {}
 function saveSeen(){ store.set("cs_seen", JSON.stringify([...seen].slice(-500))); }
@@ -194,7 +208,13 @@ function chips(){
   const kw = kwItems();
   const counts = {전체: kw.length};
   ORDER.forEach(c => counts[c] = kw.filter(x => x.cat === c).length);
-  $("catChips").hidden = view === "all";
+  $("catChips").hidden = view !== "kw";
+  $("srcChips").hidden = view === "opp";
+  $("oppChips").hidden = view !== "opp";
+  const oi = match?.items || [];
+  $("nOpp").textContent = oi.length || "";
+  $("oppChips").innerHTML = ["전체", ...OPP_TAGS].map(t =>
+    `<button class="chip" type="button" data-otag="${t}" aria-pressed="${t===otag}">${t}<span class="n">${t==="전체" ? oi.length : oi.filter(x => x.tag === t).length}</span></button>`).join("");
   document.querySelectorAll("#tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.view === view));
   $("nKw").textContent = kw.length;
   $("nAll").textContent = items.length;
@@ -207,16 +227,18 @@ function chips(){
 function render(){
   chips();
   const q = query.trim().toLowerCase();
-  const pool = view === "kw" ? kwItems() : items;
+  renderMatch();
+  const pool = view === "kw" ? kwItems() : view === "opp" ? (match?.items || []) : items;
   const shown = pool.filter(x =>
-    (view === "all" || cat === "전체" || x.cat === cat) &&
-    (src === "전체" || groupOf(x) === src) &&
+    (view !== "kw" || cat === "전체" || x.cat === cat) &&
+    (view === "opp" ? (otag === "전체" || x.tag === otag) : (src === "전체" || groupOf(x) === src)) &&
     (!q || (x.title + " " + (x.titleKo || "") + " " + x.source).toLowerCase().includes(q)));
   const page = shown.slice(0, limit);
   $("list").innerHTML = !loaded ? `<div class="empty">뉴스를 불러오는 중이에요…</div>`
+    : view === "opp" && !match ? `<div class="empty">다음 경기 정보를 아직 못 가져왔어요. 다음 자동 수집 때 다시 확인해요.</div>`
     : shown.length ? page.map(x => `
     <a class="item" data-id="${esc(x.id)}" href="${esc(x.link)}" target="_blank" rel="noopener">
-      <span class="tag t-${x.cat || "none"}">${x.cat ? lab(x.cat) : "뉴스"}</span>
+      ${view === "opp" ? `<span class="tag t-${x.tag === "상대 소식" ? "상대" : x.tag}">${x.tag}</span>` : `<span class="tag t-${x.cat || "none"}">${x.cat ? lab(x.cat) : "뉴스"}</span>`}
       <span class="ttl">${isNew(x) ? '<span class="new">NEW</span>' : ""}${esc(x.titleKo || x.title)}${x.titleKo && x.titleKo !== x.title ? `<span class="en">${esc(x.title)}</span>` : ""}</span>
       <span class="meta"><span class="src">${esc(x.source)}</span><span title="${new Date(x.date).toLocaleString("ko-KR")}">${ago(x.date)}</span></span>
     </a>`).join("") : `<div class="empty">조건에 맞는 뉴스가 없어요. 필터나 검색어를 바꿔 보세요.</div>`;
@@ -228,6 +250,30 @@ function render(){
   $("countInfo").textContent = `새 기사 ${newCount}건 · 키워드 뉴스 ${kwItems().length}건 · 전체 뉴스 ${items.length}건`;
   $("readAll").hidden = newCount === 0;
   document.title = (newCount ? `(${newCount}) ` : "") + "CHELSTREET 뉴스 알림";
+}
+
+const KO = {"Premier League":"프리미어리그","Champions League":"챔피언스리그","UEFA Champions League":"챔피언스리그","Europa League":"유로파리그","UEFA Europa League":"유로파리그","Conference League":"컨퍼런스리그","UEFA Conference League":"컨퍼런스리그","FA Cup":"FA컵","Carabao Cup":"카라바오컵","EFL Cup":"카라바오컵","Community Shield":"커뮤니티 실드"};
+function renderMatch(){
+  const el = $("matchCard");
+  if (view !== "opp" || !match){ el.hidden = true; return; }
+  el.hidden = false;
+  const name = match.opponentKo ? `${match.opponentKo}` : match.opponent;
+  const left = match.home ? "첼시" : name, right = match.home ? name : "첼시";
+  let when = "시간 미정", dday = "";
+  if (match.kickoff){
+    const k = new Date(match.kickoff);
+    when = k.toLocaleString("ko-KR",{month:"long",day:"numeric",weekday:"short",hour:"2-digit",minute:"2-digit"}) + " (한국시간)";
+    const diff = match.kickoff - Date.now();
+    if (match.state === "in" || (diff <= 0 && diff > -2.5*3600e3)) dday = '<span class="dday live">경기 중</span>';
+    else if (diff > 0){
+      const h = Math.floor(diff/3600e3), d = Math.floor(h/24);
+      dday = `<span class="dday">${d >= 1 ? `D-${d} · ${h%24}시간 남음` : h >= 1 ? `${h}시간 ${Math.floor(diff/60000)%60}분 남음` : `${Math.max(1,Math.floor(diff/60000))}분 남음`}</span>`;
+    }
+  }
+  el.innerHTML = `<span class="comp">${esc(KO[match.competition] || match.competition)} · ${match.home ? "홈 (스탬퍼드 브리지)" : "원정"}</span>
+    <span class="vs">${esc(left)}<em>VS</em>${esc(right)}</span>
+    <span class="when">${dday}<span>${esc(when)}</span></span>
+    <span class="hint">${esc(match.opponent)} 관련 최근 7일 뉴스예요. 경기가 끝나면 다음 상대로 자동으로 바뀌어요.</span>`;
 }
 
 let toastLink = "";
@@ -270,7 +316,7 @@ async function load(){
         desktopNotify(`CHELSTREET · 새 뉴스 ${added.length}건`, added.slice(0,3).map(x => `[${lab(x.cat)}] ${x.titleKo || x.title}`).join("\n"), added[0].link);
       }
     }
-    items = fresh; loaded = true; failCount = 0;
+    items = fresh; match = data.match || null; loaded = true; failCount = 0;
     const stale = data.updated && Date.now() - data.updated > 90*min;
     $("checked").textContent = data.updated
       ? "마지막 확인 " + new Date(data.updated).toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}) + (stale ? " · 자동 수집이 늦어지고 있어요" : "")
@@ -294,6 +340,7 @@ $("tabs").addEventListener("click", e => {
 $("catChips").addEventListener("click", e => { const b = e.target.closest("[data-cat]"); if (b){ cat = b.dataset.cat; limit = PAGE; render(); } });
 $("srcChips").addEventListener("click", e => { const b = e.target.closest("[data-src]"); if (b){ src = b.dataset.src; limit = PAGE; render(); } });
 $("q").addEventListener("input", e => { query = e.target.value; limit = PAGE; render(); });
+$("oppChips").addEventListener("click", e => { const b = e.target.closest("[data-otag]"); if (b){ otag = b.dataset.otag; limit = PAGE; render(); } });
 $("more").addEventListener("click", () => { limit += PAGE; render(); });
 $("list").addEventListener("click", e => {
   const a = e.target.closest(".item"); if (!a) return;
