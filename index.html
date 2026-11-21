@@ -59,6 +59,20 @@ main{padding:22px max(5vw,16px) 48px}
 .tabs button span{font:500 13px Oswald,sans-serif;margin-left:6px;opacity:.75}
 .tabs button:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
 [hidden]{display:none!important}
+.tw{margin-bottom:16px}
+.twtop{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-bottom:14px}
+.twbig{display:flex;flex-direction:column;justify-content:center;min-height:64px;padding:12px 18px;border-radius:14px;background:var(--gold);color:var(--goldInk);font-weight:700;font-size:17px;text-decoration:none}
+.twbig small{font-weight:500;font-size:13px;opacity:.75}
+.twbig.ghost{background:var(--card);color:var(--ink);border:1.5px solid var(--line)}
+.twbig:hover{filter:brightness(1.08)}
+.twgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px;margin-bottom:12px}
+.twc{display:grid;grid-template-columns:44px minmax(0,1fr);gap:2px 12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;text-decoration:none;color:var(--ink)}
+.twc:hover{border-color:#fff}
+.twc .av{grid-row:span 3;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:#1b5fd1;color:#fff;font:700 16px Oswald,sans-serif}
+.twc.club .av{background:var(--gold);color:var(--goldInk)}
+.twc b{font-size:16px}
+.twc .h{font-size:13px;color:var(--mute)}
+.twc .r{font-size:12px;color:var(--gold)}
 .match{background:linear-gradient(135deg,#0d2a5c,#121212 70%);border:1px solid #1b5fd1;border-radius:16px;padding:20px 22px;margin-bottom:16px;display:grid;gap:6px}
 .match .comp{font-size:13px;color:#9fb6e6}
 .match .vs{font:400 clamp(24px,3.4vw,34px)/1.15 "Black Han Sans",sans-serif;color:#fff}
@@ -116,16 +130,22 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
     <div class="tabs" id="tabs" role="tablist">
       <button type="button" role="tab" data-view="kw" aria-selected="true">키워드 뉴스<span id="nKw"></span></button>
       <button type="button" role="tab" data-view="all" aria-selected="false">전체 뉴스<span id="nAll"></span></button>
-      <button type="button" role="tab" data-view="rep" aria-selected="false">기자 소식<span id="nRep"></span></button>
+      <button type="button" role="tab" data-view="tw" aria-selected="false">트위터</button>
       <button type="button" role="tab" data-view="opp" aria-selected="false">이번 상대<span id="nOpp"></span></button>
     </div>
     <section class="match" id="matchCard" hidden></section>
+    <section class="tw" id="twPanel" hidden>
+      <div class="twtop">
+        <a class="twbig" id="twLive" target="_blank" rel="noopener">기자들의 첼시 글 한 번에 보기<small>X 검색 · 최신순</small></a>
+        <a class="twbig ghost" id="twAll" target="_blank" rel="noopener">기자들 글 전체 보기<small>첼시 외 글 포함 · 최신순</small></a>
+      </div>
+      <div class="twgrid" id="twGrid"></div>
+      <p class="note">누르면 X(트위터)가 새 탭으로 열려요. X에 로그인돼 있어야 글이 보여요. 중요한 기자는 프로필의 🔔를 눌러 알림을 켜 두면 글이 올라오자마자 알 수 있어요.</p>
+    </section>
     <div class="bar">
       <div class="chips" id="catChips" role="group" aria-label="키워드 분류"></div>
       <div class="chips" id="srcChips" role="group" aria-label="출처"></div>
       <div class="chips" id="oppChips" role="group" aria-label="상대 뉴스 분류" hidden></div>
-      <div class="chips" id="repChips" role="group" aria-label="기자" hidden></div>
-      <p class="note" id="repNote" hidden>첼시 담당·이적 전문 기자가 전한 소식이에요. 기자들의 X(트위터) 글을 옮긴 기사를 모아서, 보통 X에 올라오고 수십 분 안에 들어와요. 출처가 확실하지 않은 보도도 있으니 공식 발표와 구분해서 보세요.</p>
       <input class="search" id="q" type="search" placeholder="선수 이름, 단어로 찾기 (한국어·영어)" aria-label="뉴스 검색">
     </div>
     <div class="listhead"><span>최신순</span><button class="link" id="readAll" type="button" hidden>모두 읽음으로 표시</button></div>
@@ -169,7 +189,7 @@ function classify(title, source){
 const min = 60000, PAGE = 60;
 
 let items = [];
-let match = null, otag = "전체", reporters = [], rtag = "전체";
+let match = null, otag = "전체";
 const OPP_TAGS = ["라인업·팀뉴스","도발·발언","상대 소식"];
 let loaded = false;
 let cat = "전체", src = "전체", query = "", view = "kw", limit = PAGE;
@@ -177,7 +197,7 @@ const store = {
   get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : v; } catch(e) { return d; } },
   set(k, v){ try { localStorage.setItem(k, v); } catch(e) {} }
 };
-view = ["kw","all","opp","rep"].includes(store.get("cs_view","kw")) ? store.get("cs_view","kw") : "kw";
+view = ["kw","all","opp","tw"].includes(store.get("cs_view","kw")) ? store.get("cs_view","kw") : "kw";
 let seen = new Set();
 try { seen = new Set(JSON.parse(store.get("cs_seen", "[]"))); } catch(e) {}
 function saveSeen(){ store.set("cs_seen", JSON.stringify([...seen].slice(-500))); }
@@ -212,13 +232,12 @@ function chips(){
   const counts = {전체: kw.length};
   ORDER.forEach(c => counts[c] = kw.filter(x => x.cat === c).length);
   $("catChips").hidden = view !== "kw";
-  $("srcChips").hidden = view === "opp" || view === "rep";
-  $("repChips").hidden = view !== "rep";
-  $("repNote").hidden = view !== "rep";
-  $("nRep").textContent = reporters.length || "";
-  const rc = {}; reporters.forEach(x => rc[x.reporter] = (rc[x.reporter] || 0) + 1);
-  $("repChips").innerHTML = ["전체", ...Object.keys(rc).sort((a,b) => rc[b]-rc[a])].map(t =>
-    `<button class="chip" type="button" data-rtag="${esc(t)}" aria-pressed="${t===rtag}">${esc(t)}<span class="n">${t==="전체" ? reporters.length : rc[t]}</span></button>`).join("");
+  $("srcChips").hidden = view === "opp";
+  const isTw = view === "tw";
+  $("twPanel").hidden = !isTw;
+  document.querySelector(".bar").hidden = isTw;
+  document.querySelector(".listhead").hidden = isTw;
+  $("list").hidden = isTw;
   $("oppChips").hidden = view !== "opp";
   const oi = match?.items || [];
   $("nOpp").textContent = oi.length || "";
@@ -237,19 +256,19 @@ function render(){
   chips();
   const q = query.trim().toLowerCase();
   renderMatch();
-  const pool = view === "kw" ? kwItems() : view === "opp" ? (match?.items || []) : view === "rep" ? reporters : items;
+  const pool = view === "kw" ? kwItems() : view === "opp" ? (match?.items || []) : view === "tw" ? [] : items;
   const shown = pool.filter(x =>
     (view !== "kw" || cat === "전체" || x.cat === cat) &&
-    (view === "opp" ? (otag === "전체" || x.tag === otag) : view === "rep" ? (rtag === "전체" || x.reporter === rtag) : (src === "전체" || groupOf(x) === src)) &&
+    (view === "opp" ? (otag === "전체" || x.tag === otag) : (src === "전체" || groupOf(x) === src)) &&
     (!q || (x.title + " " + (x.titleKo || "") + " " + x.source).toLowerCase().includes(q)));
   const page = shown.slice(0, limit);
   $("list").innerHTML = !loaded ? `<div class="empty">뉴스를 불러오는 중이에요…</div>`
     : view === "opp" && !match ? `<div class="empty">다음 경기 정보를 아직 못 가져왔어요. 다음 자동 수집 때 다시 확인해요.</div>`
     : shown.length ? page.map(x => `
     <a class="item" data-id="${esc(x.id)}" href="${esc(x.link)}" target="_blank" rel="noopener">
-      ${view === "opp" ? `<span class="tag t-${x.tag === "상대 소식" ? "상대" : x.tag}">${x.tag}</span>` : `<span class="tag t-${x.cat || "none"}">${x.cat ? lab(x.cat) : x.reporter ? "기자" : "뉴스"}</span>`}
+      ${view === "opp" ? `<span class="tag t-${x.tag === "상대 소식" ? "상대" : x.tag}">${x.tag}</span>` : `<span class="tag t-${x.cat || "none"}">${x.cat ? lab(x.cat) : "뉴스"}</span>`}
       <span class="ttl">${isNew(x) ? '<span class="new">NEW</span>' : ""}${esc(x.titleKo || x.title)}${x.titleKo && x.titleKo !== x.title ? `<span class="en">${esc(x.title)}</span>` : ""}</span>
-      <span class="meta">${x.reporter ? `<span class="src" style="color:var(--gold)">${esc(x.reporter)}</span>` : ""}<span class="src">${esc(x.source)}</span><span title="${new Date(x.date).toLocaleString("ko-KR")}">${ago(x.date)}</span></span>
+      <span class="meta"><span class="src">${esc(x.source)}</span><span title="${new Date(x.date).toLocaleString("ko-KR")}">${ago(x.date)}</span></span>
     </a>`).join("") : `<div class="empty">조건에 맞는 뉴스가 없어요. 필터나 검색어를 바꿔 보세요.</div>`;
   $("more").hidden = shown.length <= limit;
   $("more").textContent = `더 보기 (${shown.length - limit}건 남음)`;
@@ -318,15 +337,14 @@ async function load(){
     const fresh = prepare(data.items || []);
     if (loaded){
       const known = new Set(items.map(x => x.id));
-      const knownR = new Set(reporters.map(x => x.id));
-      const added = [...fresh.filter(x => x.cat && !known.has(x.id)), ...(data.reporters || []).filter(x => !x.cat && !knownR.has(x.id) && !known.has(x.id)).map(x => ({...x, cat: "기자", source: `${x.reporter} · ${x.source}`}))];
+      const added = fresh.filter(x => x.cat && !known.has(x.id));
       if (added.length === 1) notify(added[0]);
       else if (added.length > 1){
         toast(`새 키워드 뉴스 ${added.length}건`, added[0].titleKo || added[0].title, added[0].link);
         desktopNotify(`CHELSTREET · 새 뉴스 ${added.length}건`, added.slice(0,3).map(x => `[${lab(x.cat)}] ${x.titleKo || x.title}`).join("\n"), added[0].link);
       }
     }
-    items = fresh; match = data.match || null; reporters = (data.reporters || []).sort((a,b) => b.date - a.date); loaded = true; failCount = 0;
+    items = fresh; match = data.match || null; loaded = true; failCount = 0;
     const stale = data.updated && Date.now() - data.updated > 90*min;
     $("checked").textContent = data.updated
       ? "마지막 확인 " + new Date(data.updated).toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}) + (stale ? " · 자동 수집이 늦어지고 있어요" : "")
@@ -350,7 +368,6 @@ $("tabs").addEventListener("click", e => {
 $("catChips").addEventListener("click", e => { const b = e.target.closest("[data-cat]"); if (b){ cat = b.dataset.cat; limit = PAGE; render(); } });
 $("srcChips").addEventListener("click", e => { const b = e.target.closest("[data-src]"); if (b){ src = b.dataset.src; limit = PAGE; render(); } });
 $("q").addEventListener("input", e => { query = e.target.value; limit = PAGE; render(); });
-$("repChips").addEventListener("click", e => { const b = e.target.closest("[data-rtag]"); if (b){ rtag = b.dataset.rtag; limit = PAGE; render(); } });
 $("oppChips").addEventListener("click", e => { const b = e.target.closest("[data-otag]"); if (b){ otag = b.dataset.otag; limit = PAGE; render(); } });
 $("more").addEventListener("click", () => { limit += PAGE; render(); });
 $("list").addEventListener("click", e => {
@@ -394,6 +411,30 @@ $("notifyBtn").addEventListener("click", async () => {
   }
 });
 notifyState();
+
+// 트위터 탭: 첼시 담당·이적 전문 기자 X 계정 (2026년 11월 확인)
+const X_ACCOUNTS = [
+  {ko:"첼시 공식", en:"Chelsea FC", h:"ChelseaFC", r:"구단 공식", club:true},
+  {ko:"파브리지오 로마노", en:"Fabrizio Romano", h:"FabrizioRomano", r:"이적 전문"},
+  {ko:"데이비드 온스테인", en:"David Ornstein", h:"David_Ornstein", r:"디 애슬레틱 · 이적"},
+  {ko:"사이먼 존슨", en:"Simon Johnson", h:"SJohnsonSport", r:"디 애슬레틱 · 첼시 담당"},
+  {ko:"리암 투미", en:"Liam Twomey", h:"liam_twomey", r:"디 애슬레틱 · 첼시 담당"},
+  {ko:"키어런 길", en:"Kieran Gill", h:"kierangill_DM", r:"데일리메일 · 첼시 담당"},
+  {ko:"맷 로", en:"Matt Law", h:"Matt_Law_DT", r:"텔레그래프 · 첼시 담당"},
+  {ko:"니자르 킨셀라", en:"Nizaar Kinsella", h:"NizaarKinsella", r:"BBC · 첼시 담당"},
+  {ko:"사미 목벨", en:"Sami Mokbel", h:"SamiMokbel_BBC", r:"BBC · 이적"},
+  {ko:"벤 제이콥스", en:"Ben Jacobs", h:"JacobsBen", r:"이적 전문"},
+  {ko:"플로리안 플레텐베르크", en:"Florian Plettenberg", h:"Plettigoal", r:"이적 전문"},
+  {ko:"그레임 베일리", en:"Graeme Bailey", h:"GraemeBailey", r:"이적 전문"},
+];
+$("twGrid").innerHTML = X_ACCOUNTS.map(a => `
+  <a class="twc${a.club ? " club" : ""}" href="https://x.com/${a.h}" target="_blank" rel="noopener">
+    <span class="av">${a.club ? "CFC" : esc(a.en.split(" ").map(w => w[0]).join("").slice(0,2))}</span>
+    <b>${esc(a.ko)}</b><span class="h">@${esc(a.h)}</span><span class="r">${esc(a.r)}</span>
+  </a>`).join("");
+const froms = X_ACCOUNTS.filter(a => !a.club).map(a => "from:" + a.h).join(" OR ");
+$("twLive").href = "https://x.com/search?f=live&q=" + encodeURIComponent(`(${froms}) (Chelsea OR CFC)`);
+$("twAll").href = "https://x.com/search?f=live&q=" + encodeURIComponent(`(${froms})`);
 
 $("kw").innerHTML = ORDER.map(c =>
   `<div><span class="tag t-${c}" style="display:inline-block;padding:2px 10px;margin-bottom:6px">${lab(c)}</span><br>${KEYWORDS[c].map(k=>`<code>${esc(k)}</code>`).join(" ")}</div>`).join("");

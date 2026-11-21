@@ -206,32 +206,6 @@ async function opponentNews(match) {
   return out;
 }
 
-// ───────── 기자 소식 ─────────
-// 첼시 담당·이적 전문 기자 이름이 들어간 첼시 기사를 모아요. (기자들의 X 원문은 못 가져오고, 그걸 옮긴 기사를 가져와요)
-const JOURNALISTS = [
-  { name: "파브리지오 로마노", en: "Fabrizio Romano", re: /romano|here we go|로마노/i },
-  { name: "데이비드 온스테인", en: "David Ornstein", re: /ornstein|온스테인|온스타인/i },
-  { name: "사이먼 존슨", en: "Simon Johnson", re: /simon johnson|사이먼 존슨/i },
-  { name: "리암 투미", en: "Liam Twomey", re: /twomey|투미/i },
-  { name: "키어런 길", en: "Kieran Gill", re: /kieran gill|키어런 길|키런 길/i },
-  { name: "맷 로", en: "Matt Law", re: /matt law\b|맷 로(?![가-힣])/i },
-  { name: "니자르 킨셀라", en: "Nizaar Kinsella", re: /kinsella|킨셀라/i },
-  { name: "벤 제이콥스", en: "Ben Jacobs", re: /ben jacobs|벤 제이콥스/i },
-  { name: "사미 목벨", en: "Sami Mokbel", re: /mokbel|목벨/i },
-  { name: "플로리안 플레텐베르크", en: "Florian Plettenberg", re: /plettenberg|플레텐베르크|플레텐베르그/i },
-  { name: "그레임 베일리", en: "Graeme Bailey", re: /graeme bailey|그레임 베일리/i },
-];
-const reporterOf = t => (JOURNALISTS.find(j => j.re.test(t)) || {}).name || null;
-async function reporterNews() {
-  const q = s => encodeURIComponent(s + " when:3d");
-  const half = Math.ceil(JOURNALISTS.length / 2);
-  const groups = [JOURNALISTS.slice(0, half), JOURNALISTS.slice(half)];
-  const urls = groups.map(g => `https://news.google.com/rss/search?q=${q(`Chelsea (${g.map(j => `"${j.en}"`).join(" OR ")}${g === groups[0] ? ' OR "here we go"' : ""})`)}&hl=en-GB&gl=GB&ceid=GB:en`);
-  urls.push(`https://news.google.com/rss/search?q=${q("첼시 (로마노 OR 온스테인 OR \"키어런 길\" OR \"사이먼 존슨\" OR 킨셀라 OR \"벤 제이콥스\" OR 플레텐베르크)")}&hl=ko&gl=KR&ceid=KR:ko`);
-  const res = await Promise.allSettled(urls.map(url => readFeed({ source: "구글뉴스", group: "기자", url, chelseaOnly: false, google: true })));
-  return res.flatMap(r => r.status === "fulfilled" ? r.value : []);
-}
-
 // 같은 기사가 여러 곳에서 올라오면 하나만 남기려고 제목을 단순하게 바꿔 비교해요.
 const norm = t => t.toLowerCase().replace(/[^a-z0-9가-힣]/g, "");
 const groupOf = s => (FEEDS.find(f => f.source === s) || {}).group || (s === "첼시 공식" ? OFF : UK);
@@ -271,31 +245,6 @@ for (const x of found) {
 fresh.sort((a, b) => b.date - a.date);
 
 const items = [...fresh, ...old.items].sort((a, b) => b.date - a.date).slice(0, MAX_ITEMS);
-const known0 = new Set([...old.items.map(x => x.id), ...(old.reporters || []).map(x => x.id)]);
-const freshReporter = [];
-
-// 기자 소식: 기자 이름이 들어간 기사 (전체 뉴스에 있는 것 + 따로 검색한 것)
-let reporters = (old.reporters || []);
-try {
-  const seenR = new Set(reporters.map(x => x.id)), seenRT = new Set(reporters.map(x => norm(x.title)));
-  const cand = [...items, ...(await reporterNews())];
-  let addR = 0;
-  for (const x of cand) {
-    const who = reporterOf(x.title);
-    if (!who) continue;
-    const id = x.id || x.link, key = norm(x.title);
-    if (seenR.has(id) || seenRT.has(key)) continue;
-    seenR.add(id); seenRT.add(key);
-    const it = { id, title: x.title, link: x.link, source: x.source, date: x.date, added: x.added || Date.now(), reporter: who, cat: x.cat || classify(x.title, x.source) };
-    if (x.titleKo) it.titleKo = x.titleKo; else if (HANGUL.test(x.title)) it.titleKo = x.title;
-    reporters.push(it); addR++;
-    if (!firstRun && !x.cat && !known0.has(id)) freshReporter.push(it);
-  }
-  reporters = reporters.map(x => ({ ...x, reporter: reporterOf(x.title) || x.reporter }))
-    .filter(x => x.date > Date.now() - 7 * 864e5).sort((a, b) => b.date - a.date).slice(0, 150);
-  stats["기자 소식"] = `새 기사 ${addR}건`;
-} catch (e) { stats["기자 소식"] = "실패: " + e.message; }
-console.log("기자 소식:", stats["기자 소식"]);
 
 // 이번 상대: 경기가 바뀌면 상대 뉴스도 새로 모아요.
 let match = old.match || null;
@@ -325,17 +274,17 @@ console.log("이번 상대:", stats["이번 상대"]);
 
 // 아직 한국어 제목이 없는 기사부터 번역해요. (이번 상대 뉴스 먼저)
 let translated = 0;
-for (const x of [...reporters, ...(match?.items || []), ...items].filter(x => !x.titleKo).slice(0, TRANSLATE_PER_RUN)) {
+for (const x of [...(match?.items || []), ...items].filter(x => !x.titleKo).slice(0, TRANSLATE_PER_RUN)) {
   try { x.titleKo = await translate(x.title); translated++; }
   catch (e) { console.log("번역 멈춤:", e.message); break; }
 }
 console.log(`번역 ${translated}건`);
-const koById = new Map([...items, ...reporters, ...(match?.items || [])].filter(x => x.titleKo).map(x => [x.id, x.titleKo]));
-for (const x of [...items, ...reporters, ...(match?.items || [])]) if (!x.titleKo && koById.has(x.id)) x.titleKo = koById.get(x.id);
+const koById = new Map([...items, ...(match?.items || [])].filter(x => x.titleKo).map(x => [x.id, x.titleKo]));
+for (const x of [...items, ...(match?.items || [])]) if (!x.titleKo && koById.has(x.id)) x.titleKo = koById.get(x.id);
 
-await writeFile("news.json", JSON.stringify({ updated: Date.now(), stats, match, reporters, items }, null, 1));
+await writeFile("news.json", JSON.stringify({ updated: Date.now(), stats, match, items }, null, 1));
 console.log(`새 뉴스 ${fresh.length}건`);
 
 // 처음 실행할 때는 기존 기사가 한꺼번에 알림으로 오지 않게 저장만 해요.
 // 알림은 키워드에 걸린 기사만 보내요. (전체 뉴스는 사이트에서만 보여요)
-if (!firstRun) for (const x of [...fresh.filter(x => x.cat), ...freshReporter].slice(0, MAX_ALERTS)) await notify({ ...x, cat: x.cat || "기자", source: x.reporter ? `${x.reporter} · ${x.source}` : x.source });
+if (!firstRun) for (const x of fresh.filter(x => x.cat).slice(0, MAX_ALERTS)) await notify(x);
