@@ -1,8 +1,8 @@
 {
- "updated": 1795300792707,
+ "updated": 1795303137523,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 5,
+  "Sky Sports": 4,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
@@ -12,7 +12,7 @@
   "Daily Mail": 7,
   "Telegraph": 6,
   "Independent": 4,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 14,
   "CaughtOffside": 2,
   "90min": 1,
@@ -21,7 +21,7 @@
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 23,
+  "구글뉴스(한국어)": 25,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -843,6 +843,28 @@
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySkp5dzJ5NUgzanRUcGlNZHEzdnVWZ1hfb2xvVzE2SWNpNF9yV0JhTjE1U1lpSEZLVHFlak9DOXJvYlF4UmNyUVA2dkUtMEpxcEVEU0JiTWJvM3hYdWfSAWNBVV95cUxPOHRvNndWMnA5V0pkSERLWF9sYW9oc0I3M2ZKaWNBU2ZmU09RYk1zZjEwVnZHa1lveHBSUlNFWEdzZ0sxRk93RC1yNlFVSVhKM2o1Q1BDNUE5eTFLcmFKYVBmX28?oc=5",
+   "title": "‘3연패 충격’ 첼시, 리즈에 안방서 1-4 참패···알론소 감독 “선수단 정신적으로 취약한 상태”",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySkp5dzJ5NUgzanRUcGlNZHEzdnVWZ1hfb2xvVzE2SWNpNF9yV0JhTjE1U1lpSEZLVHFlak9DOXJvYlF4UmNyUVA2dkUtMEpxcEVEU0JiTWJvM3hYdWfSAWNBVV95cUxPOHRvNndWMnA5V0pkSERLWF9sYW9oc0I3M2ZKaWNBU2ZmU09RYk1zZjEwVnZHa1lveHBSUlNFWEdzZ0sxRk93RC1yNlFVSVhKM2o1Q1BDNUE5eTFLcmFKYVBmX28?oc=5",
+   "source": "스포츠경향",
+   "group": "한국 언론",
+   "date": 1795302540000,
+   "added": 1795303135965,
+   "cat": null,
+   "titleKo": "‘3연패 충격’ 첼시, 리즈에 안방서 1-4 참패···알론소 감독 “선수단 정신적으로 취약한 상태”"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fcUZpcWxpWGplU1NPajg0d2VJS1gtTWw2X1FIV0VTNVNZV0ZwN0QxaDlNcEVjdk5kNW9FUVppTjNNVVF5Nk5nR0NGZw?oc=5",
+   "title": "1999년 이후 처음 웃은 리즈, 첼시 원정서 4-1 승리…첼시 안방서 4골 허용 : 스포츠",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fcUZpcWxpWGplU1NPajg0d2VJS1gtTWw2X1FIV0VTNVNZV0ZwN0QxaDlNcEVjdk5kNW9FUVppTjNNVVF5Nk5nR0NGZw?oc=5",
+   "source": "재경일보",
+   "group": "한국 언론",
+   "date": 1795300260000,
+   "added": 1795303135965,
+   "cat": null,
+   "titleKo": "1999년 이후 처음 웃은 리즈, 첼시 원정서 4-1 승리…첼시 안방서 4골 허용 : 스포츠"
+  },
   {
    "id": "https://www.thesun.co.uk/sport/41103845/leeds-stars-party-luke-littler-chelsea-win/",
    "title": "Leeds stars celebrate epic Chelsea win with Luke Littler-inspired party as away dressing room goes wild",
@@ -4174,28 +4196,6 @@
    "added": 1795221030969,
    "cat": "오피셜",
    "titleKo": "앤드루 페니, 첫 프로 계약 체결"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news-now/palmer-rogers-lead-premier-league-combined-stat/",
-   "title": "Palmer and Rogers lead Premier League in combined stat – but still wait for first mutual assist",
-   "link": "https://www.talkchelsea.net/news-now/palmer-rogers-lead-premier-league-combined-stat/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795111200000,
-   "cat": null,
-   "titleKo": "팔머와 로저스가 합산 기록에서 프리미어리그 선두를 달리고 있지만, 여전히 첫 번째 상호 어시스트를 기다리고 있습니다.",
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Getty-Images-3-414x276.jpg"
-  },
-  {
-   "id": "https://www.talkchelsea.net/transfers/source-chelsea-cb-sights-very-high/",
-   "title": "Source claims Chelsea want January centre back – and have set their sights way too high",
-   "link": "https://www.talkchelsea.net/transfers/source-chelsea-cb-sights-very-high/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795111200000,
-   "cat": null,
-   "titleKo": "첼시가 1월 이적 시장에서 센터백을 영입하고자 하며, 지나치게 높은 목표를 세웠다는 소식통의 주장",
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Alessandro-Bastoni-playing-for-Inter-414x278.jpg"
   }
  ]
 }
