@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CHELSTREET · 디자인 초안 (쇼핑몰형)</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=Oswald:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{--blue:#034694;--blue2:#1b5fd1;--gold:#f5c400;--ink:#111;--mute:#6b7280;--line:#e5e7eb;--bg:#f5f6f8}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;font-family:"Noto Sans KR",sans-serif;color:var(--ink);background:var(--bg)}
+a{color:inherit;text-decoration:none}
+button{font:inherit;cursor:pointer}
+.wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+.draft{background:#111;color:#fff;font-size:13px;text-align:center;padding:6px}
+
+/* header */
+.hd{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}
+.hd .wrap{display:flex;align-items:center;gap:20px;height:76px}
+.logo{display:flex;align-items:center;gap:10px}
+.logo img{height:52px;width:auto;border-radius:6px;background:#000}
+.logo b{font:700 22px Oswald,sans-serif;letter-spacing:1px}
+.search{flex:1;max-width:460px;margin-left:24px;display:flex;align-items:center;border:2px solid var(--blue);border-radius:999px;padding:0 6px 0 18px;height:46px;background:#fff}
+.search input{flex:1;border:0;outline:0;font:inherit;font-size:15px}
+.search button{border:0;background:var(--blue);color:#fff;border-radius:999px;height:36px;padding:0 16px;font-weight:700}
+.insta{margin-left:auto;display:flex;align-items:center;gap:8px;font-weight:700;font-size:14px;padding:10px 16px;border-radius:999px;background:var(--gold);color:#1a1400}
+.menu{background:#fff;border-bottom:1px solid var(--line)}
+.menu .wrap{display:flex;gap:4px;height:48px;align-items:stretch;overflow-x:auto}
+.menu a{display:flex;align-items:center;padding:0 16px;font-weight:700;font-size:15px;color:#374151;border-bottom:3px solid transparent;white-space:nowrap}
+.menu a.on{color:var(--blue);border-color:var(--blue)}
+
+/* hero */
+.hero{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:16px;margin:24px auto}
+.banner{position:relative;border-radius:18px;overflow:hidden;min-height:300px;color:#fff;display:flex;flex-direction:column;justify-content:flex-end;padding:32px;background:linear-gradient(135deg,#034694 0%,#0a2a5c 60%,#000 100%)}
+.banner .ph{position:absolute;inset:0;display:grid;place-items:center;color:rgba(255,255,255,.18);font-size:15px;font-weight:700}
+.banner .tag{position:relative;align-self:flex-start;background:#e03b3e;padding:5px 12px;border-radius:999px;font-size:13px;font-weight:700}
+.banner h2{position:relative;margin:12px 0 8px;font-size:32px;line-height:1.25;font-weight:900;max-width:720px}
+.banner p{position:relative;margin:0;font-size:14px;opacity:.8}
+.banner .go{position:relative;margin-top:18px;align-self:flex-start;background:#fff;color:var(--blue);font-weight:700;padding:10px 18px;border-radius:999px}
+.match{border-radius:18px;background:var(--gold);color:#1a1400;padding:26px;display:flex;flex-direction:column;gap:6px}
+.match small{font-weight:700;font-size:13px}
+.match .vs{font-size:34px;font-weight:900;line-height:1.15}
+.match .when{font-weight:700}
+.match .left{margin-top:auto;font:700 30px Oswald,sans-serif}
+.match a{font-weight:700;text-decoration:underline}
+
+/* category tiles */
+.sec-title{display:flex;align-items:baseline;gap:10px;margin:36px 0 14px}
+.sec-title h3{margin:0;font-size:22px;font-weight:900}
+.sec-title span{color:var(--mute);font-size:14px}
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.tile{background:#fff;border-radius:18px;overflow:hidden;border:1px solid var(--line);display:flex;flex-direction:column;transition:transform .15s,box-shadow .15s}
+.tile:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(0,0,0,.12)}
+.tile .img{aspect-ratio:4/3;position:relative;display:grid;place-items:center;color:#fff;font-weight:700;font-size:14px;text-align:center}
+.tile .img em{font-style:normal;font-size:12px;opacity:.75;display:block;margin-top:4px}
+.tile .img .cnt{position:absolute;top:12px;left:12px;background:rgba(0,0,0,.55);padding:4px 10px;border-radius:999px;font-size:12px}
+.tile .body{padding:16px 18px 18px;display:flex;flex-direction:column;gap:4px}
+.tile b{font-size:19px;font-weight:900}
+.tile p{margin:0;color:var(--mute);font-size:14px}
+.tile .more{margin-top:8px;color:var(--blue);font-weight:700;font-size:14px}
+
+/* product-like news rail */
+.rail{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}
+.nc{background:#fff;border-radius:14px;overflow:hidden;border:1px solid var(--line);display:flex;flex-direction:column}
+.nc .thumb{aspect-ratio:16/10;display:grid;place-items:center;color:#fff;font:700 22px Oswald,sans-serif}
+.nc .b{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.nc .badge{align-self:flex-start;font-size:11px;font-weight:700;color:#fff;padding:3px 8px;border-radius:4px}
+.nc .t{font-size:14px;font-weight:700;line-height:1.45;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.nc small{margin-top:auto;color:var(--mute);font-size:12px}
+
+/* list view */
+.page{display:none}.page.on{display:block}
+.crumb{margin:24px 0 8px;font-size:14px;color:var(--mute)}
+.crumb a{color:var(--blue);font-weight:700}
+.page h2{margin:0 0 16px;font-size:28px;font-weight:900}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+.chip{border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:8px 14px;font-weight:700;font-size:14px}
+.chip.on{background:var(--blue);border-color:var(--blue);color:#fff}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.twg{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.twc{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;gap:12px;align-items:center}
+.twc .av{width:44px;height:44px;border-radius:50%;background:var(--blue);color:#fff;display:grid;place-items:center;font:700 15px Oswald,sans-serif;flex:none}
+.twc small{display:block;color:var(--mute)}
+.morebtn{display:block;margin:20px auto 0;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:12px 28px;font-weight:700}
+footer{margin-top:60px;padding:30px 0;background:#111;color:#9ca3af;font-size:13px}
+footer .wrap{display:flex;align-items:center;gap:14px}
+footer img{height:40px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.tiles,.grid,.twg{grid-template-columns:repeat(2,minmax(0,1fr))}.rail{grid-template-columns:repeat(2,minmax(0,1fr))}.search{display:none}}
+</style>
+</head>
+<body>
+<div class="draft">디자인 초안 · 사진 칸은 나중에 원하는 사진으로 바꿔요 · 뉴스는 실제 사이트와 같아요</div>
+
+<header class="hd">
+  <div class="wrap">
+    <a class="logo" href="#home"><img src="logo.png" alt="CHELSTREET 로고"><b>CHELSTREET</b></a>
+    <label class="search"><input id="q" type="search" placeholder="선수, 팀, 키워드로 뉴스 찾기"><button type="button" id="qBtn">검색</button></label>
+    <a class="insta" href="https://www.instagram.com/chelstreet__/" target="_blank" rel="noopener">@chelstreet__ 팔로우</a>
+  </div>
+</header>
+<nav class="menu"><div class="wrap" id="menu">
+  <a href="#home" data-v="home">홈</a>
+  <a href="#kw" data-v="kw">키워드 뉴스</a>
+  <a href="#all" data-v="all">전체 뉴스</a>
+  <a href="#opp" data-v="opp">이번 상대</a>
+  <a href="#tw" data-v="tw">트위터</a>
+</div></nav>
+
+<main class="wrap">
+  <!-- 홈 -->
+  <section class="page" id="p-home">
+    <div class="hero">
+      <a class="banner" id="banner" target="_blank" rel="noopener">
+        <span class="ph">메인 배너 사진 자리</span>
+        <span class="tag" id="bTag">속보</span>
+        <h2 id="bTitle">불러오는 중…</h2>
+        <p id="bSrc"></p>
+        <span class="go">기사 보기 →</span>
+      </a>
+      <div class="match" id="matchBox">
+        <small id="mComp">다음 경기</small>
+        <span class="vs" id="mVs">—</span>
+        <span class="when" id="mWhen"></span>
+        <span class="left" id="mLeft"></span>
+        <a href="#opp">상대팀 뉴스 보기 →</a>
+      </div>
+    </div>
+
+    <div class="sec-title"><h3>카테고리</h3><span>원하는 칸을 눌러 보세요</span></div>
+    <div class="tiles">
+      <a class="tile" href="#kw"><div class="img" style="background:linear-gradient(135deg,#1b5fd1,#034694)"><span class="cnt" id="cKw"></span>사진 자리<em>키워드 뉴스</em></div><div class="body"><b>키워드 뉴스</b><p>오피셜 · 부상 · 이적 · 인터뷰</p><span class="more">바로가기 →</span></div></a>
+      <a class="tile" href="#all"><div class="img" style="background:linear-gradient(135deg,#374151,#111)"><span class="cnt" id="cAll"></span>사진 자리<em>전체 뉴스</em></div><div class="body"><b>전체 뉴스</b><p>영국·한국 언론 25곳 이상</p><span class="more">바로가기 →</span></div></a>
+      <a class="tile" href="#opp"><div class="img" style="background:linear-gradient(135deg,#f5c400,#d97706);color:#1a1400"><span class="cnt" id="cOpp"></span>사진 자리<em>이번 상대</em></div><div class="body"><b>이번 상대</b><p id="oppDesc">다음 상대 라인업 · 발언</p><span class="more">바로가기 →</span></div></a>
+      <a class="tile" href="#tw"><div class="img" style="background:linear-gradient(135deg,#0f172a,#1d9bf0)"><span class="cnt">17개 계정</span>사진 자리<em>트위터</em></div><div class="body"><b>트위터</b><p>첼시 담당 기자 · 소식 계정</p><span class="more">바로가기 →</span></div></a>
+    </div>
+
+    <div class="sec-title"><h3>지금 뜨는 키워드 뉴스</h3><span>최신순</span></div>
+    <div class="rail" id="rail"></div>
+  </section>
+
+  <!-- 목록 -->
+  <section class="page" id="p-list">
+    <div class="crumb"><a href="#home">홈</a> › <span id="crumb"></span></div>
+    <h2 id="lTitle"></h2>
+    <div class="chips" id="chips"></div>
+    <div class="grid" id="grid"></div>
+    <button class="morebtn" id="more" type="button">더 보기</button>
+  </section>
+
+  <!-- 트위터 -->
+  <section class="page" id="p-tw">
+    <div class="crumb"><a href="#home">홈</a> › 트위터</div>
+    <h2>트위터</h2>
+    <div class="twg" id="twg"></div>
+  </section>
+</main>
+
+<footer><div class="wrap"><img src="logo.png" alt=""><span>CHELSTREET · 첼시 뉴스 모음 · 인스타그램 @chelstreet__</span></div></footer>
+
+<script>
+{
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const LAB = {"프리뷰":"프리뷰/분석"}, lab = c => LAB[c] || c;
+const COL = {"오피셜":"#d4a500","부상":"#e03b3e","이적":"#1b5fd1","인터뷰":"#1f9d55","프리뷰":"#4b5563","라인업·팀뉴스":"#1b5fd1","도발·발언":"#e03b3e","상대 소식":"#4b5563"};
+const ORDER = ["오피셜","부상","이적","인터뷰","프리뷰"];
+let items = [], match = null, view = "home", cat = "전체", limit = 24, query = "";
+const kwItems = () => items.filter(x => x.cat);
+
+function ago(ts){
+  const m = Math.max(0, Math.round((Date.now()-ts)/60000));
+  if (m < 60) return m < 1 ? "방금" : m + "분 전";
+  const h = Math.floor(m/60); if (h < 24) return h + "시간 전";
+  return Math.floor(h/24) + "일 전";
+}
+const ncard = (x, tag) => `<a class="nc" href="${esc(x.link)}" target="_blank" rel="noopener">
+  <div class="thumb" style="background:${COL[tag] || "#4b5563"}">${esc(lab(tag || "NEWS"))}</div>
+  <div class="b"><span class="badge" style="background:${COL[tag] || "#4b5563"}">${esc(lab(tag || "뉴스"))}</span>
+  <span class="t">${esc(x.titleKo || x.title)}</span><small>${esc(x.source)} · ${ago(x.date)}</small></div></a>`;
+
+const X = [["첼시 공식","ChelseaFC","구단 공식"],["파브리지오 로마노","FabrizioRomano","이적 전문"],["데이비드 온스테인","David_Ornstein","디 애슬레틱"],["사이먼 존슨","SJohnsonSport","디 애슬레틱"],["리암 투미","liam_twomey","디 애슬레틱"],["키어런 길","kierangill_DM","데일리메일"],["맷 로","Matt_Law_DT","텔레그래프"],["니자르 킨셀라","NizaarKinsella","BBC"],["사미 목벨","SamiMokbel_BBC","BBC"],["벤 제이콥스","JacobsBen","이적 전문"],["플로리안 플레텐베르크","Plettigoal","이적 전문"],["그레임 베일리","GraemeBailey","이적 전문"],["Absolute Chelsea","AbsoluteChelsea","소식 계정"],["Chelsea Reports","CFCNewsReport","소식 계정"],["Just Chelsea","justcfc","소식 계정"],["Chelsea Dodgers","TheBlueDodger","소식 계정"],["NATURE_CFC","Natureryme1","소식 계정"]];
+$("twg").innerHTML = X.map(([n,h,r]) => `<a class="twc" href="https://x.com/${h}" target="_blank" rel="noopener"><span class="av">${esc(n.replace(/[^A-Za-z가-힣 ]/g,"").split(" ").map(w=>w[0]).join("").slice(0,2))}</span><span><b>${esc(n)}</b><small>@${esc(h)} · ${esc(r)}</small></span></a>`).join("");
+
+function renderHome(){
+  const kw = kwItems(), top = kw[0];
+  if (top){ $("banner").href = top.link; $("bTag").textContent = "속보 · " + lab(top.cat); $("bTitle").textContent = top.titleKo || top.title; $("bSrc").textContent = `${top.source} · ${ago(top.date)}`; }
+  $("cKw").textContent = kw.length + "건"; $("cAll").textContent = items.length + "건"; $("cOpp").textContent = (match?.items?.length || 0) + "건";
+  if (match){
+    const name = match.opponentKo || match.opponent;
+    $("mComp").textContent = `다음 경기 · ${match.competition} · ${match.home ? "홈" : "원정"}`;
+    $("mVs").textContent = match.home ? `첼시 vs ${name}` : `${name} vs 첼시`;
+    $("oppDesc").textContent = `${name} 라인업 · 발언 · 소식`;
+    if (match.kickoff){
+      const k = new Date(match.kickoff);
+      $("mWhen").textContent = k.toLocaleString("ko-KR",{month:"long",day:"numeric",weekday:"short",hour:"2-digit",minute:"2-digit",hourCycle:"h23"});
+      const d = match.kickoff - Date.now();
+      $("mLeft").textContent = d > 0 ? `${Math.floor(d/3600e3)}시간 ${Math.floor(d/60000)%60}분 남음` : "경기 중 / 종료";
+    }
+  }
+  $("rail").innerHTML = kw.slice(0, 10).map(x => ncard(x, x.cat)).join("");
+}
+
+function renderList(){
+  const q = query.trim().toLowerCase();
+  const isOpp = view === "opp", isKw = view === "kw";
+  $("crumb").textContent = $("lTitle").textContent = isOpp ? `이번 상대 · ${match ? (match.opponentKo || match.opponent) : ""}` : isKw ? "키워드 뉴스" : view === "search" ? `검색: ${query}` : "전체 뉴스";
+  const tags = isOpp ? ["라인업·팀뉴스","도발·발언","상대 소식"] : isKw ? ORDER : [];
+  $("chips").innerHTML = tags.length ? ["전체", ...tags].map(t => `<button class="chip${t===cat?" on":""}" data-c="${t}">${lab(t)}</button>`).join("") : "";
+  let pool = isOpp ? (match?.items || []) : isKw ? kwItems() : items;
+  if (tags.length && cat !== "전체") pool = pool.filter(x => (isOpp ? x.tag : x.cat) === cat);
+  if (q) pool = pool.filter(x => (x.title + " " + (x.titleKo || "")).toLowerCase().includes(q));
+  $("grid").innerHTML = pool.slice(0, limit).map(x => ncard(x, isOpp ? x.tag : x.cat)).join("") || `<p>뉴스가 없어요.</p>`;
+  $("more").hidden = pool.length <= limit;
+}
+
+function route(){
+  const h = location.hash.slice(1) || "home";
+  view = ["home","kw","all","opp","tw","search"].includes(h) ? h : "home";
+  cat = "전체"; limit = 24;
+  document.querySelectorAll("#menu a").forEach(a => a.classList.toggle("on", a.dataset.v === view));
+  $("p-home").classList.toggle("on", view === "home");
+  $("p-tw").classList.toggle("on", view === "tw");
+  $("p-list").classList.toggle("on", !["home","tw"].includes(view));
+  render(); scrollTo(0, 0);
+}
+function render(){ if (view === "home") renderHome(); else if (view !== "tw") renderList(); }
+
+$("chips").addEventListener("click", e => { const b = e.target.closest("[data-c]"); if (b){ cat = b.dataset.c; limit = 24; renderList(); } });
+$("more").addEventListener("click", () => { limit += 24; renderList(); });
+const doSearch = () => { query = $("q").value; if (!query.trim()) return; if (location.hash === "#search") route(); else location.hash = "search"; };
+$("qBtn").addEventListener("click", doSearch);
+$("q").addEventListener("keydown", e => { if (e.key === "Enter") doSearch(); });
+addEventListener("hashchange", route);
+
+fetch("news.json?t=" + Date.now(), {cache:"no-store"}).then(r => r.json()).then(d => {
+  items = (d.items || []).sort((a,b) => b.date - a.date); match = d.match || null; render();
+}).catch(() => { $("bTitle").textContent = "뉴스를 불러오지 못했어요"; });
+route();
+}
+</script>
+</body>
+</html>
