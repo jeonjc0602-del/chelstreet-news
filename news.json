@@ -1,5 +1,5 @@
 {
- "updated": 1795234633063,
+ "updated": 1795238157590,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,7 +12,7 @@
   "Daily Mail": 8,
   "Telegraph": 5,
   "Independent": 1,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 14,
   "CaughtOffside": 2,
   "90min": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Leeds United · 새 기사 44건"
+  "이번 상대": "Leeds United · 새 기사 46건"
  },
  "match": {
   "id": "8413998954361023232",
@@ -289,6 +289,16 @@
     "added": 1795221875905,
     "tag": "라인업·팀뉴스",
     "titleKo": "샤비 알론소가 7명의 첼시 선수에 대한 소식을 전하면서 조앙 페드로와 모이세스 카이세도의 부상 소식도 함께 전했습니다."
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk9KWlUwQzl0RjMyaTRwSDhtLUktaXZUWUdKWTYtdGhXb0s2aTJVdXVGQmROeWMyRE55TWtLaHdyaG93clAtb1ZpR2xDb3ZkLU1UOVZTSGdVbDlBZ0gxSEtIZHdldnNtQzQ2emtzLTAtV2lhUzZZcUtFZ1hySTlvaExiam03SUtMYkFaOWJfcG1odw?oc=5",
+    "title": "Leeds United prepare to face Chelsea at Stamford Bridge as the Premier League returns",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk9KWlUwQzl0RjMyaTRwSDhtLUktaXZUWUdKWTYtdGhXb0s2aTJVdXVGQmROeWMyRE55TWtLaHdyaG93clAtb1ZpR2xDb3ZkLU1UOVZTSGdVbDlBZ0gxSEtIZHdldnNtQzQ2emtzLTAtV2lhUzZZcUtFZ1hySTlvaExiam03SUtMYkFaOWJfcG1odw?oc=5",
+    "source": "VAVEL.com",
+    "date": 1795191919000,
+    "added": 1795238125671,
+    "tag": "상대 소식",
+    "titleKo": "프리미어리그 재개에 맞춰 스탬퍼드 브리지에서 첼시와 맞붙을 준비를 하는 리즈 유나이티드"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWlHY0xZa1RBOFdtTXd0Z0I0X0tDSWZXVldxYXJlaHQyYVRwOW9BZ2V1T2Y5MHBTWlIwT0RtbXpLSUJyb09EUGhQVEpXSU1OSDJhZW9qWDJLc216TUt5V29VUmtQNFNmRnJLMHdVcGNSbjQwQW5lcjdGMFdHVENlOEc1MjAtaXYxaEtoX1J6Tmo?oc=5",
@@ -829,16 +839,6 @@
     "added": 1795221875905,
     "tag": "상대 소식",
     "titleKo": "리즈 유나이티드 vs 첼시 - 프리미어리그"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2dIMlpHMk5EWjZ1VUxIV3doNHU2U2k2OTZ6VVJpam9tQXBVN3dLVWoyZWpFeXNxd2VJUEdGMDNacVk5OFdqN1FERUU0dy1rTEI5cFhLZ2tDTElGdVU4Q25KZlc1STgzVEpfRHN1ZjB3bjVmb1F6clRlNjVjNnhwZ0wySm95Q1czMVJVYXBnUWJ5dGJ3WEtYTjlsODRvRGVvbm1VcFZNbXhJdlBUdllF?oc=5",
-    "title": "Chelsea vs Leeds United predictions: Blues to maintain momentum",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2dIMlpHMk5EWjZ1VUxIV3doNHU2U2k2OTZ6VVJpam9tQXBVN3dLVWoyZWpFeXNxd2VJUEdGMDNacVk5OFdqN1FERUU0dy1rTEI5cFhLZ2tDTElGdVU4Q25KZlc1STgzVEpfRHN1ZjB3bjVmb1F6clRlNjVjNnhwZ0wySm95Q1czMVJVYXBnUWJ5dGJ3WEtYTjlsODRvRGVvbm1VcFZNbXhJdlBUdllF?oc=5",
-    "source": "Goal.com",
-    "date": 1795112124000,
-    "added": 1795221875905,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "첼시 대 리즈 유나이티드 경기 예측: 블루스가 기세를 유지할 것"
    }
   ]
  },
@@ -957,6 +957,17 @@
    "titleKo": "카드를 수집하는 것을 좋아하는 축구 선수! 토트넘의 스타 토신 아다라비오요가 첼시의 리스 제임스와 레비 콜윌과 함께 런던에 트레이딩 카드 매장을 열면서 수집에 대한 열정을 털어놓았습니다.",
    "imgTried": true,
    "image": "https://i.dailymail.com/1s/2026/11/20/18/112640591-0-image-a-9_1795199491297.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CUXJLeVByQVVTeHpKOHFwcVJ4djg2aTNXekx3ZVlMZ1BRdGRaRHl1WjJfQ2RKZVIxSW53QVBDeENDZjJqR2ZMR2hBWjlTYzlpTkV0SmZ4Q3M4LVhxM2IzUFNTemxDc0o1MjJzZW5ycTFzNUVxdmt2ejR3?oc=5",
+   "title": "- Chelsea Football Club",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CUXJLeVByQVVTeHpKOHFwcVJ4djg2aTNXekx3ZVlMZ1BRdGRaRHl1WjJfQ2RKZVIxSW53QVBDeENDZjJqR2ZMR2hBWjlTYzlpTkV0SmZ4Q3M4LVhxM2IzUFNTemxDc0o1MjJzZW5ycTFzNUVxdmt2ejR3?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795215154000,
+   "added": 1795238124193,
+   "cat": null,
+   "titleKo": "- 첼시 축구 클럽"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
@@ -1175,6 +1186,17 @@
    "titleKo": "리버풀 vs. 첼시, 여자 슈퍼리그: 경기 전, 팀 소식, 시청 방법"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdENWT1VwS01LdG01Y2dWU0x2LThLbHBwM0JLZnlvb2gyQUlSSmE0d1NHVmVfaW91SVRvd0x6NUpNTzUtMG1ISDVZYnZvakhzbzdDTG9aYkZIcXBIYXhiV29vU0JOT09RUFl1eE5EazZJR2ZEcjAxZzR6UkhQa3NucWVMSVM?oc=5",
+   "title": "Hull - Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdENWT1VwS01LdG01Y2dWU0x2LThLbHBwM0JLZnlvb2gyQUlSSmE0d1NHVmVfaW91SVRvd0x6NUpNTzUtMG1ISDVZYnZvakhzbzdDTG9aYkZIcXBIYXhiV29vU0JOT09RUFl1eE5EazZJR2ZEcjAxZzR6UkhQa3NucWVMSVM?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795206183000,
+   "added": 1795238124192,
+   "cat": null,
+   "titleKo": "헐 - 첼시"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0JocTNGSXFyd2ZIS3UzaVo4c1ZKVlVUUW9PTkx3VGkzY21GUzZXV09vakNVZDVHRzZoVzI2VTRfTU14ZWNEVWdwS1NDaUtnVS02UlhYcFEwbUFIN05YcjJueFNnNUl2Y01lZzFUTnBLOWN6NW9ja0ZIeWtjSVFJRXFLdGVCYjVz?oc=5",
    "title": "Tom Brady Trades Birmingham City Stake for Premier League Giants Chelsea",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0JocTNGSXFyd2ZIS3UzaVo4c1ZKVlVUUW9PTkx3VGkzY21GUzZXV09vakNVZDVHRzZoVzI2VTRfTU14ZWNEVWdwS1NDaUtnVS02UlhYcFEwbUFIN05YcjJueFNnNUl2Y01lZzFUTnBLOWN6NW9ja0ZIeWtjSVFJRXFLdGVCYjVz?oc=5",
@@ -1302,6 +1324,17 @@
    "date": 1795199280000,
    "cat": "이적",
    "titleKo": "톰 브래디, 첼시 지분 인수 협상 중"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jc2RkTHByeF9sbVBGb1AtWnhpdF96TnB3aXFjdXN6X25kRFNraGRCTDdyaFloel9oSWpENHI1YmpqOXc5cFhud3AwTkY3eFh1TV9YWkxiZE5pX21fdmFVaGo2WUN5YzEt?oc=5",
+   "title": "Chelsea vs Leeds United predictions: Chris Sutton on Premier League game",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jc2RkTHByeF9sbVBGb1AtWnhpdF96TnB3aXFjdXN6X25kRFNraGRCTDdyaFloel9oSWpENHI1YmpqOXc5cFhud3AwTkY3eFh1TV9YWkxiZE5pX21fdmFVaGo2WUN5YzEt?oc=5",
+   "source": "BBC",
+   "group": "영국 언론",
+   "date": 1795199255000,
+   "added": 1795238124192,
+   "cat": null,
+   "titleKo": "첼시 vs 리즈 유나이티드 경기 예측: 크리스 서튼이 전망하는 프리미어리그 경기"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4bTY4LW43RFBBeDRVUElpV0pFRjFFQ3pwelh2Zm4yUjNUMzJxb1FYX2paNGFxU0NtN3FCaUtfQW9nN2JzUUFRQTh6WXNVenpSU3A2TlFFWkhmR05PTE5OVzhaS2ltaEdpbWd2NVZjRlluQmFhLVRfb0ZOQ0RsV2c?oc=5",
@@ -2218,6 +2251,17 @@
    "image": "https://talksport.com/wp-content/uploads/2026/09/tottenham-hotspurs-ukrainian-midfielder-27-1105770538.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95b2pvNmcyWlpIMnB1M1pKWjdPa1g3QTJvaElGQVd5NzJBNG9vTmszc2tjQ2xIc2w2Yzk1elhXZE5XR3FSLWk4RVJ5dEtkTExFQVJKcHN2cGZfNkhMNFFF?oc=5",
+   "title": "첼시, 자라와 협력해 아동복, 가방, 향수 라인 출시",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95b2pvNmcyWlpIMnB1M1pKWjdPa1g3QTJvaElGQVd5NzJBNG9vTmszc2tjQ2xIc2w2Yzk1elhXZE5XR3FSLWk4RVJ5dEtkTExFQVJKcHN2cGZfNkhMNFFF?oc=5",
+   "source": "AllFootball",
+   "group": "한국 언론",
+   "date": 1795128791000,
+   "added": 1795238124192,
+   "cat": null,
+   "titleKo": "첼시, 자라와 협력해 아동복, 가방, 향수 라인 출시"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDgxeks4cl9EQ2NqMTl2aU5uZ3dzTHZzWE96eWVPWUtma2JubGJPTXVDQjE0T1NsaGx4MGdOYTBwaFFvc0xmb1N0UUNiaFVNa1JGeEZtZnFYZEkzS2tWdWlTLU1Cci1tV1prUjE5NTNLWFVLVHoxa0g0dU1vYkhERGNqTXlzMnpIVjVpdnBOa3NCSHJ5Q1dkeVBJaU8?oc=5",
    "title": "Leeds confirm huge injury boost for Chelsea clash as two stars return",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDgxeks4cl9EQ2NqMTl2aU5uZ3dzTHZzWE96eWVPWUtma2JubGJPTXVDQjE0T1NsaGx4MGdOYTBwaFFvc0xmb1N0UUNiaFVNa1JGeEZtZnFYZEkzS2tWdWlTLU1Cci1tV1prUjE5NTNLWFVLVHoxa0g0dU1vYkhERGNqTXlzMnpIVjVpdnBOa3NCSHJ5Q1dkeVBJaU8?oc=5",
@@ -3092,6 +3136,17 @@
    "titleKo": "PSG전을 앞두고 부차난, 드라고니, 말라르, 마쓰쿠보의 최근 소식을 전하는 봄파스토르 감독"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTFBlNmd1WmxPeFE5dDFCanJDOEtMZ0NMVVZ3ZFAxMWk5NVVSdUFvck9Ecjc2LW1VNnRtUk5WejBabXY0NkpkNURNS3Baelo3enh2YTkzM2YyNkhxbXNnRHlpZmk4azY1c29iMGpTN3g4Ujl0ZkpvdEx6NWEzdFptbA?oc=5",
+   "title": "Bompastor pre-PSG press conference | Video",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTFBlNmd1WmxPeFE5dDFCanJDOEtMZ0NMVVZ3ZFAxMWk5NVVSdUFvck9Ecjc2LW1VNnRtUk5WejBabXY0NkpkNURNS3Baelo3enh2YTkzM2YyNkhxbXNnRHlpZmk4azY1c29iMGpTN3g4Ujl0ZkpvdEx6NWEzdFptbA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794929376000,
+   "added": 1795238124193,
+   "cat": "인터뷰",
+   "titleKo": "봄파스토르 감독의 PSG전 사전 기자회견 | 동영상"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTMzdWtWSFJPbjhZYlJ6cUxzdVZGclk5UGQxdXRTaWVfMC1zY0Mtc0NJdXRWZUVBeUJ5bUhmbEhISXJ3TUVad284dEhoMzRmc29HSjVwc2FQUDdFMVVLcWlNbmtsMkVKZHM3dmo0YUViM1V1TUlBZmpGcGxiQ2ZxOGw5V2h5djZpb1BzaUhlSVVHUTJPSEFJWHd2dzAzTWdQSXZrRUViVkNmYzA?oc=5",
    "title": "Sandy Baltimore grateful for Paris education but not looking back",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTMzdWtWSFJPbjhZYlJ6cUxzdVZGclk5UGQxdXRTaWVfMC1zY0Mtc0NJdXRWZUVBeUJ5bUhmbEhISXJ3TUVad284dEhoMzRmc29HSjVwc2FQUDdFMVVLcWlNbmtsMkVKZHM3dmo0YUViM1V1TUlBZmpGcGxiQ2ZxOGw5V2h5djZpb1BzaUhlSVVHUTJPSEFJWHd2dzAzTWdQSXZrRUViVkNmYzA?oc=5",
@@ -3379,6 +3434,17 @@
    "titleKo": "소니아 봄파스토르, 맨체스터 시티전 승리를 발판 삼아 첼시가 더 높은 곳을 향해 나아가기를 기대"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0hPZUlvSl9oT0xjRUllSG5JYTNnYVBDNTJuUXd4TTAyTjN2VEtqV3BQRVQyUTFMemowXzNhUUlJYlczekxFdlNXdy1EcV9iWE1oQTljMFZhYi1ab0NiekhBekdjZ0NzQXlRQmpXYVFXM1pwT0hNbkZFLUxvZElDZnpMaWFTM3gyTHRsTDNGRlE?oc=5",
+   "title": "Favourite late winners: The semi-final results!",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0hPZUlvSl9oT0xjRUllSG5JYTNnYVBDNTJuUXd4TTAyTjN2VEtqV3BQRVQyUTFMemowXzNhUUlJYlczekxFdlNXdy1EcV9iWE1oQTljMFZhYi1ab0NiekhBekdjZ0NzQXlRQmpXYVFXM1pwT0hNbkZFLUxvZElDZnpMaWFTM3gyTHRsTDNGRlE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794752400000,
+   "added": 1795238124193,
+   "cat": null,
+   "titleKo": "막판 역전승을 거둔 인기 팀: 준결승 결과!"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXpRZEJOU0dBd3kwSFhNWVdsdEZ1UFktdmM3VjdxTFZJOGVnRTdSZ2Z6X1BIalJ5TzJPcm1XZGRSVzRIeGZOTUF3dlB2djQ4QTVlWlBNVXhITFVJYlozckt2UjFPTkNCQktjNDEzUk1OeVdGVExRV0s5RldzM3p6MnFCR0VhTUdBWkRCcERkWGlKc0JxcTlBc0R5VlJZenRDQnc?oc=5",
    "title": "Wieke Kaptein: We can take confidence from Man City victory",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXpRZEJOU0dBd3kwSFhNWVdsdEZ1UFktdmM3VjdxTFZJOGVnRTdSZ2Z6X1BIalJ5TzJPcm1XZGRSVzRIeGZOTUF3dlB2djQ4QTVlWlBNVXhITFVJYlozckt2UjFPTkNCQktjNDEzUk1OeVdGVExRV0s5RldzM3p6MnFCR0VhTUdBWkRCcERkWGlKc0JxcTlBc0R5VlJZenRDQnc?oc=5",
@@ -3441,7 +3507,8 @@
    "group": "공식·FotMob",
    "date": 1794694800000,
    "added": 1795221030969,
-   "cat": null
+   "cat": null,
+   "titleKo": "국가대표팀: 네투와 에스테바우 출전, 에젠와타 득점(영 라이언스)"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQengyYTVpaUFNd1pTNVFRUG03VnE3V1JTODFOZEg4SEhKS0FhaTMwTUZMNFhKb1VEY1lseVkyRGg5VmpUTnk5WUxpd3dVUnRQVmc5LU9DOE94S3cyVTNrSW5CRE5rZ3BRcHppT2tELWtjdEFtWWY2NmNQSkMta2c5OEhOZFFxaE5TY2E4N1M3cHhvdkt2Znc?oc=5",
@@ -3451,7 +3518,8 @@
    "group": "공식·FotMob",
    "date": 1794684737000,
    "added": 1795221030970,
-   "cat": null
+   "cat": null,
+   "titleKo": "WSL 하이라이트: 첼시 1-0 맨체스터 시티 | 동영상"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHFlMS1CN0U2VnJPdFFFN0VYYVB6ekhwUkdEM3VvVldyOUZiSjc4UW5rOWs3bnpRUmJhMG4xYVJ0MDVpQjNTci16cGcyR2xaNzBBbnJiSHJ3XzhQc0RjMzZ3VVNyeDVBV3c1R0YxcjF5RldTU0tlTEMteklKbFJYbmVfdUZfNHpfZUhubUFSTjRMNDlQalllVzhySmhIYUdHWldVUjlmckxlQzBFcFo4NWhnYw?oc=5",
@@ -3461,7 +3529,8 @@
    "group": "공식·FotMob",
    "date": 1794684600000,
    "added": 1795221030969,
-   "cat": "부상"
+   "cat": "부상",
+   "titleKo": "소니아 봄파스토르 감독, 카데이샤 뷰캐넌과 멜빈 말라르의 부상 소식 전해"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGQ1aFhET0NyZkhaTHV5VGNTYTRFUTlGNXJHdDVTQTVrRFdaWXhGOVZSdmlEWTAtYUk5d1dvdnFqbGhibVNNbG4xVXoySHBJbklFZk1xR2VZWGdtWWgzVWdMUk9qUkI2Y21SVXRCZ25xbWZUVnhrbi00UkZhTm1Nc0xQY0hCTXdJWmowOTBVMmZWdzM2TFZjYnBZUllOT0RlalE?oc=5",
@@ -3471,7 +3540,8 @@
    "group": "공식·FotMob",
    "date": 1794679200000,
    "added": 1795221030969,
-   "cat": null
+   "cat": null,
+   "titleKo": "소니아 봄파스토르 감독, 맨체스터 시티를 꺾은 첼시의 투지를 칭찬하다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZG5TanRnUnIzWjhLTHRoVkdHTWNaM2tsUTdPclVhdEdtTWNYT2ltSUUzTEtWLW04dmlTMjlmellCaXZCWllxZWZfNmE1UUVraUVvUFF4SUUtN05GWHlaUTMwUVZkVkxlZWIwdk9vdnVGN19wTzh5VmdtWklNQmxGVnpkelhhRWdlRWZaV29qdUNwMzZpYm5feGRiWV9fZmRqT0ZZaTVWazY?oc=5",
@@ -3481,7 +3551,8 @@
    "group": "공식·FotMob",
    "date": 1794677400000,
    "added": 1795221030969,
-   "cat": null
+   "cat": null,
+   "titleKo": "'강호' 맨체스터 시티를 상대로 한 첼시의 일관성에 대한 루시 브론즈의 의견"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGlDRC1TcjZGTGNxdnVWem5tY2w1SmU2aGd1WmtYZEFzOXhoeWRFWlhUZ1ZkUXBtcG1KWjB5YXF1cFQxOWVfbXFqUlZyUnhSaG8yNXlSZGd3cExScVlORUtfbWVvWlFpM0k1bzV3d1FJaVpTQTU5X25GX1UtQkVSQ2RXczRIcURoSXRBSWl3d3hXM3ZPTHN1VEpnY3Q?oc=5",
@@ -3491,7 +3562,8 @@
    "group": "공식·FotMob",
    "date": 1794675600000,
    "added": 1795221030969,
-   "cat": null
+   "cat": null,
+   "titleKo": "2026년 10월 첼시 이달의 선수 발표!"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXA3MTFJOEt4eWw1bFhLZlYwSFRnT1Nnblc3OGh2U014SndwcGFsM2ZYdFpZTkp6T21Ba3M0MTV2a1ZEMnV0R0hPbDBWRDlYTl82SjR1Ync3WmpsX01LRC0yd1laaW5PZmtKQUM4NlE4bTY1akRSYjdJQUo4SUt3Yk10UmxRMFlMM0ItQzM3eHBmUQ?oc=5",
@@ -3501,7 +3573,8 @@
    "group": "공식·FotMob",
    "date": 1794671100000,
    "added": 1795221030969,
-   "cat": null
+   "cat": null,
+   "titleKo": "경기 보고서: 첼시 여자팀 1-0 맨체스터 시티"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDd4LUEzRGtIenlLRDNmMldJcXMzTEZVa0ZhNnY1cWhUUlpsVjZ1Mjkxekd4blBBaWpua1hqT1ZobC1BbzRGdENBT1R2XzZod1NqcVBOZmxkUy1OeVdqSlpIOTBIMEdUV3BDREw4Y21xNmRKV3o3djFVa2hrS01PbklaUGIyT0dmQ28wbWNLbTlkZE1iYVk4QTE4cjJHOFdJeTUwVTNodzdmbzg4TTRjc1Jn?oc=5",
@@ -3511,7 +3584,8 @@
    "group": "공식·FotMob",
    "date": 1794671100000,
    "added": 1795221030970,
-   "cat": null
+   "cat": null,
+   "titleKo": "첼시 여자팀 vs 맨체스터 시티 여자팀 | 경기"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlFLTTJ5NlJDSkNGSXRBZGctY0pDSWdvX2tNT3hJNmx6Zk1fek82WmtLM3ZXU3NnZC10Q1Z2SWpBUXpUSTFkR3gyX2paSjV0dUlFWS1YNGlkSm9qbXI3Ykk3SDR1TkptTG5mNjdPTkNWVno1c3BvTVRZN3NyRlptenNGcS01WUJEOTBNVS1IMTM2bGlMZzFF?oc=5",
@@ -3521,7 +3595,8 @@
    "group": "공식·FotMob",
    "date": 1794659400000,
    "added": 1795221030969,
-   "cat": "오피셜"
+   "cat": "오피셜",
+   "titleKo": "첼시 여자팀 vs 맨체스터 시티 선발 명단 확정"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTE5YzB6ajdZX0R0dnA4XzdiQVBCTmxRNERHNmlTNm5iLUltWG9FQU9UYl9yTU5uYThndG5PTk14T0ZoVVJGMkhvdHozWUNWdUtSU2oyMXRjVHNGb2ZvajBTM01SWnhXV05pQnY5QVVRc09aYXdoYnVkZVFoRzZ5aFVFSm9iUDhCbnpRdUhrTDIzZklf?oc=5",
@@ -3531,7 +3606,8 @@
    "group": "공식·FotMob",
    "date": 1794646800000,
    "added": 1795221030969,
-   "cat": null
+   "cat": null,
+   "titleKo": "스탬퍼드 브리지 막판 승리: 준결승 투표"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjk1QTFodkxaVUxEM1I2ZjJjVExGV0poQ1ZnMDViTU14YllhZkM3X203Vnk1UEFWUkhhWEZTbmV5cENNRjRDZ3VCNVF2eEZhTV9USmlXQzgtT3R3YVpsMXlWLWxkQjJVQ1VscFFBYXFNbWJndkFsT1VjMlpIRjdZRm40Y3V0QVptcHF3Sk10c1BIcW05RnlUYm1FakJuTGdwY0FlQlNiQVFfendiY2Jv?oc=5",
@@ -3541,7 +3617,8 @@
    "group": "공식·FotMob",
    "date": 1794636000000,
    "added": 1795221030969,
-   "cat": null
+   "cat": null,
+   "titleKo": "맨체스터 시티와의 경기를 앞두고 단합과 WSL 우승에 집중하는 부캐넌"
   },
   {
    "id": "https://chelsea.news/2026/11/morgan-rogers-scores-as-england-beat-croatia-2-1-and-reach-nations-league-quarter-finals/",
@@ -3551,7 +3628,8 @@
    "group": "팬 블로그",
    "date": 1794558802000,
    "cat": null,
-   "image": "https://chelsea.news/wp-content/uploads/2026/11/wembley-stadium-1.jpg"
+   "image": "https://chelsea.news/wp-content/uploads/2026/11/wembley-stadium-1.jpg",
+   "titleKo": "모건 로저스가 득점하며 잉글랜드가 크로아티아를 2-1로 꺾고 네이션스리그 8강에 진출했습니다."
   },
   {
    "id": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
@@ -3561,7 +3639,8 @@
    "group": "영국 언론",
    "date": 1794553212000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/20870a5fe499e872c54989430f12c8e18e6f1eda/371_0_3871_3096/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=f92738b61e8e2f478b456783384682f8"
+   "image": "https://i.guim.co.uk/img/media/20870a5fe499e872c54989430f12c8e18e6f1eda/371_0_3871_3096/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=f92738b61e8e2f478b456783384682f8",
+   "titleKo": "포체티노 감독의 첼시 소용돌이가 맨유의 미래를 가늠할 수 있는 최고의 잣대"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
@@ -3582,7 +3661,8 @@
    "group": "팬 블로그",
    "date": 1794473910000,
    "cat": null,
-   "image": "https://chelsea.news/wp-content/uploads/2026/11/gursel-aksel-stadium.jpg"
+   "image": "https://chelsea.news/wp-content/uploads/2026/11/gursel-aksel-stadium.jpg",
+   "titleKo": "라비아, 벨기에의 터키 원정 경기 출전 금지. 이탈리아전이 유일한 A매치 출전 경기가 될 전망"
   },
   {
    "id": "https://chelsea.news/2026/11/gusto-open-to-january-chelsea-exit-after-losing-right-back-place-under-alonso/",
@@ -3592,7 +3672,8 @@
    "group": "팬 블로그",
    "date": 1794419311000,
    "cat": null,
-   "image": "https://chelsea.news/wp-content/uploads/2026/11/football.jpg"
+   "image": "https://chelsea.news/wp-content/uploads/2026/11/football.jpg",
+   "titleKo": "알론소 감독 체제에서 오른쪽 수비수 자리를 잃은 구스토, 1월 첼시 이적 가능성 열어둬"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/c63r5ry95lg8o?at_medium=RSS&at_campaign=rss",
@@ -3613,7 +3694,8 @@
    "group": "팬 블로그",
    "date": 1794301110000,
    "cat": null,
-   "image": "https://chelsea.news/wp-content/uploads/2026/11/bravida-arena.jpg"
+   "image": "https://chelsea.news/wp-content/uploads/2026/11/bravida-arena.jpg",
+   "titleKo": "첼시 여자팀, 맨체스터 시티와의 대결을 앞두고 제임스와 기르마 없이 헤켄과 맞붙다"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
@@ -3645,7 +3727,8 @@
    "group": "영국 언론",
    "date": 1794211204000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/57cfc5f46ac89a85759f5f4c1495da03a497df06/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=eb911f23ebd12d9433ac49de44608287"
+   "image": "https://i.guim.co.uk/img/media/57cfc5f46ac89a85759f5f4c1495da03a497df06/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=eb911f23ebd12d9433ac49de44608287",
+   "titleKo": "프리미어리그: 주말 경기의 10가지 화제"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/cmpdgw0vxvj0o?at_medium=RSS&at_campaign=rss",
@@ -3666,7 +3749,8 @@
    "group": "영국 언론",
    "date": 1794165922000,
    "cat": null,
-   "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/08/TELEMMGLPICT000510959189_17941641768050_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg"
+   "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/08/TELEMMGLPICT000510959189_17941641768050_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg",
+   "titleKo": "첼시, 브라이언 브로비와 선덜랜드에게 당하다"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
@@ -3687,7 +3771,8 @@
    "date": 1794161859000,
    "cat": null,
    "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9e11/live/3f537380-dba0-11f1-81e8-61c133a2b43c.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9e11/live/3f537380-dba0-11f1-81e8-61c133a2b43c.jpg",
+   "titleKo": "선덜랜드 1-0 첼시: 블루스에게 불리한 페널티 판정"
   },
   {
    "id": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
@@ -3697,7 +3782,8 @@
    "group": "영국 언론",
    "date": 1794154594000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7"
+   "image": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7",
+   "titleKo": "르 페의 페널티킥 골이 첼시를 놀라게 하고 저항하는 선덜랜드에 활기를 불어넣었습니다."
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
@@ -3719,7 +3805,8 @@
    "date": 1794128400000,
    "cat": "프리뷰",
    "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2026/11/v-sund.png"
+   "image": "https://thechelseablog.com/wp-content/uploads/2026/11/v-sund.png",
+   "titleKo": "선덜랜드 vs 첼시: 경기 전 분석"
   },
   {
    "id": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
@@ -3729,7 +3816,8 @@
    "group": "영국 언론",
    "date": 1794047465000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/c200b2a8ebccfb6d7865c50f44c130e8f8794205/215_0_2526_2021/master/2526.jpg?width=140&quality=85&auto=format&fit=max&s=552c60f780d2bd2723a4468e1a0426b7"
+   "image": "https://i.guim.co.uk/img/media/c200b2a8ebccfb6d7865c50f44c130e8f8794205/215_0_2526_2021/master/2526.jpg?width=140&quality=85&auto=format&fit=max&s=552c60f780d2bd2723a4468e1a0426b7",
+   "titleKo": "첼시의 알론소 감독은 여전히 문제가 되고 있는 미드필더진에서 자신의 색깔을 아직 찾지 못하고 있습니다."
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/cwz0vvnk9jpgo?at_medium=RSS&at_campaign=rss",
@@ -3739,7 +3827,8 @@
    "date": 1793983881000,
    "cat": null,
    "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3af0/live/3fca9e40-d9fe-11f1-93e1-3b657b665bcf.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3af0/live/3fca9e40-d9fe-11f1-93e1-3b657b665bcf.jpg",
+   "titleKo": "알론소, 파머의 기량과 태도에 찬사"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
@@ -3749,7 +3838,8 @@
    "date": 1793982603000,
    "cat": null,
    "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg",
+   "titleKo": "투헬 감독 체제에서 파머의 잉글랜드 대표팀 경력은 끝난 것일까요?"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/c9ly00660m6po?at_medium=RSS&at_campaign=rss",
@@ -3759,7 +3849,8 @@
    "date": 1793967255000,
    "cat": null,
    "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/94b3/live/0c6cc970-d9da-11f1-b441-2b33b063138f.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/94b3/live/0c6cc970-d9da-11f1-b441-2b33b063138f.jpg",
+   "titleKo": "'개인적인 감정은 아니다' - 투헬 감독, 팔머 제외에 대해 언급"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
@@ -3769,7 +3860,8 @@
    "date": 1793863040000,
    "cat": null,
    "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg",
+   "titleKo": "꼭 선택해야 할 선수인가, 아니면 믿을 수 없는 선수인가? 투헬의 팔머 딜레마"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/cmdx35len5ggo?at_medium=RSS&at_campaign=rss",
@@ -3779,7 +3871,8 @@
    "date": 1793808767000,
    "cat": null,
    "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/471b/live/961fea10-d860-11f1-85ab-b3cc3b5498c6.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/471b/live/961fea10-d860-11f1-85ab-b3cc3b5498c6.jpg",
+   "titleKo": "팔머는 페르난데스에게 몸을 부딪친 것에 대해 퇴장당했어야 했다 - 심판 위원회"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/cm0ldr0d460do?at_medium=RSS&at_campaign=rss",
@@ -3789,7 +3882,8 @@
    "date": 1793806980000,
    "cat": null,
    "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4b00/live/a166d930-d863-11f1-85ab-b3cc3b5498c6.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4b00/live/a166d930-d863-11f1-85ab-b3cc3b5498c6.jpg",
+   "titleKo": "첼시, 유럽 무대에서 에스토니아 팀에 충격패"
   },
   {
    "id": "https://latest.fotmob.com/2026/11/03/the-fotmob-totw-for-the-premier-league-md9s-best-xi-includes-rogers-palmer-and-van-hecke/",
@@ -3810,7 +3904,8 @@
    "date": 1793488709000,
    "cat": null,
    "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5749/live/35be7dd0-d581-11f1-b441-2b33b063138f.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5749/live/35be7dd0-d581-11f1-b441-2b33b063138f.jpg",
+   "titleKo": "'에스테바우가 드디어 첼시에 합류했습니다'"
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick",
@@ -3820,7 +3915,8 @@
    "group": "영국 언론",
    "date": 1793469259000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/7ff243a828768adc0fd29c9fe379af9194beed17/0_173_4427_3542/master/4427.jpg?width=140&quality=85&auto=format&fit=max&s=4e1b1db6923e5a6d483252967584e2ca"
+   "image": "https://i.guim.co.uk/img/media/7ff243a828768adc0fd29c9fe379af9194beed17/0_173_4427_3542/master/4427.jpg?width=140&quality=85&auto=format&fit=max&s=4e1b1db6923e5a6d483252967584e2ca",
+   "titleKo": "첼시와의 경기에서 패배한 맨체스터 유나이티드는 거의 존재하지 않는 클럽의 모습을 보여줍니다 | 바니 로네이(Barney Ronay)"
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
@@ -3830,7 +3926,8 @@
    "group": "영국 언론",
    "date": 1793465017000,
    "cat": "인터뷰",
-   "image": "https://i.guim.co.uk/img/media/8e9c77df7674dd42f99b922a40e2c3578ad3ce51/2_0_4412_3529/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=2446f86d0297c02cb3c1d92cd200fe83"
+   "image": "https://i.guim.co.uk/img/media/8e9c77df7674dd42f99b922a40e2c3578ad3ce51/2_0_4412_3529/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=2446f86d0297c02cb3c1d92cd200fe83",
+   "titleKo": "마이클 캐릭, 로마와의 경기에서도 맨체스터 유나이티드를 이끌 것이라고 주장"
   },
   {
    "id": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
@@ -3840,7 +3937,8 @@
    "group": "영국 언론",
    "date": 1793459234000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/144dbc6379564edc7d46c9b59f77070383a33ab5/181_47_2583_2067/master/2583.jpg?width=140&quality=85&auto=format&fit=max&s=e2a4165c91997fa80bb5d78e0b069bbe"
+   "image": "https://i.guim.co.uk/img/media/144dbc6379564edc7d46c9b59f77070383a33ab5/181_47_2583_2067/master/2583.jpg?width=140&quality=85&auto=format&fit=max&s=e2a4165c91997fa80bb5d78e0b069bbe",
+   "titleKo": "첼시 2-0 맨체스터 유나이티드: 프리미어리그 – 경기 결과"
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report",
@@ -3850,7 +3948,8 @@
    "group": "영국 언론",
    "date": 1793457756000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/5a56e290138ba3b14a3514de7e7fe982dd5f6caf/1131_739_1202_961/master/1202.jpg?width=140&quality=85&auto=format&fit=max&s=67c5ca7e892373161230f335bffba1a1"
+   "image": "https://i.guim.co.uk/img/media/5a56e290138ba3b14a3514de7e7fe982dd5f6caf/1131_739_1202_961/master/1202.jpg?width=140&quality=85&auto=format&fit=max&s=67c5ca7e892373161230f335bffba1a1",
+   "titleKo": "첼시전 패배와 마르티네스의 퇴장으로 맨체스터 유나이티드의 위기가 심화되다"
   },
   {
    "id": "https://thechelseablog.com/2026/10/31/chelsea-v-manchester-united-preview-15/",
@@ -3861,7 +3960,8 @@
    "date": 1793437200000,
    "cat": "프리뷰",
    "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2022/04/Chelsea-v-man-u.jpg"
+   "image": "https://thechelseablog.com/wp-content/uploads/2022/04/Chelsea-v-man-u.jpg",
+   "titleKo": "첼시 대 맨체스터 유나이티드: 경기 전 프리뷰"
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/31/how-to-watch-premier-league-chelsea-manchester-united",
@@ -4009,71 +4109,6 @@
    "titleKo": "카이세도와 헨더슨의 미드필더 파트너십은 첼시에 절실히 필요한 안정감을 선사했습니다.",
    "group": "공식·FotMob",
    "image": "https://latest.fotmob.com/wp-content/uploads/2026/10/Covers_Caicedo-Henderson-2310-1.png"
-  },
-  {
-   "id": "https://latest.fotmob.com/2026/10/20/the-fotmob-totw-for-the-premier-league-matchday-7s-best-xi-featuring-haaland-neto-and-wirtz/",
-   "title": "The FotMob TOTW for the Premier League: Matchday 7’s Best XI featuring Haaland, Neto, and Wirtz",
-   "link": "https://latest.fotmob.com/2026/10/20/the-fotmob-totw-for-the-premier-league-matchday-7s-best-xi-featuring-haaland-neto-and-wirtz/",
-   "source": "FotMob",
-   "date": 1792486069000,
-   "cat": "프리뷰",
-   "titleKo": "프리미어리그 FotMob TOTW: 홀란드, 네투, 비르츠가 포함된 7라운드 베스트 11",
-   "group": "공식·FotMob",
-   "image": "https://latest.fotmob.com/wp-content/uploads/2026/10/Covers_EPL-TOTW-2010-1.png"
-  },
-  {
-   "id": "https://www.telegraph.co.uk/football/2026/10/17/everton-vs-chelsea-live-score-latest-updates-premier-league/",
-   "title": "Steely Chelsea triumph despite losing Martinez to head injury",
-   "link": "https://www.telegraph.co.uk/football/2026/10/17/everton-vs-chelsea-live-score-latest-updates-premier-league/",
-   "source": "Telegraph",
-   "group": "영국 언론",
-   "date": 1792248301000,
-   "cat": "부상",
-   "image": "https://www.telegraph.co.uk/content/dam/football/2026/10/17/TELEMMGLPICT000507744479_17922435317460_trans_NvBQzQNjv4Bq79mo7mEwy8XJ_4un4cfCBNFiXVxbiWQfrr4Ka5QRzzs.jpeg"
-  },
-  {
-   "id": "https://thechelseablog.com/2026/10/17/everton-v-chelsea-preview-15/",
-   "title": "Everton v CHELSEA: Preview",
-   "link": "https://thechelseablog.com/2026/10/17/everton-v-chelsea-preview-15/",
-   "source": "The Chelsea Blog",
-   "group": "팬 블로그",
-   "date": 1792224000000,
-   "cat": "프리뷰",
-   "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2022/04/ed_1651339332-1000x600.jpg"
-  },
-  {
-   "id": "https://latest.fotmob.com/2026/10/17/preview-the-lunchtime-kick-off-sees-everton-entertain-chelsea/",
-   "title": "Preview: The lunchtime kick off sees Everton entertain Chelsea",
-   "link": "https://latest.fotmob.com/2026/10/17/preview-the-lunchtime-kick-off-sees-everton-entertain-chelsea/",
-   "source": "FotMob",
-   "date": 1792220838000,
-   "cat": "프리뷰",
-   "titleKo": "경기 프리뷰: 점심시간에 열리는 경기에서 에버턴이 첼시를 홈으로 맞이합니다.",
-   "group": "공식·FotMob",
-   "image": "https://latest.fotmob.com/wp-content/uploads/2026/10/Covers_Everton-Chelsea-1610-1.png"
-  },
-  {
-   "id": "https://latest.fotmob.com/2026/10/13/the-fotmob-totw-for-the-premier-league-matchday-6s-best-xi-features-henderson-anderson-and-rice/",
-   "title": "The FotMob TOTW for the Premier League: Matchday 6’s Best XI features Henderson, Anderson, and Rice",
-   "link": "https://latest.fotmob.com/2026/10/13/the-fotmob-totw-for-the-premier-league-matchday-6s-best-xi-features-henderson-anderson-and-rice/",
-   "source": "FotMob",
-   "date": 1791899971000,
-   "cat": "프리뷰",
-   "titleKo": "프리미어리그 FotMob TOTW: 6라운드 베스트 11에 헨더슨, 안데르손, 라이스가 이름을 올렸습니다.",
-   "group": "공식·FotMob",
-   "image": "https://latest.fotmob.com/wp-content/uploads/2026/10/Covers_EPL-TOTW-1310-1.png"
-  },
-  {
-   "id": "https://thechelseablog.com/2026/10/10/chelsea-v-bournemouth-preview-6/",
-   "title": "CHELSEA v Bournemouth: Preview",
-   "link": "https://thechelseablog.com/2026/10/10/chelsea-v-bournemouth-preview-6/",
-   "source": "The Chelsea Blog",
-   "group": "팬 블로그",
-   "date": 1791619200000,
-   "cat": "프리뷰",
-   "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2022/12/Chelsea-vs-Bournemouth-1000x600.jpeg"
   }
  ]
 }
