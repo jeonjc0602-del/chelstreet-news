@@ -1,5 +1,5 @@
 {
- "updated": 1795303137523,
+ "updated": 1795305396948,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -21,14 +21,14 @@
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 25,
+  "구글뉴스(한국어)": 26,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 10건"
+  "이번 상대": "Nottingham Forest · 새 기사 11건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -844,6 +844,29 @@
  },
  "items": [
   {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1dZTEpLd05aLXAzZlplSzdaZjZpdDk3OENVQXlzVmtmQ1IxQnlTYVJGckR1UGwtb3dSNW1STFlWRHVYbDJick1RX2JOM09haW8yN0pRRE5fenZzMVhJUEZQUzk2anhvT3kwNXZLUU5PbDcyMm5jbjJ3dkdUVG83X0ZJTVc0SFpSSWVFd1RGYw?oc=5",
+   "title": "리즈가 첼시를 꺾고 스탬퍼드 브리지에서 27년 만에 징크스를 깼다.",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1dZTEpLd05aLXAzZlplSzdaZjZpdDk3OENVQXlzVmtmQ1IxQnlTYVJGckR1UGwtb3dSNW1STFlWRHVYbDJick1RX2JOM09haW8yN0pRRE5fenZzMVhJUEZQUzk2anhvT3kwNXZLUU5PbDcyMm5jbjJ3dkdUVG83X0ZJTVc0SFpSSWVFd1RGYw?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795305152000,
+   "added": 1795305392364,
+   "cat": null,
+   "titleKo": "리즈가 첼시를 꺾고 스탬퍼드 브리지에서 27년 만에 징크스를 깼다."
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/videos/cqy7r0eg2y05o?at_medium=RSS&at_campaign=rss",
+   "title": "Chelsea have shown no progression under Alonso - Shearer",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqy7r0eg2y05o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "group": "영국 언론",
+   "date": 1795303738000,
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8348/live/387a2c90-e602-11f1-99a1-253766e7ad8b.jpg",
+   "added": 1795305392363,
+   "cat": null,
+   "titleKo": "첼시, 알론소 감독 체제에서 발전이 없었다 - 시어러"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySkp5dzJ5NUgzanRUcGlNZHEzdnVWZ1hfb2xvVzE2SWNpNF9yV0JhTjE1U1lpSEZLVHFlak9DOXJvYlF4UmNyUVA2dkUtMEpxcEVEU0JiTWJvM3hYdWfSAWNBVV95cUxPOHRvNndWMnA5V0pkSERLWF9sYW9oc0I3M2ZKaWNBU2ZmU09RYk1zZjEwVnZHa1lveHBSUlNFWEdzZ0sxRk93RC1yNlFVSVhKM2o1Q1BDNUE5eTFLcmFKYVBmX28?oc=5",
    "title": "‘3연패 충격’ 첼시, 리즈에 안방서 1-4 참패···알론소 감독 “선수단 정신적으로 취약한 상태”",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySkp5dzJ5NUgzanRUcGlNZHEzdnVWZ1hfb2xvVzE2SWNpNF9yV0JhTjE1U1lpSEZLVHFlak9DOXJvYlF4UmNyUVA2dkUtMEpxcEVEU0JiTWJvM3hYdWfSAWNBVV95cUxPOHRvNndWMnA5V0pkSERLWF9sYW9oc0I3M2ZKaWNBU2ZmU09RYk1zZjEwVnZHa1lveHBSUlNFWEdzZ0sxRk93RC1yNlFVSVhKM2o1Q1BDNUE5eTFLcmFKYVBmX28?oc=5",
@@ -900,6 +923,17 @@
    "added": 1795298432109,
    "cat": null,
    "titleKo": "(동영상): 콜 파머, 주앙 페드로와 '문화 코치'를 무시하고 팬들에게 인사하지 않음"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFZNakVMbkRNNGJGSEdiMFRGaGZOYTFaQzFRZC1VMWtxbzJLQ0JVb1FBLVFlaDRZeW9MV0VycDNaWHoyb3JqNEF5NUpTUGZwMHZ0WUJWa19pVkJGQ3pWcm9icUFHazFBemRXWmxBem5WRWZjRklMcG1MN2t6Y1JObi1BRVVHdF9yajd1Rk9LX2toMmg3WGV5Qm1tMDdyRzZHZ3F3WFJ0MV84VWxNZVE?oc=5",
+   "title": "PHOTOS: Harper Woods defeats Chelsea 42-15 in D3 semifinal",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFZNakVMbkRNNGJGSEdiMFRGaGZOYTFaQzFRZC1VMWtxbzJLQ0JVb1FBLVFlaDRZeW9MV0VycDNaWHoyb3JqNEF5NUpTUGZwMHZ0WUJWa19pVkJGQ3pWcm9icUFHazFBemRXWmxBem5WRWZjRklMcG1MN2t6Y1JObi1BRVVHdF9yajd1Rk9LX2toMmg3WGV5Qm1tMDdyRzZHZ3F3WFJ0MV84VWxNZVE?oc=5",
+   "source": "MLive.com",
+   "group": "영국 언론",
+   "date": 1795295880000,
+   "added": 1795305392364,
+   "cat": null,
+   "titleKo": "사진: 하퍼 우즈가 D3 준결승전에서 첼시를 42-15로 이겼습니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE80enk5MEtxN2FvVmRvUWtkSS1mcUdQX2VpdW43al8wRWFGN0RxRjdSMWxmY0dvNzg2ZzY1NlZ2RTFOWlJSZkFQVXdJVnVpaDAtbFdDeHktX25abk9RNi1pcTRkVGRVMjREYmI1RTBiTVBIdw?oc=5",
@@ -1957,6 +1991,17 @@
    "added": 1795272695718,
    "cat": null,
    "titleKo": "첼시 vs. 리즈 팀 소식: 스탬퍼드 브리지 대결을 위한 마이크 펜더스, 에밀리아노 마르티네스에 대한 결정"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONkpxdV9FWE1wbDBSNzJCSW9GQWFHV2ZYeVdnbGd0dkZ5TTI3SERqb2lWRk9VRUJrc2RKQk9Ddzc2OHU3aFh3NU9HS0NDMnh1MzVZWTJSV0RFbWpMcU1VT1U4YjVMQmhqRXhQZ1Y0QlRNQUdKdy1IRHA4OU5FN0VCMXhBbXM2T0Z2M1Mw?oc=5",
+   "title": "Confirmed Chelsea line up vs Leeds",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONkpxdV9FWE1wbDBSNzJCSW9GQWFHV2ZYeVdnbGd0dkZ5TTI3SERqb2lWRk9VRUJrc2RKQk9Ddzc2OHU3aFh3NU9HS0NDMnh1MzVZWTJSV0RFbWpMcU1VT1U4YjVMQmhqRXhQZ1Y0QlRNQUdKdy1IRHA4OU5FN0VCMXhBbXM2T0Z2M1Mw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795268700000,
+   "added": 1795305392365,
+   "cat": "오피셜",
+   "titleKo": "첼시 vs 리즈 유나이티드 선발 명단 확정"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbld3WHZYbDRObFRESDdTbkdoTjZNRDFzMGpaZDgzUGtVU1NfYTdaOUhSX3gzZ0dBOElRR1NJLXVvb0xXOUFVX09QX2JtN1gzLXNlUHBxdTRNRjBUMFktWUFiMkxkRUpOZU02RjltdElIQS1NVGh6ajlXazk3T0Q1V1B3?oc=5",
@@ -4151,51 +4196,6 @@
    "date": 1795125600000,
    "cat": "오피셜",
    "titleKo": "첼시 FC, 자라와 협력하여 아동복 컬렉션 출시 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDVHaU1tbTVxUTlFbUNlQjFhaE5NMUl4THZXS0Y1Nk1XeHQ3UmVDcm0zeVZQX1NaZ0RZRG5RaHViUUxxeDVxNlZLX2doVElJZGFBc3JsM0o1YW9FV1pUYldTcVJVQjJvem4tZjRLeDNIYnRvUGd6TVcyOHppYnNacGp4QnRjSWNU?oc=5",
-   "title": "Nine players could miss Chelsea's match against Leeds United with João Pedro a concern",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDVHaU1tbTVxUTlFbUNlQjFhaE5NMUl4THZXS0Y1Nk1XeHQ3UmVDcm0zeVZQX1NaZ0RZRG5RaHViUUxxeDVxNlZLX2doVElJZGFBc3JsM0o1YW9FV1pUYldTcVJVQjJvem4tZjRLeDNIYnRvUGd6TVcyOHppYnNacGp4QnRjSWNU?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795122721000,
-   "added": 1795230706373,
-   "cat": null,
-   "titleKo": "주앙 페드로의 부상이 우려되는 가운데, 첼시의 리즈 유나이티드와의 경기에서 9명의 선수가 결장할 수 있습니다."
-  },
-  {
-   "id": "https://www.theguardian.com/sport/2026/nov/19/dodgers-owner-mark-walter-set-to-sell-los-angeles-sparks-for-wnba-record-750m",
-   "title": "Dodgers owner Mark Walter set to sell Los Angeles Sparks for WNBA record $750m",
-   "link": "https://www.theguardian.com/sport/2026/nov/19/dodgers-owner-mark-walter-set-to-sell-los-angeles-sparks-for-wnba-record-750m",
-   "source": "The Guardian",
-   "group": "영국 언론",
-   "date": 1795120822000,
-   "cat": null,
-   "titleKo": "다저스 구단주 마크 월터, WNBA 사상 최고가인 7억 5천만 달러에 로스앤젤레스 스파크스 매각 예정",
-   "image": "https://i.guim.co.uk/img/media/1b435c476458e141625546dceb4a02726f867ecb/402_0_3995_3197/master/3995.jpg?width=140&quality=85&auto=format&fit=max&s=0ca12165fda1dc0f3badf4753df661b1"
-  },
-  {
-   "id": "https://talksport.com/football/4720230/jamie-gittens-chelsea-transfer-decision-serie-a/",
-   "title": "Chelsea warned over loss on £55m star as Serie A clubs eye January transfer",
-   "link": "https://talksport.com/football/4720230/jamie-gittens-chelsea-transfer-decision-serie-a/",
-   "source": "talkSPORT",
-   "date": 1795111588000,
-   "cat": "이적",
-   "titleKo": "세리에 A 구단들이 1월 이적을 염두에 두고 있는 가운데, 첼시가 5,500만 파운드(약 925억 원)짜리 스타 선수의 이적 가능성을 경고했습니다.",
-   "group": "영국 언론",
-   "imgTried": true,
-   "image": "https://talksport.com/wp-content/uploads/2026/11/crop-4720784.jpg?strip=all&quality=100&w=1865&h=1080&crop=1"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2pHTEpKRktuR2Y5aHBpTmpxTTNPOHJySHA5bF92RXFQczRnZThrY0sxUUpjV0hDWmNxY0U4WnJ6bFVuNnp6VXZCeGlZY3htS1RtMjN0UjhPb3M5elZ1VnlmZl8zbjdCem1BYUlFQXhqREc3Zzd2X1ZycDJ1VHBBZERkMG02eVg5U3pRRW1USlY1Nm8?oc=5",
-   "title": "Andrew Pennie signs first professional contract",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2pHTEpKRktuR2Y5aHBpTmpxTTNPOHJySHA5bF92RXFQczRnZThrY0sxUUpjV0hDWmNxY0U4WnJ6bFVuNnp6VXZCeGlZY3htS1RtMjN0UjhPb3M5elZ1VnlmZl8zbjdCem1BYUlFQXhqREc3Zzd2X1ZycDJ1VHBBZERkMG02eVg5U3pRRW1USlY1Nm8?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795111200000,
-   "added": 1795221030969,
-   "cat": "오피셜",
-   "titleKo": "앤드루 페니, 첫 프로 계약 체결"
   }
  ]
 }
