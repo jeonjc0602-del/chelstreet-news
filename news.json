@@ -1,34 +1,34 @@
 {
- "updated": 1795283120747,
+ "updated": 1795285419000,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 2,
+  "Sky Sports": 3,
   "talkSPORT": 4,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 9,
-  "The Sun": 3,
-  "Mirror": 2,
+  "Evening Standard": 10,
+  "The Sun": 4,
+  "Mirror": 3,
   "Daily Mail": 5,
   "Telegraph": 6,
   "Independent": 3,
   "Express": 0,
   "Sports Mole": 14,
-  "CaughtOffside": 0,
+  "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 1,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 18,
+  "구글뉴스(한국어)": 19,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 4건"
+  "이번 상대": "Nottingham Forest · 새 기사 5건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,36 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlRNc0pPREF3SkN6S0NhQ184SWJ0TGkyRDZHOEc2dXh3Um0xNU5WOTdBR0Rfc0l3U0hqcDhNUnlkY1I4d2ZncmllVHlycDl1cWFoNW1YeWpKTFBHbGtOUk01VHd5Y0ljWm5ybGN4VVIzdGo2aUpoNUVMQWlFZXFRWGpCUEhRSjJOaXNZMHpXMUVGZ0FNSnRoUDQzb2tZZDBjdy14dnctNlNBaW9tZHdZeEUwUQ?oc=5",
+    "title": "Oliver Glasner makes telling Nottingham Forest transfer admission after Bournemouth defeat",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlRNc0pPREF3SkN6S0NhQ184SWJ0TGkyRDZHOEc2dXh3Um0xNU5WOTdBR0Rfc0l3U0hqcDhNUnlkY1I4d2ZncmllVHlycDl1cWFoNW1YeWpKTFBHbGtOUk01VHd5Y0ljWm5ybGN4VVIzdGo2aUpoNUVMQWlFZXFRWGpCUEhRSjJOaXNZMHpXMUVGZ0FNSnRoUDQzb2tZZDBjdy14dnctNlNBaW9tZHdZeEUwUQ?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795284615000,
+    "added": 1795285403095,
+    "tag": "상대 소식",
+    "titleKo": "올리버 글라스너 감독, 본머스전 패배 후 노팅엄 포레스트 이적 관련 발언"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEo4cnU5STJfcWJudDcyYkxzU1pyUDBLUWFuckcwWFBWVTZMakJDMFRJTlJ5YWYweUZkRDZPay1acDVjNHBfSTZzZ1Q0T1JqOVpjYV9LZEV0eS0zbXVNUGlCZ1lXUVVKY0I2OGZURkJiQnd1NS1YY2JqTjFyX2Z0X1FzTmRZX1NtY19pTjZVY2F1Um5QZjJUd3JhczRhT3J6V0M4ei1ZWWpobnhUOWRKSHcyUdIBuAFBVV95cUxNY2xKbnk5bVo4Zi1nN0Z6QncyOHAzMWJZQk9kNHR0VGhaTkhCbmdpRXdJZ2I5WXo0V0Q0RFZkRXVFLXQ0d0pZVk5LaEI3YlJjNlg1Q0c1eDV5NWE1bXFMODh3cUJOcEU4enRLSjZSMUFCdm9mQXJlQ3lzNTY3Y3Y4U3ZJMUJvaHcyakVOd1o2ZjBCVGpTSFpqTVFKQTlydTNYSkxPTk9FT1dNRGlPVU5RWUtmYUpQME1N?oc=5",
+    "title": "Brutal chant summed up miserable Nottingham Forest afternoon as Bournemouth loss a step back",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEo4cnU5STJfcWJudDcyYkxzU1pyUDBLUWFuckcwWFBWVTZMakJDMFRJTlJ5YWYweUZkRDZPay1acDVjNHBfSTZzZ1Q0T1JqOVpjYV9LZEV0eS0zbXVNUGlCZ1lXUVVKY0I2OGZURkJiQnd1NS1YY2JqTjFyX2Z0X1FzTmRZX1NtY19pTjZVY2F1Um5QZjJUd3JhczRhT3J6V0M4ei1ZWWpobnhUOWRKSHcyUdIBuAFBVV95cUxNY2xKbnk5bVo4Zi1nN0Z6QncyOHAzMWJZQk9kNHR0VGhaTkhCbmdpRXdJZ2I5WXo0V0Q0RFZkRXVFLXQ0d0pZVk5LaEI3YlJjNlg1Q0c1eDV5NWE1bXFMODh3cUJOcEU4enRLSjZSMUFCdm9mQXJlQ3lzNTY3Y3Y4U3ZJMUJvaHcyakVOd1o2ZjBCVGpTSFpqTVFKQTlydTNYSkxPTk9FT1dNRGlPVU5RWUtmYUpQME1N?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795283391000,
+    "added": 1795285403095,
+    "tag": "상대 소식",
+    "titleKo": "브루탈 찬트가 보르넘우스의 패배로 한 걸음 뒤로 물러난 비참한 노팅엄 포레스트의 오후를 요약했습니다."
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVk12eFJ3ak5FdmYxdGcwY0tUaWFhdVVTMUViTUprenVYemJnNVhaUjltdlpsd0JWWnNuQXNza1VqZzUwMGswcTlwdGNFaFNTT0pYVUpHeTEwNkRacFZZMnI5MFprRmNLNTFVQzNsd1kyN1dHc0RrdDRyM3ZPOUxjVVlGVGZILW9GN3E2MlZQYXo2akxKczdCVHJaZ3AtaHV0cnpJVndJV21FN1U?oc=5",
+    "title": "Evanilson leads Bournemouth to victory over Nottingham Forest",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVk12eFJ3ak5FdmYxdGcwY0tUaWFhdVVTMUViTUprenVYemJnNVhaUjltdlpsd0JWWnNuQXNza1VqZzUwMGswcTlwdGNFaFNTT0pYVUpHeTEwNkRacFZZMnI5MFprRmNLNTFVQzNsd1kyN1dHc0RrdDRyM3ZPOUxjVVlGVGZILW9GN3E2MlZQYXo2akxKczdCVHJaZ3AtaHV0cnpJVndJV21FN1U?oc=5",
+    "source": "Daily Mail",
+    "date": 1795282696000,
+    "added": 1795285403095,
+    "tag": "상대 소식",
+    "titleKo": "에바닐송, 본머스의 노팅엄 포레스트전 승리를 이끌다"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzZpRWxOVlZBemJGQU9EWGtZSGV0MGh5UC1WZ09JUXhOckxfVXFUSUhrSzlIc2NoZlJKRFM3dllTS1pCZ2x4THlEVlVOM2YtbTNyWGZRS2FZektPeDgtUGowVGVBY1h3dWNxZjZnaVpuLUwtS2tlWXhMMm1aQ2lGN2JaSGd4bEZaMkQ5X2lYWQ?oc=5",
     "title": "Bournemouth vs Nottingham Forest player ratings – Kluivert stars",
@@ -69,6 +99,16 @@
     "added": 1795280706241,
     "tag": "상대 소식",
     "titleKo": "본머스 2-0 노팅엄 포레스트"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XS3hzZ0RWOVpzYVpDaDlyQWZDQnZyMWVvYTQzcUZhRE83RUVIeE5HZFJzaWozSzVsY2NUUHVrN29iS0gyRXBYVnRsTEZxZGhTVzFwbk5HaG8zOTNVV0FrSjFIcHE1SG5STTY1alM4M1h4d085NHJERUFlVQ?oc=5",
+    "title": "Nottingham Forest - Chelsea",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XS3hzZ0RWOVpzYVpDaDlyQWZDQnZyMWVvYTQzcUZhRE83RUVIeE5HZFJzaWozSzVsY2NUUHVrN29iS0gyRXBYVnRsTEZxZGhTVzFwbk5HaG8zOTNVV0FrSjFIcHE1SG5STTY1alM4M1h4d085NHJERUFlVQ?oc=5",
+    "source": "Arsenal Mania",
+    "date": 1795280352000,
+    "added": 1795285403094,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 - 첼시"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBQc0MxNndqNGxMQ3Z4V0ppOEFCUk85dmZ6NF9rTFJhczRNSnU5bE0zX1AxanlCWmlCSmc1MWxSVi1ydHJzc3loRU5QOVNkSEdaN211bXJ5SWc1WFh3eVJiejF2cHVQWTJFRUdHYk0xSWtoRVBMTzZmZTBIRmNNTjRuTC1XaHFSalE?oc=5",
@@ -671,6 +711,16 @@
     "titleKo": "올리버 글라스너 감독이 선수들의 체력 문제를 우려하는 가운데, 노팅엄 포레스트 XI 대 본머스의 예상 선발 명단"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQk9MNGNjN1gxOWhmWnIxdFdOMXpvYTNMdmNweXRGaGVyVWJBVXVJWU9DYXVXVlA2Uzhkc0RnQW01cW90S29tT2hiNmhqXzcteGU1M3RQTTJqVmlpMFRFM25qaDVSbTFYdmhhdHpDMkpnbWxFRUZRcU1MNVZ0Wk9ndjJ0MmhLY01YblEyQ09jNFNDMWVFYWItcEJnS0w5UmZNSnlzQXQ0amFpNjdoY1hEaE1B?oc=5",
+    "title": "Nottingham Forest man addresses future and sets out transfer 'dream'",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQk9MNGNjN1gxOWhmWnIxdFdOMXpvYTNMdmNweXRGaGVyVWJBVXVJWU9DYXVXVlA2Uzhkc0RnQW01cW90S29tT2hiNmhqXzcteGU1M3RQTTJqVmlpMFRFM25qaDVSbTFYdmhhdHpDMkpnbWxFRUZRcU1MNVZ0Wk9ndjJ0MmhLY01YblEyQ09jNFNDMWVFYWItcEJnS0w5UmZNSnlzQXQ0amFpNjdoY1hEaE1B?oc=5",
+    "source": "Nottingham Post",
+    "date": 1794996304000,
+    "added": 1795285403095,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 선수, 자신의 미래에 대해 언급하며 이적 '꿈'을 밝히다"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0tReVZuSHVWZHJwdzlsVGxfdXNhLWZLclBvREV5N2hSQkluT1haZjRzODBZdjlrdXh3VTB3RnVCUDJuYTBfTWN6dERWT3BidjdpckoxOEpabFNVM1Y1aDlpV0xFNXJMY280N3U2Y05lVDExdHRGeFI2MzNtSVVlYXVnLWRNajJLdFHSAY8BQVVfeXFMT0ktQ3hYVTh0RHVwUGYwMG00OFFPMWxYd0RPMUp4cTlmQVYwaElHYzJubTh4YWIzMzFqWDNidk1FVnNMbHdmc0daNDU2SHlGZWRLX21YUzhkVlpKTmprTW9CNVlhOVc4TFJqRmx0LXV2TDF3cFh1S2JvNnlJTEl1TERGZmJLTUYxcFR1dTBDVHM?oc=5",
     "title": "Juan Mata retires immediately as Man Utd and Chelsea rush to pay tribute to legend",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0tReVZuSHVWZHJwdzlsVGxfdXNhLWZLclBvREV5N2hSQkluT1haZjRzODBZdjlrdXh3VTB3RnVCUDJuYTBfTWN6dERWT3BidjdpckoxOEpabFNVM1Y1aDlpV0xFNXJMY280N3U2Y05lVDExdHRGeFI2MzNtSVVlYXVnLWRNajJLdFHSAY8BQVVfeXFMT0ktQ3hYVTh0RHVwUGYwMG00OFFPMWxYd0RPMUp4cTlmQVYwaElHYzJubTh4YWIzMzFqWDNidk1FVnNMbHdmc0daNDU2SHlGZWRLX21YUzhkVlpKTmprTW9CNVlhOVc4TFJqRmx0LXV2TDF3cFh1S2JvNnlJTEl1TERGZmJLTUYxcFR1dTBDVHM?oc=5",
@@ -789,30 +839,103 @@
     "added": 1795277863027,
     "tag": "상대 소식",
     "titleKo": "첼시 감독직: 알렉스 스콧이 1억 6천만 파운드의 더블 딜로 영입되고 세 명의 선수가 방출됨"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQnFnNVV2VUNxcXFDQlVoX0xqc2dWRHdiZG5JakkteUhvbEhTU3k2c0xxZVgtUElac1Jyc1laTmdoM2xJT2F5aElhbGJJbkNnSWI1UXc4NlZ0QlU5LW52RTJIMG1ab3RWR0dUVWhPdFF3ekxxLTYwVERPMV9zY1NORzU0Sk8xSkxCR0pHUjhMSXZENTRJU0k1WjZHYWxIaVZDblByWlRYbVpVUnAzMXfSAbMBQVVfeXFMUDdBc3QwSlFWZ1dEYWVkd2hiRkRrb0RLNW5UbUNTZDlzc001SGRTMHVXc3RhRjNIMGdJYlFTLTVhdmV6UTQ4TTNPUDlRZ1VGSWJIYlpYN2FzZFZXdmhtZ3NZd2x1Wkx0R2ZOWTZmU1M5RVZjREhZekFBSmxFa3NKX25uaUVQLWRoZzBuaTQxMjloMWo5SFFBQUFMRVYtZVhhcFJqR09xWlFWc2V4QU9Ec0FIZkE?oc=5",
-    "title": "Managing Arsenal: Chelsea deal agreed to fund £80m January transfer",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQnFnNVV2VUNxcXFDQlVoX0xqc2dWRHdiZG5JakkteUhvbEhTU3k2c0xxZVgtUElac1Jyc1laTmdoM2xJT2F5aElhbGJJbkNnSWI1UXc4NlZ0QlU5LW52RTJIMG1ab3RWR0dUVWhPdFF3ekxxLTYwVERPMV9zY1NORzU0Sk8xSkxCR0pHUjhMSXZENTRJU0k1WjZHYWxIaVZDblByWlRYbVpVUnAzMXfSAbMBQVVfeXFMUDdBc3QwSlFWZ1dEYWVkd2hiRkRrb0RLNW5UbUNTZDlzc001SGRTMHVXc3RhRjNIMGdJYlFTLTVhdmV6UTQ4TTNPUDlRZ1VGSWJIYlpYN2FzZFZXdmhtZ3NZd2x1Wkx0R2ZOWTZmU1M5RVZjREhZekFBSmxFa3NKX25uaUVQLWRoZzBuaTQxMjloMWo5SFFBQUFMRVYtZVhhcFJqR09xWlFWc2V4QU9Ec0FIZkE?oc=5",
-    "source": "Daily Express",
-    "date": 1794724200000,
-    "added": 1795277863028,
-    "tag": "상대 소식",
-    "titleKo": "아스널 경영: 첼시와 1월 이적 자금 8천만 파운드 지원에 합의"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXNIVklhN3E5eXQtVWMtTzk4Mm5Welltb3RNNmhkdjJmZl9RVFhCYmdpWUVWWjlxZFJyRExrWDlzRXNoaFJQYjlLdUJXWWpBbWdCR05mbmlrd2FLMXgtYXYtUGRoRFZ5WG8wN3g2Vng0eE5QM2g2TC1hb1VHNlRSUjdYZEx5U0lLUDNQU2Vldm41cFhuQnRLLWdVTUZwUDkwWV9VbGdqX2hwT2RFbFhTMi11RQ?oc=5",
-    "title": "Nottingham Forest - Chelsea 3-0",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXNIVklhN3E5eXQtVWMtTzk4Mm5Welltb3RNNmhkdjJmZl9RVFhCYmdpWUVWWjlxZFJyRExrWDlzRXNoaFJQYjlLdUJXWWpBbWdCR05mbmlrd2FLMXgtYXYtUGRoRFZ5WG8wN3g2Vng0eE5QM2g2TC1hb1VHNlRSUjdYZEx5U0lLUDNQU2Vldm41cFhuQnRLLWdVTUZwUDkwWV9VbGdqX2hwT2RFbFhTMi11RQ?oc=5",
-    "source": "Flashscore.com",
-    "date": 1794713989000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 - 첼시 3-0"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.caughtoffside.com/2026/11/21/leeds-ace-calvert-lewin-aims-dig-at-chelsea/",
+   "title": "“They couldn’t handle it” – Leeds star aims dig at Chelsea, admits he expected “more” from Blues",
+   "link": "https://www.caughtoffside.com/2026/11/21/leeds-ace-calvert-lewin-aims-dig-at-chelsea/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795284873000,
+   "image": "https://icdn.caughtoffside.com/2026/11/COS-Featured_Hero-Image-Templates-9-1.jpg",
+   "added": 1795285401221,
+   "cat": "인터뷰",
+   "titleKo": "\"그들은 감당하지 못했습니다\" – 리즈의 스타 선수가 첼시를 비판하며 블루스에게 \"더 많은 것\"을 기대했다고 인정했습니다."
+  },
+  {
+   "id": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-speaks-out-chelsea-37902513",
+   "title": "Xabi Alonso speaks out as Chelsea fans turn on manager after Leeds thrashing",
+   "link": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-speaks-out-chelsea-37902513",
+   "source": "Mirror",
+   "group": "영국 언론",
+   "date": 1795284812000,
+   "image": "https://i2-prod.mirror.co.uk/incoming/article37902515.ece/ALTERNATES/s615/0_GettyImages-2306225902jpgea.jpg",
+   "added": 1795285401221,
+   "cat": "인터뷰",
+   "titleKo": "샤비 알론소, 리즈전 대패 후 첼시 팬들이 감독을 비난하자 입을 열다"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41101749/chelsea-1-4-leeds-reaction-cole-palmer-xabi-alonso/",
+   "title": "Three points from Chelsea’s 4-1 defeat to Leeds with Cole Palmer among big names becoming major problem for Xabi Alonso",
+   "link": "https://www.thesun.co.uk/sport/41101749/chelsea-1-4-leeds-reaction-cole-palmer-xabi-alonso/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795284750000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Feditorial-use-no-use-unauthorised-1124699751.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795285401221,
+   "cat": null,
+   "titleKo": "콜 파머를 비롯한 유명 선수들이 자비 알론소 감독에게 큰 골칫거리가 된 가운데, 첼시가 리즈에 4-1로 패하며 3점을 잃었습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHR5cTZMWXVIQ2lSMWM4QW1UQ1E4cWd1U1hFWDVCOHlNdzBmWHFHdmFLRkZ0N1pOYmNtZkRKTDd5LWlXNXpOZG1EMEFaSGFZNG5OM0pqSmFsOTJVNGZwRWxtdDQtTGZ1SmU0WWVJbHNlVEVJaVptN0VfbVRYcGNMR2xFRlVCbktqc2NIN2ZETi1aaWgwZFE?oc=5",
+   "title": "Three points from Chelsea's 4-1 loss to Leeds with Cole Palmer becoming problem",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHR5cTZMWXVIQ2lSMWM4QW1UQ1E4cWd1U1hFWDVCOHlNdzBmWHFHdmFLRkZ0N1pOYmNtZkRKTDd5LWlXNXpOZG1EMEFaSGFZNG5OM0pqSmFsOTJVNGZwRWxtdDQtTGZ1SmU0WWVJbHNlVEVJaVptN0VfbVRYcGNMR2xFRlVCbktqc2NIN2ZETi1aaWgwZFE?oc=5",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795284720000,
+   "added": 1795285401221,
+   "cat": null,
+   "titleKo": "첼시가 리즈에 1-4로 패하며 3점을 잃고, 콜 파머가 문제로 떠오르다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmJ2WUs1Q1VHWmw2N2NBVTdTa3NlbXFkbTFndW5TRWlUeFpBc1ZsczdOak1leEdMbjFnakUxOUwybzJmekVwVVkzQV9WODIyM25uZXlyMVQtTE83VjZuclhwLXJpdk5LX1UwTm5Oc3BQUXpjLXVnSnJadkIxM2RqT1NWXzZOUkI0c2NFUUEzcUx1YjhxU1N3UUIzVWZjTm5hZkYyYtIBqgFBVV95cUxNSlpTY1FnRDdVWmJLMnpCUTdlQ3ZvUE9mSnNBODR2N21TbWFMSkJFcFNlN213QzR1S0RSZ09rTFVwQVZKNml4Umx1TmxOamtBeS1rRXpvMElFa3BRN25CTXB5N0NEM1ktNFRoSVVyM1lINTFyV1NIU0tOSkcxWVVjVmh1TFpBRDBRVHNUOVYyelV2bnBITkI0dlUwRHVZYXN3aUg2cngyZTE1QQ?oc=5",
+   "title": "Dominic Calvert-Lewin names Chelsea weakness after Leeds United win",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmJ2WUs1Q1VHWmw2N2NBVTdTa3NlbXFkbTFndW5TRWlUeFpBc1ZsczdOak1leEdMbjFnakUxOUwybzJmekVwVVkzQV9WODIyM25uZXlyMVQtTE83VjZuclhwLXJpdk5LX1UwTm5Oc3BQUXpjLXVnSnJadkIxM2RqT1NWXzZOUkI0c2NFUUEzcUx1YjhxU1N3UUIzVWZjTm5hZkYyYtIBqgFBVV95cUxNSlpTY1FnRDdVWmJLMnpCUTdlQ3ZvUE9mSnNBODR2N21TbWFMSkJFcFNlN213QzR1S0RSZ09rTFVwQVZKNml4Umx1TmxOamtBeS1rRXpvMElFa3BRN25CTXB5N0NEM1ktNFRoSVVyM1lINTFyV1NIU0tOSkcxWVVjVmh1TFpBRDBRVHNUOVYyelV2bnBITkI0dlUwRHVZYXN3aUg2cngyZTE1QQ?oc=5",
+   "source": "Metro.co.uk",
+   "group": "영국 언론",
+   "date": 1795284480000,
+   "added": 1795285401221,
+   "cat": null,
+   "titleKo": "도미닉 칼버트-르윈, 리즈 유나이티드전 승리 후 첼시의 약점 지적"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/alonso-chelsea-fc-sack-prediction-b1305841.html",
+   "title": "Xabi Alonso’s Chelsea sack prediction could come true as Leeds expose everything wrong with BlueCo project",
+   "link": "https://www.standard.co.uk/sport/football/alonso-chelsea-fc-sack-prediction-b1305841.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795284032000,
+   "image": "https://static.standard.co.uk/2026/11/21/17/01M7ZG8Q4N9Q7P9SY0KZ7D7Q54.jpg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795285401221,
+   "cat": null,
+   "titleKo": "사비 알론소의 첼시 경질 예측이 현실화될 수 있습니다. 리즈가 블루코 프로젝트의 모든 문제점을 폭로했기 때문입니다."
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/videos/c5vg2wwepp9eo?at_medium=RSS&at_campaign=rss",
+   "title": "Xabi Alonso post-match interview - Chelsea v Leeds United",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5vg2wwepp9eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "group": "영국 언론",
+   "date": 1795283463000,
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/70e1/live/646ad860-e5d3-11f1-a094-5fdc692f3e33.jpg",
+   "added": 1795285401220,
+   "cat": "인터뷰",
+   "titleKo": "사비 알론소 경기 후 인터뷰 - 첼시 vs 리즈 유나이티드"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45YmhmamhCYm5ybXNWWk9tTDZyX29UYV9WU1lqWTE0TUJiSlhRYjhVZmhXUG11NjcyRVpXQXNsMmo3R0hzZXp6UnlxNVBLTDRWNk1OT1B5bGFGQkU0b19SZnQzRjc4cExp?oc=5",
+   "title": "Premier League: Chelsea 1-4 Leeds United - Xabi Alonso post-match interview",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45YmhmamhCYm5ybXNWWk9tTDZyX29UYV9WU1lqWTE0TUJiSlhRYjhVZmhXUG11NjcyRVpXQXNsMmo3R0hzZXp6UnlxNVBLTDRWNk1OT1B5bGFGQkU0b19SZnQzRjc4cExp?oc=5",
+   "source": "BBC",
+   "group": "영국 언론",
+   "date": 1795283463000,
+   "added": 1795285401221,
+   "cat": "인터뷰",
+   "titleKo": "프리미어리그: 첼시 1-4 리즈 유나이티드 - 사비 알론소 경기 후 인터뷰"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnNYWElwTlBZZS1VYkNhUEI4WFJJNDB1NjdGXzdFNG5STFlXTjNBUGJvbGdyVklJY0NCYktGa01xRnFfRlgxd1RsTWRqUlI0Y3RUaGtkZHA0S1BzYzRVMm1wN1ZTbkxEZ3JiS01CdmZ5anNCSWktcWxQbTdEbnJucU5PU1I0OUNjVFUyRUd2RWJIQTQ?oc=5",
    "title": "Alonso’s sack prediction may come true as Leeds expose Chelsea project",
@@ -835,6 +958,39 @@
    "added": 1795283105237,
    "cat": null,
    "titleKo": "첼시전 승리로 '역사를 만든' 리즈 - 파르케 감독"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnVYNV9YMUhWYkNXakhCbmxCeFBJZ255ZnlkbUY1LS1SRkc5bldtbFFUX2djVVdBMmJ1YWM2TXNDTE43eVpTaF9CN2RMMWJ5TXdZVGVSb2xFUXpqTlltbGZQN25QX1doZkVXNzNTVU9pa1FydlZ3RENZNy1RT2V5S0xiNmNydmdzQldMUHU0WTlRT2NrUXQydFBrM2M4M1huMHdRdlBwUlXSAa4BQVVfeXFMUDRxWkY5bElmYU5oVW1SVUxDbExmUDhDMU9vTXN4SWowTXNEQWI1aFZkS0RJWWdVSVBFaURlVWVHMHJKY2J1bzRnLXk4c3dZM2VqVW5Wa3pIYTI5cWJVRlo5RTZNcTRLZmtWdHpUVVFfYXByNEZ2SnRFT2dfeG5iTVFMUVZOaDhvRzRLQzVrMFRsYTNDQWJacTZGZ0hfd1pFOHJYY0hpazZ4RmliZTNR?oc=5",
+   "title": "Cole Palmer in angry exchange with injured Chelsea teammate after Leeds defeat",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnVYNV9YMUhWYkNXakhCbmxCeFBJZ255ZnlkbUY1LS1SRkc5bldtbFFUX2djVVdBMmJ1YWM2TXNDTE43eVpTaF9CN2RMMWJ5TXdZVGVSb2xFUXpqTlltbGZQN25QX1doZkVXNzNTVU9pa1FydlZ3RENZNy1RT2V5S0xiNmNydmdzQldMUHU0WTlRT2NrUXQydFBrM2M4M1huMHdRdlBwUlXSAa4BQVVfeXFMUDRxWkY5bElmYU5oVW1SVUxDbExmUDhDMU9vTXN4SWowTXNEQWI1aFZkS0RJWWdVSVBFaURlVWVHMHJKY2J1bzRnLXk4c3dZM2VqVW5Wa3pIYTI5cWJVRlo5RTZNcTRLZmtWdHpUVVFfYXByNEZ2SnRFT2dfeG5iTVFMUVZOaDhvRzRLQzVrMFRsYTNDQWJacTZGZ0hfd1pFOHJYY0hpazZ4RmliZTNR?oc=5",
+   "source": "Metro.co.uk",
+   "group": "영국 언론",
+   "date": 1795282620000,
+   "added": 1795285401221,
+   "cat": "부상",
+   "titleKo": "콜 파머, 리즈전 패배 후 부상당한 첼시 팀 동료와 격렬한 언쟁"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzZQaEU1bF8yMFlqSTJPblFxNVZMTjdnRXV4TFVSSHF4ZzhMUm9ZTG5KalVZTUt4TmxjeG1GZEhETEpOQUd2a0p1ZUpyYnRFX2ZaN3NaaFpmUkdHVDlEVWpLWWpTc1J2TVhjeUJrRll5c2x5RFRabVlUVTJtci1WN2M1YUlsaDhacVdLYWEtbnBWNG9iTkoydG1zaUNDbm5Scnc?oc=5",
+   "title": "Chelsea 1-4 Leeds United | Premier League highlights",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzZQaEU1bF8yMFlqSTJPblFxNVZMTjdnRXV4TFVSSHF4ZzhMUm9ZTG5KalVZTUt4TmxjeG1GZEhETEpOQUd2a0p1ZUpyYnRFX2ZaN3NaaFpmUkdHVDlEVWpLWWpTc1J2TVhjeUJrRll5c2x5RFRabVlUVTJtci1WN2M1YUlsaDhacVdLYWEtbnBWNG9iTkoydG1zaUNDbm5Scnc?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795282199000,
+   "added": 1795285401221,
+   "cat": null,
+   "titleKo": "첼시 1-4 리즈 유나이티드 | 프리미어리그 하이라이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XYkhrODdxSkV1ZWVFSDkzdnlLQ0VhR2NKSDc1dDBJYzVOaEJKUnpqRmtabWRkR1dFNENEWEJySm9TVTFBTXYwb2pYQ1pfbEhiVHAxVUVQcDAxTDAzSUIySzVxZDdzdzI4ZVZPYXNn?oc=5",
+   "title": "관계의 흔적을 예술로 엮다… 김사라 작가, 뉴욕 첼시에서 선보이는 감정의 풍경",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XYkhrODdxSkV1ZWVFSDkzdnlLQ0VhR2NKSDc1dDBJYzVOaEJKUnpqRmtabWRkR1dFNENEWEJySm9TVTFBTXYwb2pYQ1pfbEhiVHAxVUVQcDAxTDAzSUIySzVxZDdzdzI4ZVZPYXNn?oc=5",
+   "source": "아트코리아방송",
+   "group": "한국 언론",
+   "date": 1795282199000,
+   "added": 1795285401221,
+   "cat": null,
+   "titleKo": "관계의 흔적을 예술로 엮다… 김사라 작가, 뉴욕 첼시에서 선보이는 감정의 풍경"
   },
   {
    "id": "https://www.thesun.co.uk/sport/41098389/chelsea-player-ratings-emmanuel-emegha-wesley-fofana-leeds/",
@@ -883,6 +1039,17 @@
    "added": 1795283105237,
    "cat": null,
    "titleKo": "알론소, 리즈의 거센 공격에 무너진 첼시의 굴욕적인 경기에서 야유를 받다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU9PbUU2a1ZhSzkxdnZBaXZKMkNjdFlFME1IWV9wNXZtay00c2pTcUZ5dUZkb2djRWZCbWpJUTJZeVNtRm5NcTBOaUU1MjdaeUowMHVvX0gzNnRxLVdKa0J6UG5ObU9USzFKakxwQlpmRjNDWGpFOTR4MEg0UEFPVnI5VS1wdTJjZFJZ?oc=5",
+   "title": "선제골 넣고 4골이나 얻어맞았다...첼시, 리즈에 1-4 충격 역전패 '사비 알론소 체제 벌써 리그 5패'",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU9PbUU2a1ZhSzkxdnZBaXZKMkNjdFlFME1IWV9wNXZtay00c2pTcUZ5dUZkb2djRWZCbWpJUTJZeVNtRm5NcTBOaUU1MjdaeUowMHVvX0gzNnRxLVdKa0J6UG5ObU9USzFKakxwQlpmRjNDWGpFOTR4MEg0UEFPVnI5VS1wdTJjZFJZ?oc=5",
+   "source": "조선일보",
+   "group": "한국 언론",
+   "date": 1795281300000,
+   "added": 1795285401221,
+   "cat": null,
+   "titleKo": "선제골 넣고 4골이나 얻어맞았다...첼시, 리즈에 1-4 충격 역전패 '사비 알론소 체제 벌써 리그 5패'"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yVjdqbFR2VmM5UUFVaXVuVUdRS1pqWFhhMzFOUTBtajFGY1dxTWpmMHg3dFZjb2RqTWdxUnpvQWRzbnlmb1Nyci1vaC1kVF9Ha0pTVGJodGVZalFBZmlmSkRaMWRTaFQ5MFHSAW9BVV95cUxPblZPVGx5bG9NTjJVYU4wQjBTN1liUWZGUTc3RUQwQ2J2amd4UmtFTm11ZUlWd1JDQm9wNE5GU1lORXU4c1RHVmlma3RtZ0o3RjhxWXo3aHhqYms2VmhZdUE4Y0NydU1SazFvc0p6NXM?oc=5",
@@ -942,6 +1109,17 @@
    "titleKo": "첼시 선수 평점(리즈전): 블루스가 굴욕을 당한 가운데, 팔머는 존재감이 없었습니다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUxZUDlONkp6SXFURGpma0JkOWRHc2FlYno2WVRXbmpXNlowbTExV29SZVNoNm9lU1ZQUWlDcXMycy1FRHB2SzVjS2RTbDQ2WkFTQWFIcjhLNWR1OHBwV2d1Sy1sdFJlZXhRQ0Z4bEdBamlLWlRYcWhXSXpReWM3cGdTRUwyUU1oVEI3MTlmVjV2RUk?oc=5",
+   "title": "Is the pressure growing for Xabi Alonso after Leeds’s first win at Chelsea since 1999?",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUxZUDlONkp6SXFURGpma0JkOWRHc2FlYno2WVRXbmpXNlowbTExV29SZVNoNm9lU1ZQUWlDcXMycy1FRHB2SzVjS2RTbDQ2WkFTQWFIcjhLNWR1OHBwV2d1Sy1sdFJlZXhRQ0Z4bEdBamlLWlRYcWhXSXpReWM3cGdTRUwyUU1oVEI3MTlmVjV2RUk?oc=5",
+   "source": "The New York Times",
+   "group": "영국 언론",
+   "date": 1795280636000,
+   "added": 1795285401221,
+   "cat": null,
+   "titleKo": "1999년 이후 리즈가 첼시를 상대로 거둔 첫 승리 이후 사비 알론소 감독에게 가해지는 압박이 커지고 있나요?"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlY5NUt0aWwyUHI0bkJqbkN5LTJNMThTaGhaV0ExNFpybndqQkpPNWZ2bkVGWS1xbTRCQTBRaS1pbVI3eVdGQVhmaUhpcW1VcVNyUFd3dFh3WS11Y0F5Zk5KTkV6bDJEVDdacEJzM3hGT2xZdHQ3VlA5dWpLZmtGTXZtSms0UzkyeXAxcG5mX0JwWFptNjZEQUxodHYtQQ?oc=5",
    "title": "'We need more belief in front of goal' | Video",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlY5NUt0aWwyUHI0bkJqbkN5LTJNMThTaGhaV0ExNFpybndqQkpPNWZ2bkVGWS1xbTRCQTBRaS1pbVI3eVdGQVhmaUhpcW1VcVNyUFd3dFh3WS11Y0F5Zk5KTkV6bDJEVDdacEJzM3hGT2xZdHQ3VlA5dWpLZmtGTXZtSms0UzkyeXAxcG5mX0JwWFptNjZEQUxodHYtQQ?oc=5",
@@ -951,6 +1129,18 @@
    "added": 1795280705676,
    "cat": null,
    "titleKo": "'골문 앞에서 더 자신감을 가져야 합니다' | 동영상"
+  },
+  {
+   "id": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "title": "Leeds latest: Chelsea couldn't handle our intensity, says Calvert-Lewin",
+   "link": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795280400000,
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402",
+   "added": 1795285401220,
+   "cat": "인터뷰",
+   "titleKo": "리즈 유나이티드 최신 소식: 칼버트-루윈, \"첼시는 우리의 강도 높은 플레이를 감당하지 못했다\"고 말해"
   },
   {
    "id": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/559547",
@@ -3970,158 +4160,6 @@
    "cat": null,
    "image": "https://i2-prod.football.london/incoming/article34929063.ece/ALTERNATES/s615/0_GettyImages-2294883228.jpg",
    "titleKo": "첼시, 1억 3,700만 파운드 규모의 1월 이적 시장 이적 협상 타결... 샤비 알론소 영입 목표로 확인"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1g0Q3BBNDRnTGpVaURidjhYMmtNTjlLdlp5NGNRZE1nbW5LOHBZTjhNLUctaDA2SjZ2WnJtN2hCUHNMQUFhc1hxYzEzbWlGSmdlMFdybkkwUFBlZDRUR0lycUp2UGF5UnpiT1ZCRmJ6ZWk1MFR5YkV3aTdyMmhka3lOMXM1dk8zQW4zcm92ZmtqV252RWVUTUllRG9oRFRQM3B1NHg4WEJ0UVpudl9kd09QV19kdzRlVGRkQm9mNmV4NzNsdG9DZFV3TQ?oc=5",
-   "title": "Chelsea injury update: Joao Pedro, Martinez and James latest return dates",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1g0Q3BBNDRnTGpVaURidjhYMmtNTjlLdlp5NGNRZE1nbW5LOHBZTjhNLUctaDA2SjZ2WnJtN2hCUHNMQUFhc1hxYzEzbWlGSmdlMFdybkkwUFBlZDRUR0lycUp2UGF5UnpiT1ZCRmJ6ZWk1MFR5YkV3aTdyMmhka3lOMXM1dk8zQW4zcm92ZmtqV252RWVUTUllRG9oRFRQM3B1NHg4WEJ0UVpudl9kd09QV19kdzRlVGRkQm9mNmV4NzNsdG9DZFV3TQ?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795069049000,
-   "cat": "부상",
-   "titleKo": "첼시 부상자 소식: 주앙 페드로, 마르티네스, 제임스의 최근 복귀일"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VV0doRVFtWTdlV3lTSXEzdzZQM0tsRmdmVmdkb0hLbkN2YTFFQm5rSWdXZjNORTFFVE41MGZybVowZmg2YXJhR3ZTWWFlZGs2OXE0eXA1SmxzVExja3JFNVJZMA?oc=5",
-   "title": "[오피셜] ‘맨유·첼시 레전드’ 후안 마타, 38세에 현역 은퇴…첼시 UCL·맨유 UEL 우승 멤버",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VV0doRVFtWTdlV3lTSXEzdzZQM0tsRmdmVmdkb0hLbkN2YTFFQm5rSWdXZjNORTFFVE41MGZybVowZmg2YXJhR3ZTWWFlZGs2OXE0eXA1SmxzVExja3JFNVJZMA?oc=5",
-   "source": "MHN스포츠",
-   "group": "한국 언론",
-   "date": 1795063520000,
-   "cat": "오피셜",
-   "titleKo": "[오피셜] ‘맨유·첼시 레전드’ 후안 마타, 38세에 현역 은퇴…첼시 UCL·맨유 UEL 우승 멤버"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wc29QUzRiaFF4Z2pJLWZKa1ZSVVFaVklKZTFhZ0RPWUo5Rl85Z2x3ZTA2QXZ6WGFSbUw1eDdhSkhYbllPcTZCRHo0WWI4OTZYdHZab0NvcTMwekhRRnR3Mm8wTTFJWEk2VnlzdWtIYUxkUVRj?oc=5",
-   "title": "첼시, PSG 1-0 제압…뷔르만 결승골·여자 UCL 선두 도약",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wc29QUzRiaFF4Z2pJLWZKa1ZSVVFaVklKZTFhZ0RPWUo5Rl85Z2x3ZTA2QXZ6WGFSbUw1eDdhSkhYbllPcTZCRHo0WWI4OTZYdHZab0NvcTMwekhRRnR3Mm8wTTFJWEk2VnlzdWtIYUxkUVRj?oc=5",
-   "source": "이투데이",
-   "group": "한국 언론",
-   "date": 1795054680000,
-   "cat": null,
-   "titleKo": "첼시, PSG 1-0 제압…뷔르만 결승골·여자 UCL 선두 도약"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkdVODVEMDRydkVOMTAtajVxQTdCM3lCeFJrOVBPWmZVOTJDdmdsbWJVRjRZY2YybDZodHJGN0EtY0E4QVhVclBmNnF1N2ZjVVVLUl9SdTg2QXVQV2RYdlRySkdPc25iVERDdUpKQTNOQXkyMEE5VHY0aTcyREdOTWpvdldQdGdCYkNoRXFoZ1ZYOFVi?oc=5",
-   "title": "'Everyone is working really hard not to concede' | Video",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkdVODVEMDRydkVOMTAtajVxQTdCM3lCeFJrOVBPWmZVOTJDdmdsbWJVRjRZY2YybDZodHJGN0EtY0E4QVhVclBmNnF1N2ZjVVVLUl9SdTg2QXVQV2RYdlRySkdPc25iVERDdUpKQTNOQXkyMEE5VHY0aTcyREdOTWpvdldQdGdCYkNoRXFoZ1ZYOFVi?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795048177000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "'모두가 실점을 내주지 않기 위해 정말 열심히 노력하고 있습니다' | 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGZxbE1mNUJqNUI4NTRhdnFENVhVSWo5WERUeHhsenFQbmJtOU9pbnNhaGRib0tjdmlaTTNiWmxRNk5RY1AySlJCSlk1OGJ2dXNYRUV0bUhfWHA4NGF5bUZKR1hINE9VNG5fdHlwRlJIcHJtSGIwVVZFSkJpbmdUU0hvOVpXTWJRclJybHZKRFFNbkNDRk9aaXdCWXFMZTFiSUE?oc=5",
-   "title": "UWCL Extended Highlights: Chelsea Women 1-0 PSG Women | Video",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGZxbE1mNUJqNUI4NTRhdnFENVhVSWo5WERUeHhsenFQbmJtOU9pbnNhaGRib0tjdmlaTTNiWmxRNk5RY1AySlJCSlk1OGJ2dXNYRUV0bUhfWHA4NGF5bUZKR1hINE9VNG5fdHlwRlJIcHJtSGIwVVZFSkJpbmdUU0hvOVpXTWJRclJybHZKRFFNbkNDRk9aaXdCWXFMZTFiSUE?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795047743000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "UWCL 주요 장면 모음(확장판): 첼시 여자팀 1-0 PSG 여자팀 | 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSS1iT3VvM1pSNGFwQ2dnU05ybUpxU2xtSkcxNUQ0TllLYzREenFDYW1IZHd4MHhoUHNrMFhzQlg4R3dLVGJCdlNDY3BvZkN6ZjJsdmp0YXNJV25VemRwMWxIUFdoM2xvOFV5OWRJb0FaempNMDY1X3hGWlMzV3dWakI4ZE9WaGtJMi1vRW84SzNwTi1QT3lhMQ?oc=5",
-   "title": "'I was delighted for Veerle' | Video",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSS1iT3VvM1pSNGFwQ2dnU05ybUpxU2xtSkcxNUQ0TllLYzREenFDYW1IZHd4MHhoUHNrMFhzQlg4R3dLVGJCdlNDY3BvZkN6ZjJsdmp0YXNJV25VemRwMWxIUFdoM2xvOFV5OWRJb0FaempNMDY1X3hGWlMzV3dWakI4ZE9WaGtJMi1vRW84SzNwTi1QT3lhMQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795047595000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "'베를레가 정말 기뻤어요' | 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2lOcUVkUmJOWXdJS0g4NWZvMHZyN0tMd2wzX3AteERXWWZERkRIQWtuVFZJanpXTnhiNWZPcTAwMGwzYklKWDY3LWZLdDFieWQyTml5QVA3bW5NVmlEZldEaXJSMFBzOWhQcW9pckJvYmp1M2JPMjJBamlVVHJvQVVXZ0NKRmw1dE92alpmMWZZdw?oc=5",
-   "title": "Bompastor: Everyone in the team loves to defend",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2lOcUVkUmJOWXdJS0g4NWZvMHZyN0tMd2wzX3AteERXWWZERkRIQWtuVFZJanpXTnhiNWZPcTAwMGwzYklKWDY3LWZLdDFieWQyTml5QVA3bW5NVmlEZldEaXJSMFBzOWhQcW9pckJvYmp1M2JPMjJBamlVVHJvQVVXZ0NKRmw1dE92alpmMWZZdw?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795045296000,
-   "added": 1795222576855,
-   "cat": null,
-   "titleKo": "봄파스토르: 팀의 모든 선수들이 수비를 좋아합니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2t5Sm1heWdpZGxUaGVfT1FQWHI5Zllld0xWT1B2ZHlkOWxjWmpDazVYZ2lRbF9zb3lzMDY3OHIzSjFuTThZOWRac1NDVmRlVnBPTmxRbzYyd1JaajJzbkZ1d0pzRXBhTUIxRHNYSjdHYWlaNGZIbkp0UV9YQnZabDR6amRZTG90aGhzblhsaGhvMWFSaWc?oc=5",
-   "title": "UWCL Highlights: Chelsea Women 1-0 PSG Women | Video",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2t5Sm1heWdpZGxUaGVfT1FQWHI5Zllld0xWT1B2ZHlkOWxjWmpDazVYZ2lRbF9zb3lzMDY3OHIzSjFuTThZOWRac1NDVmRlVnBPTmxRbzYyd1JaajJzbkZ1d0pzRXBhTUIxRHNYSjdHYWlaNGZIbkp0UV9YQnZabDR6amRZTG90aGhzblhsaGhvMWFSaWc?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795043095000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "UWCL 하이라이트: 첼시 여자팀 1-0 PSG 여자팀 | 동영상"
-  },
-  {
-   "id": "https://talksport.com/football/4718368/mykhailo-mudryk-tottenham-chelsea-transfer-news/",
-   "title": "Mykhailo Mudryk not ruling out Chelsea renaissance as he names three clubs he held talks with before Tottenham loan",
-   "link": "https://talksport.com/football/4718368/mykhailo-mudryk-tottenham-chelsea-transfer-news/",
-   "source": "talkSPORT",
-   "date": 1795042621000,
-   "cat": "이적",
-   "titleKo": "미하일로 무드릭, 토트넘 임대 전 대화를 나눴던 세 구단을 언급하며 첼시의 부활 가능성을 배제하지 않음",
-   "group": "영국 언론",
-   "imgTried": true,
-   "image": "https://talksport.com/wp-content/uploads/2026/09/2026-27-match-nottingham-forest-1105783559.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2x4NHE5VGRHak43aVNnVENqaDlFMDN3eGdscWlEc2xFdmctcGl0MGQ3Qnl3Q05ORGlxMGVVWG1HYy1LUkhFekxJUnNsZVAzallSMGlQU3pINEFXbXNtMzVDT3ZiZmFVaVRMWFBkMklDOUx3eXFoWmtUVEQ3ZUxDd1Mtb2ExRWYxU3lPUDhrX0hqd0Z1UmdJ?oc=5",
-   "title": "Match report: Chelsea Women 1-0 Paris Saint-Germain",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2x4NHE5VGRHak43aVNnVENqaDlFMDN3eGdscWlEc2xFdmctcGl0MGQ3Qnl3Q05ORGlxMGVVWG1HYy1LUkhFekxJUnNsZVAzallSMGlQU3pINEFXbXNtMzVDT3ZiZmFVaVRMWFBkMklDOUx3eXFoWmtUVEQ3ZUxDd1Mtb2ExRWYxU3lPUDhrX0hqd0Z1UmdJ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795041399000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "경기 결과: 첼시 여자팀 1-0 파리 생제르맹"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/ck30gd2m0neeo?at_medium=RSS&at_campaign=rss",
-   "title": "Palace close in on Chelsea set-piece coach Cueva",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck30gd2m0neeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1795040455000,
-   "cat": null,
-   "titleKo": "팰리스, 첼시의 세트피스 코치 쿠에바 영입 임박",
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8814/live/1f0ac980-e39c-11f1-9290-8f31de41e6ea.jpg"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
-   "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1795036938000,
-   "cat": null,
-   "titleKo": "우크라이나 축구 협회, 도핑 검사 실패의 책임 - 무드릭",
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/000a/live/86e56660-e391-11f1-b4f3-9f0685d52a1f.jpg"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/chelsea-good-team-news-two-injured-players-return/",
-   "title": "Chelsea get good team news for this weekend as two injured players return for national team",
-   "link": "https://www.talkchelsea.net/news/chelsea-good-team-news-two-injured-players-return/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795036076000,
-   "cat": "부상",
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Emi-Martinez-playing-for-Argentina-414x246.webp",
-   "titleKo": "첼시, 이번 주말 부상당한 선수 2명이 국가대표팀에 복귀하며 좋은 소식 전해"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS01uWlRUeDRLVUNFWExZSXJnbDdvWHVCV1ZkbWdfel9vOG9sVmEwNzc4V1gyemJJcmR0YWVZSmdwcmhSRlVOUjg5YUlYVXBFUXg5UTAtU1RKMEV3aVMxaC1oNndFb1JFMzFSVFE3akx3RkNWS3FpU0ljdmlXX3dQMEFIMXRpUVk?oc=5",
-   "title": "Confirmed Chelsea Women line up vs PSG",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS01uWlRUeDRLVUNFWExZSXJnbDdvWHVCV1ZkbWdfel9vOG9sVmEwNzc4V1gyemJJcmR0YWVZSmdwcmhSRlVOUjg5YUlYVXBFUXg5UTAtU1RKMEV3aVMxaC1oNndFb1JFMzFSVFE3akx3RkNWS3FpU0ljdmlXX3dQMEFIMXRpUVk?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795027500000,
-   "added": 1795221030969,
-   "cat": "오피셜",
-   "titleKo": "첼시 여자팀 vs PSG 선발 명단 확정"
   }
  ]
 }
