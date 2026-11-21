@@ -74,6 +74,37 @@ const tag = (xml, name) => {
   return m ? decode(m[1]) : "";
 };
 
+// 피드 안에 들어 있는 기사 대표 사진 주소를 찾아요.
+function feedImage(block) {
+  const pick = [
+    /<media:content[^>]+url="([^"]+)"[^>]*(?:medium="image"|type="image)/i,
+    /<media:content[^>]+(?:medium="image"|type="image[^"]*")[^>]*url="([^"]+)"/i,
+    /<media:thumbnail[^>]+url="([^"]+)"/i,
+    /<enclosure[^>]+url="([^"]+)"[^>]*type="image/i,
+    /<enclosure[^>]+type="image[^"]*"[^>]*url="([^"]+)"/i,
+    /<media:content[^>]+url="([^"]+\.(?:jpe?g|png|webp)[^"]*)"/i,
+    /<img[^>]+src=["']([^"']+)["']/i,
+    /&lt;img[^&]+src=&quot;([^&]+)&quot;/i,
+  ];
+  for (const re of pick) { const m = block.match(re); if (m) { const u = decode(m[1]); if (/^https?:\/\//.test(u)) return u.replace(/(ichef\.bbci\.co\.uk\/[^/]+\/[^/]+\/)\d+\//, "$1800/"); } }
+  return null;
+}
+
+// 피드에 사진이 없으면 기사 페이지의 대표 사진(공유용 og:image)을 찾아요. 한 번에 조금씩만 해요.
+const IMAGE_PER_RUN = 30;
+async function pageImage(url) {
+  const res = await fetch(url, { headers: { ...UA, "Accept": "text/html" }, redirect: "follow", signal: AbortSignal.timeout(8000) });
+  if (!res.ok) return null;
+  const html = (await res.text()).slice(0, 300000);
+  const m = html.match(/<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)(?::src)?["'][^>]*content=["']([^"']+)["']/i)
+        || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["'](?:og:image|twitter:image)["']/i);
+  if (!m) return null;
+  let u = decode(m[1]);
+  if (u.startsWith("//")) u = "https:" + u;
+  if (u.startsWith("/")) u = new URL(u, res.url).href;
+  return /^https?:\/\//.test(u) && !/googleusercontent|gstatic|news\.google/.test(u) ? u : null;
+}
+
 async function readFeed({ source, group, url, chelseaOnly, google, keepSource }) {
   const res = await fetch(url, { headers: UA, signal: AbortSignal.timeout(20000) });
   if (!res.ok) throw new Error(`${res.status}`);
@@ -95,7 +126,10 @@ async function readFeed({ source, group, url, chelseaOnly, google, keepSource })
     if (!chelseaOnly && !/chelsea|첼시/i.test(title)) continue;
     if (JUNK.test(title)) continue;
     const date = Date.parse(tag(block, "pubDate") || tag(block, "published") || tag(block, "updated")) || Date.now();
-    out.push({ title, link: decode(link).split("#")[0], source: src, group: grp, date });
+    const it = { title, link: decode(link).split("#")[0], source: src, group: grp, date };
+    const img = feedImage(block);
+    if (img) it.image = img;
+    out.push(it);
   }
   return out;
 }
@@ -279,6 +313,12 @@ for (const x of [...(match?.items || []), ...items].filter(x => !x.titleKo).slic
   catch (e) { console.log("번역 멈춤:", e.message); break; }
 }
 console.log(`번역 ${translated}건`);
+
+// 사진이 없는 최신 기사부터 기사 페이지에서 대표 사진을 찾아요. (구글뉴스 주소는 막혀 있어서 건너뛰어요)
+let imaged = 0;
+const needImg = [...(match?.items || []), ...items].filter(x => !x.image && !x.imgTried && !/news\.google\.com/.test(x.link)).slice(0, IMAGE_PER_RUN);
+await Promise.all(needImg.map(async x => { x.imgTried = true; try { const u = await pageImage(x.link); if (u) { x.image = u; imaged++; } } catch {} }));
+console.log(`사진 찾음 ${imaged}건 / 시도 ${needImg.length}건`);
 const koById = new Map([...items, ...(match?.items || [])].filter(x => x.titleKo).map(x => [x.id, x.titleKo]));
 for (const x of [...items, ...(match?.items || [])]) if (!x.titleKo && koById.has(x.id)) x.titleKo = koById.get(x.id);
 

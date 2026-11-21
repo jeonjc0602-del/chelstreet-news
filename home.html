@@ -62,7 +62,10 @@ button{font:inherit;cursor:pointer}
 /* product-like news rail */
 .rail{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}
 .nc{background:var(--card);border-radius:14px;overflow:hidden;border:1px solid var(--line);display:flex;flex-direction:column}
-.nc .thumb{aspect-ratio:16/10;display:grid;place-items:center;color:#fff;font:700 22px Oswald,sans-serif}
+.nc .thumb{position:relative;aspect-ratio:16/10;background:#000 url(img/default.jpg) center/cover;overflow:hidden}
+.nc .thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}
+.nc:hover .thumb img{transform:scale(1.04)}
+.nc .thumb .badge{position:absolute;left:10px;top:10px}
 .nc .b{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
 .nc .badge{align-self:flex-start;font-size:11px;font-weight:700;color:#fff;padding:3px 8px;border-radius:4px}
 .nc .t{font-size:14px;font-weight:700;line-height:1.45;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
@@ -174,8 +177,8 @@ function ago(ts){
   return Math.floor(h/24) + "일 전";
 }
 const ncard = (x, tag) => `<a class="nc" href="${esc(x.link)}" target="_blank" rel="noopener">
-  <div class="thumb" style="background:${COL[tag] || "#4b5563"}">${esc(lab(tag || "NEWS"))}</div>
-  <div class="b"><span class="badge" style="background:${COL[tag] || "#4b5563"}">${esc(lab(tag || "뉴스"))}</span>
+  <div class="thumb"><img src="${esc(x.image || "img/default.jpg")}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='img/default.jpg'"><span class="badge" style="background:${COL[tag] || "#4b5563"}">${esc(lab(tag || "뉴스"))}</span></div>
+  <div class="b">
   <span class="t">${esc(x.titleKo || x.title)}</span><small>${esc(x.source)} · ${ago(x.date)}</small></div></a>`;
 
 const X = [["첼시 공식","ChelseaFC","구단 공식"],["파브리지오 로마노","FabrizioRomano","이적 전문"],["데이비드 온스테인","David_Ornstein","디 애슬레틱"],["사이먼 존슨","SJohnsonSport","디 애슬레틱"],["리암 투미","liam_twomey","디 애슬레틱"],["키어런 길","kierangill_DM","데일리메일"],["맷 로","Matt_Law_DT","텔레그래프"],["니자르 킨셀라","NizaarKinsella","BBC"],["사미 목벨","SamiMokbel_BBC","BBC"],["벤 제이콥스","JacobsBen","이적 전문"],["플로리안 플레텐베르크","Plettigoal","이적 전문"],["그레임 베일리","GraemeBailey","이적 전문"],["Absolute Chelsea","AbsoluteChelsea","소식 계정"],["Chelsea Reports","CFCNewsReport","소식 계정"],["Just Chelsea","justcfc","소식 계정"],["Chelsea Dodgers","TheBlueDodger","소식 계정"],["NATURE_CFC","Natureryme1","소식 계정"]];
