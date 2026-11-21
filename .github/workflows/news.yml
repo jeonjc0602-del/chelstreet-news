@@ -2,8 +2,8 @@ name: 뉴스 확인
 
 on:
   schedule:
-    # 10분마다 실행 (GitHub이 바쁠 때는 조금 늦게 돌 수 있어요)
-    - cron: "*/10 * * * *"
+    # 5분마다 실행 (GitHub 최소 간격. GitHub이 바쁠 때는 조금 늦게 돌 수 있어요)
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
