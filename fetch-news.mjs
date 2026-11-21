@@ -144,7 +144,7 @@ const TEAM_KO = {
   "Benfica":"벤피카","Porto":"포르투","Ajax":"아약스","Bayer Leverkusen":"레버쿠젠","Celtic":"셀틱"
 };
 const OPP_TAGS = [
-  ["라인업·팀뉴스", ["team news","lineup","line-up","predicted","starting xi","injury","injured","ruled out","doubt","fitness","suspended","선발","라인업","명단","부상","결장"]],
+  ["라인업·팀뉴스", ["team news","lineup","line-up","line up","starting xi"," xi ","xi:","predicted","prediction","preview","selection","선발 명단","예상 선발","predicted","starting xi","injury","injured","ruled out","doubt","fitness","suspended","선발","라인업","명단","부상","결장"]],
   ["도발·발언", ["warns","warning","slams","mocks","taunt","jibe","fires","hits back","blasts","claims","says","insists","vows","message to","도발","저격","경고","발언","자신감","말했다","밝혔다"]],
 ];
 const oppTag = t => { const s = t.toLowerCase(); for (const [tag, ks] of OPP_TAGS) if (ks.some(k => s.includes(k))) return tag; return "상대 소식"; };
@@ -265,6 +265,7 @@ try {
       add.push(it);
     }
     const weekAgo = Date.now() - 7 * 864e5;
+    prev.forEach(x => x.tag = oppTag(x.title));
     match = { ...nm, items: [...add, ...prev].filter(x => x.date > weekAgo).sort((a, b) => b.date - a.date).slice(0, 80) };
     stats["이번 상대"] = `${nm.opponent} · 새 기사 ${add.length}건`;
   } else stats["이번 상대"] = "다음 경기를 못 찾음";
