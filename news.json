@@ -1,5 +1,5 @@
 {
- "updated": 1795238157590,
+ "updated": 1795241455057,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,7 +12,7 @@
   "Daily Mail": 8,
   "Telegraph": 5,
   "Independent": 1,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 14,
   "CaughtOffside": 2,
   "90min": 1,
@@ -21,14 +21,14 @@
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 14,
+  "구글뉴스(한국어)": 15,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Leeds United · 새 기사 46건"
+  "이번 상대": "Leeds United · 새 기사 44건"
  },
  "match": {
   "id": "8413998954361023232",
@@ -40,6 +40,16 @@
   "kickoff": 1795273200000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLThnMzBLZjFINEdyM2QzLWE1NWgzd1BYYUh4eFN1N0ZmSEtRN3VVZVIxTzhkREJUN2J1ZHdVbXRGNm1ISERtdlI4cHlMZ1B4N1RId3hiaHZQQ1drUTNOencwakR5WnNjUUl5QjFIX3lVQ1JBNnh5aHIwZ2Zjd2dPc19MUW5kZUNkXzlKWnJ3?oc=5",
+    "title": "Chelsea vs Leeds: All you need to know | News | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLThnMzBLZjFINEdyM2QzLWE1NWgzd1BYYUh4eFN1N0ZmSEtRN3VVZVIxTzhkREJUN2J1ZHdVbXRGNm1ISERtdlI4cHlMZ1B4N1RId3hiaHZQQ1drUTNOencwakR5WnNjUUl5QjFIX3lVQ1JBNnh5aHIwZ2Zjd2dPc19MUW5kZUNkXzlKWnJ3?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795240800000,
+    "added": 1795241445066,
+    "tag": "상대 소식",
+    "titleKo": "첼시 vs 리즈: 알아두어야 할 모든 것 | 뉴스 | 공식 사이트"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnhhTVJXUTBtNUU5eDV4RE5ic1lGYVVjMmx6c1hkM1VlaksySmVNUTRYUk1Pd2tSNzlHQXVEenJvRlpMZW1VMjJraXpnakplRGJSSUhWUlFuVm1lbzVMTFlEMTBPcWlobGk3WWZDdWdQdmlDNE1manNjbkJEMThoM0JZWXR1bFRRbzJRSndGS0luM0pFZGs1czFn?oc=5",
     "title": "첼시 대 리즈 경기 프리뷰 및 예측: 마지막 순간까지 긴장감 넘치는 경기가 될 것 같습니다.",
@@ -829,16 +839,6 @@
     "added": 1795234600606,
     "tag": "라인업·팀뉴스",
     "titleKo": "예측: 첼시 vs 리즈 유나이티드"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3NXeS10Ynd2Zm1POGpxTER6cWlobUlKdHJmeGwxc041RHpyTlBUQUVaYkpuejBJd19NZHpWZEttYnlQRHdXMF9CNDNLYW1xRWVhVGxUVzNZMEFIcVdsN3lyY05wLV9pU3Z4clB6MmIyQXhVWlppOGo0THVIbkVmMWw2U3NBbVFqLXFlSXlTeTJDbUk?oc=5",
-    "title": "Leeds United vs Chelsea - Premier League",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3NXeS10Ynd2Zm1POGpxTER6cWlobUlKdHJmeGwxc041RHpyTlBUQUVaYkpuejBJd19NZHpWZEttYnlQRHdXMF9CNDNLYW1xRWVhVGxUVzNZMEFIcVdsN3lyY05wLV9pU3Z4clB6MmIyQXhVWlppOGo0THVIbkVmMWw2U3NBbVFqLXFlSXlTeTJDbUk?oc=5",
-    "source": "www.leedsunited.news",
-    "date": 1795112357000,
-    "added": 1795221875905,
-    "tag": "상대 소식",
-    "titleKo": "리즈 유나이티드 vs 첼시 - 프리미어리그"
    }
   ]
  },
@@ -854,6 +854,28 @@
    "titleKo": "‘백승호 소속팀’ 버밍엄 지분 팔더니 런던으로 눈 돌렸다!… NFL 전설 톰 브래디, 첼시 지분 인수",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314198_244948_2854.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLThnMzBLZjFINEdyM2QzLWE1NWgzd1BYYUh4eFN1N0ZmSEtRN3VVZVIxTzhkREJUN2J1ZHdVbXRGNm1ISERtdlI4cHlMZ1B4N1RId3hiaHZQQ1drUTNOencwakR5WnNjUUl5QjFIX3lVQ1JBNnh5aHIwZ2Zjd2dPc19MUW5kZUNkXzlKWnJ3?oc=5",
+   "title": "Chelsea vs Leeds: All you need to know | News | Official Site",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLThnMzBLZjFINEdyM2QzLWE1NWgzd1BYYUh4eFN1N0ZmSEtRN3VVZVIxTzhkREJUN2J1ZHdVbXRGNm1ISERtdlI4cHlMZ1B4N1RId3hiaHZQQ1drUTNOencwakR5WnNjUUl5QjFIX3lVQ1JBNnh5aHIwZ2Zjd2dPc19MUW5kZUNkXzlKWnJ3?oc=5",
+   "source": "Chelsea Football Club",
+   "group": "영국 언론",
+   "date": 1795240800000,
+   "added": 1795241442950,
+   "cat": "오피셜",
+   "titleKo": "첼시 vs 리즈: 알아두어야 할 모든 것 | 뉴스 | 공식 사이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFE5Wkk3OTlhYUx3YlROM0xfem0wcG9ENXRtYXMxWkVBZG00WXRtVlhraFUxY0xYam91cjd2RWFkZkhHdU02bUEwazVRMGM1R0NMU0lZLUFzN2NPU09oUEhzNElRMnJVZlpmVGpxOXF5bHlYNTlyNDNPZnZQWUIwQzlVZGJzazBFZ2dhUXRyTktXd19ORnI3ZER5M3hHY1hlU1JSQ0R1YXdEQW8?oc=5",
+   "title": "메트로 경찰청, GBK 스타디움에서 첼시 - AC 밀란을 안전하게 보호하기 위해 1,200 명의 직원 배치",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFE5Wkk3OTlhYUx3YlROM0xfem0wcG9ENXRtYXMxWkVBZG00WXRtVlhraFUxY0xYam91cjd2RWFkZkhHdU02bUEwazVRMGM1R0NMU0lZLUFzN2NPU09oUEhzNElRMnJVZlpmVGpxOXF5bHlYNTlyNDNPZnZQWUIwQzlVZGJzazBFZ2dhUXRyTktXd19ORnI3ZER5M3hHY1hlU1JSQ0R1YXdEQW8?oc=5",
+   "source": "VOI.ID",
+   "group": "한국 언론",
+   "date": 1795234109000,
+   "added": 1795241442951,
+   "cat": null,
+   "titleKo": "메트로 경찰청, GBK 스타디움에서 첼시 - AC 밀란을 안전하게 보호하기 위해 1,200 명의 직원 배치"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnhwWmdZcVRFQ213a3kyNlR2MjhnTzBka3JRWkpNLXNCYmVQak5QeUNXaHNTUW1CdFVFRF9qVm1CUXBQZFhDTnhveU44aURrcGE2VjJiTE9Ncml4cExKNFNGMlJfS3hlUWRQaGVGbkZDU1ppbVRjYmhiUEtMYkROWl9TQUJ0WEgxQzdYa3BkRlFBMFM5dEZ4UmpQbl85M0kyTUdhbEtFNWtGeHA4OGs3YVpZb3cxZE9IdVl1djJxZWZSaG1BVkpUWERadTFpemNWN19wb2x3M0NLdndHZHFV?oc=5",
@@ -1067,6 +1089,17 @@
    "date": 1795213800000,
    "cat": "이적",
    "titleKo": "톰 브래디, 버밍엄 시티 매각 후 첼시 지분 인수 협상 중"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVRhbzBwOFR6UlFhN1hCSlUyZjZzLTBVa1p5NWlKMGI4NVpHclhqc1BwUXdoRHR4eUc3ZjNSLWpuMWNUTnVweFdqNnJ3WGhOQ1g3RGJkY0hSdDE4VmJFZlhiTHBKc1FISUl0UGxZMXhYSjVzc0RvOEhvTk9na3RXbjlSWlFPc09vMU1tTQ?oc=5",
+   "title": "Aston Villa Told Chelsea Midfielder Won’t Budge: Who Replaces Onana?",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVRhbzBwOFR6UlFhN1hCSlUyZjZzLTBVa1p5NWlKMGI4NVpHclhqc1BwUXdoRHR4eUc3ZjNSLWpuMWNUTnVweFdqNnJ3WGhOQ1g3RGJkY0hSdDE4VmJFZlhiTHBKc1FISUl0UGxZMXhYSjVzc0RvOEhvTk9na3RXbjlSWlFPc09vMU1tTQ?oc=5",
+   "source": "Yahoo Sports",
+   "group": "영국 언론",
+   "date": 1795211100000,
+   "added": 1795241442950,
+   "cat": null,
+   "titleKo": "애스턴 빌라, 첼시 미드필더가 이적하지 않을 것이라고 밝혔다. 오나나의 대체 선수는 누구인가?"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFV5OGlOV0JhTDZLVmVUNmMxdmxlQ3I5VmJGNDlPOWtCTzZNMTlIekZZdXJfSWhUVFliUG1tT1RfUHAwS3FERVA2VG9vTnVNWXFnRElSdU55dlZpSllZZmlrOW1JN3VfVW5sQVFESExmcFhXc2ZqbVBiZ3c5UFB0MWMyNTV1a0ttNVNBUmFISzNOYUpBci1GZlRYQQ?oc=5",
@@ -3971,7 +4004,8 @@
    "group": "영국 언론",
    "date": 1793431836000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/e8333b7d2f55b40dd288eaa1aeb190b214c67cd1/425_0_4235_3390/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=97d17a8229923daeeae4d8585b6412e9"
+   "image": "https://i.guim.co.uk/img/media/e8333b7d2f55b40dd288eaa1aeb190b214c67cd1/425_0_4235_3390/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=97d17a8229923daeeae4d8585b6412e9",
+   "titleKo": "오늘의 프리미어리그: 시청 방법, TV 채널 및 실시간 스트리밍"
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
@@ -3981,7 +4015,8 @@
    "group": "영국 언론",
    "date": 1793399426000,
    "cat": "이적",
-   "image": "https://i.guim.co.uk/img/media/5f75b619214b0557f8451f33b249af74dd5ae117/452_154_3188_2550/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=563e82254bea907000eea816fee95e05"
+   "image": "https://i.guim.co.uk/img/media/5f75b619214b0557f8451f33b249af74dd5ae117/452_154_3188_2550/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=563e82254bea907000eea816fee95e05",
+   "titleKo": "사비 알론소 감독, 첼시 윙어 에스테바오 윌리안의 1월 임대 이적 가능성 배제"
   },
   {
    "id": "https://latest.fotmob.com/2026/10/30/preview-man-united-head-to-stamford-bridge-for-chelsea-clash/",
@@ -4002,7 +4037,8 @@
    "group": "영국 언론",
    "date": 1793294468000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/37935f6ee841d3ee4c5dacaa5b3828d22cb474fc/389_0_4496_3598/master/4496.jpg?width=140&quality=85&auto=format&fit=max&s=a701b2ddb28a08bb42dfc89ee32a8fbf"
+   "image": "https://i.guim.co.uk/img/media/37935f6ee841d3ee4c5dacaa5b3828d22cb474fc/389_0_4496_3598/master/4496.jpg?width=140&quality=85&auto=format&fit=max&s=a701b2ddb28a08bb42dfc89ee32a8fbf",
+   "titleKo": "첼시는 뛰어난 마무리 능력으로 승승장구하고 있습니다. 하지만 과연 이 기세가 언제까지 이어질 수 있을까요?"
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/29/liverpool-chelsea-football-daily-newsletter",
@@ -4012,7 +4048,8 @@
    "group": "영국 언론",
    "date": 1793289498000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/3b2f116ed4473f39dee2599615f67af02c053742/384_0_4909_3928/master/4909.jpg?width=140&quality=85&auto=format&fit=max&s=4ce28b603b5b52091ab00eed2659df56"
+   "image": "https://i.guim.co.uk/img/media/3b2f116ed4473f39dee2599615f67af02c053742/384_0_4909_3928/master/4909.jpg?width=140&quality=85&auto=format&fit=max&s=4ce28b603b5b52091ab00eed2659df56",
+   "titleKo": "리버풀, 첼시를 꺾고 승리. 3명의 선수가 승부차기 수치스러운 기록에 이름을 올림 | Football Daily"
   },
   {
    "id": "https://www.telegraph.co.uk/football/2026/10/28/liverpool-vs-chelsea-live-score-latest-carabao-cup-updates/",
@@ -4022,7 +4059,8 @@
    "group": "영국 언론",
    "date": 1793262371000,
    "cat": null,
-   "image": "https://www.telegraph.co.uk/content/dam/football/2026/10/28/TELEMMGLPICT000509429141_17932283131960_trans_NvBQzQNjv4BqJ6RiS5Rjb_N6p5OO4zvsklHmPOpeFd0SyQx9dn7kM_w.jpeg"
+   "image": "https://www.telegraph.co.uk/content/dam/football/2026/10/28/TELEMMGLPICT000509429141_17932283131960_trans_NvBQzQNjv4BqJ6RiS5Rjb_N6p5OO4zvsklHmPOpeFd0SyQx9dn7kM_w.jpeg",
+   "titleKo": "리버풀이 승부차기에서 승리하며 웨슬리 포파나의 첼시 악몽이 계속되고 있습니다."
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/29/tottenham-season-spurs-chelsea-win-table",
@@ -4032,7 +4070,8 @@
    "group": "영국 언론",
    "date": 1793260826000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/57b3f124f1643c01a8a220abe3518bbba03640d1/243_0_2942_2354/master/2942.jpg?width=140&quality=85&auto=format&fit=max&s=c90d1a0e7a209cbb0f6aede96aaf7b03"
+   "image": "https://i.guim.co.uk/img/media/57b3f124f1643c01a8a220abe3518bbba03640d1/243_0_2942_2354/master/2942.jpg?width=140&quality=85&auto=format&fit=max&s=c90d1a0e7a209cbb0f6aede96aaf7b03",
+   "titleKo": "토트넘의 시즌이 마침내 시작되었습니다. 리그 순위에서 얼마나 높은 곳까지 올라갈 수 있을까요?"
   },
   {
    "id": "https://www.theguardian.com/football/live/2026/oct/28/liverpool-v-chelsea-carabao-cup-fourth-round-live",
@@ -4042,7 +4081,8 @@
    "group": "영국 언론",
    "date": 1793227400000,
    "cat": null,
-   "image": "https://i.guim.co.uk/img/media/964cb3d70958b679b67a30c8a5c0c8125f780256/248_0_2683_2146/master/2683.jpg?width=140&quality=85&auto=format&fit=max&s=e28a0bf7a952216ca8fca8809999e543"
+   "image": "https://i.guim.co.uk/img/media/964cb3d70958b679b67a30c8a5c0c8125f780256/248_0_2683_2146/master/2683.jpg?width=140&quality=85&auto=format&fit=max&s=e28a0bf7a952216ca8fca8809999e543",
+   "titleKo": "리버풀, 첼시를 승부차기 6-5로 꺾음: 카라바오컵과 8강 대진 추첨 – 경기 내용"
   },
   {
    "id": "https://thechelseablog.com/2026/10/28/liverpool-v-chelsea-carabao-cup-preview/",
@@ -4053,7 +4093,8 @@
    "date": 1793178000000,
    "cat": "프리뷰",
    "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2026/01/efl-1000x600.jpg"
+   "image": "https://thechelseablog.com/wp-content/uploads/2026/01/efl-1000x600.jpg",
+   "titleKo": "리버풀 대 첼시: 카라바오컵 프리뷰"
   },
   {
    "id": "https://latest.fotmob.com/2026/10/27/preview-liverpool-face-xabi-alonsos-chelsea-at-anfield/",
@@ -4075,40 +4116,8 @@
    "date": 1792876374000,
    "cat": null,
    "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2026/10/today-640x600.jpg"
-  },
-  {
-   "id": "https://thechelseablog.com/2026/10/24/chelsea-v-tottenham-preview-10/",
-   "title": "CHELSEA v Tottenham: Preview",
-   "link": "https://thechelseablog.com/2026/10/24/chelsea-v-tottenham-preview-10/",
-   "source": "The Chelsea Blog",
-   "group": "팬 블로그",
-   "date": 1792828800000,
-   "cat": "프리뷰",
-   "imgTried": true,
-   "image": "https://thechelseablog.com/wp-content/uploads/2026/10/images-6.jpg"
-  },
-  {
-   "id": "https://latest.fotmob.com/2026/10/23/preview-chelsea-meet-spurs-in-london-derby/",
-   "title": "Preview: Chelsea meet Spurs in London Derby",
-   "link": "https://latest.fotmob.com/2026/10/23/preview-chelsea-meet-spurs-in-london-derby/",
-   "source": "FotMob",
-   "date": 1792768857000,
-   "cat": "프리뷰",
-   "titleKo": "프리뷰: 첼시, 런던 더비에서 토트넘과 맞대결",
-   "group": "공식·FotMob",
-   "image": "https://latest.fotmob.com/wp-content/uploads/2026/10/Covers_Chelsea-Spurs-2310-1.png"
-  },
-  {
-   "id": "https://latest.fotmob.com/2026/10/23/caicedo-and-hendersons-midfield-partnership-has-given-chelsea-much-needed-stability/",
-   "title": "Caicedo and Henderson’s midfield partnership has given Chelsea much-needed stability",
-   "link": "https://latest.fotmob.com/2026/10/23/caicedo-and-hendersons-midfield-partnership-has-given-chelsea-much-needed-stability/",
-   "source": "FotMob",
-   "date": 1792736480000,
-   "cat": "프리뷰",
-   "titleKo": "카이세도와 헨더슨의 미드필더 파트너십은 첼시에 절실히 필요한 안정감을 선사했습니다.",
-   "group": "공식·FotMob",
-   "image": "https://latest.fotmob.com/wp-content/uploads/2026/10/Covers_Caicedo-Henderson-2310-1.png"
+   "image": "https://thechelseablog.com/wp-content/uploads/2026/10/today-640x600.jpg",
+   "titleKo": "첼시 0-2 토트넘: 감독의 관전 기술"
   }
  ]
 }
