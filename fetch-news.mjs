@@ -5,6 +5,7 @@ import { readFile, writeFile } from "node:fs/promises";
 const FEEDS = [
   { source: "BBC Sport",  url: "https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml", chelseaOnly: true },
   { source: "Sky Sports", url: "https://www.skysports.com/rss/11095", chelseaOnly: false },
+  { source: "talkSPORT",  url: "https://talksport.com/football/feed/", chelseaOnly: false },
   { source: "FotMob",     url: "https://latest.fotmob.com/category/chelsea/feed/", chelseaOnly: true },
 ];
 const CHELSEA_SITE = "https://www.chelseafc.com/en/news/latest-news";
@@ -76,7 +77,7 @@ async function readChelseaSite() {
 }
 
 // 무료 번역(MyMemory). 하루 사용량이 정해져 있어서 한 번에 조금씩만 번역하고, 실패하면 다음 실행 때 다시 해요.
-const TRANSLATE_PER_RUN = 15;
+const TRANSLATE_PER_RUN = 20;
 const TRANSLATE_EMAIL = "jeonjc0602-del@users.noreply.github.com";
 async function translate(text) {
   const url = "https://api.mymemory.translated.net/get?langpair=en|ko&de=" + encodeURIComponent(TRANSLATE_EMAIL) + "&q=" + encodeURIComponent(text);
@@ -125,7 +126,6 @@ for (const x of found) {
   const id = x.link;
   if (known.has(id)) continue;
   const cat = classify(x.title, x.source);
-  if (!cat) continue;
   known.add(id);
   fresh.push({ id, ...x, cat });
 }
@@ -145,4 +145,5 @@ await writeFile("news.json", JSON.stringify({ updated: Date.now(), items }, null
 console.log(`새 뉴스 ${fresh.length}건`);
 
 // 처음 실행할 때는 기존 기사가 한꺼번에 알림으로 오지 않게 저장만 해요.
-if (!firstRun) for (const x of fresh.slice(0, MAX_ALERTS)) await notify(x);
+// 알림은 키워드에 걸린 기사만 보내요. (전체 뉴스는 사이트에서만 보여요)
+if (!firstRun) for (const x of fresh.filter(x => x.cat).slice(0, MAX_ALERTS)) await notify(x);
