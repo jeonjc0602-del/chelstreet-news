@@ -1,5 +1,5 @@
 {
- "updated": 1795218785982,
+ "updated": 1795219412355,
  "items": [
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/cmx20q5qv1vlo?at_medium=RSS&at_campaign=rss",
@@ -7,7 +7,8 @@
    "link": "https://www.bbc.co.uk/sport/football/videos/cmx20q5qv1vlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "date": 1795188552000,
-   "cat": "부상"
+   "cat": "부상",
+   "titleKo": "주앙 페드로가 부상으로 결장하는 동안 첼시가 놓친 것"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
@@ -15,7 +16,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "date": 1795187922000,
-   "cat": "부상"
+   "cat": "부상",
+   "titleKo": "부상을 당한 주앙 페드로가 첼시에서 가장 중요한 선수가 될 수 있는 이유"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
@@ -23,7 +25,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "date": 1794524947000,
-   "cat": "인터뷰"
+   "cat": "인터뷰",
+   "titleKo": "'거짓말'과 '터무니없는 소리' - 로저스 감독, '팔머는 잉글랜드 대표팀에 헌신하고 있다'고 말함"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
@@ -31,7 +34,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "date": 1794154416000,
-   "cat": "이적"
+   "cat": "프리뷰",
+   "titleKo": "브로비와의 대결에 실패 - 선덜랜드 대 첼시 선수 평점"
   },
   {
    "id": "https://latest.fotmob.com/2026/11/03/the-fotmob-totw-for-the-premier-league-md9s-best-xi-includes-rogers-palmer-and-van-hecke/",
@@ -39,7 +43,8 @@
    "link": "https://latest.fotmob.com/2026/11/03/the-fotmob-totw-for-the-premier-league-md9s-best-xi-includes-rogers-palmer-and-van-hecke/",
    "source": "FotMob",
    "date": 1793706779000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "프리미어리그 FotMob TOTW: 9라운드 베스트 11에는 로저스, 팔머, 반 헤케가 포함되었습니다."
   },
   {
    "id": "https://latest.fotmob.com/2026/10/30/preview-man-united-head-to-stamford-bridge-for-chelsea-clash/",
@@ -47,7 +52,8 @@
    "link": "https://latest.fotmob.com/2026/10/30/preview-man-united-head-to-stamford-bridge-for-chelsea-clash/",
    "source": "FotMob",
    "date": 1793365200000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "프리뷰: 맨유, 스탬퍼드 브리지에서 첼시와 맞대결"
   },
   {
    "id": "https://latest.fotmob.com/2026/10/27/preview-liverpool-face-xabi-alonsos-chelsea-at-anfield/",
@@ -55,7 +61,8 @@
    "link": "https://latest.fotmob.com/2026/10/27/preview-liverpool-face-xabi-alonsos-chelsea-at-anfield/",
    "source": "FotMob",
    "date": 1793116800000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "프리뷰: 리버풀, 안필드에서 샤비 알론소가 이끄는 첼시와 맞대결"
   },
   {
    "id": "https://latest.fotmob.com/2026/10/23/preview-chelsea-meet-spurs-in-london-derby/",
@@ -63,7 +70,8 @@
    "link": "https://latest.fotmob.com/2026/10/23/preview-chelsea-meet-spurs-in-london-derby/",
    "source": "FotMob",
    "date": 1792768857000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "프리뷰: 첼시, 런던 더비에서 토트넘과 맞대결"
   },
   {
    "id": "https://latest.fotmob.com/2026/10/23/caicedo-and-hendersons-midfield-partnership-has-given-chelsea-much-needed-stability/",
@@ -71,7 +79,8 @@
    "link": "https://latest.fotmob.com/2026/10/23/caicedo-and-hendersons-midfield-partnership-has-given-chelsea-much-needed-stability/",
    "source": "FotMob",
    "date": 1792736480000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "카이세도와 헨더슨의 미드필더 파트너십은 첼시에 절실히 필요한 안정감을 선사했습니다."
   },
   {
    "id": "https://latest.fotmob.com/2026/10/20/the-fotmob-totw-for-the-premier-league-matchday-7s-best-xi-featuring-haaland-neto-and-wirtz/",
@@ -79,7 +88,8 @@
    "link": "https://latest.fotmob.com/2026/10/20/the-fotmob-totw-for-the-premier-league-matchday-7s-best-xi-featuring-haaland-neto-and-wirtz/",
    "source": "FotMob",
    "date": 1792486069000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "프리미어리그 FotMob TOTW: 홀란드, 네투, 비르츠가 포함된 7라운드 베스트 11"
   },
   {
    "id": "https://latest.fotmob.com/2026/10/17/preview-the-lunchtime-kick-off-sees-everton-entertain-chelsea/",
@@ -87,7 +97,8 @@
    "link": "https://latest.fotmob.com/2026/10/17/preview-the-lunchtime-kick-off-sees-everton-entertain-chelsea/",
    "source": "FotMob",
    "date": 1792220838000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "경기 프리뷰: 점심시간에 열리는 경기에서 에버턴이 첼시를 홈으로 맞이합니다."
   },
   {
    "id": "https://latest.fotmob.com/2026/10/13/the-fotmob-totw-for-the-premier-league-matchday-6s-best-xi-features-henderson-anderson-and-rice/",
@@ -95,7 +106,8 @@
    "link": "https://latest.fotmob.com/2026/10/13/the-fotmob-totw-for-the-premier-league-matchday-6s-best-xi-features-henderson-anderson-and-rice/",
    "source": "FotMob",
    "date": 1791899971000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "프리미어리그 FotMob TOTW: 6라운드 베스트 11에 헨더슨, 안데르손, 라이스가 이름을 올렸습니다."
   },
   {
    "id": "https://latest.fotmob.com/2026/10/09/preview-chelsea-welcome-the-winless-cherries-to-the-bridge/",
@@ -103,7 +115,8 @@
    "link": "https://latest.fotmob.com/2026/10/09/preview-chelsea-welcome-the-winless-cherries-to-the-bridge/",
    "source": "FotMob",
    "date": 1791556200000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "프리뷰: 첼시, 승리가 없는 체리스를 브리지에서 맞이하다"
   },
   {
    "id": "https://latest.fotmob.com/2026/09/18/cole-palmer-revitalised-under-xabi-alonso-and-now-back-in-the-england-squad/",
@@ -111,7 +124,8 @@
    "link": "https://latest.fotmob.com/2026/09/18/cole-palmer-revitalised-under-xabi-alonso-and-now-back-in-the-england-squad/",
    "source": "FotMob",
    "date": 1789724590000,
-   "cat": "프리뷰"
+   "cat": "프리뷰",
+   "titleKo": "콜 파머: 사비 알론소 감독 아래에서 부활하여 이제 잉글랜드 대표팀에 복귀"
   }
  ]
 }
