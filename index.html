@@ -66,6 +66,9 @@ main{padding:22px max(5vw,16px) 48px}
 .twbig.ghost{background:var(--card);color:var(--ink);border:1.5px solid var(--line)}
 .twbig:hover{filter:brightness(1.08)}
 .twgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px;margin-bottom:12px}
+.twh{font-size:15px;margin:6px 2px 8px;color:var(--ink)}
+.twh span{font-weight:400;font-size:13px;color:var(--mute);margin-left:6px}
+.twc.fan .av{background:#2a2a2a;color:#fff;box-shadow:inset 0 0 0 1.5px #1b5fd1}
 .twc{display:grid;grid-template-columns:44px minmax(0,1fr);gap:2px 12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;text-decoration:none;color:var(--ink)}
 .twc:hover{border-color:#fff}
 .twc .av{grid-row:span 3;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:#1b5fd1;color:#fff;font:700 16px Oswald,sans-serif}
@@ -137,9 +140,13 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
     <section class="tw" id="twPanel" hidden>
       <div class="twtop">
         <a class="twbig" id="twLive" target="_blank" rel="noopener">기자들의 첼시 글 한 번에 보기<small>X 검색 · 최신순</small></a>
+        <a class="twbig ghost" id="twFan" target="_blank" rel="noopener">소식 계정 글 한 번에 보기<small>아래 첼시 소식 계정 · 최신순</small></a>
         <a class="twbig ghost" id="twAll" target="_blank" rel="noopener">기자들 글 전체 보기<small>첼시 외 글 포함 · 최신순</small></a>
       </div>
+      <h3 class="twh">기자 · 공식</h3>
       <div class="twgrid" id="twGrid"></div>
+      <h3 class="twh">첼시 소식 계정 <span>기자 보도를 빠르게 옮겨 주는 팬 계정이에요. 출처 표시를 꼭 확인하세요.</span></h3>
+      <div class="twgrid" id="twFanGrid"></div>
       <p class="note">누르면 X(트위터)가 새 탭으로 열려요. X에 로그인돼 있어야 글이 보여요. 중요한 기자는 프로필의 🔔를 눌러 알림을 켜 두면 글이 올라오자마자 알 수 있어요.</p>
     </section>
     <div class="bar">
@@ -427,11 +434,21 @@ const X_ACCOUNTS = [
   {ko:"플로리안 플레텐베르크", en:"Florian Plettenberg", h:"Plettigoal", r:"이적 전문"},
   {ko:"그레임 베일리", en:"Graeme Bailey", h:"GraemeBailey", r:"이적 전문"},
 ];
-$("twGrid").innerHTML = X_ACCOUNTS.map(a => `
-  <a class="twc${a.club ? " club" : ""}" href="https://x.com/${a.h}" target="_blank" rel="noopener">
+const X_FANS = [
+  {ko:"Absolute Chelsea", en:"Absolute Chelsea", h:"AbsoluteChelsea", r:"첼시 소식 계정"},
+  {ko:"Chelsea Reports", en:"Chelsea Reports", h:"CFCNewsReport", r:"첼시 소식 계정"},
+  {ko:"Just Chelsea", en:"Just Chelsea", h:"justcfc", r:"첼시 소식 계정"},
+  {ko:"Chelsea Dodgers", en:"Chelsea Dodgers", h:"TheBlueDodger", r:"첼시 소식 계정"},
+  {ko:"NATURE_CFC", en:"Nature CFC", h:"Natureryme1", r:"첼시 소식 계정"},
+];
+const card = (a, fan) => `
+  <a class="twc${a.club ? " club" : ""}${fan ? " fan" : ""}" href="https://x.com/${a.h}" target="_blank" rel="noopener">
     <span class="av">${a.club ? "CFC" : esc(a.en.split(" ").map(w => w[0]).join("").slice(0,2))}</span>
     <b>${esc(a.ko)}</b><span class="h">@${esc(a.h)}</span><span class="r">${esc(a.r)}</span>
-  </a>`).join("");
+  </a>`;
+$("twGrid").innerHTML = X_ACCOUNTS.map(a => card(a)).join("");
+$("twFanGrid").innerHTML = X_FANS.map(a => card(a, true)).join("");
+$("twFan").href = "https://x.com/search?f=live&q=" + encodeURIComponent("(" + X_FANS.map(a => "from:" + a.h).join(" OR ") + ")");
 const froms = X_ACCOUNTS.filter(a => !a.club).map(a => "from:" + a.h).join(" OR ");
 $("twLive").href = "https://x.com/search?f=live&q=" + encodeURIComponent(`(${froms}) (Chelsea OR CFC)`);
 $("twAll").href = "https://x.com/search?f=live&q=" + encodeURIComponent(`(${froms})`);
