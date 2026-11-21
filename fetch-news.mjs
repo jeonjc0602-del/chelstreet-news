@@ -12,7 +12,7 @@ const CHELSEA_SITE = "https://www.chelseafc.com/en/news/latest-news";
 const KEYWORDS = {
   "오피셜": ["official","confirmed","confirm","signs","signed","completes","completed","announce","unveil","extension","new contract"],
   "부상": ["injury","injured","ruled out","sidelined","fitness","hamstring","knee","ankle","return date","surgery"],
-  "이적": ["transfer","deal","bid","loan","talks","target","fee","move to","interest in","swap"],
+  "이적": ["transfer","deal for","deal to","agree deal","agreed deal","bid","loan","talks","target","fee","move to","interest in","swap"],
   "인터뷰": ["interview","says","said","press conference","insists","admits","reveals","reacts","speaks","exclusive"],
   "프리뷰": ["preview","analysis","rating","stats","tactical","xg","predicted","lineup","key battle","what we learned"],
 };
@@ -75,6 +75,19 @@ async function readChelseaSite() {
   return out.slice(0, 30);
 }
 
+// 무료 번역(MyMemory). 하루 사용량이 정해져 있어서 한 번에 조금씩만 번역하고, 실패하면 다음 실행 때 다시 해요.
+const TRANSLATE_PER_RUN = 15;
+const TRANSLATE_EMAIL = "jeonjc0602-del@users.noreply.github.com";
+async function translate(text) {
+  const url = "https://api.mymemory.translated.net/get?langpair=en|ko&de=" + encodeURIComponent(TRANSLATE_EMAIL) + "&q=" + encodeURIComponent(text);
+  const res = await fetch(url, { headers: UA });
+  if (!res.ok) throw new Error(`${res.status}`);
+  const data = await res.json();
+  const ko = decode(String(data?.responseData?.translatedText || ""));
+  if (data.responseStatus != 200 || !ko || /MYMEMORY WARNING|QUERY LENGTH/i.test(ko)) throw new Error(ko || "번역 실패");
+  return ko;
+}
+
 async function notify(item) {
   const topic = process.env.NTFY_TOPIC;
   if (!topic) return;
@@ -84,7 +97,7 @@ async function notify(item) {
     body: JSON.stringify({
       topic,
       title: `[${LABEL[item.cat] || item.cat}] ${item.source}`,
-      message: item.title,
+      message: item.titleKo ? `${item.titleKo}\n${item.title}` : item.title,
       click: item.link,
       priority: item.cat === "오피셜" ? 5 : 3,
     }),
@@ -93,6 +106,8 @@ async function notify(item) {
 
 let old = { items: [] };
 try { old = JSON.parse(await readFile("news.json", "utf8")); } catch {}
+// 키워드를 고치면 예전 기사도 새 기준으로 다시 분류해요.
+old.items = old.items.map(x => ({ ...x, cat: classify(x.title, x.source) || x.cat }));
 const known = new Set(old.items.map(x => x.id));
 const firstRun = old.items.length === 0;
 
@@ -117,6 +132,15 @@ for (const x of found) {
 fresh.sort((a, b) => b.date - a.date);
 
 const items = [...fresh, ...old.items].sort((a, b) => b.date - a.date).slice(0, MAX_ITEMS);
+
+// 아직 한국어 제목이 없는 최신 기사부터 번역해요.
+let translated = 0;
+for (const x of items.filter(x => !x.titleKo).slice(0, TRANSLATE_PER_RUN)) {
+  try { x.titleKo = await translate(x.title); translated++; }
+  catch (e) { console.log("번역 멈춤:", e.message); break; }
+}
+console.log(`번역 ${translated}건`);
+
 await writeFile("news.json", JSON.stringify({ updated: Date.now(), items }, null, 1));
 console.log(`새 뉴스 ${fresh.length}건`);
 
