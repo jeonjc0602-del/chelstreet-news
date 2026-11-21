@@ -23,7 +23,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Noto Sans KR
 a{color:inherit}
 button,input{font:inherit}
 .top{background:#000;color:#fff;padding:22px max(5vw,16px) 0;border-bottom:1px solid var(--line)}
-.wrap{max-width:1000px;margin:0 auto}
+.wrap{max-width:1100px;margin:0 auto}
 .head{display:flex;flex-wrap:wrap;gap:14px 20px;align-items:center;justify-content:space-between}
 h1{font:400 clamp(30px,5vw,46px)/1.05 "Black Han Sans",sans-serif;margin:0;letter-spacing:.5px}
 h1 span{color:var(--gold)}
@@ -66,6 +66,12 @@ main{padding:22px max(5vw,16px) 48px}
 .meta{display:flex;gap:12px;flex-wrap:wrap;font-size:13px;color:var(--mute)}
 .meta .src{font-weight:700;color:var(--ink)}
 .new{background:var(--gold);color:var(--goldInk);font:700 11px/1 Oswald,sans-serif;padding:3px 6px;border-radius:4px;margin-right:6px;vertical-align:2px;letter-spacing:.5px}
+.listhead{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--mute);margin:0 2px 8px}
+.link{background:none;border:0;color:var(--gold);font-weight:700;font-size:14px;cursor:pointer;min-height:36px;padding:0 4px}
+.morebtn{display:block;width:100%;margin-top:12px;min-height:48px;border-radius:12px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);font-weight:700;cursor:pointer}
+.morebtn:hover,.link:hover{border-color:var(--gold)}
+.status .warn,.status span.warn{color:#ffb4b4}
+.status span.warn .dot{background:#e03b3e;animation:none}
 .empty{padding:40px 20px;text-align:center;color:var(--mute);border:1.5px dashed var(--line);border-radius:14px}
 details{margin-top:28px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:4px 18px}
 summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:center}
@@ -84,10 +90,10 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
     <div class="head">
       <div>
         <h1>CHELSTREET <span>뉴스 알림</span></h1>
-        <p class="sub">BBC · Sky · 가디언 · 더 선 · 미러 · ESPN · 디 애슬레틱 · 한국 축구 매체 등 30여 곳 — 인터뷰 · 오피셜 · 부상 · 이적 · 프리뷰/분석</p>
+        <p class="sub">BBC · 스카이 · 가디언 · 더 선 · 미러 · 데일리메일 · 텔레그래프 · 디 애슬레틱 · 한국 축구 매체 · 첼시 공식 등 25곳 이상</p>
       </div>
       <div class="acts">
-        <button class="btn gold" id="notifyBtn" type="button">알림 켜기</button>
+        <button class="btn gold" id="notifyBtn" type="button">PC 알림 켜기</button>
         <button class="btn" id="demoBtn" type="button">최신 소식 보기</button>
       </div>
     </div>
@@ -107,8 +113,9 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
       <div class="chips" id="srcChips" role="group" aria-label="출처"></div>
       <input class="search" id="q" type="search" placeholder="선수 이름, 단어로 찾기 (한국어·영어)" aria-label="뉴스 검색">
     </div>
-    <p class="note" id="dataNote"></p>
+    <div class="listhead"><span>최신순</span><button class="link" id="readAll" type="button" hidden>모두 읽음으로 표시</button></div>
     <div class="list" id="list"></div>
+    <button class="morebtn" id="more" type="button" hidden>더 보기</button>
 
     <details>
       <summary>어떤 단어가 들어가면 알림이 오나요?</summary>
@@ -135,7 +142,6 @@ const lab = c => LABEL[c] || c;
 const GROUPS = ["영국 언론","한국 언론","팬 블로그","공식·FotMob"];
 const GROUP_OF = {"첼시 공식":"공식·FotMob","FotMob":"공식·FotMob"};
 const groupOf = x => x.group || GROUP_OF[x.source] || (/[가-힣]/.test(x.source) ? "한국 언론" : "영국 언론");
-const ALL_CHELSEA = ["첼시 공식","FotMob"];
 
 function classify(title, source){
   const t = " " + title.toLowerCase() + " ";
@@ -145,40 +151,26 @@ function classify(title, source){
   return source === "FotMob" ? "프리뷰" : null;
 }
 
-const now = Date.now(), min = 60000;
-const SAMPLE = [
-  {title:"Chelsea complete signing of young midfielder on six-year deal", source:"첼시 공식", mins:12},
-  {title:"Chelsea defender ruled out for three weeks with hamstring injury", source:"BBC Sport", mins:38},
-  {title:"Chelsea open talks over January loan move for striker", source:"Sky Sports", mins:65},
-  {title:"Head coach says Chelsea must be more clinical - press conference", source:"BBC Sport", mins:120},
-  {title:"Chelsea confirm contract extension for academy graduate", source:"첼시 공식", mins:190},
-  {title:"Chelsea bid rejected for winger as rivals circle", source:"Sky Sports", mins:260},
-  {title:"Captain admits Chelsea 'let fans down' after derby defeat", source:"Sky Sports", mins:340},
-  {title:"Chelsea forward nears return from knee injury", source:"BBC Sport", mins:470},
-  {title:"Preview: Chelsea host London rivals at Stamford Bridge", source:"FotMob", mins:95},
-  {title:"How Chelsea's midfield pivot is controlling games this season", source:"FotMob", mins:300},
-  {title:"Chelsea fans plan tribute ahead of weekend fixture", source:"talkSPORT", mins:50},
-  {title:"Chelsea women book place in cup semi-final", source:"BBC Sport", mins:150}
-].map((x,i)=>({id:"s"+i, link:"#", date:now - x.mins*min, ...x}));
-
-const DEMO = [
-  {title:"Chelsea agree deal in principle for centre-back", source:"Sky Sports"},
-  {title:"Chelsea confirm goalkeeper has signed new contract", source:"첼시 공식"},
-  {title:"Midfielder sidelined with ankle injury, Chelsea confirm", source:"BBC Sport"},
-  {title:"Chelsea head coach reacts to Champions League draw", source:"BBC Sport"},
-  {title:"Preview: Chelsea travel north for Champions League night", source:"FotMob"}
-];
+const min = 60000, PAGE = 60;
 
 let items = [];
-let usingSample = true;
-let cat = "전체", src = "전체", query = "", view = "kw";
-try { if (localStorage.getItem("cs_view") === "all") view = "all"; } catch(e) {}
+let loaded = false;
+let cat = "전체", src = "전체", query = "", view = "kw", limit = PAGE;
+const store = {
+  get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : v; } catch(e) { return d; } },
+  set(k, v){ try { localStorage.setItem(k, v); } catch(e) {} }
+};
+if (store.get("cs_view", "kw") === "all") view = "all";
 let seen = new Set();
-try { seen = new Set(JSON.parse(localStorage.getItem("cs_seen") || "[]")); } catch(e) {}
-function saveSeen(){ try { localStorage.setItem("cs_seen", JSON.stringify([...seen].slice(-300))); } catch(e) {} }
+try { seen = new Set(JSON.parse(store.get("cs_seen", "[]"))); } catch(e) {}
+function saveSeen(){ store.set("cs_seen", JSON.stringify([...seen].slice(-500))); }
+// 지난번에 사이트를 본 시각. 그 뒤에 들어온 기사만 NEW로 표시해요. (처음이면 최근 12시간)
+let lastVisit = +store.get("cs_last", 0) || Date.now() - 12*60*min;
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const arrived = x => x.added || x.date;
+const isNew = x => arrived(x) > lastVisit && !seen.has(x.id);
 
 function ago(ts){
   const m = Math.max(0, Math.round((Date.now()-ts)/min));
@@ -186,12 +178,12 @@ function ago(ts){
   if (m < 60) return m + "분 전";
   const h = Math.floor(m/60);
   if (h < 24) return h + "시간 전";
-  return Math.floor(h/24) + "일 전";
+  const d = Math.floor(h/24);
+  return d < 7 ? d + "일 전" : new Date(ts).toLocaleDateString("ko-KR",{month:"numeric",day:"numeric"});
 }
 
 function prepare(list){
   return list
-    .filter(x => x.group || /chelsea|첼시/i.test(x.title) || ALL_CHELSEA.includes(x.source))
     .map(x => ({...x, cat: x.cat || classify(x.title, x.source)}))
     .sort((a,b) => b.date - a.date);
 }
@@ -212,82 +204,113 @@ function chips(){
     `<button class="chip" type="button" data-src="${s}" aria-pressed="${s===src}">${s === "전체" ? "모든 출처" : s}</button>`).join("");
 }
 
-function render(freshId){
+function render(){
   chips();
   const q = query.trim().toLowerCase();
   const pool = view === "kw" ? kwItems() : items;
   const shown = pool.filter(x =>
     (view === "all" || cat === "전체" || x.cat === cat) &&
     (src === "전체" || groupOf(x) === src) &&
-    (!q || (x.title + " " + (x.titleKo || "")).toLowerCase().includes(q)));
-  $("list").innerHTML = shown.length ? shown.map(x => `
-    <a class="item${x.id===freshId?" fresh":""}" data-id="${esc(x.id)}" href="${esc(x.link)}" target="_blank" rel="noopener">
+    (!q || (x.title + " " + (x.titleKo || "") + " " + x.source).toLowerCase().includes(q)));
+  const page = shown.slice(0, limit);
+  $("list").innerHTML = !loaded ? `<div class="empty">뉴스를 불러오는 중이에요…</div>`
+    : shown.length ? page.map(x => `
+    <a class="item" data-id="${esc(x.id)}" href="${esc(x.link)}" target="_blank" rel="noopener">
       <span class="tag t-${x.cat || "none"}">${x.cat ? lab(x.cat) : "뉴스"}</span>
-      <span class="ttl">${seen.has(x.id) ? "" : '<span class="new">NEW</span>'}${esc(x.titleKo || x.title)}${x.titleKo && x.titleKo !== x.title ? `<span class="en">${esc(x.title)}</span>` : ""}</span>
-      <span class="meta"><span class="src">${esc(x.source)}</span><span>${ago(x.date)}</span></span>
-    </a>`).join("") : `<div class="empty">조건에 맞는 뉴스가 없어요. 필터를 바꿔 보세요.</div>`;
+      <span class="ttl">${isNew(x) ? '<span class="new">NEW</span>' : ""}${esc(x.titleKo || x.title)}${x.titleKo && x.titleKo !== x.title ? `<span class="en">${esc(x.title)}</span>` : ""}</span>
+      <span class="meta"><span class="src">${esc(x.source)}</span><span title="${new Date(x.date).toLocaleString("ko-KR")}">${ago(x.date)}</span></span>
+    </a>`).join("") : `<div class="empty">조건에 맞는 뉴스가 없어요. 필터나 검색어를 바꿔 보세요.</div>`;
+  $("more").hidden = shown.length <= limit;
+  $("more").textContent = `더 보기 (${shown.length - limit}건 남음)`;
   const top = kwItems()[0];
   $("ticker").textContent = top ? `[${lab(top.cat)}] ${top.titleKo || top.title}` : "아직 새 소식이 없어요";
-  $("countInfo").textContent = `키워드 뉴스 ${kwItems().length}건 · 전체 뉴스 ${items.length}건`;
-  $("dataNote").textContent = usingSample
-    ? "지금 보이는 기사는 화면 확인용 예시예요. GitHub에 올리면 실제 BBC·Sky·공식 홈페이지 뉴스로 바뀌어요."
-    : "";
+  const newCount = items.filter(isNew).length;
+  $("countInfo").textContent = `새 기사 ${newCount}건 · 키워드 뉴스 ${kwItems().length}건 · 전체 뉴스 ${items.length}건`;
+  $("readAll").hidden = newCount === 0;
+  document.title = (newCount ? `(${newCount}) ` : "") + "CHELSTREET 뉴스 알림";
 }
 
 let toastLink = "";
-$("toast").addEventListener("click", () => { if (toastLink && toastLink !== "#") window.open(toastLink, "_blank", "noopener"); });
+$("toast").addEventListener("click", () => { if (toastLink) window.open(toastLink, "_blank", "noopener"); });
 function toast(tag, text, link){
   toastLink = link || "";
   $("toastTag").textContent = tag; $("toastTxt").textContent = text;
   $("toast").classList.add("on");
-  clearTimeout(toast.t); toast.t = setTimeout(() => $("toast").classList.remove("on"), 4500);
+  clearTimeout(toast.t); toast.t = setTimeout(() => $("toast").classList.remove("on"), 6000);
+}
+
+function desktopNotify(title, body, link){
+  try {
+    if ("Notification" in window && Notification.permission === "granted"){
+      const n = new Notification(title, {body, tag: link || title});
+      n.onclick = () => { window.focus(); if (link) window.open(link, "_blank", "noopener"); n.close(); };
+    }
+  } catch(e) {}
 }
 
 function notify(item){
   const t = item.titleKo || item.title;
   toast(`[${lab(item.cat)}] ${item.source}`, t, item.link);
-  try {
-    if ("Notification" in window && Notification.permission === "granted"){
-      new Notification(`CHELSTREET · ${lab(item.cat)}`, {body: t});
-    }
-  } catch(e) {}
+  desktopNotify(`CHELSTREET · ${lab(item.cat)}`, t, item.link);
 }
 
+let failCount = 0;
 async function load(){
   try {
     const r = await fetch("news.json?t=" + Date.now(), {cache:"no-store"});
-    if (!r.ok) throw 0;
+    if (!r.ok) throw new Error(r.status);
     const data = await r.json();
     const fresh = prepare(data.items || []);
-    if (!usingSample){
+    if (loaded){
       const known = new Set(items.map(x => x.id));
-      fresh.filter(x => x.cat && !known.has(x.id)).forEach(notify);
+      const added = fresh.filter(x => x.cat && !known.has(x.id));
+      if (added.length === 1) notify(added[0]);
+      else if (added.length > 1){
+        toast(`새 키워드 뉴스 ${added.length}건`, added[0].titleKo || added[0].title, added[0].link);
+        desktopNotify(`CHELSTREET · 새 뉴스 ${added.length}건`, added.slice(0,3).map(x => `[${lab(x.cat)}] ${x.titleKo || x.title}`).join("\n"), added[0].link);
+      }
     }
-    items = fresh; usingSample = false;
+    items = fresh; loaded = true; failCount = 0;
+    const stale = data.updated && Date.now() - data.updated > 90*min;
     $("checked").textContent = data.updated
-      ? "마지막 확인 " + new Date(data.updated).toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"})
+      ? "마지막 확인 " + new Date(data.updated).toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}) + (stale ? " · 자동 수집이 늦어지고 있어요" : "")
       : "첫 뉴스 확인을 기다리는 중";
+    $("checked").parentElement.classList.toggle("warn", !!stale);
   } catch(e) {
-    if (usingSample) items = prepare(SAMPLE);
-    $("checked").textContent = "예시 모드 · 5분마다 새로 확인";
+    failCount++;
+    $("checked").textContent = "뉴스를 불러오지 못했어요 · 잠시 후 다시 시도해요";
+    $("checked").parentElement.classList.add("warn");
+    if (!loaded && failCount >= 2){ loaded = true; }
   }
   render();
 }
 
 $("tabs").addEventListener("click", e => {
   const b = e.target.closest("[data-view]"); if (!b) return;
-  view = b.dataset.view;
-  try { localStorage.setItem("cs_view", view); } catch(e) {}
+  view = b.dataset.view; limit = PAGE;
+  store.set("cs_view", view);
   render();
 });
-$("catChips").addEventListener("click", e => { const b = e.target.closest("[data-cat]"); if (b){ cat = b.dataset.cat; render(); } });
-$("srcChips").addEventListener("click", e => { const b = e.target.closest("[data-src]"); if (b){ src = b.dataset.src; render(); } });
-$("q").addEventListener("input", e => { query = e.target.value; render(); });
+$("catChips").addEventListener("click", e => { const b = e.target.closest("[data-cat]"); if (b){ cat = b.dataset.cat; limit = PAGE; render(); } });
+$("srcChips").addEventListener("click", e => { const b = e.target.closest("[data-src]"); if (b){ src = b.dataset.src; limit = PAGE; render(); } });
+$("q").addEventListener("input", e => { query = e.target.value; limit = PAGE; render(); });
+$("more").addEventListener("click", () => { limit += PAGE; render(); });
 $("list").addEventListener("click", e => {
   const a = e.target.closest(".item"); if (!a) return;
   seen.add(a.dataset.id); saveSeen();
-  if (a.getAttribute("href") === "#") e.preventDefault();
   setTimeout(render, 50);
+});
+$("readAll").addEventListener("click", () => {
+  lastVisit = Date.now(); store.set("cs_last", lastVisit);
+  render();
+});
+// 사이트를 닫거나 다른 탭으로 갈 때, 지금까지 본 걸로 기록해요.
+let openedAt = Date.now();
+function markVisited(){ store.set("cs_last", openedAt); }
+addEventListener("pagehide", markVisited);
+document.addEventListener("visibilitychange", () => {
+  if (document.hidden) markVisited();
+  else { openedAt = Date.now(); load(); }
 });
 
 $("demoBtn").addEventListener("click", () => {
@@ -295,22 +318,31 @@ $("demoBtn").addEventListener("click", () => {
   if (top) notify(top); else toast("알림", "아직 키워드 뉴스가 없어요.");
 });
 
+function notifyState(){
+  if (!("Notification" in window)) { $("notifyBtn").hidden = true; return; }
+  if (Notification.permission === "granted") $("notifyBtn").textContent = "PC 알림 켜짐";
+  else if (Notification.permission === "denied") $("notifyBtn").textContent = "PC 알림 차단됨";
+}
 $("notifyBtn").addEventListener("click", async () => {
   try {
     if (!("Notification" in window)) throw 0;
+    if (Notification.permission === "denied") { toast("알림", "브라우저 주소창 왼쪽 자물쇠 아이콘 → 알림 → 허용으로 바꿔 주세요."); return; }
     const p = await Notification.requestPermission();
-    if (p === "granted"){ $("notifyBtn").textContent = "알림 켜짐"; toast("알림", "새 뉴스가 오면 바로 알려 드릴게요."); }
+    notifyState();
+    if (p === "granted") toast("알림", "이 사이트를 열어 두면 새 키워드 뉴스가 올 때 PC 알림이 떠요.");
     else toast("알림", "브라우저에서 알림을 허용해야 받을 수 있어요.");
   } catch(e) {
-    toast("알림", "이 화면에서는 브라우저 알림이 막혀 있어요. 실제 사이트에서는 켜져요. (지금은 화면 안 알림으로 보여 드려요)");
+    toast("알림", "이 브라우저에서는 알림을 쓸 수 없어요.");
   }
 });
+notifyState();
 
 $("kw").innerHTML = ORDER.map(c =>
   `<div><span class="tag t-${c}" style="display:inline-block;padding:2px 10px;margin-bottom:6px">${lab(c)}</span><br>${KEYWORDS[c].map(k=>`<code>${esc(k)}</code>`).join(" ")}</div>`).join("");
 
+render();
 load();
-setInterval(load, 5*min);
+setInterval(load, 3*min);
 }
 </script>
 </body>

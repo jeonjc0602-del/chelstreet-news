@@ -5,6 +5,7 @@ import { readFile, writeFile } from "node:fs/promises";
 // group: 사이트 필터 묶음 / chelseaOnly: true면 첼시 전용 피드라 전부 가져오고, false면 제목에 첼시가 있는 기사만 가져와요.
 const UK = "영국 언론", KR = "한국 언론", FAN = "팬 블로그", OFF = "공식·FotMob";
 const GN_EN = "https://news.google.com/rss/search?q=%22Chelsea%22+football+when:2d&hl=en-GB&gl=GB&ceid=GB:en";
+const GN_OFF = "https://news.google.com/rss/search?q=site:chelseafc.com+when:7d&hl=en-GB&gl=GB&ceid=GB:en";
 const GN_KO = "https://news.google.com/rss/search?q=%EC%B2%BC%EC%8B%9C+when:2d&hl=ko&gl=KR&ceid=KR:ko";
 const FEEDS = [
   // 영국·해외 언론
@@ -20,11 +21,7 @@ const FEEDS = [
   { source: "Telegraph",        group: UK, chelseaOnly: false, url: "https://www.telegraph.co.uk/football/rss.xml" },
   { source: "Independent",      group: UK, chelseaOnly: false, url: "https://www.independent.co.uk/sport/football/rss" },
   { source: "Express",          group: UK, chelseaOnly: false, url: "https://www.express.co.uk/posts/rss/78/football" },
-  { source: "ESPN",             group: UK, chelseaOnly: false, url: "https://www.espn.com/espn/rss/soccer/news" },
-  { source: "Goal",             group: UK, chelseaOnly: false, url: "https://www.goal.com/feeds/en/news" },
   { source: "Sports Mole",      group: UK, chelseaOnly: true,  url: "https://www.sportsmole.co.uk/football/chelsea.xml" },
-  { source: "Football365",      group: UK, chelseaOnly: false, url: "https://www.football365.com/feed" },
-  { source: "TEAMtalk",         group: UK, chelseaOnly: false, url: "https://www.teamtalk.com/feed" },
   { source: "CaughtOffside",    group: UK, chelseaOnly: false, url: "https://www.caughtoffside.com/feed/" },
   { source: "90min",            group: UK, chelseaOnly: false, url: "https://www.90min.com/posts.rss" },
   { source: "The Athletic",     group: UK, chelseaOnly: false, url: "https://www.nytimes.com/athletic/rss/football/" },
@@ -39,10 +36,10 @@ const FEEDS = [
   { source: "Chelsea News",     group: FAN, chelseaOnly: true, url: "https://chelsea.news/feed" },
   { source: "The Chelsea Blog", group: FAN, chelseaOnly: true, url: "https://thechelseablog.com/feed" },
   { source: "Chelsea Supporters Trust", group: FAN, chelseaOnly: true, url: "https://chelseasupporterstrust.com/feed" },
-  // 공식·FotMob
+  // 공식·FotMob (첼시 공식 홈페이지는 RSS가 없어서 구글 뉴스로 공식 사이트 기사만 골라 가져와요)
+  { source: "첼시 공식",         group: OFF, chelseaOnly: true, url: GN_OFF, google: true, keepSource: true },
   { source: "FotMob",           group: OFF, chelseaOnly: true, url: "https://latest.fotmob.com/category/chelsea/feed/" },
 ];
-const CHELSEA_SITE = "https://www.chelseafc.com/en/news/latest-news";
 
 const KEYWORDS = {
   "오피셜": ["official","confirmed","confirm","signs","signed","completes","completed","announce","unveil","extension","new contract","오피셜","공식 발표","공식발표","재계약","입단"],
@@ -77,7 +74,7 @@ const tag = (xml, name) => {
   return m ? decode(m[1]) : "";
 };
 
-async function readFeed({ source, group, url, chelseaOnly, google }) {
+async function readFeed({ source, group, url, chelseaOnly, google, keepSource }) {
   const res = await fetch(url, { headers: UA, signal: AbortSignal.timeout(20000) });
   if (!res.ok) throw new Error(`${res.status}`);
   const xml = await res.text();
@@ -88,36 +85,19 @@ async function readFeed({ source, group, url, chelseaOnly, google }) {
     let title = tag(block, "title");
     let link = tag(block, "link") || (block.match(/<link[^>]+href="([^"]+)"/i) || [])[1] || tag(block, "guid");
     if (!title || !link) continue;
-    let src = source;
+    let src = source, grp = group;
     if (google) { // 구글뉴스는 제목 끝에 " - 매체명"이 붙어 있어서 매체명으로 바꿔요.
       const outlet = tag(block, "source");
-      if (outlet) { src = outlet; title = title.replace(new RegExp(`\\s+-\\s+${outlet.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}$`), ""); }
+      if (outlet) { if (!keepSource) src = outlet; title = title.replace(new RegExp(`\\s+-\\s+${outlet.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}$`), ""); }
     }
+    if (/^chelsea f\.?c\.?$|chelseafc\.com/i.test(src)) { src = "첼시 공식"; grp = OFF; } // 공식 홈페이지 기사
+    if (src === "첼시 공식") title = title.replace(/\s*\|\s*(news|official site|chelsea football club|chelsea fc)\b.*$/i, "");
     if (!chelseaOnly && !/chelsea|첼시/i.test(title)) continue;
     if (JUNK.test(title)) continue;
     const date = Date.parse(tag(block, "pubDate") || tag(block, "published") || tag(block, "updated")) || Date.now();
-    out.push({ title, link: decode(link).split("#")[0], source: src, group, date });
+    out.push({ title, link: decode(link).split("#")[0], source: src, group: grp, date });
   }
   return out;
-}
-
-// 첼시 공식 홈페이지는 RSS가 없어서 뉴스 목록 페이지에서 기사 링크를 찾아요. 사이트가 바뀌면 이 부분만 고장 나고 나머지는 계속 돌아가요.
-async function readChelseaSite() {
-  const res = await fetch(CHELSEA_SITE, { headers: UA, signal: AbortSignal.timeout(20000) });
-  if (!res.ok) throw new Error(`${res.status}`);
-  const html = await res.text();
-  const out = [], seen = new Set();
-  const re = /<a[^>]+href="(\/en\/news\/article\/[^"#?]+)"[^>]*>([\s\S]*?)<\/a>/gi;
-  let m;
-  while ((m = re.exec(html))) {
-    const link = "https://www.chelseafc.com" + m[1];
-    if (seen.has(link)) continue;
-    const text = decode(m[2]).replace(/\s+/g, " ");
-    const title = text.length > 15 ? text : decode(m[1].split("/").pop().replace(/-/g, " "));
-    seen.add(link);
-    out.push({ title, link, source: "첼시 공식", group: OFF, date: Date.now() });
-  }
-  return out.slice(0, 30);
 }
 
 // 무료 번역(MyMemory). 하루 사용량이 정해져 있어서 한 번에 조금씩만 번역하고, 실패하면 다음 실행 때 다시 해요.
@@ -157,13 +137,16 @@ let old = { items: [] };
 try { old = JSON.parse(await readFile("news.json", "utf8")); } catch {}
 // 키워드를 고치면 예전 기사도 새 기준으로 다시 분류해요.
 old.items = old.items.filter(x => !JUNK.test(x.title))
-  .map(x => ({ ...x, group: x.group || groupOf(x.source), cat: classify(x.title, x.source) || x.cat }));
+  .map(x => {
+    if (/^chelsea f\.?c\.?$|chelseafc\.com/i.test(x.source)) { x = { ...x, source: "첼시 공식", group: OFF, title: x.title.replace(/\s*\|\s*(news|official site|chelsea football club|chelsea fc)\b.*$/i, ""), titleKo: x.titleKo && x.titleKo.replace(/\s*\|\s*(뉴스|공식).*$/, "") }; }
+    return { ...x, group: x.group || groupOf(x.source), cat: classify(x.title, x.source) || x.cat };
+  });
 const known = new Set(old.items.map(x => x.id));
 const knownTitles = new Set(old.items.map(x => norm(x.title)));
 const firstRun = old.items.length === 0;
 
-const jobs = [...FEEDS.map(f => readFeed(f)), readChelseaSite()];
-const names = [...FEEDS.map(f => f.source), "첼시 공식"];
+const jobs = FEEDS.map(f => readFeed(f));
+const names = FEEDS.map(f => f.source);
 const results = await Promise.allSettled(jobs);
 const stats = {};
 let found = [];
@@ -178,7 +161,7 @@ for (const x of found) {
   const id = x.link, key = norm(x.title);
   if (known.has(id) || knownTitles.has(key)) continue;
   known.add(id); knownTitles.add(key);
-  const item = { id, ...x, cat: classify(x.title, x.source) };
+  const item = { id, ...x, added: Date.now(), cat: classify(x.title, x.source) };
   if (HANGUL.test(x.title)) item.titleKo = x.title; // 한국어 기사는 번역 안 해요.
   fresh.push(item);
 }
