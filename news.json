@@ -1,13 +1,13 @@
 {
- "updated": 1795291215006,
+ "updated": 1795293595372,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 3,
+  "Sky Sports": 4,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 11,
-  "The Sun": 4,
+  "Evening Standard": 10,
+  "The Sun": 5,
   "Mirror": 3,
   "Daily Mail": 5,
   "Telegraph": 6,
@@ -17,18 +17,18 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 1,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 67,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 20,
+  "구글뉴스(한국어)": 21,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 10건"
+  "이번 상대": "Nottingham Forest · 새 기사 11건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSU1PcUxiQXNTZzNEQkJEX0hKaEx3czVqbGdzWFFBSlR1NXhQTDJhclRMTHdsdDRnTGduUUI0czlpeDBzQ1B0OUF1WWtiYXN1QXdMTmFCWTg1NjFDTUdOYXhnV01Gd2FYZXJLY0FqdWNsd0tBdUVVbEFtdzFqX0MtRWlwSTl3ZjhWQW9BMmRxcFNHcEdsRFE?oc=5",
+    "title": "Glasner hints at January additions after Nottingham Forest’s defeat to Bournemouth",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSU1PcUxiQXNTZzNEQkJEX0hKaEx3czVqbGdzWFFBSlR1NXhQTDJhclRMTHdsdDRnTGduUUI0czlpeDBzQ1B0OUF1WWtiYXN1QXdMTmFCWTg1NjFDTUdOYXhnV01Gd2FYZXJLY0FqdWNsd0tBdUVVbEFtdzFqX0MtRWlwSTl3ZjhWQW9BMmRxcFNHcEdsRFE?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795291680000,
+    "added": 1795293588005,
+    "tag": "상대 소식",
+    "titleKo": "글라스너 감독, 노팅엄 포레스트의 본머스전 패배 후 1월 이적 시장 영입 가능성 시사"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NMkJLSHFobHl0bU5haUdDLUpJVUJBREhOTFdaYVI1RjFfdGxFTEZJbXZPcXVGaGprS2M2WjFCc2t2OWNTTkpRSURsdw?oc=5",
     "title": "리즈, 첼시 원정서 4-1 대승…맨시티·아스널은 무승부 : EPL",
@@ -829,20 +839,78 @@
     "added": 1795275032052,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 / 리버풀 - 서브웨이 플레이어스 컵 - 더 시티 그라운드, 노팅엄"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2ZxRlFwTmdFU1RyYVlyZWlXLXlhQklsdkR4VktIazdyTHdVOXlscGNTZXhhYWE4LWt2TXJlcnRhMEY0WU9HNUNoWWJKblZLQ3JwNmp2ZGJ1UUdWYjF6UUoxbWIwcGQzLUg3VmEtM1hZcUdJMFBDTmtpMl94Ni1PZlB4NU54Q1h6d3hV?oc=5",
-    "title": "Roma identify January targets, want Chelsea and Nottingham Forest players",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2ZxRlFwTmdFU1RyYVlyZWlXLXlhQklsdkR4VktIazdyTHdVOXlscGNTZXhhYWE4LWt2TXJlcnRhMEY0WU9HNUNoWWJKblZLQ3JwNmp2ZGJ1UUdWYjF6UUoxbWIwcGQzLUg3VmEtM1hZcUdJMFBDTmtpMl94Ni1PZlB4NU54Q1h6d3hV?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1794919500000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "로마, 1월 이적 시장 목표로 첼시와 노팅엄 포레스트 선수 영입 희망"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzd1UU9NZnVRZnhBMkJtOHpTNmxnVGRMejBkMXdoR3pIZHRXckRRY0RNek1kSWVPVVRlTXByam5ESE1TYVh4NGktVUIzOWRZWGJram9aaE43TVFJTzJCTEFoMVpjb0VseXpUSzlFZ2VldFFBaWItS2VRckZISUJFa2dsMnFtLTBGb0VCS3VkOEhvOFU?oc=5",
+   "title": "Cole Palmer ‘confronted by Joao Pedro and Chelsea FC coach’ after ignoring fans",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzd1UU9NZnVRZnhBMkJtOHpTNmxnVGRMejBkMXdoR3pIZHRXckRRY0RNek1kSWVPVVRlTXByam5ESE1TYVh4NGktVUIzOWRZWGJram9aaE43TVFJTzJCTEFoMVpjb0VseXpUSzlFZ2VldFFBaWItS2VRckZISUJFa2dsMnFtLTBGb0VCS3VkOEhvOFU?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795293506000,
+   "added": 1795293586382,
+   "cat": null,
+   "titleKo": "콜 파머, 팬들을 무시한 후 '주앙 페드로와 첼시 FC 코치와 대면'"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3VoUDEwRWJucmxJd1BaTXdOMlZEODFnSGNMckVSR0U4cWZzNHIxTkg2eUgwT3FrMXRab2dKZkdxbmpGOHB2WUFTUHBGOTIxeFFLc240UzZnOVhvY0pjQ3ZKWlc1LXd0M1AyaFZ2MjZEUzZrZjc2RHlPaVFqQmlHNWF5VzdET0xhZEU4eXZsUDhMd2VmSWFxUHhKSzRGR04xOEE?oc=5",
+   "title": "Tom Brady reportedly buying ownership stake in Premier League’s Chelsea FC",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3VoUDEwRWJucmxJd1BaTXdOMlZEODFnSGNMckVSR0U4cWZzNHIxTkg2eUgwT3FrMXRab2dKZkdxbmpGOHB2WUFTUHBGOTIxeFFLc240UzZnOVhvY0pjQ3ZKWlc1LXd0M1AyaFZ2MjZEUzZrZjc2RHlPaVFqQmlHNWF5VzdET0xhZEU4eXZsUDhMd2VmSWFxUHhKSzRGR04xOEE?oc=5",
+   "source": "New York Post",
+   "group": "영국 언론",
+   "date": 1795293240000,
+   "added": 1795293586382,
+   "cat": null,
+   "titleKo": "톰 브래디, 프리미어리그 첼시 FC의 지분 인수 보도"
+  },
+  {
+   "id": "https://www.talkchelsea.net/injury-news/pain-alonso-worrying-update-essential-chelsea-player/",
+   "title": "“Pain” – Alonso gives worrying update on essential Chelsea player who is being horribly managed",
+   "link": "https://www.talkchelsea.net/injury-news/pain-alonso-worrying-update-essential-chelsea-player/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795293000000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Getty-Images-7-414x276.jpg",
+   "added": 1795293586383,
+   "cat": null,
+   "titleKo": "\"고통\" – 알론소, 첼시의 핵심 선수가 끔찍한 관리를 받고 있다는 우려스러운 소식을 전하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMWhJWTd4bVVQZTZzbEFoSk9MbVdPSkJMLVJMUm5TdDduOFcwQUVJSEExMVo1VEtlT2JsYUtvSDBvS1NzRmROd3FvRWl6TFRzR2UtV1NhTXRVZ0dhM1NQbDZUelFSdmpSRE9QQTBXNzNxZTJaQnN6S2JqbkRWWTA0U0c2ZFNPQWtOekJhVTFkSl9OZmdh?oc=5",
+   "title": "'We can't let setbacks affect us' | Video",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMWhJWTd4bVVQZTZzbEFoSk9MbVdPSkJMLVJMUm5TdDduOFcwQUVJSEExMVo1VEtlT2JsYUtvSDBvS1NzRmROd3FvRWl6TFRzR2UtV1NhTXRVZ0dhM1NQbDZUelFSdmpSRE9QQTBXNzNxZTJaQnN6S2JqbkRWWTA0U0c2ZFNPQWtOekJhVTFkSl9OZmdh?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795292813000,
+   "added": 1795293586383,
+   "cat": null,
+   "titleKo": "'우리는 좌절이 우리에게 영향을 미치게 둬서는 안 됩니다' | 동영상"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41102299/chelsea-cole-palmer-snubs-fans-joao-pedro-leeds-defeat/",
+   "title": "Cole Palmer dismisses Joao Pedro and refuses to applaud Chelsea fans after 4-1 Leeds mauling",
+   "link": "https://www.thesun.co.uk/sport/41102299/chelsea-cole-palmer-snubs-fans-joao-pedro-leeds-defeat/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795292210000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FTM-21-11-Chelsea-Palmer_OP.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795293586381,
+   "cat": null,
+   "titleKo": "콜 파머, 조앙 페드로를 무시하고 4-1로 대승을 거둔 리즈전 후 첼시 팬들의 박수를 거부하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSDMxeHo0S25NSS1Id2c2aUNVeUFzVFlJaDJJZTY1SnlEVjk5d1pDdWlqdjFCcWpENkFvYUlKTFRDdU9pN1kwRHA4OHZxTzRBT0FiZGZpb041alhYRXhSdlBISFZuVzloRWVaaU1lbXF6WldOR0tnNXRYdThNY0c2bmxMeUdUdHBTVzAyakVEZkkxVTc5WE1fc1BZV0VycFJ1VGN6cGJDNW5XWlNMbExJaEc0MEFBTGFxODFtaTRNS0NKYWROUHZaR0RJYXNucjhHMHNwdXp0YUo5bldkZUZFbW9ma2syOXV3WVFjXzd3?oc=5",
+   "title": "Is this already the end of Xabi Alonso at Chelsea? He has broken two sacred 'rules'",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSDMxeHo0S25NSS1Id2c2aUNVeUFzVFlJaDJJZTY1SnlEVjk5d1pDdWlqdjFCcWpENkFvYUlKTFRDdU9pN1kwRHA4OHZxTzRBT0FiZGZpb041alhYRXhSdlBISFZuVzloRWVaaU1lbXF6WldOR0tnNXRYdThNY0c2bmxMeUdUdHBTVzAyakVEZkkxVTc5WE1fc1BZV0VycFJ1VGN6cGJDNW5XWlNMbExJaEc0MEFBTGFxODFtaTRNS0NKYWROUHZaR0RJYXNucjhHMHNwdXp0YUo5bldkZUZFbW9ma2syOXV3WVFjXzd3?oc=5",
+   "source": "LiveScore",
+   "group": "영국 언론",
+   "date": 1795292154000,
+   "added": 1795293586382,
+   "cat": null,
+   "titleKo": "이게 이미 첼시에서의 사비 알론소의 마지막인가요? 그는 두 가지 신성한 '규칙'을 어겼습니다."
+  },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
    "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
@@ -1946,6 +2014,18 @@
    "added": 1795263074948,
    "cat": null,
    "titleKo": "첼시 뉴스: 미하일로 무드리크, 안드리 셰브첸코와의 설전을 이어가며 우크라이나의 전설적인 선수에게 거짓말을 했다고 비난"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/11095/13614659/problems-for-passive-man-city-as-chelsea-are-bullied-by-leeds-premier-league-hits-and-misses",
+   "title": "Hits and misses: Problems for passive Man City as Chelsea bullied again",
+   "link": "https://www.skysports.com/football/news/11095/13614659/problems-for-passive-man-city-as-chelsea-are-bullied-by-leeds-premier-league-hits-and-misses",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795260180000,
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-hits_7412868.jpg?20261121193532",
+   "added": 1795293586381,
+   "cat": null,
+   "titleKo": "성공과 실패: 첼시가 다시 한 번 압도한 가운데, 수동적인 맨체스터 시티의 문제점"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcDliRFpLMzhQTUNKUjRiTkN6UTd2VVJ1R1R3LTQ0bXVLbERTYzlaamprQlNWcjJpbHVBRm1LeU5XM0QzZUpoZmd5RkxwUm5rVUx2a3FtYWpJWmZWMzBreWVZY2cwNGJFRU5HaGdJR295aWVVS3NZUC0ydlM4Q29idS16Mk9IVHlvXzhkWVdsYUtYS2pLMXBULUpB?oc=5",
@@ -4103,81 +4183,6 @@
    "date": 1795094635000,
    "cat": null,
    "titleKo": "오늘 리버풀 FC 여자팀 대 첼시 FC 여자팀 경기를 생중계로 시청하세요. TV와 온라인 생중계 방송사는 어디인가요?"
-  },
-  {
-   "id": "https://www.talkchelsea.net/transfers/chelsea-will-sign-midfielder-january-could-spend/",
-   "title": "Chelsea “will sign midfielder” in January and could be forced to spend £100m or more",
-   "link": "https://www.talkchelsea.net/transfers/chelsea-will-sign-midfielder-january-could-spend/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795092822000,
-   "cat": null,
-   "titleKo": "첼시, 1월에 \"미드필더 영입\" 예정. 1억 파운드 이상 지출 가능성",
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/croatia-v-england-uefa-nations-league-2026-27-group-a3-md3-550x367.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGFqMmc1cWVSR01ncG52aklNclBteGpkR0NWVklhZ1Vjay1VMFFjY2Y5R3FQcVVhOFVoZjgySmEtcFpxTjNONWVXSlp4bVVnU1hKWE9NOHBHRVBnb2ZhX2NEOEpXVFUxWTJZZTdVR2JzcVllcjkyTHVNWmhMTlNEV0k3VTNjUXpvR2ZYVlNQcDluNE85UjFuODVaaGlRWjh2alFjN2FlNUpyYTQxdi1BaHNVbVVUR1gzWjlXWXljRUxXbHFqZ1loUEFrRS1ROVVmVkE3eVNKdl9Xd2FZX280aUExbDF0ZDZ3SmZ6Ug?oc=5",
-   "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGFqMmc1cWVSR01ncG52aklNclBteGpkR0NWVklhZ1Vjay1VMFFjY2Y5R3FQcVVhOFVoZjgySmEtcFpxTjNONWVXSlp4bVVnU1hKWE9NOHBHRVBnb2ZhX2NEOEpXVFUxWTJZZTdVR2JzcVllcjkyTHVNWmhMTlNEV0k3VTNjUXpvR2ZYVlNQcDluNE85UjFuODVaaGlRWjh2alFjN2FlNUpyYTQxdi1BaHNVbVVUR1gzWjlXWXljRUxXbHFqZ1loUEFrRS1ROVVmVkE3eVNKdl9Xd2FZX280aUExbDF0ZDZ3SmZ6Ug?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795091304000,
-   "added": 1795221030969,
-   "cat": "이적",
-   "titleKo": "첼시 이적 소식, 루머 및 가십: 이적, 영입, 임대 및 계약에 대한 실시간 업데이트 및 최신 소식"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ1lPclVxQlVTYTFzd3NVdWdCdHB0NVIyZXl5ZW9mZGpNaWMzRDFMZXlIODlEUHlXSmNod2o5NU44UmttWWVFZC1RaTVTeUlpY2NKR2dLTExuNFZfT3RYOTA0YnNJM3RrR3J2UFNIa2dPMXBKdGM5Ump2VkJqSzI0WktnajVRa2ZRNkNDNQ?oc=5",
-   "title": "Two January fixtures moved for TV coverage",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ1lPclVxQlVTYTFzd3NVdWdCdHB0NVIyZXl5ZW9mZGpNaWMzRDFMZXlIODlEUHlXSmNod2o5NU44UmttWWVFZC1RaTVTeUlpY2NKR2dLTExuNFZfT3RYOTA0YnNJM3RrR3J2UFNIa2dPMXBKdGM5Ump2VkJqSzI0WktnajVRa2ZRNkNDNQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795089600000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "TV 중계로 인해 1월 경기 2경기 일정이 변경되었습니다."
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/feature/the-three-positions-where-chelsea-need-january-reinforcements_609388.html",
-   "title": "Chelsea transfer news: The three positions where the Blues need January reinforcements",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/feature/the-three-positions-where-chelsea-need-january-reinforcements_609388.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795089240000,
-   "cat": "이적",
-   "image": "https://www.sportsmole.co.uk/thumbor/VJVVhyETr1FHkQEaMp1xJOpL3mA=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsport-378795-0019-1-6afee17c1f964792976664.jpg",
-   "titleKo": "첼시 이적 소식: 블루스에 1월 보강이 필요한 세 포지션"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MaUQwX3B4NE9oNm1uZWk0NFB4a004SlZtR1ByWHlaMkZ4NHRTZHRHZDJWdnRUcmQtdFhYS1BvQi1vOHoxejc0ZmxjUDd2TW0zd1A1ZnNBQjRxRmFnQzZwVlRHS3Q2OXg2SVVXaFlqeFc?oc=5",
-   "title": "'맨유·첼시 전설' 마타, 38세에 현역 은퇴 선언…라커룸에 축구화 걸어두고 작별 \"고마웠어, 축구\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MaUQwX3B4NE9oNm1uZWk0NFB4a004SlZtR1ByWHlaMkZ4NHRTZHRHZDJWdnRUcmQtdFhYS1BvQi1vOHoxejc0ZmxjUDd2TW0zd1A1ZnNBQjRxRmFnQzZwVlRHS3Q2OXg2SVVXaFlqeFc?oc=5",
-   "source": "SPOTV NEWS",
-   "group": "한국 언론",
-   "date": 1795087800000,
-   "cat": null,
-   "titleKo": "'맨유·첼시 전설' 마타, 38세에 현역 은퇴 선언…라커룸에 축구화 걸어두고 작별 \"고마웠어, 축구\""
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUHBnd1d3X0xrWUNvN0xpQVFyODhSZ1ZzTm1vd1p1dXhZSmRidjFhbExyaENON3lWdmtkVk5TYm01ZUVIY0V4V0g0VmVUUlB6QnVEbHZaQ1VMa255VE5aV0s0eXlGVUNJTG5RSFYyQWoyVzBoWVl5NGN6OW1PX21IVHo4bTVkemt6ZndmbWdIR1ZuQQ?oc=5",
-   "title": "St Mary’s students appointed roles at Chelsea Academy",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUHBnd1d3X0xrWUNvN0xpQVFyODhSZ1ZzTm1vd1p1dXhZSmRidjFhbExyaENON3lWdmtkVk5TYm01ZUVIY0V4V0g0VmVUUlB6QnVEbHZaQ1VMa255VE5aV0s0eXlGVUNJTG5RSFYyQWoyVzBoWVl5NGN6OW1PX21IVHo4bTVkemt6ZndmbWdIR1ZuQQ?oc=5",
-   "source": "St Mary's University, London",
-   "group": "영국 언론",
-   "date": 1795087558000,
-   "cat": null,
-   "titleKo": "세인트 메리스 학생들, 첼시 아카데미에서 역할 부여받음"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDFIRmdRX1VZenphazgzWTJkbXhzUWRHR1Naa0JPekdsenZiRWc4VFlkV3psOUZYNzIwczBsRTk0c3VXc3NpX01qQ3hVM1BNU2VWa1k0anBhamttMnRHcllkYVBKa1h3a3JqY1VLd3loTmtkZzZieXczX0V6dHZsZElqWWROeVZDcGVuWE1zRVZ4YmhaTTZVVUZzcFdnTW9xZVM5dFJiNURJRWVYY2tGNnhMX3Q1dw?oc=5",
-   "title": "James Savundra analyses the ten things learnt from Chelsea's first ten games under Xabi Alonso.",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDFIRmdRX1VZenphazgzWTJkbXhzUWRHR1Naa0JPekdsenZiRWc4VFlkV3psOUZYNzIwczBsRTk0c3VXc3NpX01qQ3hVM1BNU2VWa1k0anBhamttMnRHcllkYVBKa1h3a3JqY1VLd3loTmtkZzZieXczX0V6dHZsZElqWWROeVZDcGVuWE1zRVZ4YmhaTTZVVUZzcFdnTW9xZVM5dFJiNURJRWVYY2tGNnhMX3Q1dw?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795087254000,
-   "added": 1795230706372,
-   "cat": null,
-   "titleKo": "제임스 사분드라(James Savundra)가 샤비 알론소가 이끄는 첼시의 첫 10경기에서 배운 10가지를 분석합니다."
   }
  ]
 }
