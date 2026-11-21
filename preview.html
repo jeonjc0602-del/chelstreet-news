@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CHELSTREET 디자인 미리보기</title>
+<link id="theme" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.3/dist/lux/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  body{font-family:"Noto Sans KR",var(--bs-body-font-family),sans-serif}
+  .picker{position:sticky;top:0;z-index:1030}
+  .news-card{height:100%;transition:transform .15s}
+  .news-card:hover{transform:translateY(-2px)}
+  .news-card .en{font-size:.8rem;opacity:.65}
+  .ticker{display:flex;gap:.75rem;align-items:center;text-decoration:none}
+  .ticker .txt{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;flex:1}
+  .stretched{text-decoration:none;color:inherit}
+  .tw-card{text-decoration:none}
+  .vs{font-size:2rem;font-weight:700}
+</style>
+</head>
+<body>
+
+<div class="picker bg-dark text-white py-2 px-3 d-flex flex-wrap gap-2 align-items-center">
+  <strong class="me-2">디자인 미리보기 · 테마 고르기</strong>
+  <div class="btn-group btn-group-sm flex-wrap" id="themes"></div>
+  <span class="small opacity-75 ms-auto" id="themeDesc"></span>
+</div>
+
+<nav class="navbar navbar-expand navbar-dark bg-primary">
+  <div class="container">
+    <span class="navbar-brand fw-bold fs-3">CHELSTREET</span>
+    <a class="btn btn-warning btn-sm fw-bold" href="https://www.instagram.com/chelstreet__/" target="_blank" rel="noopener">@chelstreet__ 팔로우</a>
+  </div>
+</nav>
+
+<main class="container py-4">
+  <a class="alert alert-warning ticker mb-4" id="tickerLink" target="_blank" rel="noopener">
+    <span class="badge bg-danger">속보</span><span class="txt" id="ticker">불러오는 중…</span><strong class="text-nowrap">기사 보기 →</strong>
+  </a>
+
+  <ul class="nav nav-pills mb-3 gap-1" id="tabs">
+    <li class="nav-item"><button class="nav-link active" data-view="kw">키워드 뉴스 <span class="badge bg-light text-dark" id="nKw"></span></button></li>
+    <li class="nav-item"><button class="nav-link" data-view="all">전체 뉴스 <span class="badge bg-light text-dark" id="nAll"></span></button></li>
+    <li class="nav-item"><button class="nav-link" data-view="opp">이번 상대</button></li>
+    <li class="nav-item"><button class="nav-link" data-view="tw">트위터</button></li>
+  </ul>
+
+  <div id="matchCard" class="card border-primary mb-4" hidden></div>
+
+  <div class="d-flex flex-wrap gap-2 mb-3" id="cats"></div>
+
+  <div class="row g-3" id="list"></div>
+  <div class="text-center mt-4"><button class="btn btn-outline-primary" id="more" hidden>더 보기</button></div>
+
+  <div id="tw" hidden>
+    <h5 class="mb-3">기자 · 공식</h5>
+    <div class="row g-3 mb-4" id="twGrid"></div>
+    <h5 class="mb-3">첼시 소식 계정</h5>
+    <div class="row g-3" id="twFan"></div>
+  </div>
+
+  <p class="text-muted small mt-5">이 페이지는 디자인 미리보기예요. 실제 사이트와 같은 뉴스를 보여 줘요. 마음에 드는 테마를 알려 주시면 실제 사이트에 적용해요.</p>
+</main>
+
+<script>
+{
+const THEMES = [
+  ["lux", "Lux", "고급 잡지처럼 깔끔하고 정돈된 흑백 톤"],
+  ["flatly", "Flatly", "밝고 납작한 플랫 디자인, 남색+초록"],
+  ["zephyr", "Zephyr", "요즘 앱처럼 부드럽고 밝은 파란 톤"],
+  ["darkly", "Darkly", "어두운 회색 바탕의 편안한 다크 모드"],
+  ["cyborg", "Cyborg", "완전 검정 바탕에 하늘색 포인트, 게임·스포츠 느낌"],
+];
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const store = { get(k,d){ try { return localStorage.getItem(k) ?? d; } catch(e){ return d; } }, set(k,v){ try { localStorage.setItem(k,v); } catch(e){} } };
+
+let theme = (location.hash.slice(1) || store.get("pv_theme", "lux"));
+if (!THEMES.some(t => t[0] === theme)) theme = "lux";
+function setTheme(t){
+  theme = t; store.set("pv_theme", t); history.replaceState(null, "", "#" + t);
+  $("theme").href = `https://cdn.jsdelivr.net/npm/bootswatch@5.3.3/dist/${t}/bootstrap.min.css`;
+  const info = THEMES.find(x => x[0] === t);
+  $("themeDesc").textContent = `${info[1]} — ${info[2]}`;
+  $("themes").innerHTML = THEMES.map(([id,name]) => `<button class="btn ${id===t ? "btn-warning" : "btn-outline-light"}" data-t="${id}">${name}</button>`).join("");
+}
+$("themes").addEventListener("click", e => { const b = e.target.closest("[data-t]"); if (b) setTheme(b.dataset.t); });
+setTheme(theme);
+
+const LAB = {"프리뷰":"프리뷰/분석"}, lab = c => LAB[c] || c;
+const BADGE = {"오피셜":"bg-warning text-dark","부상":"bg-danger","이적":"bg-primary","인터뷰":"bg-success","프리뷰":"bg-secondary"};
+const ORDER = ["오피셜","부상","이적","인터뷰","프리뷰"];
+let items = [], match = null, view = "kw", cat = "전체", limit = 30;
+
+function ago(ts){
+  const m = Math.max(0, Math.round((Date.now()-ts)/60000));
+  if (m < 60) return m < 1 ? "방금" : m + "분 전";
+  const h = Math.floor(m/60); if (h < 24) return h + "시간 전";
+  return Math.floor(h/24) + "일 전";
+}
+const card = (x, tag, cls) => `
+  <div class="col-md-6 col-lg-4">
+    <a class="card news-card stretched" href="${esc(x.link)}" target="_blank" rel="noopener">
+      <div class="card-body d-flex flex-column gap-2">
+        <span class="badge ${cls} align-self-start">${esc(tag)}</span>
+        <h6 class="card-title mb-0 lh-base">${esc(x.titleKo || x.title)}</h6>
+        ${x.titleKo && x.titleKo !== x.title ? `<div class="en">${esc(x.title)}</div>` : ""}
+        <small class="text-muted mt-auto">${esc(x.source)} · ${ago(x.date)}</small>
+      </div>
+    </a>
+  </div>`;
+
+const X = [["첼시 공식","ChelseaFC","구단 공식"],["파브리지오 로마노","FabrizioRomano","이적 전문"],["데이비드 온스테인","David_Ornstein","디 애슬레틱"],["사이먼 존슨","SJohnsonSport","디 애슬레틱 · 첼시 담당"],["리암 투미","liam_twomey","디 애슬레틱 · 첼시 담당"],["키어런 길","kierangill_DM","데일리메일 · 첼시 담당"],["맷 로","Matt_Law_DT","텔레그래프 · 첼시 담당"],["니자르 킨셀라","NizaarKinsella","BBC · 첼시 담당"],["사미 목벨","SamiMokbel_BBC","BBC"],["벤 제이콥스","JacobsBen","이적 전문"],["플로리안 플레텐베르크","Plettigoal","이적 전문"],["그레임 베일리","GraemeBailey","이적 전문"]];
+const XF = [["Absolute Chelsea","AbsoluteChelsea"],["Chelsea Reports","CFCNewsReport"],["Just Chelsea","justcfc"],["Chelsea Dodgers","TheBlueDodger"],["NATURE_CFC","Natureryme1"]];
+const twc = (n,h,r) => `<div class="col-sm-6 col-lg-3"><a class="card tw-card h-100" href="https://x.com/${h}" target="_blank" rel="noopener"><div class="card-body"><h6 class="mb-1">${esc(n)}</h6><div class="text-muted small">@${esc(h)}</div>${r ? `<span class="badge bg-info mt-2">${esc(r)}</span>` : ""}</div></a></div>`;
+$("twGrid").innerHTML = X.map(a => twc(...a)).join("");
+$("twFan").innerHTML = XF.map(a => twc(a[0], a[1], "소식 계정")).join("");
+
+function render(){
+  const kw = items.filter(x => x.cat);
+  $("nKw").textContent = kw.length; $("nAll").textContent = items.length;
+  document.querySelectorAll("#tabs .nav-link").forEach(b => b.classList.toggle("active", b.dataset.view === view));
+  const isTw = view === "tw", isOpp = view === "opp";
+  $("tw").hidden = !isTw; $("list").hidden = isTw; $("cats").hidden = view !== "kw";
+  $("cats").innerHTML = ["전체", ...ORDER].map(c => `<button class="btn btn-sm ${c===cat ? "btn-primary" : "btn-outline-primary"}" data-c="${c}">${lab(c)}</button>`).join("");
+  const mc = $("matchCard"); mc.hidden = !(isOpp && match);
+  if (isOpp && match){
+    const k = match.kickoff ? new Date(match.kickoff).toLocaleString("ko-KR",{month:"long",day:"numeric",weekday:"short",hour:"2-digit",minute:"2-digit",hourCycle:"h23"}) : "시간 미정";
+    const name = match.opponentKo || match.opponent;
+    mc.innerHTML = `<div class="card-body"><div class="text-muted small">${esc(match.competition)} · ${match.home ? "홈" : "원정"}</div><div class="vs">${match.home ? "첼시" : esc(name)} <span class="text-warning">VS</span> ${match.home ? esc(name) : "첼시"}</div><div>${esc(k)} (한국시간)</div></div>`;
+  }
+  const pool = isOpp ? (match?.items || []) : view === "kw" ? kw.filter(x => cat === "전체" || x.cat === cat) : items;
+  $("list").innerHTML = pool.slice(0, limit).map(x => isOpp
+    ? card(x, x.tag, x.tag === "도발·발언" ? "bg-danger" : x.tag === "라인업·팀뉴스" ? "bg-primary" : "bg-secondary")
+    : card(x, x.cat ? lab(x.cat) : "뉴스", x.cat ? BADGE[x.cat] : "bg-light text-dark")).join("") || `<p class="text-muted">뉴스가 없어요.</p>`;
+  $("more").hidden = isTw || pool.length <= limit;
+  const top = kw[0];
+  $("ticker").textContent = top ? `[${lab(top.cat)}] ${top.titleKo || top.title}` : "아직 새 소식이 없어요";
+  if (top) $("tickerLink").href = top.link;
+}
+$("tabs").addEventListener("click", e => { const b = e.target.closest("[data-view]"); if (b){ view = b.dataset.view; limit = 30; render(); } });
+$("cats").addEventListener("click", e => { const b = e.target.closest("[data-c]"); if (b){ cat = b.dataset.c; limit = 30; render(); } });
+$("more").addEventListener("click", () => { limit += 30; render(); });
+
+fetch("news.json?t=" + Date.now(), {cache:"no-store"}).then(r => r.json()).then(d => {
+  items = (d.items || []).sort((a,b) => b.date - a.date); match = d.match || null; render();
+}).catch(() => { $("list").innerHTML = `<p class="text-danger">뉴스를 불러오지 못했어요.</p>`; });
+render();
+}
+</script>
+</body>
+</html>
