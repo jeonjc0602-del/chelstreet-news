@@ -73,6 +73,7 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
 .kw div{font-size:14px}.kw code{background:var(--bg);padding:1px 6px;border-radius:4px;font-size:13px;overflow-wrap:anywhere}
 .toast{position:fixed;left:50%;bottom:22px;transform:translate(-50%,140%);background:#1a1a1a;color:#fff;border-left:5px solid var(--gold);border-radius:12px;padding:14px 18px;width:min(92vw,460px);box-shadow:0 10px 30px #0005;transition:transform .35s;z-index:9}
 .toast.on{transform:translate(-50%,0)}
+.toast{cursor:pointer}
 .toast b{display:block;font-size:13px;color:var(--gold);margin-bottom:2px}
 @media(max-width:600px){.item{grid-template-columns:minmax(0,1fr)}.tag{grid-row:auto;justify-self:start;padding:4px 12px}.acts{width:100%}.acts .btn{flex:1}}
 </style>
@@ -87,7 +88,7 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
       </div>
       <div class="acts">
         <button class="btn gold" id="notifyBtn" type="button">알림 켜기</button>
-        <button class="btn" id="demoBtn" type="button">새 뉴스 테스트</button>
+        <button class="btn" id="demoBtn" type="button">최신 소식 보기</button>
       </div>
     </div>
     <div class="ticker" aria-live="polite"><b>속보</b><div class="run" id="ticker">불러오는 중…</div></div>
@@ -233,7 +234,10 @@ function render(freshId){
     : "";
 }
 
-function toast(tag, text){
+let toastLink = "";
+$("toast").addEventListener("click", () => { if (toastLink && toastLink !== "#") window.open(toastLink, "_blank", "noopener"); });
+function toast(tag, text, link){
+  toastLink = link || "";
   $("toastTag").textContent = tag; $("toastTxt").textContent = text;
   $("toast").classList.add("on");
   clearTimeout(toast.t); toast.t = setTimeout(() => $("toast").classList.remove("on"), 4500);
@@ -241,7 +245,7 @@ function toast(tag, text){
 
 function notify(item){
   const t = item.titleKo || item.title;
-  toast(`[${lab(item.cat)}] ${item.source}`, t);
+  toast(`[${lab(item.cat)}] ${item.source}`, t, item.link);
   try {
     if ("Notification" in window && Notification.permission === "granted"){
       new Notification(`CHELSTREET · ${lab(item.cat)}`, {body: t});
@@ -286,14 +290,9 @@ $("list").addEventListener("click", e => {
   setTimeout(render, 50);
 });
 
-let demoI = 0;
 $("demoBtn").addEventListener("click", () => {
-  const d = DEMO[demoI++ % DEMO.length];
-  const item = {id:"d"+Date.now(), title:d.title, source:d.source, link:"#", date:Date.now()};
-  item.cat = classify(item.title, item.source);
-  items.unshift(item);
-  render(item.id);
-  notify(item);
+  const top = kwItems()[0];
+  if (top) notify(top); else toast("알림", "아직 키워드 뉴스가 없어요.");
 });
 
 $("notifyBtn").addEventListener("click", async () => {
