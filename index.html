@@ -83,7 +83,7 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
     <div class="head">
       <div>
         <h1>CHELSTREET <span>뉴스 알림</span></h1>
-        <p class="sub">BBC Sport · Sky Sports · talkSPORT · 첼시 공식 · FotMob — 인터뷰 · 오피셜 · 부상 · 이적 · 프리뷰/분석</p>
+        <p class="sub">BBC · Sky · 가디언 · 더 선 · 미러 · ESPN · 디 애슬레틱 · 한국 축구 매체 등 30여 곳 — 인터뷰 · 오피셜 · 부상 · 이적 · 프리뷰/분석</p>
       </div>
       <div class="acts">
         <button class="btn gold" id="notifyBtn" type="button">알림 켜기</button>
@@ -112,7 +112,7 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
     <details>
       <summary>어떤 단어가 들어가면 알림이 오나요?</summary>
       <div class="kw" id="kw"></div>
-      <p class="note">BBC는 첼시 전용 피드, Sky·talkSPORT는 제목에 "Chelsea"가 들어간 기사, 첼시 공식·FotMob은 첼시 기사 전체를 가져와요. 전체 뉴스 탭에는 이 기사가 다 나오고, 키워드 뉴스 탭과 알림에는 위 단어가 하나라도 있으면 분류해서 보여 주고, 여러 개가 겹치면 오피셜 → 부상 → 이적 → 인터뷰 → 프리뷰/분석 순으로 하나만 붙어요. FotMob 글 중 어디에도 안 걸리는 건 프리뷰/분석으로 모아요.</p>
+      <p class="note">첼시 전용 피드(BBC·가디언·football.london·팬 블로그·FotMob 등)는 전부, 나머지 매체는 제목에 "Chelsea"나 "첼시"가 들어간 기사만 가져와요. 같은 기사가 여러 곳에 올라오면 하나만 보여요. 전체 뉴스 탭에는 이 기사가 다 나오고, 키워드 뉴스 탭과 알림에는 위 단어가 하나라도 있으면 분류해서 보여 주고, 여러 개가 겹치면 오피셜 → 부상 → 이적 → 인터뷰 → 프리뷰/분석 순으로 하나만 붙어요. FotMob 글 중 어디에도 안 걸리는 건 프리뷰/분석으로 모아요.</p>
     </details>
   </div>
 </main>
@@ -122,16 +122,18 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
 <script>
 {
 const KEYWORDS = {
-  "오피셜": ["official","confirmed","confirm","signs","signed","completes","completed","announce","unveil","extension","new contract"],
-  "부상": ["injury","injured","ruled out","sidelined","fitness","hamstring","knee","ankle","return date","surgery"],
-  "이적": ["transfer","deal for","deal to","agree deal","agreed deal","bid","loan","talks","target","fee","move to","interest in","swap"],
-  "인터뷰": ["interview","says","said","press conference","insists","admits","reveals","reacts","speaks","exclusive"],
-  "프리뷰": ["preview","analysis","rating","stats","tactical","xg","predicted","lineup","key battle","what we learned"]
+  "오피셜": ["official","confirmed","confirm","signs","signed","completes","completed","announce","unveil","extension","new contract","오피셜","공식 발표","공식발표","재계약","입단"],
+  "부상": ["injury","injured","ruled out","sidelined","fitness","hamstring","knee","ankle","return date","surgery","부상","결장","수술","재활"],
+  "이적": ["transfer","deal for","deal to","agree deal","agreed deal","bid","loan","talks","target","fee","move to","interest in","swap","이적","영입","임대","방출","here we go"],
+  "인터뷰": ["interview","says","said","press conference","insists","admits","reveals","reacts","speaks","exclusive","인터뷰","기자회견","밝혔다","말했다","소감"],
+  "프리뷰": ["preview","analysis","rating","stats","tactical","xg","predicted","lineup","key battle","what we learned","프리뷰","평점","분석","선발 예상","라인업"],
 };
 const ORDER = ["오피셜","부상","이적","인터뷰","프리뷰"];
 const LABEL = {"프리뷰":"프리뷰/분석"};
 const lab = c => LABEL[c] || c;
-const SOURCES = ["BBC Sport","Sky Sports","talkSPORT","첼시 공식","FotMob"];
+const GROUPS = ["영국 언론","한국 언론","팬 블로그","공식·FotMob"];
+const GROUP_OF = {"첼시 공식":"공식·FotMob","FotMob":"공식·FotMob"};
+const groupOf = x => x.group || GROUP_OF[x.source] || (/[가-힣]/.test(x.source) ? "한국 언론" : "영국 언론");
 const ALL_CHELSEA = ["첼시 공식","FotMob"];
 
 function classify(title, source){
@@ -188,7 +190,7 @@ function ago(ts){
 
 function prepare(list){
   return list
-    .filter(x => /chelsea/i.test(x.title) || ALL_CHELSEA.includes(x.source))
+    .filter(x => x.group || /chelsea|첼시/i.test(x.title) || ALL_CHELSEA.includes(x.source))
     .map(x => ({...x, cat: x.cat || classify(x.title, x.source)}))
     .sort((a,b) => b.date - a.date);
 }
@@ -205,7 +207,7 @@ function chips(){
   $("nAll").textContent = items.length;
   $("catChips").innerHTML = ["전체", ...ORDER].map(c =>
     `<button class="chip" type="button" data-cat="${c}" aria-pressed="${c===cat}">${lab(c)}<span class="n">${counts[c]}</span></button>`).join("");
-  $("srcChips").innerHTML = ["전체", ...SOURCES].map(s =>
+  $("srcChips").innerHTML = ["전체", ...GROUPS].map(s =>
     `<button class="chip" type="button" data-src="${s}" aria-pressed="${s===src}">${s === "전체" ? "모든 출처" : s}</button>`).join("");
 }
 
@@ -215,12 +217,12 @@ function render(freshId){
   const pool = view === "kw" ? kwItems() : items;
   const shown = pool.filter(x =>
     (view === "all" || cat === "전체" || x.cat === cat) &&
-    (src === "전체" || x.source === src) &&
+    (src === "전체" || groupOf(x) === src) &&
     (!q || (x.title + " " + (x.titleKo || "")).toLowerCase().includes(q)));
   $("list").innerHTML = shown.length ? shown.map(x => `
     <a class="item${x.id===freshId?" fresh":""}" data-id="${esc(x.id)}" href="${esc(x.link)}" target="_blank" rel="noopener">
       <span class="tag t-${x.cat || "none"}">${x.cat ? lab(x.cat) : "뉴스"}</span>
-      <span class="ttl">${seen.has(x.id) ? "" : '<span class="new">NEW</span>'}${esc(x.titleKo || x.title)}${x.titleKo ? `<span class="en">${esc(x.title)}</span>` : ""}</span>
+      <span class="ttl">${seen.has(x.id) ? "" : '<span class="new">NEW</span>'}${esc(x.titleKo || x.title)}${x.titleKo && x.titleKo !== x.title ? `<span class="en">${esc(x.title)}</span>` : ""}</span>
       <span class="meta"><span class="src">${esc(x.source)}</span><span>${ago(x.date)}</span></span>
     </a>`).join("") : `<div class="empty">조건에 맞는 뉴스가 없어요. 필터를 바꿔 보세요.</div>`;
   const top = kwItems()[0];
