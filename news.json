@@ -1,5 +1,5 @@
 {
- "updated": 1795220639070,
+ "updated": 1795221052694,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -13,11 +13,7 @@
   "Telegraph": 5,
   "Independent": 1,
   "Express": 0,
-  "ESPN": "실패: 기사 목록 없음",
-  "Goal": "실패: 404",
   "Sports Mole": 13,
-  "Football365": "실패: 404",
-  "TEAMtalk": "실패: 404",
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 1,
@@ -25,13 +21,13 @@
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 13,
+  "구글뉴스(한국어)": 14,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
-  "FotMob": 10,
-  "첼시 공식": 0
+  "첼시 공식": 80,
+  "FotMob": 10
  },
  "items": [
   {
@@ -95,6 +91,28 @@
    "group": "영국 언론"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE82N0U1a2R3d0RpWV8yc1NzRU5mSEVZYWY1WWZvRUN4OTNmanByeDQ5X1RlOGloUHZ4cEx5aU0xZTBuV2hmMHh6V2phQ3dwdXVvREFTWk15N0xENVhGOVhrUFRGYUc3eFo1NlBqZFdOek50QQ?oc=5",
+   "title": "'韓 국가대표' 백승호 소속팀 버린 지 얼마나 됐다고...3년 만에 떠난 NFL 전설, 돌연 첼시 지분 깜짝 매입",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82N0U1a2R3d0RpWV8yc1NzRU5mSEVZYWY1WWZvRUN4OTNmanByeDQ5X1RlOGloUHZ4cEx5aU0xZTBuV2hmMHh6V2phQ3dwdXVvREFTWk15N0xENVhGOVhrUFRGYUc3eFo1NlBqZFdOek50QQ?oc=5",
+   "source": "포포투",
+   "group": "한국 언론",
+   "date": 1795214184000,
+   "added": 1795221030969,
+   "cat": null,
+   "titleKo": "'韓 국가대표' 백승호 소속팀 버린 지 얼마나 됐다고...3년 만에 떠난 NFL 전설, 돌연 첼시 지분 깜짝 매입"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYaTBUM291NXZmTzZmZENVbnZTQ095bTBSZUs1WFAxRVozOEVaN3ZkZ0VkLVg5VEp4OGhJZWRsNEdmVEhTRnVrdXRFMF9aX2xDaUVxcUw1ZjBEQ3E3U1JpaFR1Z3l0YjBLRnBUdnV3aW5PQlo3R19uMTln?oc=5",
+   "title": "Made in Cobham: Andrew Pennie",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYaTBUM291NXZmTzZmZENVbnZTQ095bTBSZUs1WFAxRVozOEVaN3ZkZ0VkLVg5VEp4OGhJZWRsNEdmVEhTRnVrdXRFMF9aX2xDaUVxcUw1ZjBEQ3E3U1JpaFR1Z3l0YjBLRnBUdnV3aW5PQlo3R19uMTln?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795214115000,
+   "added": 1795221030969,
+   "cat": null,
+   "titleKo": "코브햄 출신: 앤드루 페니"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEl1OTNGbXhIZzdBS2owMjhUVkpnY1EtTFJfT3JVd3U5QmJ1Nkp4SzgxY1NJUzJ2WGhiWkt4dDdnUTRtR2FuQ2VhLWFrN0lvVGhlZUt1U2tNb0pldWFTZS1Gb0dLdFVORUxkeWYyeG5PT1ZxOVMybFViY2s4Q0JHUDFlRUtpS3NHakU0OXBIbnJzSGNq?oc=5",
    "title": "Xabi Alonso confirms Chelsea team news for Leeds | News | Official Site",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEl1OTNGbXhIZzdBS2owMjhUVkpnY1EtTFJfT3JVd3U5QmJ1Nkp4SzgxY1NJUzJ2WGhiWkt4dDdnUTRtR2FuQ2VhLWFrN0lvVGhlZUt1U2tNb0pldWFTZS1Gb0dLdFVORUxkeWYyeG5PT1ZxOVMybFViY2s4Q0JHUDFlRUtpS3NHakU0OXBIbnJzSGNq?oc=5",
@@ -133,6 +151,17 @@
    "date": 1795213855000,
    "cat": "부상",
    "titleKo": "샤비 알론소, 부상 위기 속에서 첼시 이적에 대한 새로운 힌트 제시"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWl3NzZFSURxLVB0THhEeFdwYzc4QlVjV0FtY3NueHZySzQtYmRxZWRVeGUyRldYQkc5NHFPbHA1LW9HWVFITExiVWNBaE1JWFlrRVlIUUI0UURNQXFmZV9GNFNkUlNfYnJJdU84X3JoSy16eHpZc0dXeGpSQjZWdTZVWUhHX3dVVURxdGlhSHZHQmNta1ZOUS1Gc2o?oc=5",
+   "title": "Latest update on James and Lacroix returns from Alonso",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWl3NzZFSURxLVB0THhEeFdwYzc4QlVjV0FtY3NueHZySzQtYmRxZWRVeGUyRldYQkc5NHFPbHA1LW9HWVFITExiVWNBaE1JWFlrRVlIUUI0UURNQXFmZV9GNFNkUlNfYnJJdU84X3JoSy16eHpZc0dXeGpSQjZWdTZVWUhHX3dVVURxdGlhSHZHQmNta1ZOUS1Gc2o?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795213800000,
+   "added": 1795221030969,
+   "cat": null,
+   "titleKo": "제임스 및 라크루아의 복귀에 대한 알론소의 최근 업데이트"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTB4TWtLa3d6bUNJMUJDTTBDTXh2VDg0R1B1d1JISUtwYlQwaXVKRXdobTREZGpxLTJLRjZMMElZemNIdnJSUGcxZHgzbGdfdi11eVc2M1B4dTluM0g4NEFsaTJjVXFXcHk5Q0NDek9PNlJhbzdwSjhLNmNqT2lsV3EwLW1ZVWJITDlmbEpyOE5NNEtYZGZGRVJadXBOdw?oc=5",
@@ -285,6 +314,17 @@
    "titleKo": "첼시, FA컵 경기에서 종파적 구호로 인해 15만 파운드의 벌금과 향후 행동에 대한 경고를 받음"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpKWkFkTjZ5S0xubVN4ejJNTEtlaVhsNkdJOHJ3eUpGLWNLcHM5OVpqWURHZ0toRzZBU0RYN0tHdVVOVkR0dFFzVUFFRVNaZGxIVy1QX1U1YUxXU2dhM201aVQxVVRBdTVMNEEyNDRpcndkd0RiNU1tZFVuQ2x3SA?oc=5",
+   "title": "Penders reflects on PL Save of the Month | Video",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpKWkFkTjZ5S0xubVN4ejJNTEtlaVhsNkdJOHJ3eUpGLWNLcHM5OVpqWURHZ0toRzZBU0RYN0tHdVVOVkR0dFFzVUFFRVNaZGxIVy1QX1U1YUxXU2dhM201aVQxVVRBdTVMNEEyNDRpcndkd0RiNU1tZFVuQ2x3SA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795202768000,
+   "added": 1795221030970,
+   "cat": null,
+   "titleKo": "펜더스, 이달의 PL 세이브에 대해 이야기하다 | 동영상"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeXdOSF9sNWtGQzU1OV91SEZZdkFiX3luV2ktVkt3MjR5am5LQjg5S185Umt1ZzR5NDQ0M19JV0RjV3JTdmVxLUdkdkZNTWR3cHNaS3AzRTgyVE8wVlQ0a2tMckhfUUVlS3k0X2JPMXg5RlZYcndpUlJBLV9scFN1ODhCVTRwaVZvbzBIRlI0LTQ0eWcwNExYcEdyd1k2TEtjRXowUUJuc0U2RWtQTXVEWHlBeHM4Y3RDeGhXYl9DQXNLeXY5RjJZVmh4TV80UTJRX25IdEtIYy14SkU?oc=5",
    "title": "Chelsea vs. Leeds: Prediction, date, venue, and how to watch Premier League match",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeXdOSF9sNWtGQzU1OV91SEZZdkFiX3luV2ktVkt3MjR5am5LQjg5S185Umt1ZzR5NDQ0M19JV0RjV3JTdmVxLUdkdkZNTWR3cHNaS3AzRTgyVE8wVlQ0a2tMckhfUUVlS3k0X2JPMXg5RlZYcndpUlJBLV9scFN1ODhCVTRwaVZvbzBIRlI0LTQ0eWcwNExYcEdyd1k2TEtjRXowUUJuc0U2RWtQTXVEWHlBeHM4Y3RDeGhXYl9DQXNLeXY5RjJZVmh4TV80UTJRX25IdEtIYy14SkU?oc=5",
@@ -311,7 +351,8 @@
    "source": "Balls.ie",
    "group": "영국 언론",
    "date": 1795201842000,
-   "cat": "부상"
+   "cat": "부상",
+   "titleKo": "케이티 맥케이프, 아일랜드 대표팀 플레이오프 경기에서 입은 심각한 부상에 대한 우려 속에서 첼시 훈련 모습 포착"
   },
   {
    "id": "https://www.mirror.co.uk/sport/football/news/chelsea-fined-chanting-catholic-irish-37900807",
@@ -320,7 +361,8 @@
    "source": "Mirror",
    "group": "영국 언론",
    "date": 1795200881000,
-   "cat": null
+   "cat": null,
+   "titleKo": "첼시, 반(反)가톨릭 및 반(反)아일랜드 구호로 FA로부터 15만 파운드의 벌금 부과"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUpHWnBWOC1XU2dFYmVtRFI3WTNNWXBRQ0ZTRGx2c2EtVHVaWklMdmV3RmF3ZnJIejFFcXRzV1VRbnlQSWJmWUVEeHlSMHlzMGV5akNtUms5NEpxZlUzWm80S1VDSmstVmc5NW1XOXpWUXM0bFd0N0p1ZjhkWEZMMTBWN3NHZmUzZ1FueXlZUGU0SXJHUlR0QW1MNTliMUcxSVNnZ05mSzVUNTJRZ24waVFXQURid3ZxaUhsSVVn?oc=5",
@@ -329,7 +371,8 @@
    "source": "Bleacher Report",
    "group": "영국 언론",
    "date": 1795200734000,
-   "cat": null
+   "cat": null,
+   "titleKo": "톰 브래디, 버밍엄 시티 매각 후 첼시 지분 인수 보도"
   },
   {
    "id": "https://www.caughtoffside.com/2026/11/20/man-united-and-chelsea-monitor-potential-premier-league-return-for-29-year-old-midfielder/",
@@ -338,7 +381,8 @@
    "source": "CaughtOffside",
    "group": "영국 언론",
    "date": 1795199400000,
-   "cat": null
+   "cat": null,
+   "titleKo": "맨유와 첼시, 29세 미드필더의 프리미어리그 복귀 가능성 주시"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcklrMTlCT3lXWXZ1TDMzOU5LTFpOZllIdHFxY2lmRzJPWlBCdGtuN001LVd1dk94ZFBnQmZlQ2R6aUJ6Qi1LbFFaSkZOcG9hV2pjQmVHUEpSRGJQaXU1TWZMX3NuZlBqc09FZ1BGQ3NoT0JLMzFQT1FlVTNnckotWTlvX3hqY0FrZ2FDMHVwQkt2YXdqM3c?oc=5",
@@ -347,7 +391,8 @@
    "source": "The Telegraph",
    "group": "영국 언론",
    "date": 1795199280000,
-   "cat": "이적"
+   "cat": "이적",
+   "titleKo": "톰 브래디, 첼시 지분 인수 협상 중"
   },
   {
    "id": "https://chelsea.news/2026/11/hato-ruled-out-of-leeds-with-no-return-date-as-forest-palace-liverpool-and-city-loom/",
@@ -356,7 +401,19 @@
    "source": "Chelsea News",
    "group": "팬 블로그",
    "date": 1795198146000,
-   "cat": "부상"
+   "cat": "부상",
+   "titleKo": "포레스트, 팰리스, 리버풀, 맨시티와의 경기를 앞두고 아토가 리즈전 출전을 못하게 되었으며, 복귀 시기도 미정입니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmhmcXRYT1ZXVkVMTHBaejAxUTJlSFNlRmF0TnVSaEtzU0R5b0xoWjRUZzVNc3psV0txVXJwMEhfWEFaRVhweTZ2blZIbk5BcVRrX01ESGZtZW45RnpSSnNLWFoyS1VrTUY5R1lnUTdYNHJTWVZfa2l1bk1LM1E1OGNId3dXeUpQek9neGhFdGl6aVhOQTRyS3J5NzBfR1RlVzBxRW4waWo?oc=5",
+   "title": "Alonso says Blues are ‘building an identity’ but need consistency",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmhmcXRYT1ZXVkVMTHBaejAxUTJlSFNlRmF0TnVSaEtzU0R5b0xoWjRUZzVNc3psV0txVXJwMEhfWEFaRVhweTZ2blZIbk5BcVRrX01ESGZtZW45RnpSSnNLWFoyS1VrTUY5R1lnUTdYNHJTWVZfa2l1bk1LM1E1OGNId3dXeUpQek9neGhFdGl6aVhOQTRyS3J5NzBfR1RlVzBxRW4waWo?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795197640000,
+   "added": 1795221030969,
+   "cat": "인터뷰",
+   "titleKo": "알론소, 첼시가 '팀의 정체성을 구축'하고 있지만 일관성이 필요하다고 말하다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenRfMXFURl94b1R6NUxTWmJ4MzM4TFRzcTNCUlAtcy1hM3dmT1NpMGpBZ2dFMERYbXVyWVdoUnEtVE9MYkhRS0xzeE5maUVaeEZKQThnMk9UVGpQZUpkbmVNamZTNFFRa1ozTjE0dlF2ZnNGQ0JTb3NvZnhWdGpqY1lRSV81Rk45dkpfYVJBbWlCNzJBd1BIbHNCODNWbzhV?oc=5",
@@ -365,7 +422,19 @@
    "source": "MOT Leeds News",
    "group": "영국 언론",
    "date": 1795197600000,
-   "cat": null
+   "cat": null,
+   "titleKo": "조 하트, 첼시와의 경기에서 '놀라운' 리즈의 활약을 예측"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UaDFETFlPQkZwZ2tva3JzOGlXelF3aUFDS1YwOWZ1NndnbXVWb3Z0TmRnMV8wSkcyMEpRVkNwSkpTYzBfQ1JrSFhxUUJDNmp6NGE2WERXcERMSE9faVRvZi1kcVluMUla?oc=5",
+   "title": "Chelsea fined £150,000 by FA for discriminatory chanting",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UaDFETFlPQkZwZ2tva3JzOGlXelF3aUFDS1YwOWZ1NndnbXVWb3Z0TmRnMV8wSkcyMEpRVkNwSkpTYzBfQ1JrSFhxUUJDNmp6NGE2WERXcERMSE9faVRvZi1kcVluMUla?oc=5",
+   "source": "BBC",
+   "group": "영국 언론",
+   "date": 1795197170000,
+   "added": 1795221030969,
+   "cat": null,
+   "titleKo": "첼시, 차별적인 구호로 인해 FA로부터 15만 파운드의 벌금 부과"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
@@ -378,13 +447,25 @@
    "group": "영국 언론"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzdseWNneUdrNzlhWlUyQWs2RjFRNUtiMVVvRk50Q1JRMUxEM1U0cnlMR1ZUZUtiQWxZZjJ0TjFoYktwYk5KVXcxeFF2dmpmZDltVVVBYkZ1RzFreUtCd0lYalJBY1Y5X2YwTF9pUTBSeXQ2OS1VeHNPZkJEVXNsQk9CZ1BVOTYwd0FpbU00UDQ?oc=5",
+   "title": "Cobham Unseen: pre-Leeds Utd (h) | Video",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzdseWNneUdrNzlhWlUyQWs2RjFRNUtiMVVvRk50Q1JRMUxEM1U0cnlMR1ZUZUtiQWxZZjJ0TjFoYktwYk5KVXcxeFF2dmpmZDltVVVBYkZ1RzFreUtCd0lYalJBY1Y5X2YwTF9pUTBSeXQ2OS1VeHNPZkJEVXNsQk9CZ1BVOTYwd0FpbU00UDQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795197015000,
+   "added": 1795221030970,
+   "cat": null,
+   "titleKo": "코범 비하인드: 리즈 유나이티드전(홈) 전 | 동영상"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGFMVFVQejBEV0ZsSW1VdkkxX0pmNzV1SHFXQzk1Z2FxZTNkajlCRTJCWU1Gay1NT0I4eWxUREl4MklzY3ZnWDBHUDMtdkNxbEtpWTR3TFhNRUcxNktfTnd6VlZRaDJ1enJvM1RKYW9tb3NRSm53UmRlUmdwSXFYdWlobVRGYlYxTW5ESElMSjQwUEh2ei1jbUpsZTlhb1JHVGFESDhtLW5hY1ctWjMtQ05wQnBYblptRFJQNWRWVkU5cnhrNHNPWA?oc=5",
    "title": "Roman Abramovich firm demands to be paid £150m held back in Chelsea sale",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGFMVFVQejBEV0ZsSW1VdkkxX0pmNzV1SHFXQzk1Z2FxZTNkajlCRTJCWU1Gay1NT0I4eWxUREl4MklzY3ZnWDBHUDMtdkNxbEtpWTR3TFhNRUcxNktfTnd6VlZRaDJ1enJvM1RKYW9tb3NRSm53UmRlUmdwSXFYdWlobVRGYlYxTW5ESElMSjQwUEh2ei1jbUpsZTlhb1JHVGFESDhtLW5hY1ctWjMtQ05wQnBYblptRFJQNWRWVkU5cnhrNHNPWA?oc=5",
    "source": "The Times",
    "group": "영국 언론",
    "date": 1795196670000,
-   "cat": null
+   "cat": null,
+   "titleKo": "로만 아브라모비치가 소유한 기업, 첼시 매각 대금 중 1억 5천만 파운드 지급을 요구"
   },
   {
    "id": "https://www.sportsmole.co.uk/football/chelsea/news/chelsea-bidding-to-extend-27-year-streak-against-leeds_609520.html",
@@ -393,7 +474,8 @@
    "source": "Sports Mole",
    "group": "영국 언론",
    "date": 1795195865000,
-   "cat": "이적"
+   "cat": "이적",
+   "titleKo": "첼시 vs. 리즈: 프리미어리그 핵심 대결에서 27년 연속 승리 기록을 이어가려는 '블루스'"
   },
   {
    "id": "https://www.sportsmole.co.uk/football/chelsea/news/penders-or-martinez-alonso-gives-update-on-chelsea-goalkeepers-amid-dilemma_609518.html",
@@ -402,7 +484,8 @@
    "source": "Sports Mole",
    "group": "영국 언론",
    "date": 1795195816000,
-   "cat": null
+   "cat": null,
+   "titleKo": "첼시 팀 소식: 사비 알론소의 딜레마에 앞서 마이크 펜더스, 에밀리아노 마르티네스 관련 업데이트 제공"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGFZeTFQdG1ycnAyRWJ5SlIzUlZTeEkzY2hnQjRPSW9naXNETVBWU3ZrLWlKd0xRdGhldG9oQjg4elVLVlB0SFdUY1J4bDhIUFR2RXpYSV93SGJaRFZsUDZGX3ZhdVpnejFjQURxYnNWZEdBQ0VWNkptb1oxSGNTZzhhN2Y3SXBQZUNFOVI4OUFpOXhBRFBJVXhOc3kzeG5RRnZmWTVMYkFMc1RfQ1BHLQ?oc=5",
@@ -411,7 +494,8 @@
    "source": "DAZN",
    "group": "영국 언론",
    "date": 1795195800000,
-   "cat": null
+   "cat": null,
+   "titleKo": "첼시 vs. 리즈: 사비 알론소, 스트라이커 딜레마를 해결해야"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nODl2REhGWXYzdHVmanpwT0RodVAtVC01N2ljZUpkMDAtRWxMcG00aVlZd2FGZXM2WTV6dFVRQmlwd2s5N09QcDRuaWMzMkdvT0lVcGhlUmQ4ZGFhZ0JuQnI4VXMxOXAtOGp6czZfUE1xSWJhZUNjcTZ0SQ?oc=5",
@@ -420,7 +504,8 @@
    "source": "Aktualita.co",
    "group": "영국 언론",
    "date": 1795195047000,
-   "cat": null
+   "cat": null,
+   "titleKo": "오늘의 축구 일정 2026년 11월 21일: PSM 대 페르시아, 맨체스터 시티, 첼시, U-17 월드컵"
   },
   {
    "id": "https://www.sportsmole.co.uk/football/arsenal/injury-news/feature/premier-league-team-news-injuries-suspensions-and-doubts-for-gw11_609519.html",
@@ -429,7 +514,19 @@
    "source": "Sports Mole",
    "group": "영국 언론",
    "date": 1795194618000,
-   "cat": "부상"
+   "cat": "부상",
+   "titleKo": "프리미어리그 팀 소식: 부상, 출장 정지, 출전 여부가 불확실한 모든 선수"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjJVQjJNTk1MektVZC1WbnhyZE80UENrN2REbDV0Y0NnRWxOR3pZdVNNR2Z0N3cxRWtGR1hlTzJ5QWpBVGpRemdGSW1fWWNOS3V3M0pyYi1qOHhVU25wLTdlZ2o2bkFSNzdpR3M5b1hqVlF2RWtLOHpHM1JlbWo4bVNzNGFqbGtPaDNCeEY2bFI0TTFDTnFqR3o3ZnpiQQ?oc=5",
+   "title": "Training gallery: Blues make last preparations for Leeds",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjJVQjJNTk1MektVZC1WbnhyZE80UENrN2REbDV0Y0NnRWxOR3pZdVNNR2Z0N3cxRWtGR1hlTzJ5QWpBVGpRemdGSW1fWWNOS3V3M0pyYi1qOHhVU25wLTdlZ2o2bkFSNzdpR3M5b1hqVlF2RWtLOHpHM1JlbWo4bVNzNGFqbGtPaDNCeEY2bFI0TTFDTnFqR3o3ZnpiQQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795193100000,
+   "added": 1795221030969,
+   "cat": null,
+   "titleKo": "훈련 갤러리: 리즈전을 앞두고 마지막 준비를 하는 첼시"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDhnaDBLZjlrUmdTenhURk5tSnFsQ3hJa0JGV1FSUTh2eHlWTk83OVoxdDlLODRvckowVGVCZ3AwZHpTTTFPQjFOSUxZamFYbDAyVXNIbG00UmhlanM2eW04ZEc0SnJGNTZZOVFRLWJHcHFiVnd5UHV2LVhLcWxySXgtd2Q3Wlo0eVlTbmxnRjl0VlBfZWlRQ0d2WjFYOVRQbi1SY3d2dUhGaVFhMjE4?oc=5",
@@ -438,7 +535,8 @@
    "source": "Goal.com",
    "group": "영국 언론",
    "date": 1795192936000,
-   "cat": "부상"
+   "cat": "부상",
+   "titleKo": "'선수들이 더 분발해야 합니다' - 하비 알론소 감독, 주앙 페드로가 허벅지 부상으로 결장하는 가운데 첼시 선수단에 명확한 경고를 보냄"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk9KWlUwQzl0RjMyaTRwSDhtLUktaXZUWUdKWTYtdGhXb0s2aTJVdXVGQmROeWMyRE55TWtLaHdyaG93clAtb1ZpR2xDb3ZkLU1UOVZTSGdVbDlBZ0gxSEtIZHdldnNtQzQ2emtzLTAtV2lhUzZZcUtFZ1hySTlvaExiam03SUtMYkFaOWJfcG1odw?oc=5",
@@ -447,7 +545,8 @@
    "source": "VAVEL.com",
    "group": "영국 언론",
    "date": 1795191919000,
-   "cat": null
+   "cat": null,
+   "titleKo": "프리미어리그 재개에 맞춰 스탬퍼드 브리지에서 첼시와 맞붙을 준비를 하는 리즈 유나이티드"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSkt2em13TjI2Ni1sQ190aGgxbGtESTZGdU5pTDJmVDVBWFJ5R1FmX091WG5fZ1BkaXdrbmVCekFHMFJwQWpKR2Vra1REUFBTRlViWUZUbE1hMWtDYzBhTFcteno0Y3pTOFF6VVhGREE4X0lRZDJQY3lOZ181WEJBemtXQkFSMkhYeVhVeVBIQmlZU2FrTDdoTHlpSFZwMnM?oc=5",
@@ -456,7 +555,8 @@
    "source": "London Evening Standard",
    "group": "영국 언론",
    "date": 1795190971000,
-   "cat": "부상"
+   "cat": "부상",
+   "titleKo": "알론소 감독이 주앙 페드로의 부상 소식을 다시 전하며 첼시가 타격을 입었습니다."
   },
   {
    "id": "https://www.dailymail.com/sport/football/article-16308509/Mykhailo-Mudryks-intervie-Arsenal-Spurs-Chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -465,7 +565,8 @@
    "source": "Daily Mail",
    "group": "영국 언론",
    "date": 1795190527000,
-   "cat": "인터뷰"
+   "cat": "인터뷰",
+   "titleKo": "미하일로 무드리크의 자발적 인터뷰가 불평불만으로 가득한 난장판이 된 사연: 아스널 '드림'을 포함한 수많은 실언으로 인해 8,900만 파운드(약 1,460억 원)의 사나이는 토트넘이나 첼시 모두에게 호감을 사지 못했습니다. 키에런 길 기자의 글입니다."
   },
   {
    "id": "https://www.thesun.co.uk/sport/41084302/tom-brady-buying-chelsea-birmingham-nfl-championship-pochettino/",
@@ -474,7 +575,8 @@
    "source": "The Sun",
    "group": "영국 언론",
    "date": 1795189647000,
-   "cat": "이적"
+   "cat": "이적",
+   "titleKo": "NFL 레전드 톰 브래디, 버밍엄 시티 지분 매각 나흘 만에 첼시 지분 인수 협상 중"
   },
   {
    "id": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-latest-joao-pedro-alonso-b1305726.html",
@@ -501,6 +603,16 @@
    "source": "UA.NEWS",
    "group": "영국 언론",
    "date": 1795188795000,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS05kLTBlSkp4cVVHcWNST3pkRFZpS0NMUEN0YnVyQUdGQzk4YUpMY0JPUU1CeGN4YUlxSUptOUoybE5UZTJqM1R5OU0wU1VBcm1XM1lOXzMycDBHaFEtU0lfZ1FqcS1VejNFUHNyTkx0RmFmU0RVU2tpR1Z3TXo1a2lNcTNzdFV3RGdDX1FoYjRXcVk5VjctR1VGaGFYbk1jUHBBZG1aZjdBb2xVMHBUbjlBZng5Z1U?oc=5",
+   "title": "Premier League ticket news: Coventry City away and Newcastle United at home",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS05kLTBlSkp4cVVHcWNST3pkRFZpS0NMUEN0YnVyQUdGQzk4YUpMY0JPUU1CeGN4YUlxSUptOUoybE5UZTJqM1R5OU0wU1VBcm1XM1lOXzMycDBHaFEtU0lfZ1FqcS1VejNFUHNyTkx0RmFmU0RVU2tpR1Z3TXo1a2lNcTNzdFV3RGdDX1FoYjRXcVk5VjctR1VGaGFYbk1jUHBBZG1aZjdBb2xVMHBUbjlBZng5Z1U?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795188600000,
+   "added": 1795221030970,
    "cat": null
   },
   {
@@ -531,6 +643,16 @@
    "cat": "이적",
    "titleKo": "톰 브래디, 버밍엄과의 관계를 끊은 후 첼시 지분 인수 협상 중",
    "group": "영국 언론"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXpzZDFNMWhBVHVSdkhUVUExeC11TDE5NHZTQ21HM01iR3Y1TXctaTUtQ19sNW9TWV9yMlhOM1RFdXo2dklIZEpud1BRWHpuekhjSGFOejU2SVk5NFJINVhRaHZBS1RpWVVXempBOVVFakg2Q2xmNDVmeXFaTnlpV2lodnF2VGgzOXQ3UmR1VQ?oc=5",
+   "title": "Alonso Press Conference 🎙️ | Video",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXpzZDFNMWhBVHVSdkhUVUExeC11TDE5NHZTQ21HM01iR3Y1TXctaTUtQ19sNW9TWV9yMlhOM1RFdXo2dklIZEpud1BRWHpuekhjSGFOejU2SVk5NFJINVhRaHZBS1RpWVVXempBOVVFakg2Q2xmNDVmeXFaTnlpV2lodnF2VGgzOXQ3UmR1VQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795188159000,
+   "added": 1795221030969,
+   "cat": "인터뷰"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdlNWTUQ5aVMxTzlxYlEtdlZPNTAzWGg5MlhtaC1pckYtMGMzeEhWUURPM2tFX2plX0Vib2pQdXNaN3Z4MldpNk4xUDdqTFNCRmNlVlNfeWxtSlJuMXk1Z2JIR3hadGpMN2NMRHpPa3UxZGIwbUJOM2RvNndtSGRSNXdnLTk4Zm4wemhZY0wxejRPZlVjaUhiX1NPUdIBoAFBVV95cUxNTkhzd1lJV3l5aVRSUzRxYUFPcmFJSWtmT193NTRLVG9YTWgzYVEwakwta2h3ZVh3OEFNRXp4anZramUxVjZDM3hvbjJFWXZ4a1hkQzJtdnRQZDFSclZTQTY2Mmt6dWp5YVF0T2xFNWJ3eXAxWU9sT2ZEVVVWMUpJY29fbEt5NkpQODhPUjRsX2VkVmlnZmxkWE1ENGhrbmYz?oc=5",
@@ -567,6 +689,16 @@
    "source": "TheFA.com",
    "group": "영국 언론",
    "date": 1795186861000,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LOXpxamNLcVpPa0VxaHZWZjJPVm94ZXNfTW55ZkVyY000dmFhZDZ4eWNZRC02Z3FpbnY0dHNjTXdhdDJzWm8yYnFpQlNrbDlUSno0bFY0a1J3MnI1QTgwUzhIVHQxNmIxV0dZcl94ZFZWT3phWWc?oc=5",
+   "title": "Club statement",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LOXpxamNLcVpPa0VxaHZWZjJPVm94ZXNfTW55ZkVyY000dmFhZDZ4eWNZRC02Z3FpbnY0dHNjTXdhdDJzWm8yYnFpQlNrbDlUSno0bFY0a1J3MnI1QTgwUzhIVHQxNmIxV0dZcl94ZFZWT3phWWc?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795186800000,
+   "added": 1795221030969,
    "cat": null
   },
   {
@@ -778,6 +910,46 @@
    "cat": "이적"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUVFQnU0U2VYQ1pzaW1RczhjYWYtMVhnaG5oSk9RM0p0c3ViNjNMYnNjcGttQkh5cWl0elJoNnpYQ19YcXpwVDc0MU9qNms5WkpfdDZCbHB5dUtWVVRNSzk5eGFpYUIwVmRrX3FlUTdBamNzelJjcE1MV0xxV1lYNFh6b3NKcUhIRzRXZDN1TU16V1pmTUxF?oc=5",
+   "title": "Bompastor updates on Manaka Matsukubo availability",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUVFQnU0U2VYQ1pzaW1RczhjYWYtMVhnaG5oSk9RM0p0c3ViNjNMYnNjcGttQkh5cWl0elJoNnpYQ19YcXpwVDc0MU9qNms5WkpfdDZCbHB5dUtWVVRNSzk5eGFpYUIwVmRrX3FlUTdBamNzelJjcE1MV0xxV1lYNFh6b3NKcUhIRzRXZDN1TU16V1pmTUxF?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795172400000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
+   "title": "Track Order - Chelsea Store",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795169192000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWVIZXdWSHl0WjdhemxZZFc3OHFiUW1MQUJoVFNwWjdiLUZnN1BfRWRsZDVYYmR1X0hyeXdWbmhZV05iWW1va3VXSW40ZTN3Z2lKSURPX3VoZHZGWGlseUx1UTh5elFKeFV4dWhNZjNWQWlNRFM1Zm5icF9UcTVkVl9KMEcyeTN5RTJ1UA?oc=5",
+   "title": "Emegha: 'When the time comes, I will be ready'",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWVIZXdWSHl0WjdhemxZZFc3OHFiUW1MQUJoVFNwWjdiLUZnN1BfRWRsZDVYYmR1X0hyeXdWbmhZV05iWW1va3VXSW40ZTN3Z2lKSURPX3VoZHZGWGlseUx1UTh5elFKeFV4dWhNZjNWQWlNRFM1Zm5icF9UcTVkVl9KMEcyeTN5RTJ1UA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795168800000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUEQ5V0lCX2xUaG5kT0Y3N01FOVBnQjVvdnJiNm5taHplWlR4V2tUOU5IamstN2RlUTBfd2ZkUlQ2V1NCaElCTnJwNnlxWkRJZElCN3VqR2JybUU1S0ttVXc1M28weXliemZwOFA5anlyQ0w0eDZFRmMxcTY0RnJzWG1zdnljWGNsNWtoeDA3dTI?oc=5",
+   "title": "Women's Super League ticket news: Brighton away",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUEQ5V0lCX2xUaG5kT0Y3N01FOVBnQjVvdnJiNm5taHplWlR4V2tUOU5IamstN2RlUTBfd2ZkUlQ2V1NCaElCTnJwNnlxWkRJZElCN3VqR2JybUU1S0ttVXc1M28weXliemZwOFA5anlyQ0w0eDZFRmMxcTY0RnJzWG1zdnljWGNsNWtoeDA3dTI?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795168800000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YRTJfVHdhNUZqM2ZaLTJDNF9HUXhSZDRhM3BncTlmQUkyNVgzWWxzeU1XVTFSck0yZTA5V0tnSmRlYjR0cERfN2lsY0dfWVp5Tk5TRTk1RlNpeWFoZ05XMks2ZE4ycV9XVkJyMjRyT1NwQQ?oc=5",
    "title": "“나는 아스널에 가고 싶었다” 첼시-토트넘에서 뛰면서 이런 말을? ‘도핑 논란’ 무드릭의 폭탄 발언",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YRTJfVHdhNUZqM2ZaLTJDNF9HUXhSZDRhM3BncTlmQUkyNVgzWWxzeU1XVTFSck0yZTA5V0tnSmRlYjR0cERfN2lsY0dfWVp5Tk5TRTk1RlNpeWFoZ05XMks2ZE4ycV9XVkJyMjRyT1NwQQ?oc=5",
@@ -878,6 +1050,16 @@
    "group": "영국 언론",
    "date": 1795158000000,
    "cat": "이적"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzI4UnBRMDlwMWtHOTdRdzhWaDF6bXRuZXlaQVg0WW5yY0c3Q29SQkpiUXkzVFFKLUF4VnRHV0QxLXp5aWFELW80VmppdTFYSm9JQU1NRzloM0hvWmZ3WHZ2cWxyTG4xem80cXBBYlpjVzBUVkJDXy1wZEROdXI1UjB3Nkd1Y3g2VHcxdk5B?oc=5",
+   "title": "Sjoeke Nusken: There is more to come from us",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzI4UnBRMDlwMWtHOTdRdzhWaDF6bXRuZXlaQVg0WW5yY0c3Q29SQkpiUXkzVFFKLUF4VnRHV0QxLXp5aWFELW80VmppdTFYSm9JQU1NRzloM0hvWmZ3WHZ2cWxyTG4xem80cXBBYlpjVzBUVkJDXy1wZEROdXI1UjB3Nkd1Y3g2VHcxdk5B?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795154705000,
+   "added": 1795221030970,
+   "cat": null
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/chelsea-line-ups-leeds-estevao-34934896",
@@ -983,6 +1165,16 @@
    "group": "영국 언론"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2pHTEpKRktuR2Y5aHBpTmpxTTNPOHJySHA5bF92RXFQczRnZThrY0sxUUpjV0hDWmNxY0U4WnJ6bFVuNnp6VXZCeGlZY3htS1RtMjN0UjhPb3M5elZ1VnlmZl8zbjdCem1BYUlFQXhqREc3Zzd2X1ZycDJ1VHBBZERkMG02eVg5U3pRRW1USlY1Nm8?oc=5",
+   "title": "Andrew Pennie signs first professional contract",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2pHTEpKRktuR2Y5aHBpTmpxTTNPOHJySHA5bF92RXFQczRnZThrY0sxUUpjV0hDWmNxY0U4WnJ6bFVuNnp6VXZCeGlZY3htS1RtMjN0UjhPb3M5elZ1VnlmZl8zbjdCem1BYUlFQXhqREc3Zzd2X1ZycDJ1VHBBZERkMG02eVg5U3pRRW1USlY1Nm8?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795111200000,
+   "added": 1795221030969,
+   "cat": "오피셜"
+  },
+  {
    "id": "https://www.talkchelsea.net/news-now/palmer-rogers-lead-premier-league-combined-stat/",
    "title": "Palmer and Rogers lead Premier League in combined stat – but still wait for first mutual assist",
    "link": "https://www.talkchelsea.net/news-now/palmer-rogers-lead-premier-league-combined-stat/",
@@ -1007,6 +1199,16 @@
    "source": "London Evening Standard",
    "group": "영국 언론",
    "date": 1795110627000,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVFON3JodkpqRGpOcW41RUwyRFQ3Rk9Yem1pZ19jbWJ4WDZORWtRajdVeWRtTkVsVUZmZUtudzlXRnRTanRxNUh1Sl9PZTZ2TDFmU3MwN2xYRThvcFNWamI2VVlFT1lCa1R3NWpzdXl0dGFGeEVHOTNrelVRdlU3ZzlYZTRXWE9U?oc=5",
+   "title": "Training gallery: All together for Leeds",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVFON3JodkpqRGpOcW41RUwyRFQ3Rk9Yem1pZ19jbWJ4WDZORWtRajdVeWRtTkVsVUZmZUtudzlXRnRTanRxNUh1Sl9PZTZ2TDFmU3MwN2xYRThvcFNWamI2VVlFT1lCa1R3NWpzdXl0dGFGeEVHOTNrelVRdlU3ZzlYZTRXWE9U?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795109400000,
+   "added": 1795221030969,
    "cat": null
   },
   {
@@ -1111,6 +1313,26 @@
    "cat": null
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGFqMmc1cWVSR01ncG52aklNclBteGpkR0NWVklhZ1Vjay1VMFFjY2Y5R3FQcVVhOFVoZjgySmEtcFpxTjNONWVXSlp4bVVnU1hKWE9NOHBHRVBnb2ZhX2NEOEpXVFUxWTJZZTdVR2JzcVllcjkyTHVNWmhMTlNEV0k3VTNjUXpvR2ZYVlNQcDluNE85UjFuODVaaGlRWjh2alFjN2FlNUpyYTQxdi1BaHNVbVVUR1gzWjlXWXljRUxXbHFqZ1loUEFrRS1ROVVmVkE3eVNKdl9Xd2FZX280aUExbDF0ZDZ3SmZ6Ug?oc=5",
+   "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGFqMmc1cWVSR01ncG52aklNclBteGpkR0NWVklhZ1Vjay1VMFFjY2Y5R3FQcVVhOFVoZjgySmEtcFpxTjNONWVXSlp4bVVnU1hKWE9NOHBHRVBnb2ZhX2NEOEpXVFUxWTJZZTdVR2JzcVllcjkyTHVNWmhMTlNEV0k3VTNjUXpvR2ZYVlNQcDluNE85UjFuODVaaGlRWjh2alFjN2FlNUpyYTQxdi1BaHNVbVVUR1gzWjlXWXljRUxXbHFqZ1loUEFrRS1ROVVmVkE3eVNKdl9Xd2FZX280aUExbDF0ZDZ3SmZ6Ug?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795091304000,
+   "added": 1795221030969,
+   "cat": "이적"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ1lPclVxQlVTYTFzd3NVdWdCdHB0NVIyZXl5ZW9mZGpNaWMzRDFMZXlIODlEUHlXSmNod2o5NU44UmttWWVFZC1RaTVTeUlpY2NKR2dLTExuNFZfT3RYOTA0YnNJM3RrR3J2UFNIa2dPMXBKdGM5Ump2VkJqSzI0WktnajVRa2ZRNkNDNQ?oc=5",
+   "title": "Two January fixtures moved for TV coverage",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ1lPclVxQlVTYTFzd3NVdWdCdHB0NVIyZXl5ZW9mZGpNaWMzRDFMZXlIODlEUHlXSmNod2o5NU44UmttWWVFZC1RaTVTeUlpY2NKR2dLTExuNFZfT3RYOTA0YnNJM3RrR3J2UFNIa2dPMXBKdGM5Ump2VkJqSzI0WktnajVRa2ZRNkNDNQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795089600000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
    "id": "https://www.sportsmole.co.uk/football/chelsea/feature/the-three-positions-where-chelsea-need-january-reinforcements_609388.html",
    "title": "Chelsea transfer news: The three positions where the Blues need January reinforcements",
    "link": "https://www.sportsmole.co.uk/football/chelsea/feature/the-three-positions-where-chelsea-need-january-reinforcements_609388.html",
@@ -1158,6 +1380,16 @@
    "cat": "오피셜"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1N4dmxZV3VlSGQ5dDFkRnE3Z3RvWmd1NDVDUlE0OU0tOUl4QURtRUdjQ2lFNjh2V0JPZ3o3eUJXOGFtYkcta09FZTRwNGZocVAydkQ0UU4xTlFqWnpnQUxIbXNna1JZVUZyRDNXa3pIZGxvZVpKMFE2a1lhYnYzQjF6d25JLUJWSFZJaE9WNzlONFI3NGN4RVBsZ3BVekVfQ3Rla3oxNzBVX3pUbnc?oc=5",
+   "title": "PGA Division 1 report: Manchester United 2-2 Chelsea Women Under-18s",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1N4dmxZV3VlSGQ5dDFkRnE3Z3RvWmd1NDVDUlE0OU0tOUl4QURtRUdjQ2lFNjh2V0JPZ3o3eUJXOGFtYkcta09FZTRwNGZocVAydkQ0UU4xTlFqWnpnQUxIbXNna1JZVUZyRDNXa3pIZGxvZVpKMFE2a1lhYnYzQjF6d25JLUJWSFZJaE9WNzlONFI3NGN4RVBsZ3BVekVfQ3Rla3oxNzBVX3pUbnc?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795086000000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGJBN1V0em9tMDB1RGNNME1iOHZQSk5qZ1BMLV84SnMtVURWNEgwRHd1dy1GYk03QmpFcHJKM3pURFU3d0Y5aFZKN1JDOEZMQVV4Z0FkeER6Mm5WQkR5QkxLc09sVWYyYi1MUWNxYWpPdjR6RWxZQms0cUVLdFBPc3BHeFBCOXgtUnNjemsySTlmOTRzYWFGNmp2SQ?oc=5",
    "title": "Buurman praises Chelsea's determination after late win | News | Official Site",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGJBN1V0em9tMDB1RGNNME1iOHZQSk5qZ1BMLV84SnMtVURWNEgwRHd1dy1GYk03QmpFcHJKM3pURFU3d0Y5aFZKN1JDOEZMQVV4Z0FkeER6Mm5WQkR5QkxLc09sVWYyYi1MUWNxYWpPdjR6RWxZQms0cUVLdFBPc3BHeFBCOXgtUnNjemsySTlmOTRzYWFGNmp2SQ?oc=5",
@@ -1184,6 +1416,26 @@
    "group": "영국 언론",
    "date": 1795085454000,
    "cat": "부상"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGNESTFOMFJObEtIakNuOTlpU0tWdF9yUzctcWIxekwzOS1KUEVZN2FjZFNQOWQzZElMOF9tZUVkYjIwaC15SkRNb0g5QUJ0WExtZEUtcVZOTmxfWlVzNkxiMXZkRnc5cENPSnlmdzJwMVVXdzVtdjRtRUNtMER0QURwZm14R2pESXoyU1h0bw?oc=5",
+   "title": "Shop Chelsea Football Club Apparel & Merchandise In The Fashion Promo Collection",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGNESTFOMFJObEtIakNuOTlpU0tWdF9yUzctcWIxekwzOS1KUEVZN2FjZFNQOWQzZElMOF9tZUVkYjIwaC15SkRNb0g5QUJ0WExtZEUtcVZOTmxfWlVzNkxiMXZkRnc5cENPSnlmdzJwMVVXdzVtdjRtRUNtMER0QURwZm14R2pESXoyU1h0bw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795083962000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXBPNWgzR2oyY3I1WVhEbzVWTGJNT3JwNWxmM2JobERTR19uenh3SUtSeElua2hkd1BtcmZjSmRGWHNwaWxUZGxzWkkzeklyRjUwUkFzR01hRTRNYXBLVUJBUWRpUmc0RU9ycWxGeEJSUEVMSVRLOU1qSFVmLU5ZRGZxZGh0VXd0U1FaYnpfcw?oc=5",
+   "title": "Defender voted Star of the Match against PSG!",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXBPNWgzR2oyY3I1WVhEbzVWTGJNT3JwNWxmM2JobERTR19uenh3SUtSeElua2hkd1BtcmZjSmRGWHNwaWxUZGxzWkkzeklyRjUwUkFzR01hRTRNYXBLVUJBUWRpUmc0RU9ycWxGeEJSUEVMSVRLOU1qSFVmLU5ZRGZxZGh0VXd0U1FaYnpfcw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795083000000,
+   "added": 1795221030969,
+   "cat": null
   },
   {
    "id": "https://www.football.london/chelsea-fc/transfer-news/chelsea-qa-alex-scott-interest-34930174",
@@ -1223,6 +1475,16 @@
    "cat": null
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODMxN3F6WjJtdk93QkRNMnFMdWktc1lkRUMyZ2YyMGlQMXBjaDhxOFFxcnp5dXpVTHBDU2V2dURxc0pXbXFyaFRYMUVBRmZjdWJCQkZyQTQwa3BjVGFFRzJJS2FXZHlHekc2OUxEZmx4SXFYUDZPY2t6QWVKLWtROUl3dUJTbXVQNXdnLURlTmVqeHZSSm5mMGdmVzQtMkpXZVphS2NoNkdCVUF0Njg4SVVn?oc=5",
+   "title": "Walsh outlines importance of Blues' competitive mentality after PSG win",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODMxN3F6WjJtdk93QkRNMnFMdWktc1lkRUMyZ2YyMGlQMXBjaDhxOFFxcnp5dXpVTHBDU2V2dURxc0pXbXFyaFRYMUVBRmZjdWJCQkZyQTQwa3BjVGFFRzJJS2FXZHlHekc2OUxEZmx4SXFYUDZPY2t6QWVKLWtROUl3dUJTbXVQNXdnLURlTmVqeHZSSm5mMGdmVzQtMkpXZVphS2NoNkdCVUF0Njg4SVVn?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795076093000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
    "id": "https://chelsea.news/2026/11/mudryk-says-xabi-alonso-sent-him-to-tottenham-to-play-and-wants-him-back-at-chelsea/",
    "title": "Mudryk says Xabi Alonso sent him to Tottenham to play and wants him back at Chelsea",
    "link": "https://chelsea.news/2026/11/mudryk-says-xabi-alonso-sent-him-to-tottenham-to-play-and-wants-him-back-at-chelsea/",
@@ -1230,6 +1492,26 @@
    "group": "팬 블로그",
    "date": 1795075714000,
    "cat": "인터뷰"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFVlTDRXZXhWQ1BvN1FXMzRMVnZUZ2draW5NWHJKOTg5X3hrczdBTVVUQlg3Qk1iYXhLMDBKS0xnR00tZ1ZQc3h0clBCOXRBZXE5UWlMbUZpajVsNWVPdmtwcGp1ODFXdmpTV2QzQS1pcGxENG11c2ZiRmhIYjF1dTlFT3NWTlFkbTFhX3E3UEdQN0J0?oc=5",
+   "title": "Jordan Henderson interview | Video",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFVlTDRXZXhWQ1BvN1FXMzRMVnZUZ2draW5NWHJKOTg5X3hrczdBTVVUQlg3Qk1iYXhLMDBKS0xnR00tZ1ZQc3h0clBCOXRBZXE5UWlMbUZpajVsNWVPdmtwcGp1ODFXdmpTV2QzQS1pcGxENG11c2ZiRmhIYjF1dTlFT3NWTlFkbTFhX3E3UEdQN0J0?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795075495000,
+   "added": 1795221030970,
+   "cat": "인터뷰"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWRfS240cFAyaXg1MmowX0I5R0NjZUxuNTR1MGc1ZHFQUWhCYkQ0ZFp4QkVWX0JjX254U0RwQjhaMHBTT3BWLS1XbURFRGFKSUNNNl9SZFBod0NpMzVPclhqSENRX2huQjFpSzdMTmJTUkpHTkhwbklGWmt2blpuVDdwQUpfd0x4ak0tT0k2cHlpdG9PMEdRZUF4TzNuM3lSMzVUTXhETjR6X1RmWjdV?oc=5",
+   "title": "Henderson details how Blues are working to build the 'best version of ourselves'",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWRfS240cFAyaXg1MmowX0I5R0NjZUxuNTR1MGc1ZHFQUWhCYkQ0ZFp4QkVWX0JjX254U0RwQjhaMHBTT3BWLS1XbURFRGFKSUNNNl9SZFBod0NpMzVPclhqSENRX2huQjFpSzdMTmJTUkpHTkhwbklGWmt2blpuVDdwQUpfd0x4ak0tT0k2cHlpdG9PMEdRZUF4TzNuM3lSMzVUTXhETjR6X1RmWjdV?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795075200000,
+   "added": 1795221030969,
+   "cat": null
   },
   {
    "id": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/chelsea-learn-new-asking-price-for-in-demand-forward-amid-man-city-interest_609358.html",
@@ -1289,6 +1571,46 @@
    "titleKo": "첼시, PSG 1-0 제압…뷔르만 결승골·여자 UCL 선두 도약"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkdVODVEMDRydkVOMTAtajVxQTdCM3lCeFJrOVBPWmZVOTJDdmdsbWJVRjRZY2YybDZodHJGN0EtY0E4QVhVclBmNnF1N2ZjVVVLUl9SdTg2QXVQV2RYdlRySkdPc25iVERDdUpKQTNOQXkyMEE5VHY0aTcyREdOTWpvdldQdGdCYkNoRXFoZ1ZYOFVi?oc=5",
+   "title": "'Everyone is working really hard not to concede' | Video",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkdVODVEMDRydkVOMTAtajVxQTdCM3lCeFJrOVBPWmZVOTJDdmdsbWJVRjRZY2YybDZodHJGN0EtY0E4QVhVclBmNnF1N2ZjVVVLUl9SdTg2QXVQV2RYdlRySkdPc25iVERDdUpKQTNOQXkyMEE5VHY0aTcyREdOTWpvdldQdGdCYkNoRXFoZ1ZYOFVi?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795048177000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGZxbE1mNUJqNUI4NTRhdnFENVhVSWo5WERUeHhsenFQbmJtOU9pbnNhaGRib0tjdmlaTTNiWmxRNk5RY1AySlJCSlk1OGJ2dXNYRUV0bUhfWHA4NGF5bUZKR1hINE9VNG5fdHlwRlJIcHJtSGIwVVZFSkJpbmdUU0hvOVpXTWJRclJybHZKRFFNbkNDRk9aaXdCWXFMZTFiSUE?oc=5",
+   "title": "UWCL Extended Highlights: Chelsea Women 1-0 PSG Women | Video",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGZxbE1mNUJqNUI4NTRhdnFENVhVSWo5WERUeHhsenFQbmJtOU9pbnNhaGRib0tjdmlaTTNiWmxRNk5RY1AySlJCSlk1OGJ2dXNYRUV0bUhfWHA4NGF5bUZKR1hINE9VNG5fdHlwRlJIcHJtSGIwVVZFSkJpbmdUU0hvOVpXTWJRclJybHZKRFFNbkNDRk9aaXdCWXFMZTFiSUE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795047743000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSS1iT3VvM1pSNGFwQ2dnU05ybUpxU2xtSkcxNUQ0TllLYzREenFDYW1IZHd4MHhoUHNrMFhzQlg4R3dLVGJCdlNDY3BvZkN6ZjJsdmp0YXNJV25VemRwMWxIUFdoM2xvOFV5OWRJb0FaempNMDY1X3hGWlMzV3dWakI4ZE9WaGtJMi1vRW84SzNwTi1QT3lhMQ?oc=5",
+   "title": "'I was delighted for Veerle' | Video",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSS1iT3VvM1pSNGFwQ2dnU05ybUpxU2xtSkcxNUQ0TllLYzREenFDYW1IZHd4MHhoUHNrMFhzQlg4R3dLVGJCdlNDY3BvZkN6ZjJsdmp0YXNJV25VemRwMWxIUFdoM2xvOFV5OWRJb0FaempNMDY1X3hGWlMzV3dWakI4ZE9WaGtJMi1vRW84SzNwTi1QT3lhMQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795047595000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2t5Sm1heWdpZGxUaGVfT1FQWHI5Zllld0xWT1B2ZHlkOWxjWmpDazVYZ2lRbF9zb3lzMDY3OHIzSjFuTThZOWRac1NDVmRlVnBPTmxRbzYyd1JaajJzbkZ1d0pzRXBhTUIxRHNYSjdHYWlaNGZIbkp0UV9YQnZabDR6amRZTG90aGhzblhsaGhvMWFSaWc?oc=5",
+   "title": "UWCL Highlights: Chelsea Women 1-0 PSG Women | Video",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2t5Sm1heWdpZGxUaGVfT1FQWHI5Zllld0xWT1B2ZHlkOWxjWmpDazVYZ2lRbF9zb3lzMDY3OHIzSjFuTThZOWRac1NDVmRlVnBPTmxRbzYyd1JaajJzbkZ1d0pzRXBhTUIxRHNYSjdHYWlaNGZIbkp0UV9YQnZabDR6amRZTG90aGhzblhsaGhvMWFSaWc?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795043095000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
    "id": "https://talksport.com/football/4718368/mykhailo-mudryk-tottenham-chelsea-transfer-news/",
    "title": "Mykhailo Mudryk not ruling out Chelsea renaissance as he names three clubs he held talks with before Tottenham loan",
    "link": "https://talksport.com/football/4718368/mykhailo-mudryk-tottenham-chelsea-transfer-news/",
@@ -1297,6 +1619,16 @@
    "cat": "이적",
    "titleKo": "미하일로 무드릭, 토트넘 임대 전 대화를 나눴던 세 구단을 언급하며 첼시의 부활 가능성을 배제하지 않음",
    "group": "영국 언론"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2x4NHE5VGRHak43aVNnVENqaDlFMDN3eGdscWlEc2xFdmctcGl0MGQ3Qnl3Q05ORGlxMGVVWG1HYy1LUkhFekxJUnNsZVAzallSMGlQU3pINEFXbXNtMzVDT3ZiZmFVaVRMWFBkMklDOUx3eXFoWmtUVEQ3ZUxDd1Mtb2ExRWYxU3lPUDhrX0hqd0Z1UmdJ?oc=5",
+   "title": "Match report: Chelsea Women 1-0 Paris Saint-Germain",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2x4NHE5VGRHak43aVNnVENqaDlFMDN3eGdscWlEc2xFdmctcGl0MGQ3Qnl3Q05ORGlxMGVVWG1HYy1LUkhFekxJUnNsZVAzallSMGlQU3pINEFXbXNtMzVDT3ZiZmFVaVRMWFBkMklDOUx3eXFoWmtUVEQ3ZUxDd1Mtb2ExRWYxU3lPUDhrX0hqd0Z1UmdJ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795041399000,
+   "added": 1795221030969,
+   "cat": null
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/ck30gd2m0neeo?at_medium=RSS&at_campaign=rss",
@@ -1328,12 +1660,42 @@
    "cat": "부상"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS01uWlRUeDRLVUNFWExZSXJnbDdvWHVCV1ZkbWdfel9vOG9sVmEwNzc4V1gyemJJcmR0YWVZSmdwcmhSRlVOUjg5YUlYVXBFUXg5UTAtU1RKMEV3aVMxaC1oNndFb1JFMzFSVFE3akx3RkNWS3FpU0ljdmlXX3dQMEFIMXRpUVk?oc=5",
+   "title": "Confirmed Chelsea Women line up vs PSG",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS01uWlRUeDRLVUNFWExZSXJnbDdvWHVCV1ZkbWdfel9vOG9sVmEwNzc4V1gyemJJcmR0YWVZSmdwcmhSRlVOUjg5YUlYVXBFUXg5UTAtU1RKMEV3aVMxaC1oNndFb1JFMzFSVFE3akx3RkNWS3FpU0ljdmlXX3dQMEFIMXRpUVk?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795027500000,
+   "added": 1795221030969,
+   "cat": "오피셜"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFZ204Y2RINTlqX2FsWkJ5aXBpMWhNNWw2b1dYRVF0LWljNktILWdwX0xJdnFTZmpKcm5fQUwwT0J5LXFrc1pzRGhlVUtMMDB0NDRhTlI1cFhaLXFyMDgxY1dWaVE0WXljTE1BMzctdlhhWHVRNVE?oc=5",
+   "title": "The final preparations | Video",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFZ204Y2RINTlqX2FsWkJ5aXBpMWhNNWw2b1dYRVF0LWljNktILWdwX0xJdnFTZmpKcm5fQUwwT0J5LXFrc1pzRGhlVUtMMDB0NDRhTlI1cFhaLXFyMDgxY1dWaVE0WXljTE1BMzctdlhhWHVRNVE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795025086000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
    "id": "https://chelsea.news/2026/11/lacroix-back-in-individual-training-but-set-to-miss-leeds-with-return-expected-in-january/",
    "title": "Lacroix back in individual training but set to miss Leeds, with return expected in January",
    "link": "https://chelsea.news/2026/11/lacroix-back-in-individual-training-but-set-to-miss-leeds-with-return-expected-in-january/",
    "source": "Chelsea News",
    "group": "팬 블로그",
    "date": 1795024123000,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWZpLWlFSGs1QnR1X0YyZHc5bXN6LTZzbUFhNTMyNVRCMHBYMXZWRTM3R0Z2U1lwSmdfemh4bk1JXzRXblFYT0Etb0xIRFdnZTBSOVRvekszQ2VfdE96ZXZNbjNRa25xdWJnZmhjR3pEckd4eDY5eFJrd25TYXlGZ283Ynk4dzBVNGc2VzFTNlYwZWxITUdWNExKUDNoeUVqVG5iYnlfY0VBUQ?oc=5",
+   "title": "Training gallery: All eyes on Leeds as international stars return",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWZpLWlFSGs1QnR1X0YyZHc5bXN6LTZzbUFhNTMyNVRCMHBYMXZWRTM3R0Z2U1lwSmdfemh4bk1JXzRXblFYT0Etb0xIRFdnZTBSOVRvekszQ2VfdE96ZXZNbjNRa25xdWJnZmhjR3pEckd4eDY5eFJrd25TYXlGZ283Ynk4dzBVNGc2VzFTNlYwZWxITUdWNExKUDNoeUVqVG5iYnlfY0VBUQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795015800000,
+   "added": 1795221030969,
    "cat": null
   },
   {
@@ -1344,6 +1706,16 @@
    "group": "영국 언론",
    "date": 1795013485000,
    "cat": "이적"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1BRZDd3UmUtLU1MTTRvcFJUUnFjUnEwYm43Qk1RbkhTbEZYaWNVMk9GM281S2JrS0xRRUZRWWhoSkpIMzJJRG8xdGlFWjN5WDY5TnJqdE5sMVRQNmdfVmNUTm50TmFfZlRfdkFqQi1zamFiNF9wOXpVbE9kRzRNSWd1ZjFKVlhocWt0ZVJ1U0NIcHdDSUxxMlhtN0VFTGJOeGdNckNVeW9MWm9OX2RwZ2EtQlM?oc=5",
+   "title": "Chelsea vs Leeds preview: TV channel, kick-off time and how to watch",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1BRZDd3UmUtLU1MTTRvcFJUUnFjUnEwYm43Qk1RbkhTbEZYaWNVMk9GM281S2JrS0xRRUZRWWhoSkpIMzJJRG8xdGlFWjN5WDY5TnJqdE5sMVRQNmdfVmNUTm50TmFfZlRfdkFqQi1zamFiNF9wOXpVbE9kRzRNSWd1ZjFKVlhocWt0ZVJ1U0NIcHdDSUxxMlhtN0VFTGJOeGdNckNVeW9MWm9OX2RwZ2EtQlM?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795010400000,
+   "added": 1795221030969,
+   "cat": "프리뷰"
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/xabi-alonso-handed-major-injury-34928548",
@@ -1363,6 +1735,56 @@
    "cat": null,
    "titleKo": "스페인 전 미드필더 마타, 38세에 은퇴",
    "group": "영국 언론"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX0VPVVdSRjUyUVh4M1NpVXBWLWVnMEEzVDVwZ2VnQTZUQml5dG1hOUIxemNsV3k1YWVzZVlQWGFlcHB3eG5HZHFCV3ZVMnFyVnY3Zk93c2s0eGF1Ry1EbVhQZEJFdWw3UXBmd1VGOEFaWDA3TmpoZEhPbTVEWnZwQ3RXN2hpT2drbVBJRWtCbi12OF9GVlVMR3FwSjFTMnFzanhyNUtLU1RCRG1XSU9WN2toUFgtLUE?oc=5",
+   "title": "Internationals: Martinez returns and Anselmino debuts in huge Argentina win",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX0VPVVdSRjUyUVh4M1NpVXBWLWVnMEEzVDVwZ2VnQTZUQml5dG1hOUIxemNsV3k1YWVzZVlQWGFlcHB3eG5HZHFCV3ZVMnFyVnY3Zk93c2s0eGF1Ry1EbVhQZEJFdWw3UXBmd1VGOEFaWDA3TmpoZEhPbTVEWnZwQ3RXN2hpT2drbVBJRWtCbi12OF9GVlVMR3FwSjFTMnFzanhyNUtLU1RCRG1XSU9WN2toUFgtLUE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794996000000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GUkJraks1bkZaRjVmWmRUZk8zSl9mV1ZRWWJXWl9XaWR6SzdZNWZBV0dfSW51aFFVYXc5RUxBYkd1THJkRElpUU9GN0t3RFZ5WEtYX3FoOW1SemdtcnZHZ3lR?oc=5",
+   "title": "Juan Mata retires: Free-kick vs Man Utd | Video",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GUkJraks1bkZaRjVmWmRUZk8zSl9mV1ZRWWJXWl9XaWR6SzdZNWZBV0dfSW51aFFVYXc5RUxBYkd1THJkRElpUU9GN0t3RFZ5WEtYX3FoOW1SemdtcnZHZ3lR?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794995993000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0hRYlBzRGl0TXZPdk16eVk2akQ1ZzZzcVFDWHNzUVc1YlZhTEhKblM1enZYWUVBZ2t3Ym1OdE05TG9maThjSVBpQjRld1VTeldpU0pfTXNmc3RNb2d0Zmh2UWFrZlJpOG5yay1XQmpKS0NRcHp4aDJUOHg2dDVZMUZLV21sYzRzSlJ3NWx5N1QwT0xrSk1hcngxOHR5ZWtMUGJMN3dsanJuMVU?oc=5",
+   "title": "OTD: Classic Match | West Brom 0-4 Chelsea | Video",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0hRYlBzRGl0TXZPdk16eVk2akQ1ZzZzcVFDWHNzUVc1YlZhTEhKblM1enZYWUVBZ2t3Ym1OdE05TG9maThjSVBpQjRld1VTeldpU0pfTXNmc3RNb2d0Zmh2UWFrZlJpOG5yay1XQmpKS0NRcHp4aDJUOHg2dDVZMUZLV21sYzRzSlJ3NWx5N1QwT0xrSk1hcngxOHR5ZWtMUGJMN3dsanJuMVU?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794993645000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUhha0EzNU9sLWVqWm9wM3lwNVlVdUZfbzNQYmhzU2lNU1JJX0VRbUxtdlZXcDhKdURka1lUaVhnVTczcWFkdzNyWmpMTVEyYkdHYUU2OGs1aV9PSXN3cjkwX2F3R0pvQjFHUnNLb3c0RDl6OGRHaW1jMHUweGp6cFdJaUpibjc3Njd2b2FWX0xZODVCNTNSa1hab0dXQQ?oc=5",
+   "title": "Premier League ticket news: Loyalty point update for members - Manchester City away",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUhha0EzNU9sLWVqWm9wM3lwNVlVdUZfbzNQYmhzU2lNU1JJX0VRbUxtdlZXcDhKdURka1lUaVhnVTczcWFkdzNyWmpMTVEyYkdHYUU2OGs1aV9PSXN3cjkwX2F3R0pvQjFHUnNLb3c0RDl6OGRHaW1jMHUweGp6cFdJaUpibjc3Njd2b2FWX0xZODVCNTNSa1hab0dXQQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794992400000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFFhZDdRZ3hqTFNGN3QwTXFndVJ2M1lHUUJWOF9CbzQxRFpsS2o4T3Q2WVk3OFVoLUlGREZJT1JUS3M5ZHdMT3hGN2EtcEUyZWlZVF9jNEc3akN0ZG1sdVVMXzBGNTlFUjdXR1RnSEVrc01PVWIwbk9GT0dKM2lDQ19vOWJraXlDWWRvd1p4LWxUUkRid01iNUtMU01ibERlSzJKeDY2a01Qdw?oc=5",
+   "title": "Juan Mata retires: Forward's lifelong bonds to Chelsea and London",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFFhZDdRZ3hqTFNGN3QwTXFndVJ2M1lHUUJWOF9CbzQxRFpsS2o4T3Q2WVk3OFVoLUlGREZJT1JUS3M5ZHdMT3hGN2EtcEUyZWlZVF9jNEc3akN0ZG1sdVVMXzBGNTlFUjdXR1RnSEVrc01PVWIwbk9GT0dKM2lDQ19vOWJraXlDWWRvd1p4LWxUUkRid01iNUtMU01ibERlSzJKeDY2a01Qdw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794991800000,
+   "added": 1795221030970,
+   "cat": null
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/estevao-decision-crucial-chelsea-star-34925230",
@@ -1393,6 +1815,36 @@
    "cat": null
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1NDMlRzY0JVT1I0cDY4bTlMbGRCeXVELU9LU3AzRWpNRUU5amJ4Mmx3ejBON3V6VXhFOFl2cERXMmR6b2NXOGdaYThXZkZ0RVYtTW1UX2pqWkJGMGJmRlpHRHpmaERLYmtFTmhkNzVGRE1yMzlSRWVtejZ3OGNEaXdrZjltSzlxT0xMYTgtc3pqWVQyWjdnTTczcURTTHZvSndPVHFFalVCOEJWd08yZFdrSQ?oc=5",
+   "title": "Key talking points from Bompastor and Cuthbert's pre-Paris Saint-Germain press conference",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1NDMlRzY0JVT1I0cDY4bTlMbGRCeXVELU9LU3AzRWpNRUU5amJ4Mmx3ejBON3V6VXhFOFl2cERXMmR6b2NXOGdaYThXZkZ0RVYtTW1UX2pqWkJGMGJmRlpHRHpmaERLYmtFTmhkNzVGRE1yMzlSRWVtejZ3OGNEaXdrZjltSzlxT0xMYTgtc3pqWVQyWjdnTTczcURTTHZvSndPVHFFalVCOEJWd08yZFdrSQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794937500000,
+   "added": 1795221030969,
+   "cat": "인터뷰"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzNMc24ybzNOREliSXZ6bkdsNHpFS2doSnVtc3dFMkFlRkN6aGkwVURjSTlkNUdhdzhYT0l1Sjc1ZnFuYjk1bktSTGRvMjhlME5DSEMxUGFlc1pFczkyM2RmdnF4UmJrMDlMeG13WGYwTUtkdmtXRFJMUENURWJLeTkwTWo5cWpiR0wtdw?oc=5",
+   "title": "Bompastor Press Conference 🎙️ | Video",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzNMc24ybzNOREliSXZ6bkdsNHpFS2doSnVtc3dFMkFlRkN6aGkwVURjSTlkNUdhdzhYT0l1Sjc1ZnFuYjk1bktSTGRvMjhlME5DSEMxUGFlc1pFczkyM2RmdnF4UmJrMDlMeG13WGYwTUtkdmtXRFJMUENURWJLeTkwTWo5cWpiR0wtdw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794936281000,
+   "added": 1795221030969,
+   "cat": "인터뷰"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQldrSnhhTWs0aFZNSEx5WmI3TklRU2kwR09NT2dXa2hrN3JSZEhNRG9vdnF1TWp1V3M5anBnblMwTU43TnZCVVNSNlBkd3M2aGh4RXk1a2ZadWVUckQ5WGNyWWxoZktBVG5Gbl9sQl84RW9NWDhVSFpiWlJOVHB4ZUpqVjNSUQ?oc=5",
+   "title": "Training gallery: Back to it at Cobham",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQldrSnhhTWs0aFZNSEx5WmI3TklRU2kwR09NT2dXa2hrN3JSZEhNRG9vdnF1TWp1V3M5anBnblMwTU43TnZCVVNSNlBkd3M2aGh4RXk1a2ZadWVUckQ5WGNyWWxoZktBVG5Gbl9sQl84RW9NWDhVSFpiWlJOVHB4ZUpqVjNSUQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794934800000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
    "id": "https://www.football.london/chelsea-fc/transfer-news/estevao-willian-breaks-silence-chelsea-34926286",
    "title": "Estevao Willian breaks silence on Chelsea minutes as transfer question asked",
    "link": "https://www.football.london/chelsea-fc/transfer-news/estevao-willian-breaks-silence-chelsea-34926286",
@@ -1402,6 +1854,36 @@
    "cat": "이적"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWtMYVhWdGdpM2dmQTdWMmxrTFB6YzZOcjNoU1lOdXZGdVo5OVRVV3RzdHZ3N2NBM01BUy1QYTdBeVdNU19NN3kwbVNVSENQVlp2NF9FWUx6WmhBcEZHMkJzY1RqYkZjTGI1RWZqTzB6eG5VYTZuVk8zdW5TbkpWQl9LVkJuVEVlNmNfX1ZldFhyTVJyQmJiVm4tenY5czltMXF4UE03RVBOZUZsb1VxaUNBTQ?oc=5",
+   "title": "Bompastor updates on Buchanan, Dragoni, Malard and Matsukubo ahead of PSG",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWtMYVhWdGdpM2dmQTdWMmxrTFB6YzZOcjNoU1lOdXZGdVo5OVRVV3RzdHZ3N2NBM01BUy1QYTdBeVdNU19NN3kwbVNVSENQVlp2NF9FWUx6WmhBcEZHMkJzY1RqYkZjTGI1RWZqTzB6eG5VYTZuVk8zdW5TbkpWQl9LVkJuVEVlNmNfX1ZldFhyTVJyQmJiVm4tenY5czltMXF4UE03RVBOZUZsb1VxaUNBTQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794933000000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTMzdWtWSFJPbjhZYlJ6cUxzdVZGclk5UGQxdXRTaWVfMC1zY0Mtc0NJdXRWZUVBeUJ5bUhmbEhISXJ3TUVad284dEhoMzRmc29HSjVwc2FQUDdFMVVLcWlNbmtsMkVKZHM3dmo0YUViM1V1TUlBZmpGcGxiQ2ZxOGw5V2h5djZpb1BzaUhlSVVHUTJPSEFJWHd2dzAzTWdQSXZrRUViVkNmYzA?oc=5",
+   "title": "Sandy Baltimore grateful for Paris education but not looking back",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTMzdWtWSFJPbjhZYlJ6cUxzdVZGclk5UGQxdXRTaWVfMC1zY0Mtc0NJdXRWZUVBeUJ5bUhmbEhISXJ3TUVad284dEhoMzRmc29HSjVwc2FQUDdFMVVLcWlNbmtsMkVKZHM3dmo0YUViM1V1TUlBZmpGcGxiQ2ZxOGw5V2h5djZpb1BzaUhlSVVHUTJPSEFJWHd2dzAzTWdQSXZrRUViVkNmYzA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794923100000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUZ6Rm9aN1lRdnJPekVGLUVmNkZ0TlhLQVRGSGJGcDVFelI5eTVUU2RUcDdiQkFIQTBUZk5lbmVJa1QzNkx2aXZ0REQ3ZlcySHl0SUY3VXhLTjBDMGtlWnhndzZKSVNlR0NzWWY5MjJBUlhjVzlVM2swXzc5VkJ4OUZ4V2JlU0RwT3FsZnpUMkxaSmYxZG1Fd3JPekdhRThJMFRuSExsNWdxUQ?oc=5",
+   "title": "Internationals: Estevao nets and assists in big Brazil win",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUZ6Rm9aN1lRdnJPekVGLUVmNkZ0TlhLQVRGSGJGcDVFelI5eTVUU2RUcDdiQkFIQTBUZk5lbmVJa1QzNkx2aXZ0REQ3ZlcySHl0SUY3VXhLTjBDMGtlWnhndzZKSVNlR0NzWWY5MjJBUlhjVzlVM2swXzc5VkJ4OUZ4V2JlU0RwT3FsZnpUMkxaSmYxZG1Fd3JPekdhRThJMFRuSExsNWdxUQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794922200000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
    "id": "https://www.football.london/chelsea-fc/transfer-news/chelsea-unfinished-business-january-transfer-34923577",
    "title": "Chelsea have unfinished business in January transfer window with £100m reality clear",
    "link": "https://www.football.london/chelsea-fc/transfer-news/chelsea-unfinished-business-january-transfer-34923577",
@@ -1409,6 +1891,16 @@
    "group": "영국 언론",
    "date": 1794922151000,
    "cat": "이적"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkc0bDE2czRaaXVhaG9xN3llN1dHc1FiYkQ3SkxKbnBMek5LR2RZeGlMcTFWQlp4cmMtc2N5SkJfR2llTzNsaUVSbHEzZ3hlVDBmTS1HVV9IVE5lX0VLUFZPM0JsWEZwYl9kOXJ5MGJDTVVKZE5PbWVaUWNvY2x4YUpTbDN1X0lPeFZWd3NLZ1JtcFJUREx6Z2NIcklvb2JFUFJacHROcHA?oc=5",
+   "title": "Dramatic Palmer strike voted your favourite late Chelsea winner!",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkc0bDE2czRaaXVhaG9xN3llN1dHc1FiYkQ3SkxKbnBMek5LR2RZeGlMcTFWQlp4cmMtc2N5SkJfR2llTzNsaUVSbHEzZ3hlVDBmTS1HVV9IVE5lX0VLUFZPM0JsWEZwYl9kOXJ5MGJDTVVKZE5PbWVaUWNvY2x4YUpTbDN1X0lPeFZWd3NLZ1JtcFJUREx6Z2NIcklvb2JFUFJacHROcHA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794921300000,
+   "added": 1795221030970,
+   "cat": null
   },
   {
    "id": "https://talksport.com/football/4713033/chelsea-vitor-matos-swansea-strasbourg-manager/",
@@ -1430,6 +1922,16 @@
    "cat": null
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DQjVkRHVWOUhkSXlzRmEyQno5ZnBhaHV5MHdBY09lSHNNcWFzN1l0d09PcE5tSkl3RnRmd0JUV3ZqMlJGMGRaYnVSRWk2ckJlTWVxSUNqQ0NrdmZZWXllMlgwMVQ2b0NGTWJyRnZn?oc=5",
+   "title": "Matchday Unseen | Man City 🎥 | Video",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DQjVkRHVWOUhkSXlzRmEyQno5ZnBhaHV5MHdBY09lSHNNcWFzN1l0d09PcE5tSkl3RnRmd0JUV3ZqMlJGMGRaYnVSRWk2ckJlTWVxSUNqQ0NrdmZZWXllMlgwMVQ2b0NGTWJyRnZn?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794914676000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
    "id": "https://www.football.london/chelsea-fc/news/xabi-alonso-handed-crucial-chelsea-34922674",
    "title": "Xabi Alonso handed crucial Chelsea injury green light ahead of Leeds showdown",
    "link": "https://www.football.london/chelsea-fc/news/xabi-alonso-handed-crucial-chelsea-34922674",
@@ -1439,12 +1941,52 @@
    "cat": "부상"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTZHOURoVDdQV3R4X19lb19OcnJrQlc5V2lUcGxHVmc0TEtoTFpGWGZZckdHLWszbmtvcXQ5UndDRUlGRmw4ajZxVzBKRXl2WnpJeF9aMnprYmFNVE00UVV2RHNuRzU4cnVSYTE5ZUY4ak8xbEQ1MncyUVNKbk0zbHY2SXk5ZGtOR3NES3pweXNCWFo5WlBXdXFTVmFVQWZx?oc=5",
+   "title": "Squad debutant among six Blues called up by England Women",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTZHOURoVDdQV3R4X19lb19OcnJrQlc5V2lUcGxHVmc0TEtoTFpGWGZZckdHLWszbmtvcXQ5UndDRUlGRmw4ajZxVzBKRXl2WnpJeF9aMnprYmFNVE00UVV2RHNuRzU4cnVSYTE5ZUY4ak8xbEQ1MncyUVNKbk0zbHY2SXk5ZGtOR3NES3pweXNCWFo5WlBXdXFTVmFVQWZx?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794913200000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
    "id": "https://www.football.london/chelsea-fc/news/xabi-alonso-robert-sanchez-transfer-34918306",
    "title": "Xabi Alonso accused of making Chelsea star 'easy scapegoat' with brutal decision",
    "link": "https://www.football.london/chelsea-fc/news/xabi-alonso-robert-sanchez-transfer-34918306",
    "source": "football.london",
    "group": "영국 언론",
    "date": 1794898800000,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSzRkc1lNaHA3amkwS2tDQkxpVm5PRXN2bnNPNGp2T2JkbGJoOFRIMmtaTEdtV2RsQjlfTGQ3c2xQM1Jpcm5la1pqOU5RNzZlZ0JzYTFlck5kOEtmM3dtcU1xdENUZ1RXVmFnNTRTSjN6UVBRYTdNbGQtMA?oc=5",
+   "title": "Get your Chelsea fix with CFC+",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSzRkc1lNaHA3amkwS2tDQkxpVm5PRXN2bnNPNGp2T2JkbGJoOFRIMmtaTEdtV2RsQjlfTGQ3c2xQM1Jpcm5la1pqOU5RNzZlZ0JzYTFlck5kOEtmM3dtcU1xdENUZ1RXVmFnNTRTSjN6UVBRYTdNbGQtMA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794848400000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUlKSGRTd1ZRY3NpZFdiSDFpRkVQZ21sbzhpcmVHRGZHajZFMWdudC10RTE3ODBkMlQzZTdkekdNX0t3amx3WDNMbGNnT2dzeDRZQmdsclctazJHakpHRUxJZnJsS2hHWHQ2MjczZTFfQzJFRFpVeC01dnNOZkpSNTlJMDIyR1lfcl9rOGJ2MENMTUJwNUFUOE9WbzNqUDNtbmNia0NtdjNWaHpEeHltQjVnbWtTQQ?oc=5",
+   "title": "Vote for your favourite late Stamford Bridge winner: Estevao or Palmer?",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUlKSGRTd1ZRY3NpZFdiSDFpRkVQZ21sbzhpcmVHRGZHajZFMWdudC10RTE3ODBkMlQzZTdkekdNX0t3amx3WDNMbGNnT2dzeDRZQmdsclctazJHakpHRUxJZnJsS2hHWHQ2MjczZTFfQzJFRFpVeC01dnNOZkpSNTlJMDIyR1lfcl9rOGJ2MENMTUJwNUFUOE9WbzNqUDNtbmNia0NtdjNWaHpEeHltQjVnbWtTQQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794839700000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82bloxS3E3YnI5dS0yNEpOclJZT3lsbV9XWGJRUjBWQmtZbHFQMlhrVzV3ejdmd21XT2dtajF5Ump4RUV0bUhGbDR2THJLVlhvYUJuaDR5eExQSEpraHg3bEFDVlpDV0ZPV05NY3l3d2g2WWNJT25kZUd0RTE?oc=5",
+   "title": "Cole Palmer: My Football Firsts",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82bloxS3E3YnI5dS0yNEpOclJZT3lsbV9XWGJRUjBWQmtZbHFQMlhrVzV3ejdmd21XT2dtajF5Ump4RUV0bUhGbDR2THJLVlhvYUJuaDR5eExQSEpraHg3bEFDVlpDV0ZPV05NY3l3d2g2WWNJT25kZUd0RTE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794839100000,
+   "added": 1795221030969,
    "cat": null
   },
   {
@@ -1475,6 +2017,16 @@
    "cat": null
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1pkUGlJWDIyV2duVzRWLXY2WTdaVkdETnJYSHg3Z1UydTQ5TUJnWnFRQUNCN3RhMW9RQjBwSEVwV1hSTTljdWcxSFBlaXhHRnF2RXBWdWZZRTBna2EzQlVqcktUXzRNZGhzRFA5RzdQVVV6YzJtazdxN2VXaDU3cHI2NW51OWIyNnR1REY3RXFHSWRDMWRQaTlXNnJGaGZVWUVYRE01UFhPaHpqYkR4ZFJkLUF1YjQ?oc=5",
+   "title": "Chelsea Women vs Paris Saint-Germain: How to watch, TV channel, kick-off time, date",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1pkUGlJWDIyV2duVzRWLXY2WTdaVkdETnJYSHg3Z1UydTQ5TUJnWnFRQUNCN3RhMW9RQjBwSEVwV1hSTTljdWcxSFBlaXhHRnF2RXBWdWZZRTBna2EzQlVqcktUXzRNZGhzRFA5RzdQVVV6YzJtazdxN2VXaDU3cHI2NW51OWIyNnR1REY3RXFHSWRDMWRQaTlXNnJGaGZVWUVYRE01UFhPaHpqYkR4ZFJkLUF1YjQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794828600000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
    "id": "https://www.football.london/premier-league/breaking-romelu-lukaku-belgium-chelsea-34917208",
    "title": "Ex-Chelsea striker Romelu Lukaku makes major announcement - 'I'm at peace with my decision'",
    "link": "https://www.football.london/premier-league/breaking-romelu-lukaku-belgium-chelsea-34917208",
@@ -1484,12 +2036,32 @@
    "cat": "오피셜"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVlQYklobUlBamxCRVdtSEhQSkNFUEdxUVpsYnJQekxtZm9mYndCQnpoX0xKTl91NHR3UmFxMHF6NnJpYUZvVnhhckt1T1d4cXV1SVBXR2xzWGxrU1pOTnJOcHo3c0hjOGRQODlxZjR5QUZybzUycWgxN1U0ZVBIS0FmUmlMSGNQQW5Fcnh1MzEzUFM0YzJOZExaYnJhQk4zRTJMQzZB?oc=5",
+   "title": "Chelsea Under-18s discover FA Youth Cup third round opponents",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVlQYklobUlBamxCRVdtSEhQSkNFUEdxUVpsYnJQekxtZm9mYndCQnpoX0xKTl91NHR3UmFxMHF6NnJpYUZvVnhhckt1T1d4cXV1SVBXR2xzWGxrU1pOTnJOcHo3c0hjOGRQODlxZjR5QUZybzUycWgxN1U0ZVBIS0FmUmlMSGNQQW5Fcnh1MzEzUFM0YzJOZExaYnJhQk4zRTJMQzZB?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794824400000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
    "id": "https://chelsea.news/2026/11/caicedo-plays-84-minutes-and-scores-for-ecuador-despite-admitting-he-was-tired/",
    "title": "Caicedo plays 84 minutes and scores for Ecuador despite admitting he was tired",
    "link": "https://chelsea.news/2026/11/caicedo-plays-84-minutes-and-scores-for-ecuador-despite-admitting-he-was-tired/",
    "source": "Chelsea News",
    "group": "팬 블로그",
    "date": 1794821910000,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHBvWkhEejRUak5oSDdsQ1B4SFhpcm5odGRwY2dZQUlmbkdHS05YWDVTbW5wVFJCN1hzaEhHcW5tSGMweWVReF9uRi01cFdTSE5memVnYW91UFEzeWhwLWVXTmVPRkhEMUlidTl4aVN2OV93dk8yWmdQR2cxSEwwNWtJLUM2d0Mxa2t3b21yMmdwMFcwRDhydjVvNHJ0UQ?oc=5",
+   "title": "Chelsea Diary: European night and a blockbuster Saturday",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHBvWkhEejRUak5oSDdsQ1B4SFhpcm5odGRwY2dZQUlmbkdHS05YWDVTbW5wVFJCN1hzaEhHcW5tSGMweWVReF9uRi01cFdTSE5memVnYW91UFEzeWhwLWVXTmVPRkhEMUlidTl4aVN2OV93dk8yWmdQR2cxSEwwNWtJLUM2d0Mxa2t3b21yMmdwMFcwRDhydjVvNHJ0UQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794808954000,
+   "added": 1795221030970,
    "cat": null
   },
   {
@@ -1502,12 +2074,182 @@
    "cat": "이적"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1hSMUpjcGlNSTN6clhsb3JZaEhOVXJ3WjUxVF9ZNVZ6NENWRVN1MFdLQjNkM0dkTEtITlNqclczNkthRS1uYzJYaTN6eFNmQUsxTEpqOFlOS3JzU2JmTV9yM0YwUHJyNFBqd2Vzc01yU0QxUE9qWlpWUnBCbTZ2NnFWMDlqMVlmOTloOTBiN3VfRG1fa2p1TDg0aHlkZlJhWjk5TXBscFNCLXB6ck5Za1VRcw?oc=5",
+   "title": "Analysis: How Bronze, Baltimore and defensive resilience inspired Chelsea Women to key win",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1hSMUpjcGlNSTN6clhsb3JZaEhOVXJ3WjUxVF9ZNVZ6NENWRVN1MFdLQjNkM0dkTEtITlNqclczNkthRS1uYzJYaTN6eFNmQUsxTEpqOFlOS3JzU2JmTV9yM0YwUHJyNFBqd2Vzc01yU0QxUE9qWlpWUnBCbTZ2NnFWMDlqMVlmOTloOTBiN3VfRG1fa2p1TDg0aHlkZlJhWjk5TXBscFNCLXB6ck5Za1VRcw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794762000000,
+   "added": 1795221030969,
+   "cat": "프리뷰"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkN5cWxLYjIzZUtHdTRtSmZFY2VEcDFUc2c5Rl9KQUxpekR6UzZKZVFqQm5BTkdXUVZIcjNoOXI0aGlEenJsd09sVFh1ODRrQnRnNnNoYWtMUVVVei1uNG1lb1VsYVpLcXg5elVpV0NMaEhZRXlHb2dVeEhSbkdOTUYyNUwtUEtBNDhsN1hhTWd5cTNKOXN1ajY0aFZOdFhvNThnaHIxd1M?oc=5",
+   "title": "Sonia Bompastor challenges Chelsea to build on Man City victory",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkN5cWxLYjIzZUtHdTRtSmZFY2VEcDFUc2c5Rl9KQUxpekR6UzZKZVFqQm5BTkdXUVZIcjNoOXI0aGlEenJsd09sVFh1ODRrQnRnNnNoYWtMUVVVei1uNG1lb1VsYVpLcXg5elVpV0NMaEhZRXlHb2dVeEhSbkdOTUYyNUwtUEtBNDhsN1hhTWd5cTNKOXN1ajY0aFZOdFhvNThnaHIxd1M?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794754800000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXpRZEJOU0dBd3kwSFhNWVdsdEZ1UFktdmM3VjdxTFZJOGVnRTdSZ2Z6X1BIalJ5TzJPcm1XZGRSVzRIeGZOTUF3dlB2djQ4QTVlWlBNVXhITFVJYlozckt2UjFPTkNCQktjNDEzUk1OeVdGVExRV0s5RldzM3p6MnFCR0VhTUdBWkRCcERkWGlKc0JxcTlBc0R5VlJZenRDQnc?oc=5",
+   "title": "Wieke Kaptein: We can take confidence from Man City victory",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXpRZEJOU0dBd3kwSFhNWVdsdEZ1UFktdmM3VjdxTFZJOGVnRTdSZ2Z6X1BIalJ5TzJPcm1XZGRSVzRIeGZOTUF3dlB2djQ4QTVlWlBNVXhITFVJYlozckt2UjFPTkNCQktjNDEzUk1OeVdGVExRV0s5RldzM3p6MnFCR0VhTUdBWkRCcERkWGlKc0JxcTlBc0R5VlJZenRDQnc?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794747600000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
    "id": "https://chelsea.news/2026/11/neto-starts-portugals-4-1-home-loss-to-denmark-as-estevao-is-off-before-japan-beat-brazil/",
    "title": "Neto starts Portugal’s 4-1 home loss to Denmark as Estêvão is off before Japan beat Brazil",
    "link": "https://chelsea.news/2026/11/neto-starts-portugals-4-1-home-loss-to-denmark-as-estevao-is-off-before-japan-beat-brazil/",
    "source": "Chelsea News",
    "group": "팬 블로그",
    "date": 1794742752000,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3VxU2lFTVhtMkF2R2FSODJiWWUtT2lDQk9QOUY0dkNfMmtoMlRYaFZSNW5DcnlrZk1BVklyclpNX1FHZTF3NWJaRExLUTM1dEg1cm9NMHZnMWtUbFVLM2hrcC03ZXIzWFVXYUtyTlhOV1Z2LVpaS0wtSkczaXFuOG5YRl9YbV9relp0bFJZbEE?oc=5",
+   "title": "JT, Azpi and Di Matteo reflect on amazing Chelsea careers | Video",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3VxU2lFTVhtMkF2R2FSODJiWWUtT2lDQk9QOUY0dkNfMmtoMlRYaFZSNW5DcnlrZk1BVklyclpNX1FHZTF3NWJaRExLUTM1dEg1cm9NMHZnMWtUbFVLM2hrcC03ZXIzWFVXYUtyTlhOV1Z2LVpaS0wtSkczaXFuOG5YRl9YbV9relp0bFJZbEE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794740540000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGRveUhpdURiRWh3LUFqczZ3Mnp4eG8teTNsN1JlaWRDRE84aWF6dXhBeW5BTEE3SmxCT0ZEaUF5aC0yWkU4ekdEU2ZTZkNINnByMWMyeHpkWEh0alVnMGt1OTZBOTZBMUtDRVV4YjUyd0JDWEtDNjdESkVjM0d1X1N6ZU8xTXM3dVVmVDJvTjJiQ3c0?oc=5",
+   "title": "Defender named Star of the Match in Man City win!",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGRveUhpdURiRWh3LUFqczZ3Mnp4eG8teTNsN1JlaWRDRE84aWF6dXhBeW5BTEE3SmxCT0ZEaUF5aC0yWkU4ekdEU2ZTZkNINnByMWMyeHpkWEh0alVnMGt1OTZBOTZBMUtDRVV4YjUyd0JDWEtDNjdESkVjM0d1X1N6ZU8xTXM3dVVmVDJvTjJiQ3c0?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794732600000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUhrNk5BaUFqQjNaaUNUM2E4QjV4czhsMENIdExVTEt6cm1uZHVVMmhxZlF1MF9lWVREdTFjanNxdU5uZGZQdnVBNjB6NV8zYkhLSXdoMmp2cjV6SnphdWxZci03S3RQZ0dodHMwV2wxU1ZNNmR5c29rU3JqcmZlN0tIaC10MFF0MzRfT1FLYlFkS1djaDVLOHJFSXY5VlZDWmdSaQ?oc=5",
+   "title": "1996/97 remembered - part three: The signing of Gianfranco Zola",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUhrNk5BaUFqQjNaaUNUM2E4QjV4czhsMENIdExVTEt6cm1uZHVVMmhxZlF1MF9lWVREdTFjanNxdU5uZGZQdnVBNjB6NV8zYkhLSXdoMmp2cjV6SnphdWxZci03S3RQZ0dodHMwV2wxU1ZNNmR5c29rU3JqcmZlN0tIaC10MFF0MzRfT1FLYlFkS1djaDVLOHJFSXY5VlZDWmdSaQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794722540000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmlwVXZ5WXU5TUJkeTNUNkcxWUhmOUpKUVZLMHBsaThqWTBvWmlMck1FMFF6Wl9oTGxJZ3pKT2x6UHhzOWNWTGY1WVgwX05HVnhSc19RbnNMb0xnLU01SjRFcEtKNVdxYU1hVDVyb2I1cFU4OWZVd243ampYNy1KOEVwRnA3RFBrdXpFU1hOSmdyRWYybnhzZkY0SkZ2eE5INS1vaDdWaTdjVDZuR2lkcFQ2bw?oc=5",
+   "title": "Internationals: Neto and Estevao feature while Ezenwata scores for Young Lions",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmlwVXZ5WXU5TUJkeTNUNkcxWUhmOUpKUVZLMHBsaThqWTBvWmlMck1FMFF6Wl9oTGxJZ3pKT2x6UHhzOWNWTGY1WVgwX05HVnhSc19RbnNMb0xnLU01SjRFcEtKNVdxYU1hVDVyb2I1cFU4OWZVd243ampYNy1KOEVwRnA3RFBrdXpFU1hOSmdyRWYybnhzZkY0SkZ2eE5INS1vaDdWaTdjVDZuR2lkcFQ2bw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794694800000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQengyYTVpaUFNd1pTNVFRUG03VnE3V1JTODFOZEg4SEhKS0FhaTMwTUZMNFhKb1VEY1lseVkyRGg5VmpUTnk5WUxpd3dVUnRQVmc5LU9DOE94S3cyVTNrSW5CRE5rZ3BRcHppT2tELWtjdEFtWWY2NmNQSkMta2c5OEhOZFFxaE5TY2E4N1M3cHhvdkt2Znc?oc=5",
+   "title": "WSL Highlights: Chelsea 1-0 Manchester City | Video",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQengyYTVpaUFNd1pTNVFRUG03VnE3V1JTODFOZEg4SEhKS0FhaTMwTUZMNFhKb1VEY1lseVkyRGg5VmpUTnk5WUxpd3dVUnRQVmc5LU9DOE94S3cyVTNrSW5CRE5rZ3BRcHppT2tELWtjdEFtWWY2NmNQSkMta2c5OEhOZFFxaE5TY2E4N1M3cHhvdkt2Znc?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794684737000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHFlMS1CN0U2VnJPdFFFN0VYYVB6ekhwUkdEM3VvVldyOUZiSjc4UW5rOWs3bnpRUmJhMG4xYVJ0MDVpQjNTci16cGcyR2xaNzBBbnJiSHJ3XzhQc0RjMzZ3VVNyeDVBV3c1R0YxcjF5RldTU0tlTEMteklKbFJYbmVfdUZfNHpfZUhubUFSTjRMNDlQalllVzhySmhIYUdHWldVUjlmckxlQzBFcFo4NWhnYw?oc=5",
+   "title": "Sonia Bompastor provides injury update on Kadeisha Buchanan and Melvine Malard",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHFlMS1CN0U2VnJPdFFFN0VYYVB6ekhwUkdEM3VvVldyOUZiSjc4UW5rOWs3bnpRUmJhMG4xYVJ0MDVpQjNTci16cGcyR2xaNzBBbnJiSHJ3XzhQc0RjMzZ3VVNyeDVBV3c1R0YxcjF5RldTU0tlTEMteklKbFJYbmVfdUZfNHpfZUhubUFSTjRMNDlQalllVzhySmhIYUdHWldVUjlmckxlQzBFcFo4NWhnYw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794684600000,
+   "added": 1795221030969,
+   "cat": "부상"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGQ1aFhET0NyZkhaTHV5VGNTYTRFUTlGNXJHdDVTQTVrRFdaWXhGOVZSdmlEWTAtYUk5d1dvdnFqbGhibVNNbG4xVXoySHBJbklFZk1xR2VZWGdtWWgzVWdMUk9qUkI2Y21SVXRCZ25xbWZUVnhrbi00UkZhTm1Nc0xQY0hCTXdJWmowOTBVMmZWdzM2TFZjYnBZUllOT0RlalE?oc=5",
+   "title": "Sonia Bompastor praises Chelsea character after Man City victory",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGQ1aFhET0NyZkhaTHV5VGNTYTRFUTlGNXJHdDVTQTVrRFdaWXhGOVZSdmlEWTAtYUk5d1dvdnFqbGhibVNNbG4xVXoySHBJbklFZk1xR2VZWGdtWWgzVWdMUk9qUkI2Y21SVXRCZ25xbWZUVnhrbi00UkZhTm1Nc0xQY0hCTXdJWmowOTBVMmZWdzM2TFZjYnBZUllOT0RlalE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794679200000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZG5TanRnUnIzWjhLTHRoVkdHTWNaM2tsUTdPclVhdEdtTWNYT2ltSUUzTEtWLW04dmlTMjlmellCaXZCWllxZWZfNmE1UUVraUVvUFF4SUUtN05GWHlaUTMwUVZkVkxlZWIwdk9vdnVGN19wTzh5VmdtWklNQmxGVnpkelhhRWdlRWZaV29qdUNwMzZpYm5feGRiWV9fZmRqT0ZZaTVWazY?oc=5",
+   "title": "Lucy Bronze on Chelsea's consistency against 'top' Manchester City",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZG5TanRnUnIzWjhLTHRoVkdHTWNaM2tsUTdPclVhdEdtTWNYT2ltSUUzTEtWLW04dmlTMjlmellCaXZCWllxZWZfNmE1UUVraUVvUFF4SUUtN05GWHlaUTMwUVZkVkxlZWIwdk9vdnVGN19wTzh5VmdtWklNQmxGVnpkelhhRWdlRWZaV29qdUNwMzZpYm5feGRiWV9fZmRqT0ZZaTVWazY?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794677400000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGlDRC1TcjZGTGNxdnVWem5tY2w1SmU2aGd1WmtYZEFzOXhoeWRFWlhUZ1ZkUXBtcG1KWjB5YXF1cFQxOWVfbXFqUlZyUnhSaG8yNXlSZGd3cExScVlORUtfbWVvWlFpM0k1bzV3d1FJaVpTQTU5X25GX1UtQkVSQ2RXczRIcURoSXRBSWl3d3hXM3ZPTHN1VEpnY3Q?oc=5",
+   "title": "Chelsea's Player of the Month for October 2026 revealed!",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGlDRC1TcjZGTGNxdnVWem5tY2w1SmU2aGd1WmtYZEFzOXhoeWRFWlhUZ1ZkUXBtcG1KWjB5YXF1cFQxOWVfbXFqUlZyUnhSaG8yNXlSZGd3cExScVlORUtfbWVvWlFpM0k1bzV3d1FJaVpTQTU5X25GX1UtQkVSQ2RXczRIcURoSXRBSWl3d3hXM3ZPTHN1VEpnY3Q?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794675600000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXA3MTFJOEt4eWw1bFhLZlYwSFRnT1Nnblc3OGh2U014SndwcGFsM2ZYdFpZTkp6T21Ba3M0MTV2a1ZEMnV0R0hPbDBWRDlYTl82SjR1Ync3WmpsX01LRC0yd1laaW5PZmtKQUM4NlE4bTY1akRSYjdJQUo4SUt3Yk10UmxRMFlMM0ItQzM3eHBmUQ?oc=5",
+   "title": "Match report: Chelsea Women 1-0 Manchester City",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXA3MTFJOEt4eWw1bFhLZlYwSFRnT1Nnblc3OGh2U014SndwcGFsM2ZYdFpZTkp6T21Ba3M0MTV2a1ZEMnV0R0hPbDBWRDlYTl82SjR1Ync3WmpsX01LRC0yd1laaW5PZmtKQUM4NlE4bTY1akRSYjdJQUo4SUt3Yk10UmxRMFlMM0ItQzM3eHBmUQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794671100000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDd4LUEzRGtIenlLRDNmMldJcXMzTEZVa0ZhNnY1cWhUUlpsVjZ1Mjkxekd4blBBaWpua1hqT1ZobC1BbzRGdENBT1R2XzZod1NqcVBOZmxkUy1OeVdqSlpIOTBIMEdUV3BDREw4Y21xNmRKV3o3djFVa2hrS01PbklaUGIyT0dmQ28wbWNLbTlkZE1iYVk4QTE4cjJHOFdJeTUwVTNodzdmbzg4TTRjc1Jn?oc=5",
+   "title": "Chelsea Women v Manchester City Women | Match",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDd4LUEzRGtIenlLRDNmMldJcXMzTEZVa0ZhNnY1cWhUUlpsVjZ1Mjkxekd4blBBaWpua1hqT1ZobC1BbzRGdENBT1R2XzZod1NqcVBOZmxkUy1OeVdqSlpIOTBIMEdUV3BDREw4Y21xNmRKV3o3djFVa2hrS01PbklaUGIyT0dmQ28wbWNLbTlkZE1iYVk4QTE4cjJHOFdJeTUwVTNodzdmbzg4TTRjc1Jn?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794671100000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlFLTTJ5NlJDSkNGSXRBZGctY0pDSWdvX2tNT3hJNmx6Zk1fek82WmtLM3ZXU3NnZC10Q1Z2SWpBUXpUSTFkR3gyX2paSjV0dUlFWS1YNGlkSm9qbXI3Ykk3SDR1TkptTG5mNjdPTkNWVno1c3BvTVRZN3NyRlptenNGcS01WUJEOTBNVS1IMTM2bGlMZzFF?oc=5",
+   "title": "Confirmed Chelsea Women line up vs Manchester City",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlFLTTJ5NlJDSkNGSXRBZGctY0pDSWdvX2tNT3hJNmx6Zk1fek82WmtLM3ZXU3NnZC10Q1Z2SWpBUXpUSTFkR3gyX2paSjV0dUlFWS1YNGlkSm9qbXI3Ykk3SDR1TkptTG5mNjdPTkNWVno1c3BvTVRZN3NyRlptenNGcS01WUJEOTBNVS1IMTM2bGlMZzFF?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794659400000,
+   "added": 1795221030969,
+   "cat": "오피셜"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTE5YzB6ajdZX0R0dnA4XzdiQVBCTmxRNERHNmlTNm5iLUltWG9FQU9UYl9yTU5uYThndG5PTk14T0ZoVVJGMkhvdHozWUNWdUtSU2oyMXRjVHNGb2ZvajBTM01SWnhXV05pQnY5QVVRc09aYXdoYnVkZVFoRzZ5aFVFSm9iUDhCbnpRdUhrTDIzZklf?oc=5",
+   "title": "Late Stamford Bridge winners: the semi-final vote",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTE5YzB6ajdZX0R0dnA4XzdiQVBCTmxRNERHNmlTNm5iLUltWG9FQU9UYl9yTU5uYThndG5PTk14T0ZoVVJGMkhvdHozWUNWdUtSU2oyMXRjVHNGb2ZvajBTM01SWnhXV05pQnY5QVVRc09aYXdoYnVkZVFoRzZ5aFVFSm9iUDhCbnpRdUhrTDIzZklf?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794646800000,
+   "added": 1795221030969,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjk1QTFodkxaVUxEM1I2ZjJjVExGV0poQ1ZnMDViTU14YllhZkM3X203Vnk1UEFWUkhhWEZTbmV5cENNRjRDZ3VCNVF2eEZhTV9USmlXQzgtT3R3YVpsMXlWLWxkQjJVQ1VscFFBYXFNbWJndkFsT1VjMlpIRjdZRm40Y3V0QVptcHF3Sk10c1BIcW05RnlUYm1FakJuTGdwY0FlQlNiQVFfendiY2Jv?oc=5",
+   "title": "Buchanan on togetherness and WSL title focus ahead of Man City visit",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjk1QTFodkxaVUxEM1I2ZjJjVExGV0poQ1ZnMDViTU14YllhZkM3X203Vnk1UEFWUkhhWEZTbmV5cENNRjRDZ3VCNVF2eEZhTV9USmlXQzgtT3R3YVpsMXlWLWxkQjJVQ1VscFFBYXFNbWJndkFsT1VjMlpIRjdZRm40Y3V0QVptcHF3Sk10c1BIcW05RnlUYm1FakJuTGdwY0FlQlNiQVFfendiY2Jv?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794636000000,
+   "added": 1795221030969,
    "cat": null
   },
   {
@@ -1995,6 +2737,16 @@
    "group": "공식·FotMob"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUllhYVRFRGZHNmZIcGo1anZ6UVdmd1ZYQUd0MDdMTnNZam0yTkcxTEd2QzQxazMtWHd4V19hVkZ5VTJ6VjBpU3lmMlhuZXY5cFk0TTBoSVI5a1NNY0ZqQk1lR0lUTEMzRGU2bm1WZHd5V2VFQ1RxU1hyLW53MU1YR1dXQUFhZHQ4NmZYeEdpVTRYUmZOU2JRcThqWVpkdw?oc=5",
+   "title": "Nottingham Forest v Chelsea | Match",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUllhYVRFRGZHNmZIcGo1anZ6UVdmd1ZYQUd0MDdMTnNZam0yTkcxTEd2QzQxazMtWHd4V19hVkZ5VTJ6VjBpU3lmMlhuZXY5cFk0TTBoSVI5a1NNY0ZqQk1lR0lUTEMzRGU2bm1WZHd5V2VFQ1RxU1hyLW53MU1YR1dXQUFhZHQ4NmZYeEdpVTRYUmZOU2JRcThqWVpkdw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1790132586000,
+   "added": 1795221030970,
+   "cat": null
+  },
+  {
    "id": "https://latest.fotmob.com/2026/09/18/cole-palmer-revitalised-under-xabi-alonso-and-now-back-in-the-england-squad/",
    "title": "Cole Palmer: Revitalised under Xabi Alonso and now back in the England squad",
    "link": "https://latest.fotmob.com/2026/09/18/cole-palmer-revitalised-under-xabi-alonso-and-now-back-in-the-england-squad/",
@@ -2056,6 +2808,16 @@
    "source": "Telegraph",
    "group": "영국 언론",
    "date": 1788996535000,
+   "cat": null
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzcyU1B1dmRpeXBERG5pLWlEWDdHNzZ3ZklnMVNiS0w0SnZIYnZjNDQ2aDByM1J3d3RXcmZBZ0taWXhYVndUcm1EQ1lNRzNNNnFoV2dMa1dfN1J2TkNQY2k0a3RuVFQxdU1HSDY4ZUxmX1ZmZ3daRGNad1FtaklBWkZWZXBuaTB5TXVabTVuWFUxUm5IT1lSUHl3d3BMNmNsYjJ1TE41MzlXQUJK?oc=5",
+   "title": "OH Leuven Ladies v Chelsea Women | Match",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzcyU1B1dmRpeXBERG5pLWlEWDdHNzZ3ZklnMVNiS0w0SnZIYnZjNDQ2aDByM1J3d3RXcmZBZ0taWXhYVndUcm1EQ1lNRzNNNnFoV2dMa1dfN1J2TkNQY2k0a3RuVFQxdU1HSDY4ZUxmX1ZmZ3daRGNad1FtaklBWkZWZXBuaTB5TXVabTVuWFUxUm5IT1lSUHl3d3BMNmNsYjJ1TE41MzlXQUJK?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1788979818000,
+   "added": 1795221030970,
    "cat": null
   },
   {
@@ -2131,21 +2893,13 @@
    "cat": null
   },
   {
-   "id": "https://chelseasupporterstrust.com/19134-cst-statement-on-2026-27-general-admission-pricing/",
-   "title": "CST Statement on 2026/27 general admission pricing",
-   "link": "https://chelseasupporterstrust.com/19134-cst-statement-on-2026-27-general-admission-pricing/",
-   "source": "Chelsea Supporters Trust",
-   "group": "팬 블로그",
-   "date": 1780570781000,
-   "cat": null
-  },
-  {
-   "id": "https://www.90min.com/nike-link-up-sam-kerr-chelsea-first-ever-signature-boot?utm_source=RSS",
-   "title": "Nike link up with Sam Kerr for Chelsea star's first-ever signature boot",
-   "link": "https://www.90min.com/nike-link-up-sam-kerr-chelsea-first-ever-signature-boot?utm_source=RSS",
-   "source": "90min",
-   "group": "영국 언론",
-   "date": 1756560600000,
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ0NZMGE2WWY0QUhtSzhFTzZqbV9IRXlQbFA2QTc3R3pNaEVobkpmZl9QWFQ5bUdURUJ4WDlsUWtSRmZqeEplQ0gya2ZCeDNGUzFJaVMxWXFaVERLdTZJZVdJU3hPV2tOSVEwZGltXzR5UkpCaEIyaURVSW1rbHpTbURFazl4VUNRNE52ME0xYURvNXlodDUwOTJnVQ?oc=5",
+   "title": "Manchester City v Chelsea | Match",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ0NZMGE2WWY0QUhtSzhFTzZqbV9IRXlQbFA2QTc3R3pNaEVobkpmZl9QWFQ5bUdURUJ4WDlsUWtSRmZqeEplQ0gya2ZCeDNGUzFJaVMxWXFaVERLdTZJZVdJU3hPV2tOSVEwZGltXzR5UkpCaEIyaURVSW1rbHpTbURFazl4VUNRNE52ME0xYURvNXlodDUwOTJnVQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1781861893000,
+   "added": 1795221030970,
    "cat": null
   }
  ]
