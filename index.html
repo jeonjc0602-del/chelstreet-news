@@ -53,7 +53,7 @@ main{padding:22px max(5vw,16px) 48px}
 .item.fresh{animation:pop .6s ease-out}
 @keyframes pop{from{transform:translateY(-8px);opacity:0}}
 .tag{grid-row:span 2;align-self:start;text-align:center;font-weight:700;font-size:14px;border-radius:8px;padding:6px 0;color:#fff}
-.tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px;margin-bottom:16px}
+.tabs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px;margin-bottom:16px}
 .tabs button{min-height:46px;border:0;border-radius:10px;background:transparent;color:var(--mute);font-weight:700;font-size:16px;cursor:pointer}
 .tabs button[aria-selected=true]{background:var(--gold);color:var(--goldInk)}
 .tabs button span{font:500 13px Oswald,sans-serif;margin-left:6px;opacity:.75}
@@ -90,7 +90,7 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
 .toast.on{transform:translate(-50%,0)}
 .toast{cursor:pointer}
 .toast b{display:block;font-size:13px;color:var(--gold);margin-bottom:2px}
-@media(max-width:600px){.item{grid-template-columns:minmax(0,1fr)}.tag{grid-row:auto;justify-self:start;padding:4px 12px}.acts{width:100%}.acts .btn{flex:1}}
+@media(max-width:600px){.tabs button{font-size:14px}.tabs button span{display:block;margin:0}.item{grid-template-columns:minmax(0,1fr)}.tag{grid-row:auto;justify-self:start;padding:4px 12px}.acts{width:100%}.acts .btn{flex:1}}
 </style>
 </head>
 <body>
@@ -116,6 +116,7 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
     <div class="tabs" id="tabs" role="tablist">
       <button type="button" role="tab" data-view="kw" aria-selected="true">키워드 뉴스<span id="nKw"></span></button>
       <button type="button" role="tab" data-view="all" aria-selected="false">전체 뉴스<span id="nAll"></span></button>
+      <button type="button" role="tab" data-view="rep" aria-selected="false">기자 소식<span id="nRep"></span></button>
       <button type="button" role="tab" data-view="opp" aria-selected="false">이번 상대<span id="nOpp"></span></button>
     </div>
     <section class="match" id="matchCard" hidden></section>
@@ -123,6 +124,8 @@ summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:
       <div class="chips" id="catChips" role="group" aria-label="키워드 분류"></div>
       <div class="chips" id="srcChips" role="group" aria-label="출처"></div>
       <div class="chips" id="oppChips" role="group" aria-label="상대 뉴스 분류" hidden></div>
+      <div class="chips" id="repChips" role="group" aria-label="기자" hidden></div>
+      <p class="note" id="repNote" hidden>첼시 담당·이적 전문 기자가 전한 소식이에요. 기자들의 X(트위터) 글을 옮긴 기사를 모아서, 보통 X에 올라오고 수십 분 안에 들어와요. 출처가 확실하지 않은 보도도 있으니 공식 발표와 구분해서 보세요.</p>
       <input class="search" id="q" type="search" placeholder="선수 이름, 단어로 찾기 (한국어·영어)" aria-label="뉴스 검색">
     </div>
     <div class="listhead"><span>최신순</span><button class="link" id="readAll" type="button" hidden>모두 읽음으로 표시</button></div>
@@ -166,7 +169,7 @@ function classify(title, source){
 const min = 60000, PAGE = 60;
 
 let items = [];
-let match = null, otag = "전체";
+let match = null, otag = "전체", reporters = [], rtag = "전체";
 const OPP_TAGS = ["라인업·팀뉴스","도발·발언","상대 소식"];
 let loaded = false;
 let cat = "전체", src = "전체", query = "", view = "kw", limit = PAGE;
@@ -174,7 +177,7 @@ const store = {
   get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : v; } catch(e) { return d; } },
   set(k, v){ try { localStorage.setItem(k, v); } catch(e) {} }
 };
-view = ["kw","all","opp"].includes(store.get("cs_view","kw")) ? store.get("cs_view","kw") : "kw";
+view = ["kw","all","opp","rep"].includes(store.get("cs_view","kw")) ? store.get("cs_view","kw") : "kw";
 let seen = new Set();
 try { seen = new Set(JSON.parse(store.get("cs_seen", "[]"))); } catch(e) {}
 function saveSeen(){ store.set("cs_seen", JSON.stringify([...seen].slice(-500))); }
@@ -209,7 +212,13 @@ function chips(){
   const counts = {전체: kw.length};
   ORDER.forEach(c => counts[c] = kw.filter(x => x.cat === c).length);
   $("catChips").hidden = view !== "kw";
-  $("srcChips").hidden = view === "opp";
+  $("srcChips").hidden = view === "opp" || view === "rep";
+  $("repChips").hidden = view !== "rep";
+  $("repNote").hidden = view !== "rep";
+  $("nRep").textContent = reporters.length || "";
+  const rc = {}; reporters.forEach(x => rc[x.reporter] = (rc[x.reporter] || 0) + 1);
+  $("repChips").innerHTML = ["전체", ...Object.keys(rc).sort((a,b) => rc[b]-rc[a])].map(t =>
+    `<button class="chip" type="button" data-rtag="${esc(t)}" aria-pressed="${t===rtag}">${esc(t)}<span class="n">${t==="전체" ? reporters.length : rc[t]}</span></button>`).join("");
   $("oppChips").hidden = view !== "opp";
   const oi = match?.items || [];
   $("nOpp").textContent = oi.length || "";
@@ -228,19 +237,19 @@ function render(){
   chips();
   const q = query.trim().toLowerCase();
   renderMatch();
-  const pool = view === "kw" ? kwItems() : view === "opp" ? (match?.items || []) : items;
+  const pool = view === "kw" ? kwItems() : view === "opp" ? (match?.items || []) : view === "rep" ? reporters : items;
   const shown = pool.filter(x =>
     (view !== "kw" || cat === "전체" || x.cat === cat) &&
-    (view === "opp" ? (otag === "전체" || x.tag === otag) : (src === "전체" || groupOf(x) === src)) &&
+    (view === "opp" ? (otag === "전체" || x.tag === otag) : view === "rep" ? (rtag === "전체" || x.reporter === rtag) : (src === "전체" || groupOf(x) === src)) &&
     (!q || (x.title + " " + (x.titleKo || "") + " " + x.source).toLowerCase().includes(q)));
   const page = shown.slice(0, limit);
   $("list").innerHTML = !loaded ? `<div class="empty">뉴스를 불러오는 중이에요…</div>`
     : view === "opp" && !match ? `<div class="empty">다음 경기 정보를 아직 못 가져왔어요. 다음 자동 수집 때 다시 확인해요.</div>`
     : shown.length ? page.map(x => `
     <a class="item" data-id="${esc(x.id)}" href="${esc(x.link)}" target="_blank" rel="noopener">
-      ${view === "opp" ? `<span class="tag t-${x.tag === "상대 소식" ? "상대" : x.tag}">${x.tag}</span>` : `<span class="tag t-${x.cat || "none"}">${x.cat ? lab(x.cat) : "뉴스"}</span>`}
+      ${view === "opp" ? `<span class="tag t-${x.tag === "상대 소식" ? "상대" : x.tag}">${x.tag}</span>` : `<span class="tag t-${x.cat || "none"}">${x.cat ? lab(x.cat) : x.reporter ? "기자" : "뉴스"}</span>`}
       <span class="ttl">${isNew(x) ? '<span class="new">NEW</span>' : ""}${esc(x.titleKo || x.title)}${x.titleKo && x.titleKo !== x.title ? `<span class="en">${esc(x.title)}</span>` : ""}</span>
-      <span class="meta"><span class="src">${esc(x.source)}</span><span title="${new Date(x.date).toLocaleString("ko-KR")}">${ago(x.date)}</span></span>
+      <span class="meta">${x.reporter ? `<span class="src" style="color:var(--gold)">${esc(x.reporter)}</span>` : ""}<span class="src">${esc(x.source)}</span><span title="${new Date(x.date).toLocaleString("ko-KR")}">${ago(x.date)}</span></span>
     </a>`).join("") : `<div class="empty">조건에 맞는 뉴스가 없어요. 필터나 검색어를 바꿔 보세요.</div>`;
   $("more").hidden = shown.length <= limit;
   $("more").textContent = `더 보기 (${shown.length - limit}건 남음)`;
@@ -309,14 +318,15 @@ async function load(){
     const fresh = prepare(data.items || []);
     if (loaded){
       const known = new Set(items.map(x => x.id));
-      const added = fresh.filter(x => x.cat && !known.has(x.id));
+      const knownR = new Set(reporters.map(x => x.id));
+      const added = [...fresh.filter(x => x.cat && !known.has(x.id)), ...(data.reporters || []).filter(x => !x.cat && !knownR.has(x.id) && !known.has(x.id)).map(x => ({...x, cat: "기자", source: `${x.reporter} · ${x.source}`}))];
       if (added.length === 1) notify(added[0]);
       else if (added.length > 1){
         toast(`새 키워드 뉴스 ${added.length}건`, added[0].titleKo || added[0].title, added[0].link);
         desktopNotify(`CHELSTREET · 새 뉴스 ${added.length}건`, added.slice(0,3).map(x => `[${lab(x.cat)}] ${x.titleKo || x.title}`).join("\n"), added[0].link);
       }
     }
-    items = fresh; match = data.match || null; loaded = true; failCount = 0;
+    items = fresh; match = data.match || null; reporters = (data.reporters || []).sort((a,b) => b.date - a.date); loaded = true; failCount = 0;
     const stale = data.updated && Date.now() - data.updated > 90*min;
     $("checked").textContent = data.updated
       ? "마지막 확인 " + new Date(data.updated).toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}) + (stale ? " · 자동 수집이 늦어지고 있어요" : "")
@@ -340,6 +350,7 @@ $("tabs").addEventListener("click", e => {
 $("catChips").addEventListener("click", e => { const b = e.target.closest("[data-cat]"); if (b){ cat = b.dataset.cat; limit = PAGE; render(); } });
 $("srcChips").addEventListener("click", e => { const b = e.target.closest("[data-src]"); if (b){ src = b.dataset.src; limit = PAGE; render(); } });
 $("q").addEventListener("input", e => { query = e.target.value; limit = PAGE; render(); });
+$("repChips").addEventListener("click", e => { const b = e.target.closest("[data-rtag]"); if (b){ rtag = b.dataset.rtag; limit = PAGE; render(); } });
 $("oppChips").addEventListener("click", e => { const b = e.target.closest("[data-otag]"); if (b){ otag = b.dataset.otag; limit = PAGE; render(); } });
 $("more").addEventListener("click", () => { limit += PAGE; render(); });
 $("list").addEventListener("click", e => {
