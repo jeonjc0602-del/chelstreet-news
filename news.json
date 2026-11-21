@@ -1,5 +1,5 @@
 {
- "updated": 1795252258677,
+ "updated": 1795254958942,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -17,7 +17,7 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 1,
-  "구글뉴스(영어)": 63,
+  "구글뉴스(영어)": 66,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Leeds United · 새 기사 43건"
+  "이번 상대": "Leeds United · 새 기사 50건"
  },
  "match": {
   "id": "8413998954361023232",
@@ -40,6 +40,16 @@
   "kickoff": 1795273200000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRS1XT2dkS0otVFE0OXRlUVdOZmpfbk5BeXE0NHZHeGY2WjBWa0lsQkdPN1VZSDhYTXBHX3NHUnRpa1daMHFFTFZhdmltRjFCcUZMckRQOHRPb3pXdW5Rd0w3dW5LVVk0UVdfZGlFSklVWklCZ0pWSEk4UVY0b1pTaE54bVVYMXVHWFZLLTluQQ?oc=5",
+    "title": "Chelsea fans’ preferred lineup against Leeds United: Back four and Mike Penders",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRS1XT2dkS0otVFE0OXRlUVdOZmpfbk5BeXE0NHZHeGY2WjBWa0lsQkdPN1VZSDhYTXBHX3NHUnRpa1daMHFFTFZhdmltRjFCcUZMckRQOHRPb3pXdW5Rd0w3dW5LVVk0UVdfZGlFSklVWklCZ0pWSEk4UVY0b1pTaE54bVVYMXVHWFZLLTluQQ?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795252502000,
+    "added": 1795254948688,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "리즈 유나이티드와의 경기에서 첼시 팬들이 선호하는 선발 명단: 포백과 마이크 펜더스"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1ZZSVpDRS1EOWFmWE1WZmhhdm1NNXNNRmdDbUhicjItMzVQcl9nXzZOSk1yNndkUjljWTl3a3hNMDY0dkJCLVdwampyM0ltb0R2RGJPenp4UGx2MVFONXE0c3YyM0E5bFZQM1psNERKUHZTMVpEZ2N2cU51UEZJV216STg?oc=5",
     "title": "Chelsea vs Leeds Utd | Primed for battle at the Bridge | Video | Official Site",
@@ -81,6 +91,16 @@
     "titleKo": "조 하트, \"리즈에는 지금 '기량이 절정에 달한' 선수가 있다\"고 평가"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnpWYkt0OFozUmJYXzJzRjBGX1Q5cVdqMnRER0dEaTJjM2VINGZkQnFqWVNjaUllTjFfNHQyUGRDRGNpV2dKbTM2VktiZUgxSTh6aWZPSWh3RHNNa2tiSGdURjdZbmZjbkdQZE1malVQSGgyaVhscUowV2RDemJKU21XMEo2MHJMNVhKS3JCVG5mZy1YOHRCbEY4S1k?oc=5",
+    "title": "Chelsea / Leeds United - Premier League - Stamford Bridge, London",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnpWYkt0OFozUmJYXzJzRjBGX1Q5cVdqMnRER0dEaTJjM2VINGZkQnFqWVNjaUllTjFfNHQyUGRDRGNpV2dKbTM2VktiZUgxSTh6aWZPSWh3RHNNa2tiSGdURjdZbmZjbkdQZE1malVQSGgyaVhscUowV2RDemJKU21XMEo2MHJMNVhKS3JCVG5mZy1YOHRCbEY4S1k?oc=5",
+    "source": "Leeds United",
+    "date": 1795247095000,
+    "added": 1795254948689,
+    "tag": "상대 소식",
+    "titleKo": "첼시 / 리즈 유나이티드 - 프리미어리그 - 스탬퍼드 브리지, 런던"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMXF4eWpxWVRpWVkxdGJ5RGFhWWRNUnZUdVg1R3QxeC1nSzRELXIxTUUwM1JXcWlHWUNfM0UxNEZqbzVmaFMtM2hwdm03bzZLNVU2eXgyMHQ1U2hfVmFJbk1zMlRIbVlEWG04R1NtZDZTNDFkckdaM3JDNXl2TDhiSU9yd2dHSXBZRHVfZlA2NU4tU0NuX1VabnI1dFduSGdUWDdDVFFBczRyU1hROW4xVFJhZTZWU0FCblQxZk9ZTHNVMDNlLVNLWU80cw?oc=5",
     "title": "Chelsea vs. Leeds United, Premier League: Preview, team news, how to watch",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMXF4eWpxWVRpWVkxdGJ5RGFhWWRNUnZUdVg1R3QxeC1nSzRELXIxTUUwM1JXcWlHWUNfM0UxNEZqbzVmaFMtM2hwdm03bzZLNVU2eXgyMHQ1U2hfVmFJbk1zMlRIbVlEWG04R1NtZDZTNDFkckdaM3JDNXl2TDhiSU9yd2dHSXBZRHVfZlA2NU4tU0NuX1VabnI1dFduSGdUWDdDVFFBczRyU1hROW4xVFJhZTZWU0FCblQxZk9ZTHNVMDNlLVNLWU80cw?oc=5",
@@ -89,6 +109,16 @@
     "added": 1795249449909,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시 vs. 리즈 유나이티드, 프리미어리그: 경기 전, 팀 소식, 시청 방법"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGR6ekhLcFV0c1d1RGFUR21KUEJyTEQ3SlVpeXVEVWdjbVVrdHNoSVVHTlYxS054MHd4Nmo3ZFJ3dzRUSzRvSDY1NS1NZnp3N2RuUlB4dU9uTHhoY0RBeDVsZHF5cU9zNHFNb2xWZ1JnMVkzckdsMVphbVpFeEJPR3p4aGhQSUZEU0pPZXVTSk0?oc=5",
+    "title": "Chelsea vs Leeds United predictions today (3pm KO): Blues will have too much at the Bridge",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGR6ekhLcFV0c1d1RGFUR21KUEJyTEQ3SlVpeXVEVWdjbVVrdHNoSVVHTlYxS054MHd4Nmo3ZFJ3dzRUSzRvSDY1NS1NZnp3N2RuUlB4dU9uTHhoY0RBeDVsZHF5cU9zNHFNb2xWZ1JnMVkzckdsMVphbVpFeEJPR3p4aGhQSUZEU0pPZXVTSk0?oc=5",
+    "source": "Squawka",
+    "date": 1795246861000,
+    "added": 1795254948689,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "첼시 vs 리즈 유나이티드 오늘 경기 예측(킥오프 오후 3시): 블루스가 브리지에서 우세를 점할 것"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRU1WRUplR05CaWlFa1g0NzZZZm13NWJMRDNqNUNMYUl6U0cxX0RRc0FkOG5tcnpjb2dqMHFuYWZrQlpwUUd4VndrWTlsb2NDTks2aTVUUWdRcTNiRU5uTEx1SnBnR0JPQ0JvdWZwQ3BKVVo3eDhGTQ?oc=5",
@@ -809,40 +839,44 @@
     "added": 1795221875905,
     "tag": "라인업·팀뉴스",
     "titleKo": "에스테바오 영입 합의, 주앙 페드로 영입 결정 - 리즈 유나이티드와의 경기를 위한 첼시 선발 명단"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTdtT1duMEVYWjE1dVNpNEllQXFTNFpJc21zX3QyUGNBNWg1a0RQWTdpWTdaVnloTDFtVVpLa0Z1MmxoMDVQQ1Vra3ZMc0k5OXMwZmdmV0d2YnQ1YUVNV3lCcHppdFBERGozS0dGY29YU1dOWjltOTlic0gyazd4dC1KM3A5dTdMM3JHRkpqeVRFZ3RTaGFVSWp1LVZ2UkkzSXdmMnpfVVFWdGJEeUktTm5uSlhjRDV5R2c?oc=5",
-    "title": "Daniel Farke weighs up key Leeds United decision vs Chelsea as early injury ‘concern’ eased",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTdtT1duMEVYWjE1dVNpNEllQXFTNFpJc21zX3QyUGNBNWg1a0RQWTdpWTdaVnloTDFtVVpLa0Z1MmxoMDVQQ1Vra3ZMc0k5OXMwZmdmV0d2YnQ1YUVNV3lCcHppdFBERGozS0dGY29YU1dOWjltOTlic0gyazd4dC1KM3A5dTdMM3JHRkpqeVRFZ3RTaGFVSWp1LVZ2UkkzSXdmMnpfVVFWdGJEeUktTm5uSlhjRDV5R2c?oc=5",
-    "source": "Yorkshire Evening Post",
-    "date": 1795154340000,
-    "added": 1795222579063,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "다니엘 파르케 감독, 첼시와의 경기를 앞두고 리즈 유나이티드의 핵심적인 결정을 고심 중... 초기 부상 '우려'는 다소 해소됨"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JX3RfRUZyR25iamptdzREdlJyRWd5T1A1WlBPUTR3dk95YzMzcnNQSi1paHBFSDZmZWhKbUF1YllMQVM3Vm9qZ0ZlOExhdnFENE1vMHM1a25rVXVYV0lObm81bjA1UDZkTWZGb3NrM3VEZw?oc=5",
-    "title": "[오피셜] '손흥민도 못 받은 신인상인데' 그리즈만 51% 몰표까지 받더니...PO 첫판 1-3 충격 탈락, 우승 꿈 물거품",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JX3RfRUZyR25iamptdzREdlJyRWd5T1A1WlBPUTR3dk95YzMzcnNQSi1paHBFSDZmZWhKbUF1YllMQVM3Vm9qZ0ZlOExhdnFENE1vMHM1a25rVXVYV0lObm81bjA1UDZkTWZGb3NrM3VEZw?oc=5",
-    "source": "포포투",
-    "date": 1795149300000,
-    "added": 1795221875905,
-    "tag": "상대 소식",
-    "titleKo": "[오피셜] '손흥민도 못 받은 신인상인데' 그리즈만 51% 몰표까지 받더니...PO 첫판 1-3 충격 탈락, 우승 꿈 물거품"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1taHVlS2VqQWpCMlpOT1c2Sy02RHR0V280b3htWnYwWEE4SWxlbTRYbTFEb3ZabUpDejJnazZJdnVJWXN4T0xJQ0hYTC05cjFqZDJPdzhxbUh0OTJja1NXYVJXc0RTTUJ5UWo2cGE3S3V3XzdN?oc=5",
-    "title": "손흥민보다도 더 대단했는데…MLS 신입 선수상 거머쥔 그리즈만, PO 첫 경기서 1-3 충격 역전패→우승 도전 허무하게 종료",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1taHVlS2VqQWpCMlpOT1c2Sy02RHR0V280b3htWnYwWEE4SWxlbTRYbTFEb3ZabUpDejJnazZJdnVJWXN4T0xJQ0hYTC05cjFqZDJPdzhxbUh0OTJja1NXYVJXc0RTTUJ5UWo2cGE3S3V3XzdN?oc=5",
-    "source": "인터풋볼",
-    "date": 1795147200000,
-    "added": 1795221875905,
-    "tag": "상대 소식",
-    "titleKo": "손흥민보다도 더 대단했는데…MLS 신입 선수상 거머쥔 그리즈만, PO 첫 경기서 1-3 충격 역전패→우승 도전 허무하게 종료"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.standard.co.uk/sport/football/joao-pedro-chelsea-fc-injury-latest-fpl-b1305788.html",
+   "title": "Will Joao Pedro play against Leeds? Latest Chelsea team news after Xabi Alonso update",
+   "link": "https://www.standard.co.uk/sport/football/joao-pedro-chelsea-fc-injury-latest-fpl-b1305788.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795253129000,
+   "image": "https://static.standard.co.uk/2026/10/12/16/2298961822..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795254947264,
+   "cat": null,
+   "titleKo": "주앙 페드로는 리즈와의 경기에서 출전할까요? 사비 알론소 관련 소식 이후의 최신 첼시 팀 소식"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dmUng4eC1ZNmZmalBxQUYxaWtTQWxkc2Rldmt1YlBtTWdENzdQY2ZYUUppc0oyb1A2N3YxU0VrbTNHMl8wUDZORkxkRGlob1h6RU5zVlhaMVlRN20xblZheWdKaDdqV01XeVNrM2g5bk5nZ3p3Qzg1SVhpLWVJNnFGWlQydFJqTkVWYmhjN0JyQWozc2R0UV9hbw?oc=5",
+   "title": "Will Joao Pedro play against Leeds? Latest after new Chelsea update",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dmUng4eC1ZNmZmalBxQUYxaWtTQWxkc2Rldmt1YlBtTWdENzdQY2ZYUUppc0oyb1A2N3YxU0VrbTNHMl8wUDZORkxkRGlob1h6RU5zVlhaMVlRN20xblZheWdKaDdqV01XeVNrM2g5bk5nZ3p3Qzg1SVhpLWVJNnFGWlQydFJqTkVWYmhjN0JyQWozc2R0UV9hbw?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795253129000,
+   "added": 1795254947264,
+   "cat": null,
+   "titleKo": "주앙 페드로는 리즈와의 경기에서 출전할까요? 첼시 관련 새로운 소식 이후의 최신 소식"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRS1XT2dkS0otVFE0OXRlUVdOZmpfbk5BeXE0NHZHeGY2WjBWa0lsQkdPN1VZSDhYTXBHX3NHUnRpa1daMHFFTFZhdmltRjFCcUZMckRQOHRPb3pXdW5Rd0w3dW5LVVk0UVdfZGlFSklVWklCZ0pWSEk4UVY0b1pTaE54bVVYMXVHWFZLLTluQQ?oc=5",
+   "title": "Chelsea fans’ preferred lineup against Leeds United: Back four and Mike Penders",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRS1XT2dkS0otVFE0OXRlUVdOZmpfbk5BeXE0NHZHeGY2WjBWa0lsQkdPN1VZSDhYTXBHX3NHUnRpa1daMHFFTFZhdmltRjFCcUZMckRQOHRPb3pXdW5Rd0w3dW5LVVk0UVdfZGlFSklVWklCZ0pWSEk4UVY0b1pTaE54bVVYMXVHWFZLLTluQQ?oc=5",
+   "source": "Yahoo Sports",
+   "group": "영국 언론",
+   "date": 1795252502000,
+   "added": 1795254947264,
+   "cat": "프리뷰",
+   "titleKo": "리즈 유나이티드와의 경기에서 첼시 팬들이 선호하는 선발 명단: 포백과 마이크 펜더스"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1ZZSVpDRS1EOWFmWE1WZmhhdm1NNXNNRmdDbUhicjItMzVQcl9nXzZOSk1yNndkUjljWTl3a3hNMDY0dkJCLVdwampyM0ltb0R2RGJPenp4UGx2MVFONXE0c3YyM0E5bFZQM1psNERKUHZTMVpEZ2N2cU51UEZJV216STg?oc=5",
    "title": "Chelsea vs Leeds Utd | Primed for battle at the Bridge | Video",
@@ -959,6 +993,17 @@
    "titleKo": "첼시와 알론소 감독이 직면한 어려운 딜레마."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekg5TVg0eUVJZ0I0bFNjdWFEbEljZDNMT3p3VXg0bmt2VkVhcEVCMEJvTl9zZFlfc2RJMlZNNWZwS09vZHBCX0s0a2xKRUdnd0NNR3BZM09mcU1iTDZTZ2lpckpFWVFYWWI3RWR3R2VBVE5UdVNCRmxBOUFJWExHOGlFMkRWVzFvLTlZVHZUWWxaMzRtVnFEamo2N0RMSkpON1BrMkhaTmt2QXFLNVJWWXFNNTI3Vkph?oc=5",
+   "title": "Bompastor highlights Cuthbert's importance ahead of 'difficult' Liverpool test",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekg5TVg0eUVJZ0I0bFNjdWFEbEljZDNMT3p3VXg0bmt2VkVhcEVCMEJvTl9zZFlfc2RJMlZNNWZwS09vZHBCX0s0a2xKRUdnd0NNR3BZM09mcU1iTDZTZ2lpckpFWVFYWWI3RWR3R2VBVE5UdVNCRmxBOUFJWExHOGlFMkRWVzFvLTlZVHZUWWxaMzRtVnFEamo2N0RMSkpON1BrMkhaTmt2QXFLNVJWWXFNNTI3Vkph?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795245693000,
+   "added": 1795254947265,
+   "cat": null,
+   "titleKo": "봄파스토르 감독, '어려운' 리버풀과의 경기를 앞두고 커스버트의 중요성 강조"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXp4OHVqbExDMGxpcU1LdFlvUEJSNk93OTRqTnZGYWVLSm83SWRab2t5VjRLWVpDX2N5eDJfNG5vcDhjbXJMdTZuaE5Cb0cwTGI1Y0VJakU2WnVsZXhuWGduV0Y0UnNSM1FSc1R3Vmxwd09XUTd3Z1F3bm1JcXVpYXVBcVRSSklpY1E?oc=5",
    "title": "Predicted Chelsea team vs Leeds as Joao Pedro solution found and Estevao Willian decision made",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXp4OHVqbExDMGxpcU1LdFlvUEJSNk93OTRqTnZGYWVLSm83SWRab2t5VjRLWVpDX2N5eDJfNG5vcDhjbXJMdTZuaE5Cb0cwTGI1Y0VJakU2WnVsZXhuWGduV0Y0UnNSM1FSc1R3Vmxwd09XUTd3Z1F3bm1JcXVpYXVBcVRSSklpY1E?oc=5",
@@ -1015,6 +1060,17 @@
    "titleKo": "첼시 vs 리즈: 알아두어야 할 모든 것 | 뉴스 | 공식 사이트"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHV3XzBmalp4Ylpwd3hQeDc5Qy0tU3RjSDdiRUFJWFhkek90MjdOQklRTmF5TERWdjFjOU9Hb3pTcWFBZmJEQmx4YmcwNDY0ODNTYklUY0VqaHBjOWstelEyMkFZeGlWQ3Q2b1ZPYVFGeHU2U18ycVA2LWZaNDRtRXJhTURUbVhRZ3c?oc=5",
+   "title": "Chelsea vs Leeds United – Predicted lineup and team news",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHV3XzBmalp4Ylpwd3hQeDc5Qy0tU3RjSDdiRUFJWFhkek90MjdOQklRTmF5TERWdjFjOU9Hb3pTcWFBZmJEQmx4YmcwNDY0ODNTYklUY0VqaHBjOWstelEyMkFZeGlWQ3Q2b1ZPYVFGeHU2U18ycVA2LWZaNDRtRXJhTURUbVhRZ3c?oc=5",
+   "source": "Yahoo Sports",
+   "group": "영국 언론",
+   "date": 1795234860000,
+   "added": 1795254947264,
+   "cat": "프리뷰",
+   "titleKo": "첼시 vs 리즈 유나이티드 – 예상 선발 명단 및 팀 소식"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFE5Wkk3OTlhYUx3YlROM0xfem0wcG9ENXRtYXMxWkVBZG00WXRtVlhraFUxY0xYam91cjd2RWFkZkhHdU02bUEwazVRMGM1R0NMU0lZLUFzN2NPU09oUEhzNElRMnJVZlpmVGpxOXF5bHlYNTlyNDNPZnZQWUIwQzlVZGJzazBFZ2dhUXRyTktXd19ORnI3ZER5M3hHY1hlU1JSQ0R1YXdEQW8?oc=5",
    "title": "메트로 경찰청, GBK 스타디움에서 첼시 - AC 밀란을 안전하게 보호하기 위해 1,200 명의 직원 배치",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFE5Wkk3OTlhYUx3YlROM0xfem0wcG9ENXRtYXMxWkVBZG00WXRtVlhraFUxY0xYam91cjd2RWFkZkhHdU02bUEwazVRMGM1R0NMU0lZLUFzN2NPU09oUEhzNElRMnJVZlpmVGpxOXF5bHlYNTlyNDNPZnZQWUIwQzlVZGJzazBFZ2dhUXRyTktXd19ORnI3ZER5M3hHY1hlU1JSQ0R1YXdEQW8?oc=5",
@@ -1057,6 +1113,17 @@
    "added": 1795234598956,
    "cat": "프리뷰",
    "titleKo": "첼시 대 리즈 경기 프리뷰 및 예측: 마지막 순간까지 긴장감 넘치는 경기가 될 것 같습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1pYS3VQU2xhbDR4YmRiQ3E1cUh3T2ZXa1E3aHVJVjBmeFV3SHlaSmg0djl3VmtVZ1lDRnlPNTg1ZHYtcjlvTkZOUG9xRmpoXzg5R0I1bXlWdlZibUptV001QWcyVUFjOVFTdnV3T25YX2oxLWhmbVV3OXg4TXVWT1FGY25XUQ?oc=5",
+   "title": "Chelsea - Sunderland",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1pYS3VQU2xhbDR4YmRiQ3E1cUh3T2ZXa1E3aHVJVjBmeFV3SHlaSmg0djl3VmtVZ1lDRnlPNTg1ZHYtcjlvTkZOUG9xRmpoXzg5R0I1bXlWdlZibUptV001QWcyVUFjOVFTdnV3T25YX2oxLWhmbVV3OXg4TXVWT1FGY25XUQ?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795223510000,
+   "added": 1795254947264,
+   "cat": null,
+   "titleKo": "첼시 - 선덜랜드"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlndUY2bEFPdnQzNTVybnhZdEhFdklUM0VnVUEwMElSb0cweDNqZUJNTHY2NkNCa3VUazJsQkp6cHI5NjB5QzhwSlcxeWg4VFg0TUVsaXd3M2MtRE0xNU9DaUN3Zy01bVRjZFpNX0twZWlBcGN0Sno5QXFIQmE0a1ZJY25SU3BWXzlldTkySHhRdTJjVlRuemZwQ2xEUHBUYlNuSmpHcjE?oc=5",
@@ -1784,6 +1851,17 @@
    "image": "https://static.standard.co.uk/2026/11/20/15/2305077847..?trim=2026,1190,266,1936&auto=webp&quality=75&width=1200"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHlNb21KYUtDTE5QTnZyRUZDQzFYdTBqaHR4NlNJR29na2JtTEd4ZG5nenc1VVdjR3JZSzc3M3RoSTF3dEtMV3h5b0ZNUncyRWFaejBlQlplR240ZmNENWZhLWtlMnByRjhiODlnY21hVGE4UmhGWnZoM0R1VnB1MUN1NHdhc2xXMndQVmlUZVJMOFlIUEItaUdlZjNlbnN1Tnc?oc=5",
+   "title": "Alonso: Emegha and Welbeck ready to offer Blues alternative",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHlNb21KYUtDTE5QTnZyRUZDQzFYdTBqaHR4NlNJR29na2JtTEd4ZG5nenc1VVdjR3JZSzc3M3RoSTF3dEtMV3h5b0ZNUncyRWFaejBlQlplR240ZmNENWZhLWtlMnByRjhiODlnY21hVGE4UmhGWnZoM0R1VnB1MUN1NHdhc2xXMndQVmlUZVJMOFlIUEItaUdlZjNlbnN1Tnc?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795189200000,
+   "added": 1795254947265,
+   "cat": null,
+   "titleKo": "알론소: 에메가와 웰벡, 첼시 공격진에 대안이 될 준비 완료"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmdZQXM3V1NwOEJWaUpFYWFSUlRxdFFBN1Z3MEs2dWl6NzFJbjV5WjZSSHFzdFRyU05lX0lyQnQ0M21va2hPQlRfLUJxY1p4bEM2T1NPSzJlVU5EZFg3dm40LVBfdFdMN1cxajF3WnU2NXRJRzdLWnd1bFpUMDZFUW1xQUZUSGNkNkJCcDc4SC1WTWpLV3lUa3dBTTk4QXZrbWtsdll5QTRBWkFfazZuOHNn?oc=5",
    "title": "Tom Brady discusses buying a stake in Chelsea football club — The Guardian",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmdZQXM3V1NwOEJWaUpFYWFSUlRxdFFBN1Z3MEs2dWl6NzFJbjV5WjZSSHFzdFRyU05lX0lyQnQ0M21va2hPQlRfLUJxY1p4bEM2T1NPSzJlVU5EZFg3dm40LVBfdFdMN1cxajF3WnU2NXRJRzdLWnd1bFpUMDZFUW1xQUZUSGNkNkJCcDc4SC1WTWpLV3lUa3dBTTk4QXZrbWtsdll5QTRBWkFfazZuOHNn?oc=5",
@@ -2155,6 +2233,17 @@
    "titleKo": "첼시 여자 U21 vs 맨체스터 유나이티드 여자 U21 | 경기"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT0JPNWlBckhsbThuNkExVDhoNFBYeDBON1hYVDVJaGNNN2F1eTBmZUowbmI1RFRHLXRVYWVSUjZkZWl4YjFibDdqM0VKNjk0bEIxZk53YjM0NkdMLWdHNHBSenJsbEZLRXpweFNjeHBLOGNJWHE3czByNlJNZXRFWUJVZ2FXOVVKeG1EdlBSMmV2c2NLUWhrdHlPLVNWU1NJNC1wVzF3a1oyR0JnY0tTbEJyT0d5ZXlDZHdpN1JMNUM4U1Y1Yk1CWXQzMjlCcUZzV3RFRXp6b0pZZzZtQS1PYVF6UlhGZw?oc=5",
+   "title": "How to watch Chelsea vs Leeds in the UK, Ireland, USA and around the world",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT0JPNWlBckhsbThuNkExVDhoNFBYeDBON1hYVDVJaGNNN2F1eTBmZUowbmI1RFRHLXRVYWVSUjZkZWl4YjFibDdqM0VKNjk0bEIxZk53YjM0NkdMLWdHNHBSenJsbEZLRXpweFNjeHBLOGNJWHE3czByNlJNZXRFWUJVZ2FXOVVKeG1EdlBSMmV2c2NLUWhrdHlPLVNWU1NJNC1wVzF3a1oyR0JnY0tTbEJyT0d5ZXlDZHdpN1JMNUM4U1Y1Yk1CWXQzMjlCcUZzV3RFRXp6b0pZZzZtQS1PYVF6UlhGZw?oc=5",
+   "source": "LiveScore",
+   "group": "영국 언론",
+   "date": 1795174667000,
+   "added": 1795254947265,
+   "cat": null,
+   "titleKo": "영국, 아일랜드, 미국 및 전 세계에서 첼시 대 리즈 경기를 시청하는 방법"
+  },
+  {
    "id": "https://www.talkchelsea.net/opinions/xabi-alonso-chelsea-right-direction-blues/",
    "title": "Xabi Alonso’s Chelsea so far: Are the Blues headed in the right direction?",
    "link": "https://www.talkchelsea.net/opinions/xabi-alonso-chelsea-right-direction-blues/",
@@ -2175,6 +2264,17 @@
    "cat": "이적",
    "titleKo": "노팅엄 포레스트 이적 소식: 로마, 첼시 공격수의 '대안'으로 스타 선수 영입 고려",
    "image": "https://www.sportsmole.co.uk/thumbor/uPGDNsfWtT7FmaxVnJno3HQiHoA=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2025%2F11%2Fimago1069641665-1-6929c539769af400538171.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUERqQ1NEc2R1dWRzUHN0VFViRURGWEF2SkdlREJma3RDTTFLYjQ0MF9LaUZyRmlYbVlDU2pxYmZUeUxvZ2dKNFU5UDlLN0taZ3JJYjgzSVF2ZEdsVDF2OEUxZklJR1d1RWdrRHozdlluanhNTzlURVk5QzViSzgxSDhxcHpZRGFFb0djYU1nV053RUQzOXlnNEdyT0xjN2dHZlBvV2Q5TC1YR055Q3REbQ?oc=5",
+   "title": "Chelsea vs Leeds United: Team news, key stats and everything you need to know",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUERqQ1NEc2R1dWRzUHN0VFViRURGWEF2SkdlREJma3RDTTFLYjQ0MF9LaUZyRmlYbVlDU2pxYmZUeUxvZ2dKNFU5UDlLN0taZ3JJYjgzSVF2ZEdsVDF2OEUxZklJR1d1RWdrRHozdlluanhNTzlURVk5QzViSzgxSDhxcHpZRGFFb0djYU1nV053RUQzOXlnNEdyT0xjN2dHZlBvV2Q5TC1YR055Q3REbQ?oc=5",
+   "source": "Leeds United",
+   "group": "영국 언론",
+   "date": 1795173071000,
+   "added": 1795254947264,
+   "cat": "프리뷰",
+   "titleKo": "첼시 vs 리즈 유나이티드: 팀 소식, 주요 통계 및 알아두어야 할 모든 것"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUVFQnU0U2VYQ1pzaW1RczhjYWYtMVhnaG5oSk9RM0p0c3ViNjNMYnNjcGttQkh5cWl0elJoNnpYQ19YcXpwVDc0MU9qNms5WkpfdDZCbHB5dUtWVVRNSzk5eGFpYUIwVmRrX3FlUTdBamNzelJjcE1MV0xxV1lYNFh6b3NKcUhIRzRXZDN1TU16V1pmTUxF?oc=5",
@@ -2249,6 +2349,17 @@
    "date": 1795165719000,
    "cat": "인터뷰",
    "titleKo": "페르난도 토레스, 리버풀을 떠나 첼시로 이적한 것을 후회한다고 밝혀"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEZjVzFVakVmMXh6ZXhJS0RRVVFxRlFwdkNYTUY5VDkxYVF1QnVjRzdGc0doTG1OSEFhYkt3VWt4YmtWaGxpZmo0SEx3WUQ2bVQ1SDY5YWdVbWswZ0xwT1B6UUpVM1k5TVM0QzJucnNGSW1OaUFUT0M1SUJ4SUZkWGsxOVRpTHVUX1BoUWV6Y0ZaaHN2S1ZkTmF5NVp5NlZP?oc=5",
+   "title": "Chelsea Under-18 vs Arsenal Under-18: How to watch it live",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEZjVzFVakVmMXh6ZXhJS0RRVVFxRlFwdkNYTUY5VDkxYVF1QnVjRzdGc0doTG1OSEFhYkt3VWt4YmtWaGxpZmo0SEx3WUQ2bVQ1SDY5YWdVbWswZ0xwT1B6UUpVM1k5TVM0QzJucnNGSW1OaUFUT0M1SUJ4SUZkWGsxOVRpTHVUX1BoUWV6Y0ZaaHN2S1ZkTmF5NVp5NlZP?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795165200000,
+   "added": 1795254947265,
+   "cat": null,
+   "titleKo": "첼시 U-18 vs 아스널 U-18: 실시간 시청 방법"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmVhdU51WVdwOS1tUDg5c2k5RGpaaGY1aWoyLWhTb2JNUjZRLTRJbFJrcC1rX0x2UHg1Ni14VUVCbk5OQmpqM0ZHWnM1cjZUUFNIbUZOeWJCb0c5SGtIVnJKNEpJZjF0aHRFLVp1c1p4cEZPeTdYdXJTTl9GZGlLR084WTl4V1pkWDIwb1A1anNCaGg5OG9xazFtX0MwTlg1czBjVWpneUZfUnZy?oc=5",
@@ -3461,6 +3572,17 @@
    "titleKo": "사비 알론소, 첼시 스타를 '쉬운 희생양'으로 만든 가혹한 결정으로 비난받아"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYU0yM2xSTE1vaTduQzJyUDVpUU9pTkF6V1hyYmxkMzZDeGxrMG1hdEFKajVEWm13a0JSOUY3N0FaNkFKNG5DVlVwMWhkYWpGdlRyVGQwLXd1bmptRXFwZzIzWlkyeXNVR1Npd1Y4MHowdi1LbG5vaVRtUUhpMXNGSVlMVmQwWENVdVE?oc=5",
+   "title": "Limited-edition Ken Bates memorial share",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYU0yM2xSTE1vaTduQzJyUDVpUU9pTkF6V1hyYmxkMzZDeGxrMG1hdEFKajVEWm13a0JSOUY3N0FaNkFKNG5DVlVwMWhkYWpGdlRyVGQwLXd1bmptRXFwZzIzWlkyeXNVR1Npd1Y4MHowdi1LbG5vaVRtUUhpMXNGSVlMVmQwWENVdVE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1794873600000,
+   "added": 1795254947265,
+   "cat": null,
+   "titleKo": "한정판 켄 베이츠 추모 주식"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSzRkc1lNaHA3amkwS2tDQkxpVm5PRXN2bnNPNGp2T2JkbGJoOFRIMmtaTEdtV2RsQjlfTGQ3c2xQM1Jpcm5la1pqOU5RNzZlZ0JzYTFlck5kOEtmM3dtcU1xdENUZ1RXVmFnNTRTSjN6UVBRYTdNbGQtMA?oc=5",
    "title": "Get your Chelsea fix with CFC+",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSzRkc1lNaHA3amkwS2tDQkxpVm5PRXN2bnNPNGp2T2JkbGJoOFRIMmtaTEdtV2RsQjlfTGQ3c2xQM1Jpcm5la1pqOU5RNzZlZ0JzYTFlck5kOEtmM3dtcU1xdENUZ1RXVmFnNTRTSjN6UVBRYTdNbGQtMA?oc=5",
@@ -3999,127 +4121,6 @@
    "imgTried": true,
    "image": "https://thechelseablog.com/wp-content/uploads/2026/11/v-sund.png",
    "titleKo": "선덜랜드 vs 첼시: 경기 전 분석"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
-   "title": "Chelsea’s Alonso identity still to form in a midfield that remains a problem",
-   "link": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
-   "source": "The Guardian",
-   "group": "영국 언론",
-   "date": 1794047465000,
-   "cat": null,
-   "image": "https://i.guim.co.uk/img/media/c200b2a8ebccfb6d7865c50f44c130e8f8794205/215_0_2526_2021/master/2526.jpg?width=140&quality=85&auto=format&fit=max&s=552c60f780d2bd2723a4468e1a0426b7",
-   "titleKo": "첼시의 알론소 감독은 여전히 문제가 되고 있는 미드필더진에서 자신의 색깔을 아직 찾지 못하고 있습니다."
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/videos/cwz0vvnk9jpgo?at_medium=RSS&at_campaign=rss",
-   "title": "Alonso praises Palmer's quality and attitude",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cwz0vvnk9jpgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1793983881000,
-   "cat": null,
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3af0/live/3fca9e40-d9fe-11f1-93e1-3b657b665bcf.jpg",
-   "titleKo": "알론소, 파머의 기량과 태도에 찬사"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
-   "title": "Is Palmer's England career over under Tuchel?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1793982603000,
-   "cat": null,
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg",
-   "titleKo": "투헬 감독 체제에서 파머의 잉글랜드 대표팀 경력은 끝난 것일까요?"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/videos/c9ly00660m6po?at_medium=RSS&at_campaign=rss",
-   "title": "'It's not personal' - Tuchel on Palmer omission",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c9ly00660m6po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1793967255000,
-   "cat": null,
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/94b3/live/0c6cc970-d9da-11f1-b441-2b33b063138f.jpg",
-   "titleKo": "'개인적인 감정은 아니다' - 투헬 감독, 팔머 제외에 대해 언급"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
-   "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1793863040000,
-   "cat": null,
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg",
-   "titleKo": "꼭 선택해야 할 선수인가, 아니면 믿을 수 없는 선수인가? 투헬의 팔머 딜레마"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cmdx35len5ggo?at_medium=RSS&at_campaign=rss",
-   "title": "Palmer should have been sent off for Fernandes barge - panel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmdx35len5ggo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1793808767000,
-   "cat": null,
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/471b/live/961fea10-d860-11f1-85ab-b3cc3b5498c6.jpg",
-   "titleKo": "팔머는 페르난데스에게 몸을 부딪친 것에 대해 퇴장당했어야 했다 - 심판 위원회"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cm0ldr0d460do?at_medium=RSS&at_campaign=rss",
-   "title": "Chelsea stunned by Estonian side in Europe",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm0ldr0d460do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1793806980000,
-   "cat": null,
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4b00/live/a166d930-d863-11f1-85ab-b3cc3b5498c6.jpg",
-   "titleKo": "첼시, 유럽 무대에서 에스토니아 팀에 충격패"
-  },
-  {
-   "id": "https://latest.fotmob.com/2026/11/03/the-fotmob-totw-for-the-premier-league-md9s-best-xi-includes-rogers-palmer-and-van-hecke/",
-   "title": "The FotMob TOTW for the Premier League: MD9’s Best XI includes Rogers, Palmer, and Van Hecke",
-   "link": "https://latest.fotmob.com/2026/11/03/the-fotmob-totw-for-the-premier-league-md9s-best-xi-includes-rogers-palmer-and-van-hecke/",
-   "source": "FotMob",
-   "date": 1793706779000,
-   "cat": "프리뷰",
-   "titleKo": "프리미어리그 FotMob TOTW: 9라운드 베스트 11에는 로저스, 팔머, 반 헤케가 포함되었습니다.",
-   "group": "공식·FotMob",
-   "image": "https://latest.fotmob.com/wp-content/uploads/2026/11/Covers_EPL-TOTW-0311-1.png"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/videos/cm2keyg59818o?at_medium=RSS&at_campaign=rss",
-   "title": "'Estevao has finally arrived for Chelsea'",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm2keyg59818o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1793488709000,
-   "cat": null,
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5749/live/35be7dd0-d581-11f1-b441-2b33b063138f.jpg",
-   "titleKo": "'에스테바우가 드디어 첼시에 합류했습니다'"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick",
-   "title": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick",
-   "source": "The Guardian",
-   "group": "영국 언론",
-   "date": 1793469259000,
-   "cat": null,
-   "image": "https://i.guim.co.uk/img/media/7ff243a828768adc0fd29c9fe379af9194beed17/0_173_4427_3542/master/4427.jpg?width=140&quality=85&auto=format&fit=max&s=4e1b1db6923e5a6d483252967584e2ca",
-   "titleKo": "첼시와의 경기에서 패배한 맨체스터 유나이티드는 거의 존재하지 않는 클럽의 모습을 보여줍니다 | 바니 로네이(Barney Ronay)"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
-   "title": "Michael Carrick insists he will still be in charge of Manchester United against Roma",
-   "link": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
-   "source": "The Guardian",
-   "group": "영국 언론",
-   "date": 1793465017000,
-   "cat": "인터뷰",
-   "image": "https://i.guim.co.uk/img/media/8e9c77df7674dd42f99b922a40e2c3578ad3ce51/2_0_4412_3529/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=2446f86d0297c02cb3c1d92cd200fe83",
-   "titleKo": "마이클 캐릭, 로마와의 경기에서도 맨체스터 유나이티드를 이끌 것이라고 주장"
   }
  ]
 }
