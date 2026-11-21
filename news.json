@@ -1,5 +1,5 @@
 {
- "updated": 1795296010196,
+ "updated": 1795298436849,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 5,
@@ -9,19 +9,19 @@
   "Evening Standard": 10,
   "The Sun": 5,
   "Mirror": 3,
-  "Daily Mail": 6,
+  "Daily Mail": 7,
   "Telegraph": 6,
   "Independent": 4,
   "Express": 0,
   "Sports Mole": 14,
   "CaughtOffside": 2,
   "90min": 1,
-  "The Athletic": 1,
-  "구글뉴스(영어)": 67,
+  "The Athletic": 2,
+  "구글뉴스(영어)": 66,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 22,
+  "구글뉴스(한국어)": 23,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -844,6 +844,41 @@
  },
  "items": [
   {
+   "id": "https://www.nytimes.com/athletic/7800971/2026/11/21/premier-league-forum-chelsea-alonso-raya-arsenal/",
+   "title": "Premier League Forum: Can Alonso turn Chelsea around? How crucial could Raya injury be for Arsenal?",
+   "link": "https://www.nytimes.com/athletic/7800971/2026/11/21/premier-league-forum-chelsea-alonso-raya-arsenal/",
+   "source": "The Athletic",
+   "group": "영국 언론",
+   "date": 1795297606000,
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/21161810/GettyImages-2305665905-e1795295950514.jpg",
+   "added": 1795298432108,
+   "cat": "부상",
+   "titleKo": "프리미어리그 포럼: 알론소가 첼시의 부진을 타개할 수 있을까? 라야의 부상이 아스널에 얼마나 치명적일 수 있을까요?"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news-now/cole-palmer-ignores-joao-pero-culture-coach/",
+   "title": "(Video): Cole Palmer ignores Joao Pedro and “culture coach” and declines to salute fans",
+   "link": "https://www.talkchelsea.net/news-now/cole-palmer-ignores-joao-pero-culture-coach/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795296900000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Cole-Palmer-walks-off-the-pitch-414x233.jpg",
+   "added": 1795298432109,
+   "cat": null,
+   "titleKo": "(동영상): 콜 파머, 주앙 페드로와 '문화 코치'를 무시하고 팬들에게 인사하지 않음"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE80enk5MEtxN2FvVmRvUWtkSS1mcUdQX2VpdW43al8wRWFGN0RxRjdSMWxmY0dvNzg2ZzY1NlZ2RTFOWlJSZkFQVXdJVnVpaDAtbFdDeHktX25abk9RNi1pcTRkVGRVMjREYmI1RTBiTVBIdw?oc=5",
+   "title": "\"첼시, 27년 만에 안방에서 굴욕 당했다!\"…리즈에 1-4 대참사! 알론소 감독도 인정 \"우리 선수들 정신적으로 취약했다\"",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80enk5MEtxN2FvVmRvUWtkSS1mcUdQX2VpdW43al8wRWFGN0RxRjdSMWxmY0dvNzg2ZzY1NlZ2RTFOWlJSZkFQVXdJVnVpaDAtbFdDeHktX25abk9RNi1pcTRkVGRVMjREYmI1RTBiTVBIdw?oc=5",
+   "source": "포포투",
+   "group": "한국 언론",
+   "date": 1795295700000,
+   "added": 1795298432109,
+   "cat": null,
+   "titleKo": "\"첼시, 27년 만에 안방에서 굴욕 당했다!\"…리즈에 1-4 대참사! 알론소 감독도 인정 \"우리 선수들 정신적으로 취약했다\""
+  },
+  {
    "id": "https://www.dailymail.com/sport/football/article-16311993/Cole-Palmer-frosty-exchange-Joao-Pedro-Chelsea-4-1-humiliation-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
    "title": "Frustrated Cole Palmer shares frosty exchange with Joao Pedro after upsetting Chelsea staff member before walking off down the tunnel after Chelsea's 4-1 drubbing by Leeds",
    "link": "https://www.dailymail.com/sport/football/article-16311993/Cole-Palmer-frosty-exchange-Joao-Pedro-Chelsea-4-1-humiliation-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -945,6 +980,17 @@
    "added": 1795293586382,
    "cat": null,
    "titleKo": "이게 이미 첼시에서의 사비 알론소의 마지막인가요? 그는 두 가지 신성한 '규칙'을 어겼습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVhGN2RJNHFBeWlWdVdhcXoteng5X0tkU1BFVkJ6a2dfUE0wUVJ3WDFjaFhWREJuUElsSU1pNGRFczUzbjAxUnpUZEVOdTdiQk96RVBTa0pPVjdhRmNjUDBlcmxTWVFKbWtCWHJnTkh6MWMtVXhfU29OdWRCb01lRlZYdEtwM2pUeXhjdm9jUlJ5bTFnSWFwVURTb1dRTVVQb21RSw?oc=5",
+   "title": "Bompastor: We must be more clinical and find a better balance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVhGN2RJNHFBeWlWdVdhcXoteng5X0tkU1BFVkJ6a2dfUE0wUVJ3WDFjaFhWREJuUElsSU1pNGRFczUzbjAxUnpUZEVOdTdiQk96RVBTa0pPVjdhRmNjUDBlcmxTWVFKbWtCWHJnTkh6MWMtVXhfU29OdWRCb01lRlZYdEtwM2pUeXhjdm9jUlJ5bTFnSWFwVURTb1dRTVVQb21RSw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795291200000,
+   "added": 1795298432109,
+   "cat": null,
+   "titleKo": "봄파스토르: 우리는 더 침착하게 경기를 펼치고 더 나은 균형을 찾아야 합니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aHFjOW90a05EMVpwMU10Y2ZFOHBDOFl0V2tOX0pyUXY2UDJlQjA0Y0FYdlJNeWJ2QWpYZlY1cGpJXzhfVW5FaF9mU3BNdWpPWlEwYVY0OWdiQXdkZTFZTG8tUFZMWC1u?oc=5",
@@ -1122,6 +1168,17 @@
    "titleKo": "첼시 1-4 리즈: 노아 오카포르의 멀티골 이후 사비 알론소 감독에 대한 압박이 커지면서 첼시가 무너졌습니다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54LXNZVFVNUjJMOWl3TXVjVTBYT1hBLUtOYUpQMkFMYm1pOVcyclJUQlpvZU1Pa0ktUEthYzRFZmhVaW9JaVNwbXZ6cF9yQ1BlVHZhVHB3ekswVjFrR21mbFFMeDVsZ2VlRVNEZjBnY0pYMzRMeDg5M1Rn?oc=5",
+   "title": "첼시는 홈에서 리즈에게 굴욕적인 패배를 당했다.",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54LXNZVFVNUjJMOWl3TXVjVTBYT1hBLUtOYUpQMkFMYm1pOVcyclJUQlpvZU1Pa0ktUEthYzRFZmhVaW9JaVNwbXZ6cF9yQ1BlVHZhVHB3ekswVjFrR21mbFFMeDVsZ2VlRVNEZjBnY0pYMzRMeDg5M1Rn?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795286222000,
+   "added": 1795298432109,
+   "cat": null,
+   "titleKo": "첼시는 홈에서 리즈에게 굴욕적인 패배를 당했다."
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUh6eUdXck52VGd3cXFhblhTMVJYVjJISFBBOU9zb3JYdzZROERRSlMzbGJYNS1nMHkwOHdDbDlqU2Y5Yk9mMWd1ejh2Zmh6NVM4aC04TkRhVnlNT0tPRmtITm9rTUJwVXJZZHF4Q2p5VDJXVldualMtOEdWYmJtMXh5TXhZUGVYdndNR2xfSzZNLS1MWTkwd0pNU285YTFubjZ4OXF2RTVMQzhy0gGyAUFVX3lxTFBQeXVNVjNOWTRiaVFsaHY1dzJlNHY0Z0N6LXlLcWRuY09GODlUWURWS3RUeEZUZmNlcTVocXRHbzdXcXpNV2wyc3IweWNsV3JzX0I5Z3ZReVFURzdVUmdHZVJhNnRKLUt1N293cDk0RnhtWDlIUGNDOXNLUlo4OTU4OXFqMjI4RWtMdkV0a1RRZTdLY1F5Skl5d1NlY0h6Rm5zalFnZ05VU0U3ME1TMktYNXc?oc=5",
    "title": "Xabi Alonso gives Moises Caicedo injury update as Chelsea crisis grows",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUh6eUdXck52VGd3cXFhblhTMVJYVjJISFBBOU9zb3JYdzZROERRSlMzbGJYNS1nMHkwOHdDbDlqU2Y5Yk9mMWd1ejh2Zmh6NVM4aC04TkRhVnlNT0tPRmtITm9rTUJwVXJZZHF4Q2p5VDJXVldualMtOEdWYmJtMXh5TXhZUGVYdndNR2xfSzZNLS1MWTkwd0pNU285YTFubjZ4OXF2RTVMQzhy0gGyAUFVX3lxTFBQeXVNVjNOWTRiaVFsaHY1dzJlNHY0Z0N6LXlLcWRuY09GODlUWURWS3RUeEZUZmNlcTVocXRHbzdXcXpNV2wyc3IweWNsV3JzX0I5Z3ZReVFURzdVUmdHZVJhNnRKLUt1N293cDk0RnhtWDlIUGNDOXNLUlo4OTU4OXFqMjI4RWtMdkV0a1RRZTdLY1F5Skl5d1NlY0h6Rm5zalFnZ05VU0U3ME1TMktYNXc?oc=5",
@@ -1143,6 +1200,17 @@
    "added": 1795288588300,
    "cat": "오피셜",
    "titleKo": "'심판들은 상식을 적용하지 못한다' - 로저스의 핸드볼 판정은 옳았을까요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVNfb2pSeTB2TVhnblNva0l4RDRTZnZZNjZQWEtBa0RocTBmLXc4MWswWUhyRzNHQzRLY1F5aFNKeHI3WkNqd2FnSlVrUUVkaHI4eF96R2NGUDNxbWxPMWdrWEt2SFllWkR6YTV5Q0x3LUw2ODA3dG9MM0pGNHdqY2dNcGVuY1ozRjF2RTVFb2NVVlk?oc=5",
+   "title": "Alonso updates on Caicedo’s game changing injury",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVNfb2pSeTB2TVhnblNva0l4RDRTZnZZNjZQWEtBa0RocTBmLXc4MWswWUhyRzNHQzRLY1F5aFNKeHI3WkNqd2FnSlVrUUVkaHI4eF96R2NGUDNxbWxPMWdrWEt2SFllWkR6YTV5Q0x3LUw2ODA3dG9MM0pGNHdqY2dNcGVuY1ozRjF2RTVFb2NVVlk?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795285800000,
+   "added": 1795298432109,
+   "cat": "부상",
+   "titleKo": "알론소 감독, 카이세도의 경기 흐름을 바꾼 부상에 대한 소식 전해"
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34947438",
@@ -4126,70 +4194,6 @@
    "date": 1795110627000,
    "cat": null,
    "titleKo": "첼시 선수가 프랭크 감독의 첫 크리스털 팰리스 영입 선수가 될 가능성이 '매우 높음'"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVFON3JodkpqRGpOcW41RUwyRFQ3Rk9Yem1pZ19jbWJ4WDZORWtRajdVeWRtTkVsVUZmZUtudzlXRnRTanRxNUh1Sl9PZTZ2TDFmU3MwN2xYRThvcFNWamI2VVlFT1lCa1R3NWpzdXl0dGFGeEVHOTNrelVRdlU3ZzlYZTRXWE9U?oc=5",
-   "title": "Training gallery: All together for Leeds",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVFON3JodkpqRGpOcW41RUwyRFQ3Rk9Yem1pZ19jbWJ4WDZORWtRajdVeWRtTkVsVUZmZUtudzlXRnRTanRxNUh1Sl9PZTZ2TDFmU3MwN2xYRThvcFNWamI2VVlFT1lCa1R3NWpzdXl0dGFGeEVHOTNrelVRdlU3ZzlYZTRXWE9U?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795109400000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "훈련 갤러리: 리즈를 위해 모두 함께 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSHlMVkM3a1B6SmJ3WEtiY0F2SmZyZG5MMXZoUVg4RmR6bWd0U3ZXdkowTjM3bVp6aVRSS2VjMzBfczRPVU5UVDBpRG5CN3RqRzNOaEVBcWlCR2hEVnJlVF9ZWndmWGRTSnRUbnRLWE1oWTgyNWFGbHotRWpWQ0JvX180M3A4dw?oc=5",
-   "title": "FA Youth Cup date and venue confirmed",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSHlMVkM3a1B6SmJ3WEtiY0F2SmZyZG5MMXZoUVg4RmR6bWd0U3ZXdkowTjM3bVp6aVRSS2VjMzBfczRPVU5UVDBpRG5CN3RqRzNOaEVBcWlCR2hEVnJlVF9ZWndmWGRTSnRUbnRLWE1oWTgyNWFGbHotRWpWQ0JvX180M3A4dw?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795107600000,
-   "added": 1795222576855,
-   "cat": "오피셜",
-   "titleKo": "FA 유스컵(FA Youth Cup) 개최 날짜 및 장소 확정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVVHWHR2R3hwX0pQdDAyQS1sRHhmZkhuanZjX3lfNjgxdkRTdkE5RjFXUEFGcXIzai0xazJsTURJNl9qeUVSbThGQVBDV21pdWV0VjQwLWZsUUo5YUE1ZkN2RkJ6eG45Zl9vZFY3aXVFUDRVdkhMWHVRYWE3ci1IeDFXR1lPR3ItdDNWWHEwS191RmRIVHJHS094djQ5Y3Myc1dLLXl3?oc=5",
-   "title": "첼시의 한 스타 선수가 우크라이나 축구 연맹이 자신에게 도핑 양성 반응을 일으키도록 사주했다고 비난했다.",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVVHWHR2R3hwX0pQdDAyQS1sRHhmZkhuanZjX3lfNjgxdkRTdkE5RjFXUEFGcXIzai0xazJsTURJNl9qeUVSbThGQVBDV21pdWV0VjQwLWZsUUo5YUE1ZkN2RkJ6eG45Zl9vZFY3aXVFUDRVdkhMWHVRYWE3ci1IeDFXR1lPR3ItdDNWWHEwS191RmRIVHJHS094djQ5Y3Myc1dLLXl3?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795105187000,
-   "cat": null,
-   "titleKo": "첼시의 한 스타 선수가 우크라이나 축구 연맹이 자신에게 도핑 양성 반응을 일으키도록 사주했다고 비난했다."
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/predicted-lineups/pedro-palmer-rogers-reunion-predicted-chelsea-lineup-vs-leeds_609371.html",
-   "title": "Chelsea predicted lineup vs. Leeds: Pedro, Palmer, Rogers decisions for Xabi Alonso",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/predicted-lineups/pedro-palmer-rogers-reunion-predicted-chelsea-lineup-vs-leeds_609371.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795104300000,
-   "cat": "프리뷰",
-   "titleKo": "첼시의 리즈전 예상 선발 명단: 사비 알론소 감독의 페드로, 파머, 로저스에 대한 결정",
-   "image": "https://www.sportsmole.co.uk/thumbor/N9Z9c_C-pXTge3qoqq8OZRIDm58=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F08%2Faaa-che-6a8d35d7a7602238727582.jpg"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/preview/chelsea-vs-leeds-prediction-team-news-lineups_609370.html",
-   "title": "Chelsea vs Leeds United - prediction, team news, lineups",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/preview/chelsea-vs-leeds-prediction-team-news-lineups_609370.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795104000000,
-   "cat": "프리뷰",
-   "titleKo": "첼시 vs 리즈 유나이티드 - 경기 예측, 팀 소식, 선발 명단",
-   "image": "https://www.sportsmole.co.uk/thumbor/sWErbzqT4Z1McaEsAXBs16nR5G4=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fimago1085706271h-6af0e2b2d8bd1921924459.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUFINm1jcmJTUkR5VTQtXzhHRHFEZU90WGJ0dGpPakdWMmF2UUVwZTVGYkJ1ZlphT0NtNmtldW5RRFJrc2xFbEtockR0NE5JZUw0YzVTREttcXRHSV9SYU1LTnlEZ0lUQ3JFZUFBYlR3cVh2cEJmTEV6SlRCdGdSU29SaFo4Ul9jSEI0RFRRbTJCOTljVGViUkZHMTBaOEVqT0tJTWc0el95M0NITVRQc21VSQ?oc=5",
-   "title": "Liverpool vs Chelsea Women: How to watch, kick-off time, live stream info | News | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUFINm1jcmJTUkR5VTQtXzhHRHFEZU90WGJ0dGpPakdWMmF2UUVwZTVGYkJ1ZlphT0NtNmtldW5RRFJrc2xFbEtockR0NE5JZUw0YzVTREttcXRHSV9SYU1LTnlEZ0lUQ3JFZUFBYlR3cVh2cEJmTEV6SlRCdGdSU29SaFo4Ul9jSEI0RFRRbTJCOTljVGViUkZHMTBaOEVqT0tJTWc0el95M0NITVRQc21VSQ?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795104000000,
-   "cat": "오피셜",
-   "titleKo": "리버풀 vs 첼시 여자팀: 시청 방법, 킥오프 시간, 실시간 스트리밍 정보 | 뉴스 | 공식 사이트"
   }
  ]
 }
