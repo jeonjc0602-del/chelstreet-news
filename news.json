@@ -1,34 +1,34 @@
 {
- "updated": 1795367887152,
+ "updated": 1795370327141,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 2,
+  "Sky Sports": 0,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 7,
+  "Evening Standard": 5,
   "The Sun": 4,
   "Mirror": 1,
   "Daily Mail": 7,
   "Telegraph": 6,
   "Independent": 4,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 9,
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 34,
+  "구글뉴스(한국어)": 33,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 28건"
+  "이번 상대": "Nottingham Forest · 새 기사 27건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -844,6 +844,17 @@
  },
  "items": [
   {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2NtVW50UjZLWVdmNks1Vnhia256LUJDRVliOTVicGFPRlJma3ZRZXBrVTFOSWlwREg3T0d2c21TUFVsZ0NjaFNySHNBVzU5Z2hZZDM1dXZuS2M3VHhnZFE3QWR1MTJDYkNKMy00VGJ2cXZ4OFc4V29mTEVpQU1fc3RBXzBobUdaSl9J?oc=5",
+   "title": "Report: Juventus, Milan and Napoli on alert as Chelsea open door to Palestra exit",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2NtVW50UjZLWVdmNks1Vnhia256LUJDRVliOTVicGFPRlJma3ZRZXBrVTFOSWlwREg3T0d2c21TUFVsZ0NjaFNySHNBVzU5Z2hZZDM1dXZuS2M3VHhnZFE3QWR1MTJDYkNKMy00VGJ2cXZ4OFc4V29mTEVpQU1fc3RBXzBobUdaSl9J?oc=5",
+   "source": "Yahoo Sports",
+   "group": "영국 언론",
+   "date": 1795368660000,
+   "added": 1795370321736,
+   "cat": null,
+   "titleKo": "보도: 첼시가 팔레스트라의 이적 가능성을 시사하자 유벤투스, 밀란, 나폴리가 촉각을 곤두세우다"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VnVXczRXZEZ2RE12Nm0xTjZUcjB1UF8zR2pSMXIteWdpVTFkZ2JycGl1SkFRUHZtWC1FLTNhTmNNNzJTVHlxYmEyM1J3UW42WDd0RFNGMmNSOUtHRnhXSg?oc=5",
    "title": "Coventry City | Tag",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VnVXczRXZEZ2RE12Nm0xTjZUcjB1UF8zR2pSMXIteWdpVTFkZ2JycGl1SkFRUHZtWC1FLTNhTmNNNzJTVHlxYmEyM1J3UW42WDd0RFNGMmNSOUtHRnhXSg?oc=5",
@@ -1166,6 +1177,17 @@
    "titleKo": "키팅의 7번의 선방으로 첼시를 0-0으로 막고, 시티는 전반전이 끝나기 전에 선두로 올라설 기회를 잡았습니다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUZrUUl1alpjVDR6WkFFT1FiUGJzSWxCUXpnNk1HcnM0RXV2dUxOd1FzQ1psSkt0eUo0NmdrdnRnSXYyMURXbDAtc3lUV1ZSN2V0OG43OFlsWE54dHk4RkRfbjZOQlhxVGphbmUxT0Nfa054UFZvT0Y3UXdNWlpRMXNuMklXWDRERmJvbnpDR0hXMl8tWnNqMmVGWW5FclZ6Z2pCaXpiTDB2ZUR2MlpMRnowM19fQdIBuwFBVV95cUxOcXRPS1B1VnlBT01wSk1MSnA3SW5OdUhzWWVNOEliTmFUVGFsVy1mNnZ0eHlzamVQbmh6WDZuVHlOX1VnZ0lyREpJTGN3Y3lubS01N0V6bGNYXzJKMDRGMEJ3aDVBVjFSYU1vcTZyME5HUlJubWFFMW5MV242WXdmLTVwajdBNUV6cEtaZ3duZlNXdm1DeW9LQi1LdnBGVkFOVGtYaVdzYVZkbWdDb1ZRNWNwUWRBUEF3UWFJ?oc=5",
+   "title": "Former Chelsea man makes Xabi Alonso sack prediction after 'disgusting' Leeds loss",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUZrUUl1alpjVDR6WkFFT1FiUGJzSWxCUXpnNk1HcnM0RXV2dUxOd1FzQ1psSkt0eUo0NmdrdnRnSXYyMURXbDAtc3lUV1ZSN2V0OG43OFlsWE54dHk4RkRfbjZOQlhxVGphbmUxT0Nfa054UFZvT0Y3UXdNWlpRMXNuMklXWDRERmJvbnpDR0hXMl8tWnNqMmVGWW5FclZ6Z2pCaXpiTDB2ZUR2MlpMRnowM19fQdIBuwFBVV95cUxOcXRPS1B1VnlBT01wSk1MSnA3SW5OdUhzWWVNOEliTmFUVGFsVy1mNnZ0eHlzamVQbmh6WDZuVHlOX1VnZ0lyREpJTGN3Y3lubS01N0V6bGNYXzJKMDRGMEJ3aDVBVjFSYU1vcTZyME5HUlJubWFFMW5MV242WXdmLTVwajdBNUV6cEtaZ3duZlNXdm1DeW9LQi1LdnBGVkFOVGtYaVdzYVZkbWdDb1ZRNWNwUWRBUEF3UWFJ?oc=5",
+   "source": "Metro.co.uk",
+   "group": "영국 언론",
+   "date": 1795346280000,
+   "added": 1795370321736,
+   "cat": null,
+   "titleKo": "전 첼시 선수가 '역겨운' 리즈전 패배 후 사비 알론소 경질을 예측하다"
+  },
+  {
    "id": "https://www.thesun.co.uk/sport/41105269/snooker-neil-robertson-xabi-alonso-chelseas-leeds/",
    "title": "Snooker star Neil Robertson demands Xabi Alonso QUIT after Chelsea’s 4-1 mauling at home to Leeds",
    "link": "https://www.thesun.co.uk/sport/41105269/snooker-neil-robertson-xabi-alonso-chelseas-leeds/",
@@ -1200,6 +1222,17 @@
    "titleKo": "사비 알론소, 첼시 패배 직후 콜 파머와 주앙 페드로의 '터치라인 논쟁'에 대해 언급",
    "imgTried": true,
    "image": "https://talksport.com/wp-content/uploads/2026/11/2026-27-match-chelsea-fc-1124786024.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTlfX2s5QmMteUFBNzN3SnlwZ1hWXzBLR0Y3cjZhYVVwWGcyRFN5NElETzJlMVZmNnVnZEFFUUxKR1ZyNXFJanAzQXdWa0JVMXl6RjFwUVhXbDhJMWhpd2NoS0dod2Rfck5ibnN4Y25za1VWOFdPVFItN2VVWWxnMGR6eE9vaF83X1RMQ0NvSWw1R0xYQXpERTB5cw?oc=5",
+   "title": "Keeper voted Star of the Match in Liverpool stalemate",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTlfX2s5QmMteUFBNzN3SnlwZ1hWXzBLR0Y3cjZhYVVwWGcyRFN5NElETzJlMVZmNnVnZEFFUUxKR1ZyNXFJanAzQXdWa0JVMXl6RjFwUVhXbDhJMWhpd2NoS0dod2Rfck5ibnN4Y25za1VWOFdPVFItN2VVWWxnMGR6eE9vaF83X1RMQ0NvSWw1R0xYQXpERTB5cw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795341600000,
+   "added": 1795370321737,
+   "cat": null,
+   "titleKo": "리버풀과의 무승부 경기에서 골키퍼가 경기 최우수 선수로 선정되었습니다."
   },
   {
    "id": "http://www.footballist.co.kr/news/articleView.html?idxno=217169",
@@ -2671,6 +2704,17 @@
    "added": 1795275031138,
    "cat": null,
    "titleKo": "첼시 vs 리즈 유나이티드 | 경기"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUpOQXFGb0ZOZzA4UGI4U2dtTW1sa20zd3JseEJ1dHJOU2l0bkJGLXpLTWxENEtWb3hVRzJNQ0plVnBMUmJIYVQwUC1pdlEwZEYzTmRxZzU4TkRuTkVkQko3VVdjbmt4anE0ZlB0VjJTbTVmR0dBS1RxazlSV3FrQkIySVNHdFZXdG1YaktURkhycVVheVV5OXQ3bnFfZw?oc=5",
+   "title": "Tom Brady Buys Stake in Chelsea, Joins Ownership Group: Report",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUpOQXFGb0ZOZzA4UGI4U2dtTW1sa20zd3JseEJ1dHJOU2l0bkJGLXpLTWxENEtWb3hVRzJNQ0plVnBMUmJIYVQwUC1pdlEwZEYzTmRxZzU4TkRuTkVkQko3VVdjbmt4anE0ZlB0VjJTbTVmR0dBS1RxazlSV3FrQkIySVNHdFZXdG1YaktURkhycVVheVV5OXQ3bnFfZw?oc=5",
+   "source": "Chelsea FC Online",
+   "group": "영국 언론",
+   "date": 1795273646000,
+   "added": 1795370321736,
+   "cat": null,
+   "titleKo": "톰 브래디, 첼시 지분 인수 및 소유주 그룹 합류: 보도"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc2JNTGFnTWNUcTQtZUNKYXhQbndMdXIwUm9QR29hNC1HeGItM05Mejk3NVNlamFxVkYzTk9LV2VmUXB2Ty1rYm5ZamI4VE9jM0pEYzVWT2IxQ1FWdzBkRlI5WGpRZjRnSjdqY29EdWVScUg2ZkFJOEJIRkdxb0hXZVg2RDFkYmVyZ3UwLVJkOA?oc=5",
@@ -4190,49 +4234,6 @@
    "titleKo": "첼시 팀 소식: 사비 알론소의 딜레마에 앞서 마이크 펜더스, 에밀리아노 마르티네스 관련 업데이트 제공",
    "imgTried": true,
    "image": "https://www.sportsmole.co.uk/thumbor/DpykShexQ7oYr8Pa_K9DHDhoRj0=/1200x630/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F09%2Fimago1083332526h-6ab53e0e500cd244982360.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGFZeTFQdG1ycnAyRWJ5SlIzUlZTeEkzY2hnQjRPSW9naXNETVBWU3ZrLWlKd0xRdGhldG9oQjg4elVLVlB0SFdUY1J4bDhIUFR2RXpYSV93SGJaRFZsUDZGX3ZhdVpnejFjQURxYnNWZEdBQ0VWNkptb1oxSGNTZzhhN2Y3SXBQZUNFOVI4OUFpOXhBRFBJVXhOc3kzeG5RRnZmWTVMYkFMc1RfQ1BHLQ?oc=5",
-   "title": "Chelsea vs. Leeds: Xabi Alonso must solve striker dilemma",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGFZeTFQdG1ycnAyRWJ5SlIzUlZTeEkzY2hnQjRPSW9naXNETVBWU3ZrLWlKd0xRdGhldG9oQjg4elVLVlB0SFdUY1J4bDhIUFR2RXpYSV93SGJaRFZsUDZGX3ZhdVpnejFjQURxYnNWZEdBQ0VWNkptb1oxSGNTZzhhN2Y3SXBQZUNFOVI4OUFpOXhBRFBJVXhOc3kzeG5RRnZmWTVMYkFMc1RfQ1BHLQ?oc=5",
-   "source": "DAZN",
-   "group": "영국 언론",
-   "date": 1795195800000,
-   "cat": null,
-   "titleKo": "첼시 vs. 리즈: 사비 알론소, 스트라이커 딜레마를 해결해야"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEQ1VDNyYkotQWppRU9LM2NpY1BDT1RfWDBpSjY3NUFlN2xtLWVuUjRPNFU1UFdRdW9EcjhTdGIwRF9qakRNb3dLVFUtQndEOG1ha2tfM3JtOUFPQS1MbjM3OGg3OENIZU53WHRjUlpVSWREZm9TWkdtbUVUaTBuRk5JYU96Y3RPUXdMOURn?oc=5",
-   "title": "Chelsea facing eye-watering fine as FA confirm appeal decision in new statement",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEQ1VDNyYkotQWppRU9LM2NpY1BDT1RfWDBpSjY3NUFlN2xtLWVuUjRPNFU1UFdRdW9EcjhTdGIwRF9qakRNb3dLVFUtQndEOG1ha2tfM3JtOUFPQS1MbjM3OGg3OENIZU53WHRjUlpVSWREZm9TWkdtbUVUaTBuRk5JYU96Y3RPUXdMOURn?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795195669000,
-   "added": 1795367881413,
-   "cat": "오피셜",
-   "titleKo": "FA가 새로운 성명에서 항소 결정을 확인하면서 첼시가 눈이 휘둥그레질 만한 벌금에 직면"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nODl2REhGWXYzdHVmanpwT0RodVAtVC01N2ljZUpkMDAtRWxMcG00aVlZd2FGZXM2WTV6dFVRQmlwd2s5N09QcDRuaWMzMkdvT0lVcGhlUmQ4ZGFhZ0JuQnI4VXMxOXAtOGp6czZfUE1xSWJhZUNjcTZ0SQ?oc=5",
-   "title": "Today's Football Schedule November 21, 2026: PSM vs Persija, Man City, Chelsea, and U-17 World Cup",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nODl2REhGWXYzdHVmanpwT0RodVAtVC01N2ljZUpkMDAtRWxMcG00aVlZd2FGZXM2WTV6dFVRQmlwd2s5N09QcDRuaWMzMkdvT0lVcGhlUmQ4ZGFhZ0JuQnI4VXMxOXAtOGp6czZfUE1xSWJhZUNjcTZ0SQ?oc=5",
-   "source": "Aktualita.co",
-   "group": "영국 언론",
-   "date": 1795195047000,
-   "cat": null,
-   "titleKo": "오늘의 축구 일정 2026년 11월 21일: PSM 대 페르시아, 맨체스터 시티, 첼시, U-17 월드컵"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/arsenal/injury-news/feature/premier-league-team-news-injuries-suspensions-and-doubts-for-gw11_609519.html",
-   "title": "Premier League team news: Every injured, suspended and doubtful player for GW11",
-   "link": "https://www.sportsmole.co.uk/football/arsenal/injury-news/feature/premier-league-team-news-injuries-suspensions-and-doubts-for-gw11_609519.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795194618000,
-   "cat": "부상",
-   "titleKo": "프리미어리그 팀 소식: 부상, 출장 정지, 출전 여부가 불확실한 모든 선수",
-   "imgTried": true,
-   "image": "https://www.sportsmole.co.uk/thumbor/wnZpKg9AeG7rqlQ80kkCrW2TQY4=/1200x630/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fns-3-photo-frame-email-sportmole-1-6b007ebe873dc302765558.jpg"
   }
  ]
 }
