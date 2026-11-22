@@ -1,5 +1,5 @@
 {
- "updated": 1795345002245,
+ "updated": 1795347489265,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
@@ -17,18 +17,18 @@
   "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 64,
+  "구글뉴스(영어)": 65,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 31,
+  "구글뉴스(한국어)": 32,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 29건"
+  "이번 상대": "Nottingham Forest · 새 기사 25건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -857,6 +857,29 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/698995_832941_2459_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbnlzWkFGbV9ObmkyQS1uX3ptZGRLNzRYbmpiel9zOW5nc1dsMTFZNHMyMGVaSHdEZHFaRzhkQUhDaUVJaWhEUy1KNTJXV2FZajZMUVZhcXBKVXdQQjItWm9aaFQ4dHNSVmVZRE9neFM5VWN6M3QxOHROTDVZZVZhekpGTHZiWmVYSk40U2RjYU4?oc=5",
+   "title": "Xabi Alonso warned Chelsea FC sack decision could be imminent as fans turn on manager",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbnlzWkFGbV9ObmkyQS1uX3ptZGRLNzRYbmpiel9zOW5nc1dsMTFZNHMyMGVaSHdEZHFaRzhkQUhDaUVJaWhEUy1KNTJXV2FZajZMUVZhcXBKVXdQQjItWm9aaFQ4dHNSVmVZRE9neFM5VWN6M3QxOHROTDVZZVZhekpGTHZiWmVYSk40U2RjYU4?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795347016000,
+   "added": 1795347485019,
+   "cat": null,
+   "titleKo": "샤비 알론소, 첼시 FC의 감독 경질 결정이 임박할 수 있다고 경고"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41105269/snooker-neil-robertson-xabi-alonso-chelseas-leeds/",
+   "title": "Snooker star Neil Robertson demands Xabi Alonso QUIT after Chelsea’s 4-1 mauling at home to Leeds",
+   "link": "https://www.thesun.co.uk/sport/41105269/snooker-neil-robertson-xabi-alonso-chelseas-leeds/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795345451000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FLB-OFF-Neil-Robertson-1.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795347485019,
+   "cat": null,
+   "titleKo": "스누커 스타 닐 로버트슨, 첼시가 홈에서 리즈에 4-1로 대패한 후 사비 알론소의 사임을 요구하다"
+  },
+  {
    "id": "https://talksport.com/football/4724409/xabi-alonso-cole-palmer-touchline-row-joao-pedro-chelsea/",
    "title": "Xabi Alonso addresses Cole Palmer &#8216;touchline row&#8217; with Joao Pedro moments after Chelsea defeat",
    "link": "https://talksport.com/football/4724409/xabi-alonso-cole-palmer-touchline-row-joao-pedro-chelsea/",
@@ -881,6 +904,17 @@
    "titleKo": "‘5경기 4패’ 무너지는 알론소 첼시, 팬들도 여러 차례 야유 세례",
    "imgTried": true,
    "image": "https://cdn.footballist.co.kr/news/thumbnail/202611/217169_183072_4038_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NTnVleEJkeDBkUm9pbm8tVkxyeXFCdGxscDExNlhhZTFzOTRVTzJOcXh3cWtSQ3lMS09wNFMwU0JSR055Y1dKaTI1UENEbTJ1LWx2aHRKMTZsTnoxcU93?oc=5",
+   "title": "시드웰: 첼시 선수들 경기력 믿기지 않아, 포파나는 수치스러웠다",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NTnVleEJkeDBkUm9pbm8tVkxyeXFCdGxscDExNlhhZTFzOTRVTzJOcXh3cWtSQ3lMS09wNFMwU0JSR055Y1dKaTI1UENEbTJ1LWx2aHRKMTZsTnoxcU93?oc=5",
+   "source": "AllFootball",
+   "group": "한국 언론",
+   "date": 1795336463000,
+   "added": 1795347485020,
+   "cat": null,
+   "titleKo": "시드웰: 첼시 선수들 경기력 믿기지 않아, 포파나는 수치스러웠다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53TkJUZUZDeDdtbC1vVVE1bjhHRWo4MVFvQnMwaTNiQkhWWkg5N0ZZYmR3MXdpYlJ4aGozaHdISzN6TlZOSXdN?oc=5",
@@ -4187,38 +4221,6 @@
    "titleKo": "토신, 제임스, 콜윌이 트레이딩 카드 숍을 오픈합니다",
    "group": "영국 언론",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8461/live/b754fdc0-e4da-11f1-9cc5-e9713e77fd78.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWZ0U285dkYtTzBPeGZuRU5HUTE3TEdZS1cwMnVVWENHUGhrQ095eThqYTkydm9LNkNRbTAweFdJZXQwWTlueWdhbmtxOE9XcDVnT2FOOFBqclBwd2NoT2g1TXgzN3UycXZHZm9ZR2JZaWFPRHdOMGUzNGo4V0JINy1fbmpJSktDcVNCeHBNNkNXOEQ3S2xpVjNKS09oMjdub2NWN0pxZi1QcHN0bDd1VlNOd0hzOVVnbWJnbU5JNVZpdG1UUDhIQ0owR0RKUFNJUk8tVmNoUGpsdTRmVmgxeHV5Sk1mRU9nUUE?oc=5",
-   "title": "Chelsea player says moving to Arsenal was his “dream” in latest ill-advised comments",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWZ0U285dkYtTzBPeGZuRU5HUTE3TEdZS1cwMnVVWENHUGhrQ095eThqYTkydm9LNkNRbTAweFdJZXQwWTlueWdhbmtxOE9XcDVnT2FOOFBqclBwd2NoT2g1TXgzN3UycXZHZm9ZR2JZaWFPRHdOMGUzNGo4V0JINy1fbmpJSktDcVNCeHBNNkNXOEQ3S2xpVjNKS09oMjdub2NWN0pxZi1QcHN0bDd1VlNOd0hzOVVnbWJnbU5JNVZpdG1UUDhIQ0owR0RKUFNJUk8tVmNoUGpsdTRmVmgxeHV5Sk1mRU9nUUE?oc=5",
-   "source": "LiveScore",
-   "group": "영국 언론",
-   "date": 1795176000000,
-   "cat": "인터뷰",
-   "titleKo": "첼시 선수가 최근 부적절한 발언을 통해 아스널로 이적하는 것이 자신의 \"꿈\"이라고 밝혔습니다."
-  },
-  {
-   "id": "https://www.talkchelsea.net/news-now/bayern-teen-already-have-loan-planned-chelsea-aim/",
-   "title": "Chelsea aim to sign Bayern Munich teenager – and already have loan move planned",
-   "link": "https://www.talkchelsea.net/news-now/bayern-teen-already-have-loan-planned-chelsea-aim/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795176000000,
-   "cat": "이적",
-   "titleKo": "첼시, 바이에른 뮌헨의 유망주 영입 목표 – 이미 임대 이적 계획 수립",
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Getty-Images-4-414x276.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3ZTOVQxcFdhdFVaVG4yZlpoSGFwVEg0aGZQYzl0ejlMM2k5eVg0bkc4a2ZiaDFlUkJ0STZLQ25WOEpJMjc4Qm9VWkpReDItNEp2TjJRRlBFQ2RUNHpsa3dZTURXYzNwbHRlSkw0T1FndTgtbjZLUEtIR0tBQjQ0MGtOZ2NEdFlvMzZRbHRLc0pUQUtLZV91VWd6dDhwQnRSZWQ3VGVHVGZMMzBjd2h0SzJzMTJ1cVpYT04xR1FB?oc=5",
-   "title": "Chelsea Women U21 v Manchester United Women U21 | Match",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3ZTOVQxcFdhdFVaVG4yZlpoSGFwVEg0aGZQYzl0ejlMM2k5eVg0bkc4a2ZiaDFlUkJ0STZLQ25WOEpJMjc4Qm9VWkpReDItNEp2TjJRRlBFQ2RUNHpsa3dZTURXYzNwbHRlSkw0T1FndTgtbjZLUEtIR0tBQjQ0MGtOZ2NEdFlvMzZRbHRLc0pUQUtLZV91VWd6dDhwQnRSZWQ3VGVHVGZMMzBjd2h0SzJzMTJ1cVpYT04xR1FB?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795175455000,
-   "added": 1795222576855,
-   "cat": null,
-   "titleKo": "첼시 여자 U21 vs 맨체스터 유나이티드 여자 U21 | 경기"
   }
  ]
 }
