@@ -1,5 +1,5 @@
 {
- "updated": 1795329132120,
+ "updated": 1795333595385,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -9,7 +9,7 @@
   "Evening Standard": 9,
   "The Sun": 5,
   "Mirror": 2,
-  "Daily Mail": 7,
+  "Daily Mail": 9,
   "Telegraph": 6,
   "Independent": 5,
   "Express": 0,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 33,
+  "구글뉴스(한국어)": 32,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
-  "첼시 공식": "실패: 429",
+  "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 22건"
+  "이번 상대": "Nottingham Forest · 새 기사 25건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,24 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUpyUkVwcTNmbE1nQVd5Z1hLdG51VWhOLTJXVndQQVdNY1pWOWVabFl3SnNWUDFUS0V5SGlEbDNDZVhJOEthUEw2alg0MTYtZElGVElQeFQtWDZ1MmF3UmktX1BGV0ZUem5paVFXcnlTaTFTd0hsb2ZmUG5KM0R1V3hjNF9MbzI3TjN5SVl6SGFPaVVsTTMzOUowMkF1T2N0LURsTXhsS1loZF9FVGZ3LVlieENWa3JITWNFcGZEdjQ?oc=5",
+    "title": "Roy Keane says Nottingham Forest icon is the best manager in football history",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUpyUkVwcTNmbE1nQVd5Z1hLdG51VWhOLTJXVndQQVdNY1pWOWVabFl3SnNWUDFUS0V5SGlEbDNDZVhJOEthUEw2alg0MTYtZElGVElQeFQtWDZ1MmF3UmktX1BGV0ZUem5paVFXcnlTaTFTd0hsb2ZmUG5KM0R1V3hjNF9MbzI3TjN5SVl6SGFPaVVsTTMzOUowMkF1T2N0LURsTXhsS1loZF9FVGZ3LVlieENWa3JITWNFcGZEdjQ?oc=5",
+    "source": "Nottingham Forest News",
+    "date": 1795330920000,
+    "added": 1795333594824,
+    "tag": "도발·발언"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVFTNVZDUXlLa0REamYwSmpOdFFJZll4VFRmSHg2TW9qVXZPOUppQlZXcThIY1JNRGdTQmNZdTAtRlY4MHVEQU80SURYcmJrd0pqaG02eGlYV3I0S21nMDB0SUxwRGdwN3BqV1VMRGhNYVlZYWFhX19QTXQ5Z3lncDJYLThsZTRtZ3hLbGRJbUdTTk1qd180OWEzSHhMSzFfWXdxdUNNdGxMYjYtUmEw?oc=5",
+    "title": "Four Nottingham Forest players with uncertain futures ahead of January transfer window",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVFTNVZDUXlLa0REamYwSmpOdFFJZll4VFRmSHg2TW9qVXZPOUppQlZXcThIY1JNRGdTQmNZdTAtRlY4MHVEQU80SURYcmJrd0pqaG02eGlYV3I0S21nMDB0SUxwRGdwN3BqV1VMRGhNYVlZYWFhX19QTXQ5Z3lncDJYLThsZTRtZ3hLbGRJbUdTTk1qd180OWEzSHhMSzFfWXdxdUNNdGxMYjYtUmEw?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795330821000,
+    "added": 1795333594824,
+    "tag": "상대 소식"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WelhxaHJmN2ZCVUw3Rjh6eTdlQmJkWHZ0QVN0YmU0TE9YcmF4TjNvR1RnM1gzN3lkUDJ3WkhabjlQZTNLOVNrTkJoOVNQLUJoNl90Q1VzWVdPaXBEcHVN?oc=5",
     "title": "Watch Nottingham Forest vs Brighton & Hove Albion",
@@ -819,26 +837,6 @@
     "added": 1795275032052,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 이적, 최신 뉴스, 루머 및 가십: 실시간 업데이트, 득점 및 하이라이트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeWI0SFN5VnVhS2lmV2N3U25xd29waUhRUTlJcmh6S2I0bG9pRGRtSHlqS0NrWFR3ZkdYNjcyWm1zcG45US0yV3VQVkRFbGVGeHFxbEtxMTcweHpiYmhKOUV0a0IzX0ZlMV80QzZlM3JJTFN3ZzNOOVZqcXNmLTlBd3lKYUpic3ktQl8wcEZRYV9rcDV0X3FrZmxiTHE1TVVjXzNDVkN6eFpCd18zOWJDY1FCUXBtb3VOMnJDekVycnExMnRPT3JN?oc=5",
-    "title": "Initial contacts open with Chelsea for January deal - Nottingham Forest man seen as alternative option",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeWI0SFN5VnVhS2lmV2N3U25xd29waUhRUTlJcmh6S2I0bG9pRGRtSHlqS0NrWFR3ZkdYNjcyWm1zcG45US0yV3VQVkRFbGVGeHFxbEtxMTcweHpiYmhKOUV0a0IzX0ZlMV80QzZlM3JJTFN3ZzNOOVZqcXNmLTlBd3lKYUpic3ktQl8wcEZRYV9rcDV0X3FrZmxiTHE1TVVjXzNDVkN6eFpCd18zOWJDY1FCUXBtb3VOMnJDekVycnExMnRPT3JN?oc=5",
-    "source": "Sport Witness",
-    "date": 1795109498000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "1월 이적을 위한 첼시와의 초기 접촉 시작 - 노팅엄 포레스트 선수가 대안으로 고려됨"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wV2dBNUZBLWxWUzlPQmFHQldXQk1zTGp1MER6d0NDak5NTnpBM0ZZNnI5T2txS3lOWUE0WDZmcDUzTkU0MFl4MG91OXNOcVVPVUpHVHhOTWVnOEFYZDl4bTgtUnlKMjE3dFJV?oc=5",
-    "title": "Oliver Glasner press conference: Bournemouth vs Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wV2dBNUZBLWxWUzlPQmFHQldXQk1zTGp1MER6d0NDak5NTnpBM0ZZNnI5T2txS3lOWUE0WDZmcDUzTkU0MFl4MG91OXNOcVVPVUpHVHhOTWVnOEFYZDl4bTgtUnlKMjE3dFJV?oc=5",
-    "source": "BBC",
-    "date": 1795107934000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "올리버 글라스너 감독 기자회견: 본머스 vs 노팅엄 포레스트"
    }
   ]
  },
@@ -868,6 +866,17 @@
    "titleKo": "‘5경기 4패’ 무너지는 알론소 첼시, 팬들도 여러 차례 야유 세례",
    "imgTried": true,
    "image": "https://cdn.footballist.co.kr/news/thumbnail/202611/217169_183072_4038_v150.jpg"
+  },
+  {
+   "id": "https://www.dailymail.com/sport/football/article-16312357/Cool-Palmer-turned-Complaining-Cole-sulking-club-lurches-crisis-doesnt-say-lot-Chelseas-cultural-reset-writes-KIERAN-GILL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Cool Palmer has turned into Complaining Cole... his sulking as his club lurches into crisis doesn't say a lot for Chelsea's cultural reset, writes KIERAN GILL",
+   "link": "https://www.dailymail.com/sport/football/article-16312357/Cool-Palmer-turned-Complaining-Cole-sulking-club-lurches-crisis-doesnt-say-lot-Chelseas-cultural-reset-writes-KIERAN-GILL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795331459000,
+   "image": "https://i.dailymail.com/1s/2026/11/21/23/112656617-0-image-a-24_1795304312914.jpg",
+   "added": 1795333592857,
+   "cat": null
   },
   {
    "id": "https://www.independent.co.uk/sport/football/xabi-alonso-chelsea-leeds-reaction-premier-league-b3089201.html",
@@ -1187,6 +1196,16 @@
    "titleKo": "우승 트로피 들고도 \"수원은 14위일 뿐\"...이정효, 유럽 전술 공부 착착 → 맨시티·첼시·아스널 경기 직접 본다"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZDBNU2hOb3JERjBKNWFaM2FkZlF6dmJGNU1sd05IRHBTZ1NZbktlNjZvQVBMc1hSSjcxcjIzVng2VkJ5ZjVlcm5yZFdtbzd1cWpIOVFtalBzbHBLX1pCd1g5Q0xfdmg4TElFQU1wdmpMYTE0dWNTUjNMVmhtRllfQ0tuQm1WeENkZmRfdHNzb0dLV0t1WlhMTzhOTmJaN2lCOUhDLWdIc0NOOG5JbWJxdThaNmhYeGhERDduWGVpbUZSc09wTTZnZ0g3c2dDRGlsVzA2UG9IQWdtRTlZd000T0ZsNjRMUkJ3bU9hNzZB?oc=5",
+   "title": "Chelsea are fragile and need to toughen up says manager Xabi Alonso after humiliating defeat to Leeds United",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZDBNU2hOb3JERjBKNWFaM2FkZlF6dmJGNU1sd05IRHBTZ1NZbktlNjZvQVBMc1hSSjcxcjIzVng2VkJ5ZjVlcm5yZFdtbzd1cWpIOVFtalBzbHBLX1pCd1g5Q0xfdmg4TElFQU1wdmpMYTE0dWNTUjNMVmhtRllfQ0tuQm1WeENkZmRfdHNzb0dLV0t1WlhMTzhOTmJaN2lCOUhDLWdIc0NOOG5JbWJxdThaNmhYeGhERDduWGVpbUZSc09wTTZnZ0g3c2dDRGlsVzA2UG9IQWdtRTlZd000T0ZsNjRMUkJ3bU9hNzZB?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795294359000,
+   "added": 1795333592857,
+   "cat": "인터뷰"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzd1UU9NZnVRZnhBMkJtOHpTNmxnVGRMejBkMXdoR3pIZHRXckRRY0RNek1kSWVPVVRlTXByam5ESE1TYVh4NGktVUIzOWRZWGJram9aaE43TVFJTzJCTEFoMVpjb0VseXpUSzlFZ2VldFFBaWItS2VRckZISUJFa2dsMnFtLTBGb0VCS3VkOEhvOFU?oc=5",
    "title": "Cole Palmer ‘confronted by Joao Pedro and Chelsea FC coach’ after ignoring fans",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzd1UU9NZnVRZnhBMkJtOHpTNmxnVGRMejBkMXdoR3pIZHRXckRRY0RNek1kSWVPVVRlTXByam5ESE1TYVh4NGktVUIzOWRZWGJram9aaE43TVFJTzJCTEFoMVpjb0VseXpUSzlFZ2VldFFBaWItS2VRckZISUJFa2dsMnFtLTBGb0VCS3VkOEhvOFU?oc=5",
@@ -1242,6 +1261,16 @@
    "added": 1795293586383,
    "cat": null,
    "titleKo": "'우리는 좌절이 우리에게 영향을 미치게 둬서는 안 됩니다' | 동영상"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVklaZ1pnQ0F6UFVLQk85dWg2YVpOa0p1VUc0N2ZhaldjTk1XTWRrNlViaEt2TDZjSU1rd09wR1NPSElUc0E3OGNnenRxekRfOTNQZW14SlBJNi1PdnZoR21XWmxBS1ctTVhnT04yYWZwNnFabE0xcS1FS1hFd3VmYVlickR6MjdmR0hiaWc2dGRscDNrYzVCRG5iYnl3YklZZlJLZ21HUk85ZFRtUXpYQXpWdlZWQVlGQUVSRENZcWw4V2t0a09PUHljYm5BMjBTcDFab1J5VQ?oc=5",
+   "title": "After painful four-goal defeat, Alonso blames Chelsea's 'fragility' and hits out at refereeing",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVklaZ1pnQ0F6UFVLQk85dWg2YVpOa0p1VUc0N2ZhaldjTk1XTWRrNlViaEt2TDZjSU1rd09wR1NPSElUc0E3OGNnenRxekRfOTNQZW14SlBJNi1PdnZoR21XWmxBS1ctTVhnT04yYWZwNnFabE0xcS1FS1hFd3VmYVlickR6MjdmR0hiaWc2dGRscDNrYzVCRG5iYnl3YklZZlJLZ21HUk85ZFRtUXpYQXpWdlZWQVlGQUVSRENZcWw4V2t0a09PUHljYm5BMjBTcDFab1J5VQ?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795292486000,
+   "added": 1795333592857,
+   "cat": null
   },
   {
    "id": "https://www.thesun.co.uk/sport/41102299/chelsea-cole-palmer-snubs-fans-joao-pedro-leeds-defeat/",
@@ -4182,39 +4211,6 @@
    "added": 1795221030969,
    "cat": null,
    "titleKo": "봄파스토르 감독, 마쓰쿠보 마나카 출전 가능 여부에 대한 업데이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
-   "title": "Track Order - Chelsea Store",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795169192000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "주문 내역 조회 - 첼시 매장"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWVIZXdWSHl0WjdhemxZZFc3OHFiUW1MQUJoVFNwWjdiLUZnN1BfRWRsZDVYYmR1X0hyeXdWbmhZV05iWW1va3VXSW40ZTN3Z2lKSURPX3VoZHZGWGlseUx1UTh5elFKeFV4dWhNZjNWQWlNRFM1Zm5icF9UcTVkVl9KMEcyeTN5RTJ1UA?oc=5",
-   "title": "Emegha: 'When the time comes, I will be ready'",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWVIZXdWSHl0WjdhemxZZFc3OHFiUW1MQUJoVFNwWjdiLUZnN1BfRWRsZDVYYmR1X0hyeXdWbmhZV05iWW1va3VXSW40ZTN3Z2lKSURPX3VoZHZGWGlseUx1UTh5elFKeFV4dWhNZjNWQWlNRFM1Zm5icF9UcTVkVl9KMEcyeTN5RTJ1UA?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795168800000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "에메가: '때가 되면 준비가 되어 있을 겁니다'"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUEQ5V0lCX2xUaG5kT0Y3N01FOVBnQjVvdnJiNm5taHplWlR4V2tUOU5IamstN2RlUTBfd2ZkUlQ2V1NCaElCTnJwNnlxWkRJZElCN3VqR2JybUU1S0ttVXc1M28weXliemZwOFA5anlyQ0w0eDZFRmMxcTY0RnJzWG1zdnljWGNsNWtoeDA3dTI?oc=5",
-   "title": "Women's Super League ticket news: Brighton away",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUEQ5V0lCX2xUaG5kT0Y3N01FOVBnQjVvdnJiNm5taHplWlR4V2tUOU5IamstN2RlUTBfd2ZkUlQ2V1NCaElCTnJwNnlxWkRJZElCN3VqR2JybUU1S0ttVXc1M28weXliemZwOFA5anlyQ0w0eDZFRmMxcTY0RnJzWG1zdnljWGNsNWtoeDA3dTI?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795168800000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "여자 슈퍼리그 티켓 소식: 브라이턴 원정 경기"
   }
  ]
 }
