@@ -1,5 +1,5 @@
 {
- "updated": 1795322236528,
+ "updated": 1795325713321,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -21,14 +21,14 @@
   "인터풋볼": 0,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 32,
+  "구글뉴스(한국어)": 33,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 20건"
+  "이번 상대": "Nottingham Forest · 새 기사 23건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -49,6 +49,16 @@
     "added": 1795318573455,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 대 브라이턴 & 호브 앨비언 경기 시청하기"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fcUZpcWxpWGplU1NPajg0d2VJS1gtTWw2X1FIV0VTNVNZV0ZwN0QxaDlNcEVjdk5kNW9FUVppTjNNVVF5Nk5nR0NGZw?oc=5",
+    "title": "1999년 이후 처음 웃은 리즈, 첼시 원정서 4-1 승리…첼시 안방서 4골 허용 : 스포츠",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fcUZpcWxpWGplU1NPajg0d2VJS1gtTWw2X1FIV0VTNVNZV0ZwN0QxaDlNcEVjdk5kNW9FUVppTjNNVVF5Nk5nR0NGZw?oc=5",
+    "source": "재경일보",
+    "date": 1795300260000,
+    "added": 1795325711873,
+    "tag": "상대 소식",
+    "titleKo": "1999년 이후 처음 웃은 리즈, 첼시 원정서 4-1 승리…첼시 안방서 4골 허용 : 스포츠"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFlJSmFiODBMTGVudW1BUlg1LWlGbU9WUy1qekRQMDhkcUtmbnNtYTJOWENRTEtNQW5kTHVLVHc1c3k0YkRiUjg1S0RTRFk0SzFENHhFRjNhdFVPMFRJSk8xRkZ2U0hkY2J5VXpkLVBxdW1FOXBiOXhoRDFaSDlMdDQ4UFpuaU40V0E?oc=5",
@@ -829,16 +839,6 @@
     "added": 1795275032052,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트가 프리미어리그 경쟁 속에서도 맨체스터 시티와 동일하게 투표한 진짜 이유"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3JlUGtxekNsVEkzZThtNzdhRnVOOUhzVmFXaUNpQW5UenRaeHhDMUFYemtLeFRhNGhpdWNmVTN5dTVtZjlPZlVIcG5KcmlsYmJGQ21mV2NINzdwNzhXM2g5RDZXQ3Zpa3lqTjVITmthMG5qQUVzcnZPTUxWSWRGdWJHRjhHRl91Rm9j?oc=5",
-    "title": "Ibrahim Sangare now has the perfect chance to save his Nottingham Forest career - verdict",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3JlUGtxekNsVEkzZThtNzdhRnVOOUhzVmFXaUNpQW5UenRaeHhDMUFYemtLeFRhNGhpdWNmVTN5dTVtZjlPZlVIcG5KcmlsYmJGQ21mV2NINzdwNzhXM2g5RDZXQ3Zpa3lqTjVITmthMG5qQUVzcnZPTUxWSWRGdWJHRjhHRl91Rm9j?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795105923000,
-    "added": 1795308264714,
-    "tag": "상대 소식",
-    "titleKo": "이브라힘 상가레, 이제 노팅엄 포레스트에서의 커리어를 구할 수 있는 완벽한 기회를 얻었습니다 - 평가"
    }
   ]
  },
@@ -855,6 +855,28 @@
    "titleKo": "‘5경기 4패’ 무너지는 알론소 첼시, 팬들도 여러 차례 야유 세례",
    "imgTried": true,
    "image": "https://cdn.footballist.co.kr/news/thumbnail/202611/217169_183072_4038_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT01odGFZMWZ6Y0xGRFRsMjZfY2VISThDYnFfMngyVTU0UF9ZTi1UTDdjMkJZNkk1V051eFhPZzN3TEZxSXVmX0FKS1Q5bzN6aTBQSzJHVy1KQlRJNEpSZ2RSYWc3WVE4SjRNblYxdXVZNFQ2M3J5bmNQR2d0b2Z1aS1icU5vSEl4SnBSYmpUdGVJNnMtV1E?oc=5",
+   "title": "Xabi Alonso is under scrutiny, but Chelsea are not built for this Premier League",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT01odGFZMWZ6Y0xGRFRsMjZfY2VISThDYnFfMngyVTU0UF9ZTi1UTDdjMkJZNkk1V051eFhPZzN3TEZxSXVmX0FKS1Q5bzN6aTBQSzJHVy1KQlRJNEpSZ2RSYWc3WVE4SjRNblYxdXVZNFQ2M3J5bmNQR2d0b2Z1aS1icU5vSEl4SnBSYmpUdGVJNnMtV1E?oc=5",
+   "source": "The New York Times",
+   "group": "영국 언론",
+   "date": 1795324471000,
+   "added": 1795325711297,
+   "cat": null,
+   "titleKo": "사비 알론소가 주목을 받고 있지만, 첼시는 프리미어리그를 위해 만들어진 팀이 아닙니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0JZQVZ3U0d0Vi1idV9nR2dFbHBVcE5TXy1keFhzSmRoQWdNMDNfTEF2TTNjbE5qSXZadXIxbVprOXl0YllhVDFtZTRPYnBjenFLX2dsRXdxSkZ1aWVvZ0FndlpMQ053MXlhREJUVGFZVldIam1odHM4WWVaTTRUTXdyWDVodFBmeFJqdDh3SUpUQkdsYVFCa1VobDZ1MmFXNGlsbnFmc3Bwb3djYnVSZW5zOA?oc=5",
+   "title": "상대, 리즈 유나이티드전 패배 후 첼시의 약점을 드러내다",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0JZQVZ3U0d0Vi1idV9nR2dFbHBVcE5TXy1keFhzSmRoQWdNMDNfTEF2TTNjbE5qSXZadXIxbVprOXl0YllhVDFtZTRPYnBjenFLX2dsRXdxSkZ1aWVvZ0FndlpMQ053MXlhREJUVGFZVldIam1odHM4WWVaTTRUTXdyWDVodFBmeFJqdDh3SUpUQkdsYVFCa1VobDZ1MmFXNGlsbnFmc3Bwb3djYnVSZW5zOA?oc=5",
+   "source": "Laodong.vn",
+   "group": "한국 언론",
+   "date": 1795323316000,
+   "added": 1795325711297,
+   "cat": null,
+   "titleKo": "상대, 리즈 유나이티드전 패배 후 첼시의 약점을 드러내다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfVTIwemkzUWlMNzF5aDdGMzN4MHhUcHBmamJpdjk1dTNzYThaVTN2d19Kd2Z3YkJSVUJncnJjSWctdDFoWGlJMmFqSQ?oc=5",
@@ -4186,27 +4208,6 @@
    "added": 1795272695718,
    "cat": "오피셜",
    "titleKo": "첼시 공식 발표: 런던 지하철 파업, 리즈전 관람 팬들에게 영향 줄 수 있어‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEZjVzFVakVmMXh6ZXhJS0RRVVFxRlFwdkNYTUY5VDkxYVF1QnVjRzdGc0doTG1OSEFhYkt3VWt4YmtWaGxpZmo0SEx3WUQ2bVQ1SDY5YWdVbWswZ0xwT1B6UUpVM1k5TVM0QzJucnNGSW1OaUFUT0M1SUJ4SUZkWGsxOVRpTHVUX1BoUWV6Y0ZaaHN2S1ZkTmF5NVp5NlZP?oc=5",
-   "title": "Chelsea Under-18 vs Arsenal Under-18: How to watch it live",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEZjVzFVakVmMXh6ZXhJS0RRVVFxRlFwdkNYTUY5VDkxYVF1QnVjRzdGc0doTG1OSEFhYkt3VWt4YmtWaGxpZmo0SEx3WUQ2bVQ1SDY5YWdVbWswZ0xwT1B6UUpVM1k5TVM0QzJucnNGSW1OaUFUT0M1SUJ4SUZkWGsxOVRpTHVUX1BoUWV6Y0ZaaHN2S1ZkTmF5NVp5NlZP?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795165200000,
-   "added": 1795254947265,
-   "cat": null,
-   "titleKo": "첼시 U-18 vs 아스널 U-18: 실시간 시청 방법"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmVhdU51WVdwOS1tUDg5c2k5RGpaaGY1aWoyLWhTb2JNUjZRLTRJbFJrcC1rX0x2UHg1Ni14VUVCbk5OQmpqM0ZHWnM1cjZUUFNIbUZOeWJCb0c5SGtIVnJKNEpJZjF0aHRFLVp1c1p4cEZPeTdYdXJTTl9GZGlLR084WTl4V1pkWDIwb1A1anNCaGg5OG9xazFtX0MwTlg1czBjVWpneUZfUnZy?oc=5",
-   "title": "첼시 대 리즈: 상대 전적 통계 및 역사적 이정표",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmVhdU51WVdwOS1tUDg5c2k5RGpaaGY1aWoyLWhTb2JNUjZRLTRJbFJrcC1rX0x2UHg1Ni14VUVCbk5OQmpqM0ZHWnM1cjZUUFNIbUZOeWJCb0c5SGtIVnJKNEpJZjF0aHRFLVp1c1p4cEZPeTdYdXJTTl9GZGlLR084WTl4V1pkWDIwb1A1anNCaGg5OG9xazFtX0MwTlg1czBjVWpneUZfUnZy?oc=5",
-   "source": "Laodong.vn",
-   "group": "한국 언론",
-   "date": 1795164827000,
-   "cat": null,
-   "titleKo": "첼시 대 리즈: 상대 전적 통계 및 역사적 이정표"
   }
  ]
 }
