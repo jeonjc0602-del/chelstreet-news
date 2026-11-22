@@ -1,9 +1,9 @@
 {
- "updated": 1795342352379,
+ "updated": 1795345002245,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
-  "talkSPORT": 5,
+  "talkSPORT": 6,
   "The Guardian": 20,
   "football.london": 25,
   "Evening Standard": 9,
@@ -14,21 +14,21 @@
   "Independent": 4,
   "Express": 0,
   "Sports Mole": 14,
-  "CaughtOffside": 1,
+  "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 64,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 30,
+  "구글뉴스(한국어)": 31,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 27건"
+  "이번 상대": "Nottingham Forest · 새 기사 29건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTZUUElTelFmZ1pxZm8xaW1WWUZXaktfZGJuWTV5VVZfX09DLXQ1R2gwNFNNdDhURU5sSDNFaEhoWmJNejNHYWVMbHdvbVlYUkItaDR5Z2NvSFVRclR4T21hakN6bzlZUEs1V1dfTkszTzR2QnRtTXN4VGhQUGFydjI5RFlxUzB4eFY5eWFsSVF6Z09yZ21kZXg5SHktQ01XYUZDTEZnSE9qZGZJVnlYQ0lJTUNaQQ?oc=5",
+    "title": "Nottingham Forest selection call explained as Glasner delivers cutting verdict",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTZUUElTelFmZ1pxZm8xaW1WWUZXaktfZGJuWTV5VVZfX09DLXQ1R2gwNFNNdDhURU5sSDNFaEhoWmJNejNHYWVMbHdvbVlYUkItaDR5Z2NvSFVRclR4T21hakN6bzlZUEs1V1dfTkszTzR2QnRtTXN4VGhQUGFydjI5RFlxUzB4eFY5eWFsSVF6Z09yZ21kZXg5SHktQ01XYUZDTEZnSE9qZGZJVnlYQ0lJTUNaQQ?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795343593000,
+    "added": 1795344999715,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "글라스너 감독이 선발 명단에 대한 결정을 내리면서 노팅엄 포레스트전 선발 명단에 대한 설명이 나왔습니다."
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGZqVENKWndrWF9VTm0wZzFSdS03aTQ2YWtCd3RoRk8yZGlqUDNIY1ctVWRoUVBJMFhiYWJFM3lFOXNzeDJWODdZOFhaU1k2MXBGVzAzZm1JX2pCUEsyNWNWblRiT0dQRnQ1RDR3SkZhSnNJTTRlbkdqX2RBZTBnZ3RHeE9XYUkySVp6NFNXSXJiNXJoQ1Q0SmVEZDhGLVFOY0tVb0VYYTl0NjRwSUp0MFk3aUgzdmhyOEJRNnpRSDRKd2NnNC0w?oc=5",
     "title": "Glasner has no choice but to play Forest star who he constantly ignores vs Chelsea",
@@ -829,16 +839,6 @@
     "added": 1795275032052,
     "tag": "라인업·팀뉴스",
     "titleKo": "본머스 대 노팅엄 포레스트 팀 소식 및 예상 선발 명단"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1F5alNPLTB5RGlVbUZ5ZVZQVkUtd18yUzk5V09RdEpzcXR1NXY4d19FNGJLcGF5d0k3MkxTRDQ2Um9DQzhidW1WUmpRVUFHeVlrMFZnb3FzWjZFWUZuU1J5ZmJ5b3BzNUEzSkNGUTd0Z09jbjVrQ3k5Nk5BUDJlRtIBhgFBVV95cUxNNXZXQ2NzTEpkcTlPS2ZBQy1hQzNmaGVKV3VpUS1QamNfbTRQd242akpVZVpfMHRCdHpFSlhHVVFQdV8zZG9Nb0xGd3JYQWZCUGFwZmlHa1oxTjRJYm5KZE9BanJub2ZUTjYwWlBzajRaMGJDYWVaZkJEWXdLYTRBcVRzZDA4Zw?oc=5",
-    "title": "Roberto De Zerbi eager to sign Nottingham Forest star for Tottenham",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1F5alNPLTB5RGlVbUZ5ZVZQVkUtd18yUzk5V09RdEpzcXR1NXY4d19FNGJLcGF5d0k3MkxTRDQ2Um9DQzhidW1WUmpRVUFHeVlrMFZnb3FzWjZFWUZuU1J5ZmJ5b3BzNUEzSkNGUTd0Z09jbjVrQ3k5Nk5BUDJlRtIBhgFBVV95cUxNNXZXQ2NzTEpkcTlPS2ZBQy1hQzNmaGVKV3VpUS1QamNfbTRQd242akpVZVpfMHRCdHpFSlhHVVFQdV8zZG9Nb0xGd3JYQWZCUGFwZmlHa1oxTjRJYm5KZE9BanJub2ZUTjYwWlBzajRaMGJDYWVaZkJEWXdLYTRBcVRzZDA4Zw?oc=5",
-    "source": "CaughtOffside",
-    "date": 1795158705000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "로베르토 데 제르비 감독, 토트넘을 위해 노팅엄 포레스트의 스타 영입에 열의를 보이고 있습니다."
    }
   ]
  },
@@ -855,6 +855,19 @@
    "titleKo": "‘레버쿠젠 무패 우승 기세 어디갔나?’ 사비 알론소의 첼시, 27년 만에 안방 최악 참사...”발전이 전혀 없다“",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/698995_832941_2459_v150.jpg"
+  },
+  {
+   "id": "https://talksport.com/football/4724409/xabi-alonso-cole-palmer-touchline-row-joao-pedro-chelsea/",
+   "title": "Xabi Alonso addresses Cole Palmer &#8216;touchline row&#8217; with Joao Pedro moments after Chelsea defeat",
+   "link": "https://talksport.com/football/4724409/xabi-alonso-cole-palmer-touchline-row-joao-pedro-chelsea/",
+   "source": "talkSPORT",
+   "group": "영국 언론",
+   "date": 1795343874000,
+   "added": 1795344998210,
+   "cat": null,
+   "titleKo": "사비 알론소, 첼시 패배 직후 콜 파머와 주앙 페드로의 '터치라인 논쟁'에 대해 언급",
+   "imgTried": true,
+   "image": "https://talksport.com/wp-content/uploads/2026/11/2026-27-match-chelsea-fc-1124786024.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
   },
   {
    "id": "http://www.footballist.co.kr/news/articleView.html?idxno=217169",
@@ -4206,17 +4219,6 @@
    "added": 1795222576855,
    "cat": null,
    "titleKo": "첼시 여자 U21 vs 맨체스터 유나이티드 여자 U21 | 경기"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT0JPNWlBckhsbThuNkExVDhoNFBYeDBON1hYVDVJaGNNN2F1eTBmZUowbmI1RFRHLXRVYWVSUjZkZWl4YjFibDdqM0VKNjk0bEIxZk53YjM0NkdMLWdHNHBSenJsbEZLRXpweFNjeHBLOGNJWHE3czByNlJNZXRFWUJVZ2FXOVVKeG1EdlBSMmV2c2NLUWhrdHlPLVNWU1NJNC1wVzF3a1oyR0JnY0tTbEJyT0d5ZXlDZHdpN1JMNUM4U1Y1Yk1CWXQzMjlCcUZzV3RFRXp6b0pZZzZtQS1PYVF6UlhGZw?oc=5",
-   "title": "How to watch Chelsea vs Leeds in the UK, Ireland, USA and around the world",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT0JPNWlBckhsbThuNkExVDhoNFBYeDBON1hYVDVJaGNNN2F1eTBmZUowbmI1RFRHLXRVYWVSUjZkZWl4YjFibDdqM0VKNjk0bEIxZk53YjM0NkdMLWdHNHBSenJsbEZLRXpweFNjeHBLOGNJWHE3czByNlJNZXRFWUJVZ2FXOVVKeG1EdlBSMmV2c2NLUWhrdHlPLVNWU1NJNC1wVzF3a1oyR0JnY0tTbEJyT0d5ZXlDZHdpN1JMNUM4U1Y1Yk1CWXQzMjlCcUZzV3RFRXp6b0pZZzZtQS1PYVF6UlhGZw?oc=5",
-   "source": "LiveScore",
-   "group": "영국 언론",
-   "date": 1795174667000,
-   "added": 1795254947265,
-   "cat": null,
-   "titleKo": "영국, 아일랜드, 미국 및 전 세계에서 첼시 대 리즈 경기를 시청하는 방법"
   }
  ]
 }
