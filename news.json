@@ -1,5 +1,5 @@
 {
- "updated": 1795315410640,
+ "updated": 1795318579758,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -13,11 +13,11 @@
   "Telegraph": 6,
   "Independent": 4,
   "Express": 0,
-  "Sports Mole": 14,
+  "Sports Mole": 15,
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 65,
+  "구글뉴스(영어)": 66,
   "인터풋볼": 0,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 19건"
+  "이번 상대": "Nottingham Forest · 새 기사 31건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WelhxaHJmN2ZCVUw3Rjh6eTdlQmJkWHZ0QVN0YmU0TE9YcmF4TjNvR1RnM1gzN3lkUDJ3WkhabjlQZTNLOVNrTkJoOVNQLUJoNl90Q1VzWVdPaXBEcHVN?oc=5",
+    "title": "Watch Nottingham Forest vs Brighton & Hove Albion",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WelhxaHJmN2ZCVUw3Rjh6eTdlQmJkWHZ0QVN0YmU0TE9YcmF4TjNvR1RnM1gzN3lkUDJ3WkhabjlQZTNLOVNrTkJoOVNQLUJoNl90Q1VzWVdPaXBEcHVN?oc=5",
+    "source": "Fubo",
+    "date": 1795306918000,
+    "added": 1795318573455,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 대 브라이턴 & 호브 앨비언 경기 시청하기"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFlJSmFiODBMTGVudW1BUlg1LWlGbU9WUy1qekRQMDhkcUtmbnNtYTJOWENRTEtNQW5kTHVLVHc1c3k0YkRiUjg1S0RTRFk0SzFENHhFRjNhdFVPMFRJSk8xRkZ2U0hkY2J5VXpkLVBxdW1FOXBiOXhoRDFaSDlMdDQ4UFpuaU40V0E?oc=5",
     "title": "Djordje Petrović on 9 straight wins: The 5-1 defeat to Chelsea motivated us to turn things around",
@@ -69,6 +79,16 @@
     "added": 1795293588005,
     "tag": "상대 소식",
     "titleKo": "글라스너 감독, 노팅엄 포레스트의 본머스전 패배 후 1월 이적 시장 영입 가능성 시사"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDR3UFpwV051Y2JnTVhEV0hUVWdLNkdmY0V3WV9sckd5VzdQMEJKZ3dnQnJZY0ZsdFltNUtJcTg5TmFVc0lvNWpqZ1dpUTE4TXY2blN4LVJqMzktbU1pRVlfLVRQOUpadERlRGZSa3JzT3ExRnpqY0lOTlBSVTd4TzVYMXY?oc=5",
+    "title": "Turning point? Chelsea's 5-1 win preceded 4 losses in 6; Bournemouth won 9 straight.",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDR3UFpwV051Y2JnTVhEV0hUVWdLNkdmY0V3WV9sckd5VzdQMEJKZ3dnQnJZY0ZsdFltNUtJcTg5TmFVc0lvNWpqZ1dpUTE4TXY2blN4LVJqMzktbU1pRVlfLVRQOUpadERlRGZSa3JzT3ExRnpqY0lOTlBSVTd4TzVYMXY?oc=5",
+    "source": "AllFootball",
+    "date": 1795290371000,
+    "added": 1795318573455,
+    "tag": "상대 소식",
+    "titleKo": "터닝 포인트? 첼시의 5-1 승리에 앞서 6경기 중 4경기에서 패배했습니다. 본머스는 9연승을 거뒀습니다."
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NMkJLSHFobHl0bU5haUdDLUpJVUJBREhOTFdaYVI1RjFfdGxFTEZJbXZPcXVGaGprS2M2WjFCc2t2OWNTTkpRSURsdw?oc=5",
@@ -119,6 +139,16 @@
     "added": 1795288589742,
     "tag": "상대 소식",
     "titleKo": "본머스 2-0 노팅엄 포레스트: 에바닐송과 클라위베르트의 득점"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MMG1WNGRkQi1UTGVFY0QwRkVtdUt2NmJhVmpzRXVqRVJFZFpmQkpkN2hyNGQwZzh5Qmo3Z3IxWmE0YWliemc5SHVOQ0ZRMkVzT3gwSHpYbWZXZm1LVEpB?oc=5",
+    "title": "Watch Chelsea FC vs Liverpool",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MMG1WNGRkQi1UTGVFY0QwRkVtdUt2NmJhVmpzRXVqRVJFZFpmQkpkN2hyNGQwZzh5Qmo3Z3IxWmE0YWliemc5SHVOQ0ZRMkVzT3gwSHpYbWZXZm1LVEpB?oc=5",
+    "source": "Fubo",
+    "date": 1795285015000,
+    "added": 1795318573455,
+    "tag": "상대 소식",
+    "titleKo": "첼시 FC 대 리버풀 경기 시청하기"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlRNc0pPREF3SkN6S0NhQ184SWJ0TGkyRDZHOEc2dXh3Um0xNU5WOTdBR0Rfc0l3U0hqcDhNUnlkY1I4d2ZncmllVHlycDl1cWFoNW1YeWpKTFBHbGtOUk01VHd5Y0ljWm5ybGN4VVIzdGo2aUpoNUVMQWlFZXFRWGpCUEhRSjJOaXNZMHpXMUVGZ0FNSnRoUDQzb2tZZDBjdy14dnctNlNBaW9tZHdZeEUwUQ?oc=5",
@@ -191,6 +221,16 @@
     "titleKo": "본머스 vs 노팅엄 포레스트 선수 평점 – 클라위베르트가 빛나다"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKNWtBUmpuTXYzVl80Y2ZYZVBhN3RjanY1MGtUWW4yQ01Bc3g1SEFHeE1USDBuZWFXSThkazRVS0tUSnh6TG85UG1hZjZTSnE2bXlraUpVRXpFcU5fSVcwTzkwYi1odm9BWjdVb3RORdIBdEFVX3lxTE96RVlYZVZ4UFZLRXBKaVVlMXNoZThpZERrVl9vQlRTZlRxM1ZQaEJ3LXRsSTVWdjNqZUdBRWNid3NlaERjRndvQlBHeFRKNW5rcUU0eUtobW5WMDhZa0lLLTlCamNvSW4wTHJOY3dqRUVXTUxX?oc=5",
+    "title": "Chelsea hammered by Leeds as controversial penalty leaves Xabi Alonso furious",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKNWtBUmpuTXYzVl80Y2ZYZVBhN3RjanY1MGtUWW4yQ01Bc3g1SEFHeE1USDBuZWFXSThkazRVS0tUSnh6TG85UG1hZjZTSnE2bXlraUpVRXpFcU5fSVcwTzkwYi1odm9BWjdVb3RORdIBdEFVX3lxTE96RVlYZVZ4UFZLRXBKaVVlMXNoZThpZERrVl9vQlRTZlRxM1ZQaEJ3LXRsSTVWdjNqZUdBRWNid3NlaERjRndvQlBHeFRKNW5rcUU0eUtobW5WMDhZa0lLLTlCamNvSW4wTHJOY3dqRUVXTUxX?oc=5",
+    "source": "Daily Express",
+    "date": 1795281600000,
+    "added": 1795318573455,
+    "tag": "상대 소식",
+    "titleKo": "논란의 여지가 있는 페널티로 인해 사비 알론소가 분노한 가운데, 첼시가 리즈에게 대패했습니다."
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0g1RmNLS1NOQTdTTE9xQ1J4OURueTJTM0ZjR3VfeUo0MmZZTUpBSzgwVkdjMkw3eTRFS1ZwU1hFMVFuRHhXWE12QXp3WnR5b2FlRGIyb1hNNW1aZno5T0N6b09TZUdyeXpTbWFSNjhQT292a3BUNXZvcl83blU1Wkk0N3hDdVFISldENFQzSmloa0lNblY2cGo0b1hpekNOUmdBSkVTN2ZZUkkwc3c?oc=5",
     "title": "Bournemouth 2-0 Nottingham Forest | Premier League highlights",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0g1RmNLS1NOQTdTTE9xQ1J4OURueTJTM0ZjR3VfeUo0MmZZTUpBSzgwVkdjMkw3eTRFS1ZwU1hFMVFuRHhXWE12QXp3WnR5b2FlRGIyb1hNNW1aZno5T0N6b09TZUdyeXpTbWFSNjhQT292a3BUNXZvcl83blU1Wkk0N3hDdVFISldENFQzSmloa0lNblY2cGo0b1hpekNOUmdBSkVTN2ZZUkkwc3c?oc=5",
@@ -199,6 +239,16 @@
     "added": 1795288589742,
     "tag": "상대 소식",
     "titleKo": "본머스 2-0 노팅엄 포레스트 | 프리미어리그 하이라이트"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83cGtnaTg2RWhNdU5rckV2OTBob1BUb3pvQmdkVU5ySndYcHM5SnM5ZVZneUo5Snhoei1Xam1fZFZXSUlJX0lWWkIxdG1wWGNtMnJoaFFzMVVtRWM5anhlNnUwNW15cDZiQkQ1em5HbEhwaHBvVnFESkFTaw?oc=5",
+    "title": "18-year-old stars on full Tottenham debut, Leeds stun Chelsea",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83cGtnaTg2RWhNdU5rckV2OTBob1BUb3pvQmdkVU5ySndYcHM5SnM5ZVZneUo5Snhoei1Xam1fZFZXSUlJX0lWWkIxdG1wWGNtMnJoaFFzMVVtRWM5anhlNnUwNW15cDZiQkQ1em5HbEhwaHBvVnFESkFTaw?oc=5",
+    "source": "The 42",
+    "date": 1795280700000,
+    "added": 1795318573455,
+    "tag": "상대 소식",
+    "titleKo": "18세 스타, 토트넘 데뷔전 풀타임 소화. 리즈, 첼시를 상대로 이변을 일으키다"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGlkdHd2bjkwclA3c2RLTXMxd043eERKc2pER0FvNVJ0Z2VUZUlqQTFWODBSV0xoYjZKdFI0VnhaOFYtb3RLRVdQQ1JRRzMtS3ZTWDUwVzJUeDh1WHRwU2FfMXRCTGFWZHBRTUlURlRLRnJieS1pcEdMaENueE9OTWFnY0hUNGYwMnNmSUptRF90Mk9tUUtLY1hELTlVLXJFQjBmNURRNElQd21jSC1JeS0tUdIBuAFBVV95cUxQUjdnVThCOUx4Q2duVlMybVZGOV9HWEdCNVA2YUVHOGJIelU3bUxtSU04YmVpQUlkZnpNTEJMRF9PdDRDdTJVOEI2NFpDMXpNYmNmbUJTUXJWOFo1Zlo0dmd4Y0lLMXNIaDNWeXRRX05wQWpEMjJ0RS1zQ015TGJBZnNab09MN2NqREQ0cmFGWWF0S2VjWXBVUjM0NVhWVWhZWHV1TFpmR1dGM2J5RkcxbGZhU0hTelNR?oc=5",
@@ -229,6 +279,16 @@
     "added": 1795285403094,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 - 첼시"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRqNWRmNTdoT2k3clJzRzdDOUhmbHVJWjU2NENNSk40cE5GYWRHeUdWbFNnUzl5NzU2Ni0taEY2aDlaU3M0MXlCSlJEbVVHSGhvX3U2eFBDQXNZRGVMVjRWamdpQ29ORFJUOFEyeUJZUlZaQUg0akM5a2w0bEhhQzZfZG1mcHFBSG9IU0NhZTh0TkRHUlRn0gGcAUFVX3lxTFB1OS1iUUJLQjVFVDZSdWhzZGpudjhEYXozQURFN1lCN2JpYWs5bmQ5a2dZTi1GcGFjdXhjNHlkbkRUMGF6Q2t5aW5yMWpaci1fVjk3b3MySlV6TG94cTNDLXNCMVNzRmlrcVFNcVppTmZ0c1FKakh6TS1WWHQyT2hxMXdoRlU3TURWWFFxWVUxY19pMkZ3bGtYYU90Rw?oc=5",
+    "title": "Chelsea player ratings vs Leeds: Cole Palmer anonymous as six 4/10s struggle in loss",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRqNWRmNTdoT2k3clJzRzdDOUhmbHVJWjU2NENNSk40cE5GYWRHeUdWbFNnUzl5NzU2Ni0taEY2aDlaU3M0MXlCSlJEbVVHSGhvX3U2eFBDQXNZRGVMVjRWamdpQ29ORFJUOFEyeUJZUlZaQUg0akM5a2w0bEhhQzZfZG1mcHFBSG9IU0NhZTh0TkRHUlRn0gGcAUFVX3lxTFB1OS1iUUJLQjVFVDZSdWhzZGpudjhEYXozQURFN1lCN2JpYWs5bmQ5a2dZTi1GcGFjdXhjNHlkbkRUMGF6Q2t5aW5yMWpaci1fVjk3b3MySlV6TG94cTNDLXNCMVNzRmlrcVFNcVppTmZ0c1FKakh6TS1WWHQyT2hxMXdoRlU3TURWWFFxWVUxY19pMkZ3bGtYYU90Rw?oc=5",
+    "source": "Daily Express",
+    "date": 1795280340000,
+    "added": 1795318573455,
+    "tag": "상대 소식",
+    "titleKo": "첼시 선수 평점(리즈전): 4/10점을 받은 6명의 선수가 부진한 가운데, 콜 파머는 존재감이 없었음"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTBQc0MxNndqNGxMQ3Z4V0ppOEFCUk85dmZ6NF9rTFJhczRNSnU5bE0zX1AxanlCWmlCSmc1MWxSVi1ydHJzc3loRU5QOVNkSEdaN211bXJ5SWc1WFh3eVJiejF2cHVQWTJFRUdHYk0xSWtoRVBMTzZmZTBIRmNNTjRuTC1XaHFSalE?oc=5",
@@ -779,66 +839,6 @@
     "added": 1795308264714,
     "tag": "상대 소식",
     "titleKo": "이브라힘 상가레, 이제 노팅엄 포레스트에서의 커리어를 구할 수 있는 완벽한 기회를 얻었습니다 - 평가"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUwxd3Z3M2ZTWXd1WExIYm5BRzFxQUU2ZEZmbGN3d25rU1V5UzE0LXhmTG8xQW9sTDF5TEpEUGhBTjM5YjdmbUJLT2ExT3FxenNvN05rU3Examxtd3hNU0lPY0dKcFI0RmJSeDJVT0VEMzJLS1d1bGdoTUc2dWZ1aDRkTzJPaks1OFRUMUgxOWk1UQ?oc=5",
-    "title": "Match Report. Nottingham Forest Under-21s 2 Newcastle United Under-21s 3",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUwxd3Z3M2ZTWXd1WExIYm5BRzFxQUU2ZEZmbGN3d25rU1V5UzE0LXhmTG8xQW9sTDF5TEpEUGhBTjM5YjdmbUJLT2ExT3FxenNvN05rU3Examxtd3hNU0lPY0dKcFI0RmJSeDJVT0VEMzJLS1d1bGdoTUc2dWZ1aDRkTzJPaks1OFRUMUgxOWk1UQ?oc=5",
-    "source": "Newcastle United",
-    "date": 1795105250000,
-    "added": 1795308264714,
-    "tag": "상대 소식",
-    "titleKo": "경기 보고서. 노팅엄 포레스트 U-21 2 - 뉴캐슬 유나이티드 U-21 3"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGR5VFpMb2FfZGxENXROWkdxdjgxOFA0SUtvNlZlbk93Q2k1TzA4dkxVZl93MDR5MmRfUm5kUHdWbU5HR1libk45M2hMZnVVZDBmVk83WVRGUkpOWG15NDdfQ3ZRSXlDWVc1LUJGQV8xVG1fY05nakdPWXdtMzdnTE1DOE1ZYzVwd1pmTUFLcXI0MWNpQ1pQd0RUMUFfdF9oVDFmLUtyOUFLVXM?oc=5",
-    "title": "Oliver Glasner issues Nottingham Forest injury update as duo affected by cancelled flight",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGR5VFpMb2FfZGxENXROWkdxdjgxOFA0SUtvNlZlbk93Q2k1TzA4dkxVZl93MDR5MmRfUm5kUHdWbU5HR1libk45M2hMZnVVZDBmVk83WVRGUkpOWG15NDdfQ3ZRSXlDWVc1LUJGQV8xVG1fY05nakdPWXdtMzdnTE1DOE1ZYzVwd1pmTUFLcXI0MWNpQ1pQd0RUMUFfdF9oVDFmLUtyOUFLVXM?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795103208000,
-    "added": 1795275032052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "올리버 글라스너 감독, 취소된 항공편으로 인해 두 선수가 부상을 입었다고 밝힘"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNazhtZzZ1RmVhaDZOcGlCbDliTEE4R1hueC1yODdXUkEtNTV2UmdlR2FHbmxPRUlhazBzVUVzOGdJNmFKZm5rUGFnOUVkOHNwcEFvOTFidFNIQkhFcEw2M3pIaEo2aTlmckl0UDhwejlIanRzR1RDQ1gzS05yT2VJRjRnN09BM1VFRm9oV0Q1YlV6RUxUSmFlU3pR?oc=5",
-    "title": "Watch Subway Players Cup highlights: Nottingham Forest 1-4 Liverpool",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNazhtZzZ1RmVhaDZOcGlCbDliTEE4R1hueC1yODdXUkEtNTV2UmdlR2FHbmxPRUlhazBzVUVzOGdJNmFKZm5rUGFnOUVkOHNwcEFvOTFidFNIQkhFcEw2M3pIaEo2aTlmckl0UDhwejlIanRzR1RDQ1gzS05yT2VJRjRnN09BM1VFRm9oV0Q1YlV6RUxUSmFlU3pR?oc=5",
-    "source": "Liverpool FC",
-    "date": 1795099088000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "서브웨이 플레이어스 컵 하이라이트 시청: 노팅엄 포레스트 1-4 리버풀"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE4WG8xWXN3VlVJM3huZjhSaTdFdTZTWDB4N1pHWER1dEZjZjYzSVpOb0tnTHR3dFZ0TXpFUENsNFlUX0gtNl9SQUlEVUE3S3FpaDY4SFBac3p2MTdMOWlYc2ZDUWpCOHhSbzJBaXhrT3gtWFVwdGdmQ0xxdTNyZFRkcXJiOUhGUGhzNzI4S0ZSUWs?oc=5",
-    "title": "PREVIEW | Bournemouth vs Nottingham Forest: team news, lineups, predictions (Premier League 21/11)",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE4WG8xWXN3VlVJM3huZjhSaTdFdTZTWDB4N1pHWER1dEZjZjYzSVpOb0tnTHR3dFZ0TXpFUENsNFlUX0gtNl9SQUlEVUE3S3FpaDY4SFBac3p2MTdMOWlYc2ZDUWpCOHhSbzJBaXhrT3gtWFVwdGdmQ0xxdTNyZFRkcXJiOUhGUGhzNzI4S0ZSUWs?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795097100000,
-    "added": 1795275032052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "프리뷰 | 본머스 vs 노팅엄 포레스트: 팀 소식, 선발 명단, 예측(프리미어리그 11월 21일)"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWxYVVF2RTJwTXdiMDJqd09nUVV1blBhTGRndUxmajVfSllKZUI5Y3BGYWFMaXJoQzMxNnNrUnpRYzN3YkZEVHZsSUhRT1BrVXRON29tVFhhMTFOQzhlakJKS0VJb0VTM1J0N09PWVZScnVudk5HdEVTekVmc0doaFZtU2hiS1Y1ZW1aNjg0M0xOWkwzblJJSUNvLWZ6SVhIZ2l4V2J2RXYxUms?oc=5",
-    "title": "Nottingham Forest and rivals told key dates for 2027/28 Premier League season",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWxYVVF2RTJwTXdiMDJqd09nUVV1blBhTGRndUxmajVfSllKZUI5Y3BGYWFMaXJoQzMxNnNrUnpRYzN3YkZEVHZsSUhRT1BrVXRON29tVFhhMTFOQzhlakJKS0VJb0VTM1J0N09PWVZScnVudk5HdEVTekVmc0doaFZtU2hiS1Y1ZW1aNjg0M0xOWkwzblJJSUNvLWZ6SVhIZ2l4V2J2RXYxUms?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795095644000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트와 경쟁 구단에 2027/28 프리미어리그 시즌의 주요 일정이 통보됨"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZG44MWZfSEV4bG12TDhEN1NSOW9YMGxPZjh0dFNhWk5LSjZSbG5ILTUwenNiakFHbEN0YXRFVUZrcEM4cXdGQ3pJOExXNWhQSE1aemU4T1Z0djl6bUoxNWdSaHZESlM2SElUdmtVZzJzN0hEZWt3VVhoT1ZTRkU4OEN0M25mZUx0c2trOGViMmV3NWsxdV91NXZxcU00WFhuNjN4RS1FeGM5aVhW0gGsAUFVX3lxTE5kbjgxZl9IRXhsbXZMOEQ3U1I5b1gwbE9mOHR0U2FaTktKNlJsbkgtNTB6c2JqQUdsQ3RhdEVVRmtwQzhxd0ZDekk4TFc1aFBITVp6ZThPVnR2OXptSjE1Z1JodkRKUzZISVR2a1VnMnM3SERla3dVWGhPVlNGRTg4Q3QzbmZlTHRza2s4ZWIyZXc1azF1X3U1dnFxTTRYWG42M3hFLUV4YzlpWFY?oc=5",
-    "title": "Two Chelsea fixtures moved including evening match fans are fearful of",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZG44MWZfSEV4bG12TDhEN1NSOW9YMGxPZjh0dFNhWk5LSjZSbG5ILTUwenNiakFHbEN0YXRFVUZrcEM4cXdGQ3pJOExXNWhQSE1aemU4T1Z0djl6bUoxNWdSaHZESlM2SElUdmtVZzJzN0hEZWt3VVhoT1ZTRkU4OEN0M25mZUx0c2trOGViMmV3NWsxdV91NXZxcU00WFhuNjN4RS1FeGM5aVhW0gGsAUFVX3lxTE5kbjgxZl9IRXhsbXZMOEQ3U1I5b1gwbE9mOHR0U2FaTktKNlJsbkgtNTB6c2JqQUdsQ3RhdEVVRmtwQzhxd0ZDekk4TFc1aFBITVp6ZThPVnR2OXptSjE1Z1JodkRKUzZISVR2a1VnMnM3SERla3dVWGhPVlNGRTg4Q3QzbmZlTHRza2s4ZWIyZXc1azF1X3U1dnFxTTRYWG42M3hFLUV4YzlpWFY?oc=5",
-    "source": "Football London",
-    "date": 1795095139000,
-    "added": 1795277863027,
-    "tag": "상대 소식",
-    "titleKo": "저녁 경기를 우려하는 팬들이 있는 가운데 첼시의 경기 일정 2개가 변경되었습니다."
    }
   ]
  },
@@ -855,6 +855,40 @@
    "titleKo": "‘5경기 4패’ 무너지는 알론소 첼시, 팬들도 여러 차례 야유 세례",
    "imgTried": true,
    "image": "https://cdn.footballist.co.kr/news/thumbnail/202611/217169_183072_4038_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfVTIwemkzUWlMNzF5aDdGMzN4MHhUcHBmamJpdjk1dTNzYThaVTN2d19Kd2Z3YkJSVUJncnJjSWctdDFoWGlJMmFqSQ?oc=5",
+   "title": "리즈에 1-4 패한 첼시, 알론소 감독 체제서 8위 하락 : EPL",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfVTIwemkzUWlMNzF5aDdGMzN4MHhUcHBmamJpdjk1dTNzYThaVTN2d19Kd2Z3YkJSVUJncnJjSWctdDFoWGlJMmFqSQ?oc=5",
+   "source": "재경일보",
+   "group": "한국 언론",
+   "date": 1795318026000,
+   "added": 1795318572578,
+   "cat": null,
+   "titleKo": "리즈에 1-4 패한 첼시, 알론소 감독 체제서 8위 하락 : EPL"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGFBa29PcHNRa1hTMURsejVlcmlObEVDZkRwUzFibGpXXzA5ck9KMGxWTUhPMk5XaGRBTnlrTmVvdWlSLVh3QVRmTzZBMFgwZUxmZEsyYnpQVGpCSVNaR21FLXBJTlZjYmVwbFJCX3NtbFBoOXgwN21xREVJcThGS2xGQ3ozcFVqMnpwTXhhMXNMUQ?oc=5",
+   "title": "첼시가 가장 원치 않는 일이 일어났습니다",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGFBa29PcHNRa1hTMURsejVlcmlObEVDZkRwUzFibGpXXzA5ck9KMGxWTUhPMk5XaGRBTnlrTmVvdWlSLVh3QVRmTzZBMFgwZUxmZEsyYnpQVGpCSVNaR21FLXBJTlZjYmVwbFJCX3NtbFBoOXgwN21xREVJcThGS2xGQ3ozcFVqMnpwTXhhMXNMUQ?oc=5",
+   "source": "Laodong.vn",
+   "group": "한국 언론",
+   "date": 1795315475000,
+   "added": 1795318572578,
+   "cat": null,
+   "titleKo": "첼시가 가장 원치 않는 일이 일어났습니다"
+  },
+  {
+   "id": "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/chelsea-pain-alonso-makes-worrying-caicedo-admission-after-latest-injury-blow_609592.html",
+   "title": "Moises Caicedo injury: Xabi Alonso makes worrying admission after Chelsea star's latest blow",
+   "link": "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/chelsea-pain-alonso-makes-worrying-caicedo-admission-after-latest-injury-blow_609592.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795315020000,
+   "image": "https://www.sportsmole.co.uk/thumbor/Rh6ALqEz5oCJVZiTqY0S4FxLrU4=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsport-379985-0045-1-1-6b01b9a14982c230400155.jpg",
+   "added": 1795318572577,
+   "cat": "부상",
+   "titleKo": "모이세스 카이세도 부상: 자비 알론소, 첼시 스타의 최근 부상에 대해 우려를 표명"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFBxeVYtM0lFU3J1M3ZhMTlpT1V1VXB4dnR0RVg1YW5TYzB4ejNxc05iaGRhNlFTNmpGM0QyTjE2ZWM4QlFYTXdieUgxQ1h0YXpKcFN0cmR6V21lOW52eDBxcDNhVDZVMWtPZHl2V1A3cjIyMGtadnNWN3k2RTNzaVE5WlMwMFZIOEtRa1ZCaU1BQkJkSHo0TUgxUTZIUGNUNHV1LVhVTThlUzBFZGZYR0g3d2Y2VjFfblBabjZn?oc=5",
@@ -4173,39 +4207,6 @@
    "date": 1795164827000,
    "cat": null,
    "titleKo": "첼시 대 리즈: 상대 전적 통계 및 역사적 이정표"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/arsenal-fc-chelsea-mudryk-transfer-tottenham-b1305665.html",
-   "title": "Chelsea star Mykhailo Mudryk in stunning Arsenal transfer admission ahead of Tottenham return",
-   "link": "https://www.standard.co.uk/sport/football/arsenal-fc-chelsea-mudryk-transfer-tottenham-b1305665.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795164679000,
-   "cat": "이적",
-   "titleKo": "첼시의 스타 미하일로 무드리크, 토트넘과의 재대결을 앞두고 아스널 이적에 대한 놀라운 사실을 인정하다",
-   "image": "https://static.standard.co.uk/2026/09/05/17/01M1S401BKBHNHC87131F99BED.jpg?width=1200&auto=webp&crop=3%3A2"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-vinicius-scott-b1303142.html",
-   "title": "Transfer news LIVE: Vinicius to Arsenal; Chelsea learn Scott price; Man Utd, Liverpool latest",
-   "link": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-vinicius-scott-b1303142.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795163061000,
-   "cat": "이적",
-   "titleKo": "이적 소식 라이브: 비니시우스, 아스널 이적; 첼시, 스콧 이적료 파악; 맨유, 리버풀 최신 소식",
-   "image": "https://static.standard.co.uk/2026/11/20/8/47/trans2011.jpeg?width=1200&auto=webp&crop=3%3A2"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2NsaUdQVmVxclV1SU94anN2NUtCWWMzdDJJM1pZSzEwMU5LVVUxbWZWeTdKODBvTUsta1dGcmdlUVpPemZvMnQ2azhVZjFRQ2tKRHdyeC1XaG1TcFA4bWN3RzQzME5ERzNKRllpenN3LVlDX2NXQmpjZkRTNXNGTnNIcWZsaGFVb2t3UFEwYkgwM2xHbWVJb09wN250VHAzU1ZDZHdXV0tnRTBCbGNQQzVFbU4?oc=5",
-   "title": "Leeds game travel update – disruption on the Piccadilly and District Lines",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2NsaUdQVmVxclV1SU94anN2NUtCWWMzdDJJM1pZSzEwMU5LVVUxbWZWeTdKODBvTUsta1dGcmdlUVpPemZvMnQ2azhVZjFRQ2tKRHdyeC1XaG1TcFA4bWN3RzQzME5ERzNKRllpenN3LVlDX2NXQmpjZkRTNXNGTnNIcWZsaGFVb2t3UFEwYkgwM2xHbWVJb09wN250VHAzU1ZDZHdXV0tnRTBCbGNQQzVFbU4?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795161600000,
-   "added": 1795222576855,
-   "cat": null,
-   "titleKo": "리즈 경기 관련 이동 정보 업데이트 – 피카딜리 및 디스트릭트 라인 운행 중단"
   }
  ]
 }
