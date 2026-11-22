@@ -1,5 +1,5 @@
 {
- "updated": 1795365041270,
+ "updated": 1795367887152,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 2,
@@ -9,26 +9,26 @@
   "Evening Standard": 7,
   "The Sun": 4,
   "Mirror": 1,
-  "Daily Mail": 8,
+  "Daily Mail": 7,
   "Telegraph": 6,
   "Independent": 4,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 9,
-  "CaughtOffside": 1,
+  "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 33,
+  "구글뉴스(한국어)": 34,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 26건"
+  "이번 상대": "Nottingham Forest · 새 기사 28건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1BZRlh4U2d0eUJCVHpzWDFuek5ER2VmN213cTRRVlNyc0JXZGFuSFM0VFp2SFBKclJsS3kzSVFzbmNDR0hnWC11Y2RTQkRoZ2dPSnR3TU1hdDMtUF9wa0ZSUkpoTDZDWVFCcGtVWFNJZHF4bFhXLVcwSDJqOG5QR2s5RHIxNUNOc2FmSlVLY0VtMjdZV05IWGx6WWdFMzdXdVpRQ3k4N0I2eVR0UUp0X0RsdXlWZw?oc=5",
+    "title": "He scored goals for QPR and Nottingham Forest - Then tried to transform healthcare",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1BZRlh4U2d0eUJCVHpzWDFuek5ER2VmN213cTRRVlNyc0JXZGFuSFM0VFp2SFBKclJsS3kzSVFzbmNDR0hnWC11Y2RTQkRoZ2dPSnR3TU1hdDMtUF9wa0ZSUkpoTDZDWVFCcGtVWFNJZHF4bFhXLVcwSDJqOG5QR2s5RHIxNUNOc2FmSlVLY0VtMjdZV05IWGx6WWdFMzdXdVpRQ3k4N0I2eVR0UUp0X0RsdXlWZw?oc=5",
+    "source": "Football League World",
+    "date": 1795365073000,
+    "added": 1795367882952,
+    "tag": "상대 소식",
+    "titleKo": "그는 QPR과 노팅엄 포레스트에서 골을 넣었습니다. 이후 그는 의료 서비스를 혁신하려고 시도했습니다."
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzNFR0RFODBqeUM4TTZ2dzJmejBmLW5UNHVMWEVEZmxlMVEwbzhuTU82NzBldkRxTnJYRi00cTNRdVMzOENJaDg3cXdHdTlrS3oxbmpFS2MtZlBWbEp0Mk5jdVlwX1YtYTRsXzl0M2k3VjFZZkpRZUlLMjREUWJvTHpQc3BkMkUwVkR0cVV2NDdGbGdROE9Ha3VBX2dKZENwVGNZZHB2RTJvT2hjZlBUUElXbw?oc=5",
     "title": "Nottingham Forest have an obvious replacement for Matz Sels in the Premier League",
@@ -829,20 +839,33 @@
     "added": 1795308264714,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 뉴스: 올리버 글라스너 감독, 라이언 예이츠의 구단에 대한 애정을 칭찬하다"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GTkFQNlVhZUdKTzVkVXJ5NjgxTGZCcjdwQ2FZejBWa0dpZklEOF95TWRpSWpCLU5JSmNxd29TM0ZBcGJwMU9LcVlPSmhRSUZBa0E0VFN6ZS1ybm1tb2I2TnJRN3c2dmMyc2JZ?oc=5",
-    "title": "Nottingham Forest Weigh Bournemouth Plans and Transfer Decisions",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GTkFQNlVhZUdKTzVkVXJ5NjgxTGZCcjdwQ2FZejBWa0dpZklEOF95TWRpSWpCLU5JSmNxd29TM0ZBcGJwMU9LcVlPSmhRSUZBa0E0VFN6ZS1ybm1tb2I2TnJRN3c2dmMyc2JZ?oc=5",
-    "source": "cwibc.co.id",
-    "date": 1795173891000,
-    "added": 1795339461453,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트, 본머스 영입 계획 및 이적 결정 검토"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VnVXczRXZEZ2RE12Nm0xTjZUcjB1UF8zR2pSMXIteWdpVTFkZ2JycGl1SkFRUHZtWC1FLTNhTmNNNzJTVHlxYmEyM1J3UW42WDd0RFNGMmNSOUtHRnhXSg?oc=5",
+   "title": "Coventry City | Tag",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VnVXczRXZEZ2RE12Nm0xTjZUcjB1UF8zR2pSMXIteWdpVTFkZ2JycGl1SkFRUHZtWC1FLTNhTmNNNzJTVHlxYmEyM1J3UW42WDd0RFNGMmNSOUtHRnhXSg?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795367719000,
+   "added": 1795367881415,
+   "cat": null,
+   "titleKo": "코번트리 시티 | 태그"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/22/chelsea-manager-xabi-alonso-is-safe-for-now/",
+   "title": "Report reveals Chelsea’s stance on Xabi Alonso’s future",
+   "link": "https://www.caughtoffside.com/2026/11/22/chelsea-manager-xabi-alonso-is-safe-for-now/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795365127000,
+   "image": "https://icdn.caughtoffside.com/2026/11/COS-FeaturedHero-Image-Templates-1795364466.jpg",
+   "added": 1795367881413,
+   "cat": "인터뷰",
+   "titleKo": "보도에 따르면 첼시가 샤비 알론소의 미래에 대해 밝힌 입장은 다음과 같습니다."
+  },
   {
    "id": "https://www.bbc.co.uk/sport/videos/ck7v2npjg24mo?at_medium=RSS&at_campaign=rss",
    "title": "Chelsea's performance against Leeds United was 'embarrassing'",
@@ -2006,6 +2029,17 @@
    "added": 1795288588301,
    "cat": "부상",
    "titleKo": "샤비 알론소, 첼시 위기가 심화되는 가운데 모이세스 카이세도의 부상 소식 전해"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9seVZuYmFVY0VWbjhBNW4xY0wzU1Y1U1UwWFkwaGg2dndlWFNGNHA2UkdDbW5iZVJYMEdJMXpzdXVYVUx4WDRYTU9qZHdxU2FNWC1nLTE4VkJQRURjY1FFQjl4NA?oc=5",
+   "title": "아스: 리즈 유나이티드, 첼시 원정에서 역전승… 27년 만에 스탬퍼드 브릿지 승리",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9seVZuYmFVY0VWbjhBNW4xY0wzU1Y1U1UwWFkwaGg2dndlWFNGNHA2UkdDbW5iZVJYMEdJMXpzdXVYVUx4WDRYTU9qZHdxU2FNWC1nLTE4VkJQRURjY1FFQjl4NA?oc=5",
+   "source": "AllFootball",
+   "group": "한국 언론",
+   "date": 1795285861000,
+   "added": 1795367881413,
+   "cat": null,
+   "titleKo": "아스: 리즈 유나이티드, 첼시 원정에서 역전승… 27년 만에 스탬퍼드 브릿지 승리"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
@@ -4168,6 +4202,17 @@
    "titleKo": "첼시 vs. 리즈: 사비 알론소, 스트라이커 딜레마를 해결해야"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEQ1VDNyYkotQWppRU9LM2NpY1BDT1RfWDBpSjY3NUFlN2xtLWVuUjRPNFU1UFdRdW9EcjhTdGIwRF9qakRNb3dLVFUtQndEOG1ha2tfM3JtOUFPQS1MbjM3OGg3OENIZU53WHRjUlpVSWREZm9TWkdtbUVUaTBuRk5JYU96Y3RPUXdMOURn?oc=5",
+   "title": "Chelsea facing eye-watering fine as FA confirm appeal decision in new statement",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEQ1VDNyYkotQWppRU9LM2NpY1BDT1RfWDBpSjY3NUFlN2xtLWVuUjRPNFU1UFdRdW9EcjhTdGIwRF9qakRNb3dLVFUtQndEOG1ha2tfM3JtOUFPQS1MbjM3OGg3OENIZU53WHRjUlpVSWREZm9TWkdtbUVUaTBuRk5JYU96Y3RPUXdMOURn?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795195669000,
+   "added": 1795367881413,
+   "cat": "오피셜",
+   "titleKo": "FA가 새로운 성명에서 항소 결정을 확인하면서 첼시가 눈이 휘둥그레질 만한 벌금에 직면"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nODl2REhGWXYzdHVmanpwT0RodVAtVC01N2ljZUpkMDAtRWxMcG00aVlZd2FGZXM2WTV6dFVRQmlwd2s5N09QcDRuaWMzMkdvT0lVcGhlUmQ4ZGFhZ0JuQnI4VXMxOXAtOGp6czZfUE1xSWJhZUNjcTZ0SQ?oc=5",
    "title": "Today's Football Schedule November 21, 2026: PSM vs Persija, Man City, Chelsea, and U-17 World Cup",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nODl2REhGWXYzdHVmanpwT0RodVAtVC01N2ljZUpkMDAtRWxMcG00aVlZd2FGZXM2WTV6dFVRQmlwd2s5N09QcDRuaWMzMkdvT0lVcGhlUmQ4ZGFhZ0JuQnI4VXMxOXAtOGp6czZfUE1xSWJhZUNjcTZ0SQ?oc=5",
@@ -4188,49 +4233,6 @@
    "titleKo": "프리미어리그 팀 소식: 부상, 출장 정지, 출전 여부가 불확실한 모든 선수",
    "imgTried": true,
    "image": "https://www.sportsmole.co.uk/thumbor/wnZpKg9AeG7rqlQ80kkCrW2TQY4=/1200x630/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fns-3-photo-frame-email-sportmole-1-6b007ebe873dc302765558.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjJVQjJNTk1MektVZC1WbnhyZE80UENrN2REbDV0Y0NnRWxOR3pZdVNNR2Z0N3cxRWtGR1hlTzJ5QWpBVGpRemdGSW1fWWNOS3V3M0pyYi1qOHhVU25wLTdlZ2o2bkFSNzdpR3M5b1hqVlF2RWtLOHpHM1JlbWo4bVNzNGFqbGtPaDNCeEY2bFI0TTFDTnFqR3o3ZnpiQQ?oc=5",
-   "title": "Training gallery: Blues make last preparations for Leeds",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjJVQjJNTk1MektVZC1WbnhyZE80UENrN2REbDV0Y0NnRWxOR3pZdVNNR2Z0N3cxRWtGR1hlTzJ5QWpBVGpRemdGSW1fWWNOS3V3M0pyYi1qOHhVU25wLTdlZ2o2bkFSNzdpR3M5b1hqVlF2RWtLOHpHM1JlbWo4bVNzNGFqbGtPaDNCeEY2bFI0TTFDTnFqR3o3ZnpiQQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795193100000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "훈련 갤러리: 리즈전을 앞두고 마지막 준비를 하는 첼시"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDhnaDBLZjlrUmdTenhURk5tSnFsQ3hJa0JGV1FSUTh2eHlWTk83OVoxdDlLODRvckowVGVCZ3AwZHpTTTFPQjFOSUxZamFYbDAyVXNIbG00UmhlanM2eW04ZEc0SnJGNTZZOVFRLWJHcHFiVnd5UHV2LVhLcWxySXgtd2Q3Wlo0eVlTbmxnRjl0VlBfZWlRQ0d2WjFYOVRQbi1SY3d2dUhGaVFhMjE4?oc=5",
-   "title": "'They need to step up' - Xabi Alonso sends clear warning to Chelsea squad as Joao Pedro remains sidelined with thigh injury",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDhnaDBLZjlrUmdTenhURk5tSnFsQ3hJa0JGV1FSUTh2eHlWTk83OVoxdDlLODRvckowVGVCZ3AwZHpTTTFPQjFOSUxZamFYbDAyVXNIbG00UmhlanM2eW04ZEc0SnJGNTZZOVFRLWJHcHFiVnd5UHV2LVhLcWxySXgtd2Q3Wlo0eVlTbmxnRjl0VlBfZWlRQ0d2WjFYOVRQbi1SY3d2dUhGaVFhMjE4?oc=5",
-   "source": "Goal.com",
-   "group": "영국 언론",
-   "date": 1795192936000,
-   "cat": "부상",
-   "titleKo": "'선수들이 더 분발해야 합니다' - 하비 알론소 감독, 주앙 페드로가 허벅지 부상으로 결장하는 가운데 첼시 선수단에 명확한 경고를 보냄"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk9KWlUwQzl0RjMyaTRwSDhtLUktaXZUWUdKWTYtdGhXb0s2aTJVdXVGQmROeWMyRE55TWtLaHdyaG93clAtb1ZpR2xDb3ZkLU1UOVZTSGdVbDlBZ0gxSEtIZHdldnNtQzQ2emtzLTAtV2lhUzZZcUtFZ1hySTlvaExiam03SUtMYkFaOWJfcG1odw?oc=5",
-   "title": "Leeds United prepare to face Chelsea at Stamford Bridge as the Premier League returns",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk9KWlUwQzl0RjMyaTRwSDhtLUktaXZUWUdKWTYtdGhXb0s2aTJVdXVGQmROeWMyRE55TWtLaHdyaG93clAtb1ZpR2xDb3ZkLU1UOVZTSGdVbDlBZ0gxSEtIZHdldnNtQzQ2emtzLTAtV2lhUzZZcUtFZ1hySTlvaExiam03SUtMYkFaOWJfcG1odw?oc=5",
-   "source": "VAVEL.com",
-   "group": "영국 언론",
-   "date": 1795191919000,
-   "cat": null,
-   "titleKo": "프리미어리그 재개에 맞춰 스탬퍼드 브리지에서 첼시와 맞붙을 준비를 하는 리즈 유나이티드"
-  },
-  {
-   "id": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "title": "Chelsea latest: Alonso admits his side are 'fragile' after Leeds thrashing",
-   "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795191060000,
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829",
-   "added": 1795288588300,
-   "cat": "인터뷰",
-   "titleKo": "첼시 최신 소식: 알론소 감독, 리즈전 대패 후 팀이 '취약하다'고 인정"
   }
  ]
 }
