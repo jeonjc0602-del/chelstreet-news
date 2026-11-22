@@ -1,5 +1,5 @@
 {
- "updated": 1795381813866,
+ "updated": 1795384291182,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -17,18 +17,18 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 69,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 35,
+  "구글뉴스(한국어)": 34,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": "실패: 403",
-  "이번 상대": "Nottingham Forest · 새 기사 37건"
+  "FotMob": 10,
+  "이번 상대": "Nottingham Forest · 새 기사 8건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -853,6 +853,17 @@
    "added": 1795381807778,
    "cat": null,
    "titleKo": "콜 파머, 첼시의 장기 계약이 선수들에게 너무 많은 권한을 부여한다는 것을 증명하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzd2bDZ5cUs3c3FWLUdUbHg3TlNrTGRBbGp0cVRzdEgyXzdJcDJDLXM4Zm5fY0VVWkVLRHpMRHpRa3d5SGgyWnN1V3k1UVVfTnkyRm15dWNvOFZ6eXFITEtIUXhncFVCVE1DYkdVd2s5RGVFQzBLeWFmQnVoM0I1T2lCV3BVVVdfZ2Q0WDBJZFU3cUJvR3Y3TTNUUjRBTnRzT3hZYjkySnpPcS1RM2hHcHhHM3FYWHc?oc=5",
+   "title": "Honeymoon over: Chelsea make their stance clear on sacking Alonso",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzd2bDZ5cUs3c3FWLUdUbHg3TlNrTGRBbGp0cVRzdEgyXzdJcDJDLXM4Zm5fY0VVWkVLRHpMRHpRa3d5SGgyWnN1V3k1UVVfTnkyRm15dWNvOFZ6eXFITEtIUXhncFVCVE1DYkdVd2s5RGVFQzBLeWFmQnVoM0I1T2lCV3BVVVdfZ2Q0WDBJZFU3cUJvR3Y3TTNUUjRBTnRzT3hZYjkySnpPcS1RM2hHcHhHM3FYWHc?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795368765000,
+   "added": 1795384287190,
+   "cat": null,
+   "titleKo": "신혼 기간 종료: 첼시, 알론소 감독 경질에 대한 입장을 명확히 밝힘"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2NtVW50UjZLWVdmNks1Vnhia256LUJDRVliOTVicGFPRlJma3ZRZXBrVTFOSWlwREg3T0d2c21TUFVsZ0NjaFNySHNBVzU5Z2hZZDM1dXZuS2M3VHhnZFE3QWR1MTJDYkNKMy00VGJ2cXZ4OFc4V29mTEVpQU1fc3RBXzBobUdaSl9J?oc=5",
@@ -2633,6 +2644,17 @@
    "titleKo": "리즈 유나이티드에 1-4로 패한 첼시, 4실점 경기는 지난 3월 파리 생제르맹 FC전 2-5 패배 이후 처음"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUlFVUtHTjNGaFFMVHlVM0kyRXdoMmhsRDhiZk1COUdHM19vMEh2NGxDT1Q3R0ttbldRS2VZVTZvOUNLVWtXWE5YQ2t6Q0dReGQ3b28wenlpdVdQR09KZnBFNmZoZm8wX3JWMzUtbnlyZ2hqNU5HVGFOWGtoeldYOEpweGI1Snc2RWxmWF9YeEVEazhuTHMtNURlOXVPeXhqSGwwaHhPVQ?oc=5",
+   "title": "Mike Dean instantly reacts to Chelsea vs Leeds United penalty controversy",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUlFVUtHTjNGaFFMVHlVM0kyRXdoMmhsRDhiZk1COUdHM19vMEh2NGxDT1Q3R0ttbldRS2VZVTZvOUNLVWtXWE5YQ2t6Q0dReGQ3b28wenlpdVdQR09KZnBFNmZoZm8wX3JWMzUtbnlyZ2hqNU5HVGFOWGtoeldYOEpweGI1Snc2RWxmWF9YeEVEazhuTHMtNURlOXVPeXhqSGwwaHhPVQ?oc=5",
+   "source": "MOT Leeds News",
+   "group": "영국 언론",
+   "date": 1795278724000,
+   "added": 1795384287190,
+   "cat": "인터뷰",
+   "titleKo": "마이크 딘, 첼시와 리즈 유나이티드의 페널티킥 논란에 즉각 반응"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqUlBpZkkwbWktRWNIcUJGU1BsSThmM2E3Y0JkVGJpR1NIc2xMQzBuX3F0OFFTY0pSYTJEN1I5RTF0U3lGcWRXcFJsak00RFZScTI4LW9FTFNKSFhJRXBnTk9yVHNVUjJjMWJlYVJ4QTZBSTlJQ1pSR3dseEo?oc=5",
    "title": "Match report: Chelsea 1-4 Leeds | News | Official Site",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqUlBpZkkwbWktRWNIcUJGU1BsSThmM2E3Y0JkVGJpR1NIc2xMQzBuX3F0OFFTY0pSYTJEN1I5RTF0U3lGcWRXcFJsak00RFZScTI4LW9FTFNKSFhJRXBnTk9yVHNVUjJjMWJlYVJ4QTZBSTlJQ1pSR3dseEo?oc=5",
@@ -4211,27 +4233,6 @@
    "titleKo": "포레스트, 팰리스, 리버풀, 맨시티와의 경기를 앞두고 아토가 리즈전 출전을 못하게 되었으며, 복귀 시기도 미정입니다.",
    "imgTried": true,
    "image": "https://chelsea.news/wp-content/uploads/2026/11/football-2.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmhmcXRYT1ZXVkVMTHBaejAxUTJlSFNlRmF0TnVSaEtzU0R5b0xoWjRUZzVNc3psV0txVXJwMEhfWEFaRVhweTZ2blZIbk5BcVRrX01ESGZtZW45RnpSSnNLWFoyS1VrTUY5R1lnUTdYNHJTWVZfa2l1bk1LM1E1OGNId3dXeUpQek9neGhFdGl6aVhOQTRyS3J5NzBfR1RlVzBxRW4waWo?oc=5",
-   "title": "Alonso says Blues are ‘building an identity’ but need consistency",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmhmcXRYT1ZXVkVMTHBaejAxUTJlSFNlRmF0TnVSaEtzU0R5b0xoWjRUZzVNc3psV0txVXJwMEhfWEFaRVhweTZ2blZIbk5BcVRrX01ESGZtZW45RnpSSnNLWFoyS1VrTUY5R1lnUTdYNHJTWVZfa2l1bk1LM1E1OGNId3dXeUpQek9neGhFdGl6aVhOQTRyS3J5NzBfR1RlVzBxRW4waWo?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795197640000,
-   "added": 1795221030969,
-   "cat": "인터뷰",
-   "titleKo": "알론소, 첼시가 '팀의 정체성을 구축'하고 있지만 일관성이 필요하다고 말하다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenRfMXFURl94b1R6NUxTWmJ4MzM4TFRzcTNCUlAtcy1hM3dmT1NpMGpBZ2dFMERYbXVyWVdoUnEtVE9MYkhRS0xzeE5maUVaeEZKQThnMk9UVGpQZUpkbmVNamZTNFFRa1ozTjE0dlF2ZnNGQ0JTb3NvZnhWdGpqY1lRSV81Rk45dkpfYVJBbWlCNzJBd1BIbHNCODNWbzhV?oc=5",
-   "title": "Joe Hart makes 'incredible' Leeds observation in prediction vs Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenRfMXFURl94b1R6NUxTWmJ4MzM4TFRzcTNCUlAtcy1hM3dmT1NpMGpBZ2dFMERYbXVyWVdoUnEtVE9MYkhRS0xzeE5maUVaeEZKQThnMk9UVGpQZUpkbmVNamZTNFFRa1ozTjE0dlF2ZnNGQ0JTb3NvZnhWdGpqY1lRSV81Rk45dkpfYVJBbWlCNzJBd1BIbHNCODNWbzhV?oc=5",
-   "source": "MOT Leeds News",
-   "group": "영국 언론",
-   "date": 1795197600000,
-   "cat": null,
-   "titleKo": "조 하트, 첼시와의 경기에서 '놀라운' 리즈의 활약을 예측"
   }
  ]
 }
