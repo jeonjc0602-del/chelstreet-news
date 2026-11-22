@@ -1,27 +1,27 @@
 {
- "updated": 1795350354035,
+ "updated": 1795354086090,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
   "talkSPORT": 6,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 10,
-  "The Sun": 4,
-  "Mirror": 2,
+  "Evening Standard": 9,
+  "The Sun": 5,
+  "Mirror": 1,
   "Daily Mail": 8,
   "Telegraph": 6,
   "Independent": 4,
   "Express": "실패: 403",
-  "Sports Mole": 13,
+  "Sports Mole": 12,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 66,
+  "구글뉴스(영어)": 65,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 32,
+  "구글뉴스(한국어)": 33,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -857,6 +857,40 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/698995_832941_2459_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlFZOTRoUGVhd0tBSzdOYmVBZ2h0XzA4cURDOWhaUEhmR0NRU2Vlc3NieURicUwyTExzNE9oQk1JVmYtY2tIQmIxYjZ4NXMxcXM5eHlVa1JMRmwyQkdxTENZMXQyNnVJVlVLeUlIWmRxOW9WZ2MzZGY3R1IwVl9zOS1vaGR0Y2J2UEZGYktWR01Ncjg?oc=5",
+   "title": "Bompastor: Lola Brown’s mentality is ‘unbelievable’",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlFZOTRoUGVhd0tBSzdOYmVBZ2h0XzA4cURDOWhaUEhmR0NRU2Vlc3NieURicUwyTExzNE9oQk1JVmYtY2tIQmIxYjZ4NXMxcXM5eHlVa1JMRmwyQkdxTENZMXQyNnVJVlVLeUlIWmRxOW9WZ2MzZGY3R1IwVl9zOS1vaGR0Y2J2UEZGYktWR01Ncjg?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795352400000,
+   "added": 1795354079203,
+   "cat": null,
+   "titleKo": "봄파스토르: 롤라 브라운의 정신력은 '믿을 수 없을 정도'입니다."
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41106362/chelsea-gudjohnsen-son-tony-mowbray-blackburn/",
+   "title": "Chelsea icon’s son holds up shirt with heartwarming message to Tony Mowbray amid health battle after goal for Blackburn",
+   "link": "https://www.thesun.co.uk/sport/41106362/chelsea-gudjohnsen-son-tony-mowbray-blackburn/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795351314000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FOQ-OP-BLACKBURN.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795354079201,
+   "cat": null,
+   "titleKo": "첼시의 전설적인 선수의 아들이 블랙번에서 골을 넣은 후 건강 문제로 투병 중인 토니 모브레이에게 감동적인 메시지가 담긴 유니폼을 들어 보였습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3NBS0FNaXI4VXk4VWlQN3JkZGoyNmM3MURZS3pBZnRGdU4zSGFwWjNJRHZjR2g0YlFsaFB0SHdkMWhrVXVIX0p2M3g1VlY1eWE5QmZlTUJIZEl0eXBLMWdTWG9GTGxDczRwU3MyX3hvSHRNaHU0c25kMnAweVBfWk4wRmZFMTE4VFdr?oc=5",
+   "title": "‘Not Competing’—Xabi Alonso Questions ‘Fragile’ Chelsea After Gruesome Leeds Loss",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3NBS0FNaXI4VXk4VWlQN3JkZGoyNmM3MURZS3pBZnRGdU4zSGFwWjNJRHZjR2g0YlFsaFB0SHdkMWhrVXVIX0p2M3g1VlY1eWE5QmZlTUJIZEl0eXBLMWdTWG9GTGxDczRwU3MyX3hvSHRNaHU0c25kMnAweVBfWk4wRmZFMTE4VFdr?oc=5",
+   "source": "Sports Illustrated",
+   "group": "영국 언론",
+   "date": 1795349700000,
+   "added": 1795354079202,
+   "cat": null,
+   "titleKo": "'경쟁력이 없다'—샤비 알론소, 끔찍한 리즈전 패배 후 '허약한' 첼시에 의문 제기"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2RneUw5eTlKMHMzNElmODY3b1E1Qm1MWTYzZURvUVlBWGh0N0h1TURkc3RSOUt5RS10NFo4cVN3MWJVSFJTNjZZWldRT3p1RGVJaFROMzh0VXF6OVpRWVhuVnR2T2V3THFHVXdYVlhUbzhocUotNllkSWtwanhHUDI0WnhHWUxvQTRKYmxRVQ?oc=5",
    "title": "Chelsea's next five Premier League fixtures as top four race takes fresh turn",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2RneUw5eTlKMHMzNElmODY3b1E1Qm1MWTYzZURvUVlBWGh0N0h1TURkc3RSOUt5RS10NFo4cVN3MWJVSFJTNjZZWldRT3p1RGVJaFROMzh0VXF6OVpRWVhuVnR2T2V3THFHVXdYVlhUbzhocUotNllkSWtwanhHUDI0WnhHWUxvQTRKYmxRVQ?oc=5",
@@ -866,6 +900,17 @@
    "added": 1795350347191,
    "cat": null,
    "titleKo": "첼시의 다음 5경기 일정, 빅4 경쟁에 새로운 국면이 열리다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0hkWmRLZnVqbTA1aFpJNlVIQWxRcGFTcmViMGNCenBBWU9yY2Y3M1pnTXd6VkpnRmxrVzMydUJqTmVObndid2cxYWtkcGE5YjVJQTJoYlZKVlBIRmhmZmlWdjc3SDQxcnB3aXNEX09fSUY2Vk51dmxhNXpqWkxxOUk5NzBQYWJLZ1k3bUFR?oc=5",
+   "title": "Romeo Lavia: This is not the moment to panic",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0hkWmRLZnVqbTA1aFpJNlVIQWxRcGFTcmViMGNCenBBWU9yY2Y3M1pnTXd6VkpnRmxrVzMydUJqTmVObndid2cxYWtkcGE5YjVJQTJoYlZKVlBIRmhmZmlWdjc3SDQxcnB3aXNEX09fSUY2Vk51dmxhNXpqWkxxOUk5NzBQYWJLZ1k3bUFR?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795348800000,
+   "added": 1795354079203,
+   "cat": null,
+   "titleKo": "로메오 라비아: 지금은 당황할 때가 아닙니다."
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/chelseas-next-five-premier-league-34941728",
@@ -927,6 +972,29 @@
    "titleKo": "샤비 알론소, 팬들이 감독을 비난하자 첼시의 경질 결정이 임박할 수 있다고 경고"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDNfZzdhWl9nY0ZEWXJ2ZDhZVHZfdElkN0xXM01YcldpR204aHVNX3FubC1wTlk3N0RnQng4TmlneDhxYTJIdW5QWXZTeUhVZllCNkIxeEY4QmctR1lKRU1zTnJmbC04LTR5b0ZQM1lZdWwtRHdGY3dTdWhqZW5jQnNiSnBKZ08tM0xULXFYbzlMeXNSY2I5MTZmNGhSQlI1TVNBVVFabWdBdURoREEtX0lDeS0xWEtJNHB5LUxiOHZYMjJUWWM0Qm53UUhKbGh2?oc=5",
+   "title": "클럽 월드컵: 시간, 날짜, 채널, 어디서 PSG-첼시 결승전을 시청할 수 있나요?",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDNfZzdhWl9nY0ZEWXJ2ZDhZVHZfdElkN0xXM01YcldpR204aHVNX3FubC1wTlk3N0RnQng4TmlneDhxYTJIdW5QWXZTeUhVZllCNkIxeEY4QmctR1lKRU1zTnJmbC04LTR5b0ZQM1lZdWwtRHdGY3dTdWhqZW5jQnNiSnBKZ08tM0xULXFYbzlMeXNSY2I5MTZmNGhSQlI1TVNBVVFabWdBdURoREEtX0lDeS0xWEtJNHB5LUxiOHZYMjJUWWM0Qm53UUhKbGh2?oc=5",
+   "source": "Sortir à Paris",
+   "group": "한국 언론",
+   "date": 1795346895000,
+   "added": 1795354079202,
+   "cat": null,
+   "titleKo": "클럽 월드컵: 시간, 날짜, 채널, 어디서 PSG-첼시 결승전을 시청할 수 있나요?"
+  },
+  {
+   "id": "https://chelsea.news/2026/11/keatings-seven-saves-hold-chelsea-0-0-and-give-city-a-chance-to-go-top-before-the-break/",
+   "title": "Keating’s seven saves hold Chelsea 0-0 and give City a chance to go top before the break",
+   "link": "https://chelsea.news/2026/11/keatings-seven-saves-hold-chelsea-0-0-and-give-city-a-chance-to-go-top-before-the-break/",
+   "source": "Chelsea News",
+   "group": "팬 블로그",
+   "date": 1795346312000,
+   "image": "https://chelsea.news/wp-content/uploads/2026/11/female-goalkeeper-match-9519536.jpg",
+   "added": 1795354079202,
+   "cat": null,
+   "titleKo": "키팅의 7번의 선방으로 첼시를 0-0으로 막고, 시티는 전반전이 끝나기 전에 선두로 올라설 기회를 잡았습니다."
+  },
+  {
    "id": "https://www.thesun.co.uk/sport/41105269/snooker-neil-robertson-xabi-alonso-chelseas-leeds/",
    "title": "Snooker star Neil Robertson demands Xabi Alonso QUIT after Chelsea’s 4-1 mauling at home to Leeds",
    "link": "https://www.thesun.co.uk/sport/41105269/snooker-neil-robertson-xabi-alonso-chelseas-leeds/",
@@ -937,6 +1005,17 @@
    "added": 1795347485019,
    "cat": null,
    "titleKo": "스누커 스타 닐 로버트슨, 첼시가 홈에서 리즈에 4-1로 대패한 후 사비 알론소의 사임을 요구하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFlCbDhYUUtvZU9VbUxHY2M5d2FiUFlDTkhOUkJ6MVRXNHA3cjFhN09jYTZCcko1M3QyaDJGbDRKelpXdElPZE5iR013akQ2RHpVX2RwcnBGWFk0a2RkMXp5dS1EVlo2YTNobzlqSFpVUC1QSDEwX3pqZnAxTzlNRkVZampUc3FHUGloTUNnekViUWFKb1NjNjluRlhybHFFOEpPQWlyQ1c4OUwzWGc?oc=5",
+   "title": "Chelsea: Has Xabi Alonso improved the club since taking over?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFlCbDhYUUtvZU9VbUxHY2M5d2FiUFlDTkhOUkJ6MVRXNHA3cjFhN09jYTZCcko1M3QyaDJGbDRKelpXdElPZE5iR013akQ2RHpVX2RwcnBGWFk0a2RkMXp5dS1EVlo2YTNobzlqSFpVUC1QSDEwX3pqZnAxTzlNRkVZampUc3FHUGloTUNnekViUWFKb1NjNjluRlhybHFFOEpPQWlyQ1c4OUwzWGc?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795345253000,
+   "added": 1795354079201,
+   "cat": null,
+   "titleKo": "첼시: 사비 알론소가 감독직을 맡은 이후 클럽이 발전했나요?"
   },
   {
    "id": "https://talksport.com/football/4724409/xabi-alonso-cole-palmer-touchline-row-joao-pedro-chelsea/",
@@ -3173,6 +3252,17 @@
    "titleKo": "토트넘 홋스퍼 - 첼시"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
+   "title": "Bournemouth - Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795223816000,
+   "added": 1795354079202,
+   "cat": null,
+   "titleKo": "본머스 - 첼시"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1pYS3VQU2xhbDR4YmRiQ3E1cUh3T2ZXa1E3aHVJVjBmeFV3SHlaSmg0djl3VmtVZ1lDRnlPNTg1ZHYtcjlvTkZOUG9xRmpoXzg5R0I1bXlWdlZibUptV001QWcyVUFjOVFTdnV3T25YX2oxLWhmbVV3OXg4TXVWT1FGY25XUQ?oc=5",
    "title": "Chelsea - Sunderland",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1pYS3VQU2xhbDR4YmRiQ3E1cUh3T2ZXa1E3aHVJVjBmeFV3SHlaSmg0djl3VmtVZ1lDRnlPNTg1ZHYtcjlvTkZOUG9xRmpoXzg5R0I1bXlWdlZibUptV001QWcyVUFjOVFTdnV3T25YX2oxLWhmbVV3OXg4TXVWT1FGY25XUQ?oc=5",
@@ -4139,92 +4229,6 @@
    "date": 1795185193000,
    "cat": "이적",
    "titleKo": "첼시 감독 사비 알론소, 주앙 페드로의 부재 속 득점 난항에 대해 이야기하다"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/news/some-players-need-to-step-up-alonso-hints-at-frustration-with-chelsea-stars_609508.html",
-   "title": "Chelsea team news: Xabi Alonso says 'some players need to step up' in absence of stars",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/news/some-players-need-to-step-up-alonso-hints-at-frustration-with-chelsea-stars_609508.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795184940000,
-   "cat": "인터뷰",
-   "titleKo": "첼시 팀 소식: 사비 알론소, \"몇몇 선수는 스타 선수들의 부재 속에서 한 단계 더 발전해야 한다\"고 말함",
-   "image": "https://www.sportsmole.co.uk/thumbor/sWErbzqT4Z1McaEsAXBs16nR5G4=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fimago1085706271h-6af0e2b2d8bd1921924459.jpg"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34932849",
-   "title": "Every word Xabi Alonso said on coping without Joao Pedro, Caicedo fitness and Chelsea's identity",
-   "link": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34932849",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795184890000,
-   "cat": "부상",
-   "titleKo": "조앙 페드로 없이 경기를 치르는 것, 카이세도의 체력, 첼시의 정체성에 대해 샤비 알론소가 전한 모든 말",
-   "image": "https://i2-prod.football.london/incoming/article34932685.ece/ALTERNATES/s615/0_GettyImages-2303343944.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFExVmFsU1BuV0MwaFRpdFZXMy05U3hDTFBNcU03UGRIeFlPcVBTT2tpY2lJTnREMWxEcjctY3ZjbkRYYWNyNWV3amU1bE9uVGQxWTlUUENNQ3RHY29nSHpGNGJJOHVOXzNCNlRyaXdsc3hPaFRhc2FoZ1VTTjB0S1lTSHB1Wnpnc1YweDZvZzlQcnRyeGozZUdGTWVGYUdkVE5F0gGoAUFVX3lxTFB5YjdBZ2RURW83UnNWVVZJOWhkT1psbjZsV2VrOFNuck54dVhJN2FNNVJwTkhYU2VQc2ZudnZfMEE2SG12QnY2dVc3SUxkcE5US19fM2dlTVBuTUtVOFlxNnVvZnV1Rm16TXY2YmlVUWNORmFiWHBxeDFWOGdnUnktRlpoc0JwUFNJVHF2QW5FcTd5QkxwT3dkWURCX0tOTXdfakowOG5XWA?oc=5",
-   "title": "Joao Pedro injury update with five Chelsea stars to miss Leeds clash",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFExVmFsU1BuV0MwaFRpdFZXMy05U3hDTFBNcU03UGRIeFlPcVBTT2tpY2lJTnREMWxEcjctY3ZjbkRYYWNyNWV3amU1bE9uVGQxWTlUUENNQ3RHY29nSHpGNGJJOHVOXzNCNlRyaXdsc3hPaFRhc2FoZ1VTTjB0S1lTSHB1Wnpnc1YweDZvZzlQcnRyeGozZUdGTWVGYUdkVE5F0gGoAUFVX3lxTFB5YjdBZ2RURW83UnNWVVZJOWhkT1psbjZsV2VrOFNuck54dVhJN2FNNVJwTkhYU2VQc2ZudnZfMEE2SG12QnY2dVc3SUxkcE5US19fM2dlTVBuTUtVOFlxNnVvZnV1Rm16TXY2YmlVUWNORmFiWHBxeDFWOGdnUnktRlpoc0JwUFNJVHF2QW5FcTd5QkxwT3dkWURCX0tOTXdfakowOG5XWA?oc=5",
-   "source": "Metro.co.uk",
-   "group": "영국 언론",
-   "date": 1795184160000,
-   "cat": "부상",
-   "titleKo": "조앙 페드로 부상 소식: 첼시의 스타 선수 5명이 리즈와의 경기에 결장할 예정"
-  },
-  {
-   "id": "https://www.talkchelsea.net/injury-news/caicedo-pedro-gittens-james-injury-update-alonso/",
-   "title": "Alonso gives injury update on Caicedo, Joao Pedro, James, Gittens and more",
-   "link": "https://www.talkchelsea.net/injury-news/caicedo-pedro-gittens-james-injury-update-alonso/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795184026000,
-   "cat": "부상",
-   "titleKo": "알론소 감독, 카이세도, 주앙 페드로, 제임스, 기텐스 등 부상 선수들에 대한 소식 전해",
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/moises-caicedo-chelsea-e1791570772156-414x278.jpg"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/two-fit-three-sidelined-alonso-reveals-mixed-chelsea-injury-update_609501.html",
-   "title": "Chelsea injury news: Xabi Alonso reveals mixed update as two fit, three ruled out of Leeds United fixture",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/two-fit-three-sidelined-alonso-reveals-mixed-chelsea-injury-update_609501.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795183708000,
-   "cat": "부상",
-   "titleKo": "첼시 부상 소식: 사비 알론소, 2명은 출전 가능, 3명은 리즈 유나이티드와의 경기 출전 불가라는 상반된 소식 전해",
-   "image": "https://www.sportsmole.co.uk/thumbor/ZHHROFXndK7RfmSzFG9CkPFAIak=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F10%2Fxabi-alonso-alex-scott-email-sportmole-6acdd45daf58f530188022.png"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/daniel-farke-shows-what-thinks-34942721",
-   "title": "Daniel Farke shows what he thinks of Chelsea with clear demand to Leeds United players",
-   "link": "https://www.football.london/chelsea-fc/news/daniel-farke-shows-what-thinks-34942721",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795183213000,
-   "cat": null,
-   "titleKo": "다니엘 파르케 감독, 첼시에 대한 자신의 생각을 리즈 유나이티드 선수들에게 명확히 요구하며 드러내다",
-   "image": "https://i2-prod.birminghammail.co.uk/incoming/article34942770.ece/ALTERNATES/s615/0_Daniel-Farke.jpg"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/joao-pedro-moises-caicedo-injury-34942170",
-   "title": "Joao Pedro and Moises Caicedo injury latest as Xabi Alonso gives seven-player Chelsea update",
-   "link": "https://www.football.london/chelsea-fc/news/joao-pedro-moises-caicedo-injury-34942170",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795182755000,
-   "cat": "부상",
-   "titleKo": "샤비 알론소가 7명의 첼시 선수에 대한 소식을 전하면서 주앙 페드로와 모이세스 카이세도의 부상 소식도 함께 전했습니다.",
-   "image": "https://i2-prod.football.london/incoming/article34473028.ece/ALTERNATES/s615/0_GettyImages-2290594482.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDdnUUF5b1FVVVp3cVRrcEViTlVJTUdqQkxibGFvaG0zTElSR0ktRVkxeHU2ZVJVZV84cEVwQjF3TFRlSFhHWVlJNVphNVA3SEE0VmVWQ1ZWbXBES3RSUkhSbFhFV3FUTTJhNHRtV0ItOHFNMWxFbzhBM3d0am1ac0JFeDFZYkhxUUZOMFNmZDloRzhidVVHMUxweFFsQlhK?oc=5",
-   "title": "Football's most brutal sackings including Chelsea legend axed while on MOTD",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDdnUUF5b1FVVVp3cVRrcEViTlVJTUdqQkxibGFvaG0zTElSR0ktRVkxeHU2ZVJVZV84cEVwQjF3TFRlSFhHWVlJNVphNVA3SEE0VmVWQ1ZWbXBES3RSUkhSbFhFV3FUTTJhNHRtV0ItOHFNMWxFbzhBM3d0am1ac0JFeDFZYkhxUUZOMFNmZDloRzhidVVHMUxweFFsQlhK?oc=5",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795181220000,
-   "cat": null,
-   "titleKo": "첼시의 전설이 MOTD 출연 중 해임되는 등 축구계에서 가장 잔인한 해임 사례"
   }
  ]
 }
