@@ -1,12 +1,12 @@
 {
- "updated": 1795379030119,
+ "updated": 1795381813866,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 2,
+  "Evening Standard": 1,
   "The Sun": 0,
   "Mirror": 0,
   "Daily Mail": 6,
@@ -17,18 +17,18 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 33,
+  "구글뉴스(한국어)": 35,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 35건"
+  "FotMob": "실패: 403",
+  "이번 상대": "Nottingham Forest · 새 기사 37건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -843,6 +843,17 @@
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVV9DaEMzN0wwNkowUk5NOFdCcTN4QWhKdVJkamJzNHhkeXg5UXFLMVdyUDBxb29BUXZhMW10Y1pnZXl5TTVqSzYwQjJBZHBGTjhzWDVLQWRZb1oyYkhzbE4zVkMxVUZ0aTZsSWdPR3U0RGRydDNoQVFucng3TDRGNGhPY0dFdHRCZXFKX3MtRmpmRmJTZUFJRWpOTk9sSHI5Z3JzSEhn?oc=5",
+   "title": "Cole Palmer proof Chelsea’s long contracts give players too much power",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVV9DaEMzN0wwNkowUk5NOFdCcTN4QWhKdVJkamJzNHhkeXg5UXFLMVdyUDBxb29BUXZhMW10Y1pnZXl5TTVqSzYwQjJBZHBGTjhzWDVLQWRZb1oyYkhzbE4zVkMxVUZ0aTZsSWdPR3U0RGRydDNoQVFucng3TDRGNGhPY0dFdHRCZXFKX3MtRmpmRmJTZUFJRWpOTk9sSHI5Z3JzSEhn?oc=5",
+   "source": "The Times",
+   "group": "영국 언론",
+   "date": 1795379400000,
+   "added": 1795381807778,
+   "cat": null,
+   "titleKo": "콜 파머, 첼시의 장기 계약이 선수들에게 너무 많은 권한을 부여한다는 것을 증명하다"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2NtVW50UjZLWVdmNks1Vnhia256LUJDRVliOTVicGFPRlJma3ZRZXBrVTFOSWlwREg3T0d2c21TUFVsZ0NjaFNySHNBVzU5Z2hZZDM1dXZuS2M3VHhnZFE3QWR1MTJDYkNKMy00VGJ2cXZ4OFc4V29mTEVpQU1fc3RBXzBobUdaSl9J?oc=5",
    "title": "Report: Juventus, Milan and Napoli on alert as Chelsea open door to Palestra exit",
@@ -1973,6 +1984,17 @@
    "titleKo": "사비 알론소, 첼시의 리즈전 패배와 관련한 페널티킥 논란에 대해 '가혹한' VAR 판정이라고 언급"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUNCeWx1QXBDT0VOdzF0WDFRNTFYMml2bTFkX0h6TUtrbVp6aHo1S0lfYzVndlVlaklIYUFzejdQUkdha3hDUllKY0s5emdwa3c1bHpxZWVCZE9ucXdWWTlzNG1kY3VhSm1ueUR2ZjBWaWNyc0NuSHQ2SWhBVktDNzJseVpqdUltYmQyLUN6S2RwQzZpeHdsaUZqakswbjZ6X2dKZTF4VEpFMVB2Z1JOVFVzMWlmaW1zT1pj?oc=5",
+   "title": "Jamie O'Hara can't help himself with instant dig at Jason Cundy after Leeds win vs Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUNCeWx1QXBDT0VOdzF0WDFRNTFYMml2bTFkX0h6TUtrbVp6aHo1S0lfYzVndlVlaklIYUFzejdQUkdha3hDUllKY0s5emdwa3c1bHpxZWVCZE9ucXdWWTlzNG1kY3VhSm1ueUR2ZjBWaWNyc0NuSHQ2SWhBVktDNzJseVpqdUltYmQyLUN6S2RwQzZpeHdsaUZqakswbjZ6X2dKZTF4VEpFMVB2Z1JOVFVzMWlmaW1zT1pj?oc=5",
+   "source": "MOT Leeds News",
+   "group": "영국 언론",
+   "date": 1795287600000,
+   "added": 1795381807779,
+   "cat": null,
+   "titleKo": "제이미 오하라, 첼시를 상대로 승리한 리즈 유나이티드 이후 제이슨 컨디를 즉각적으로 비난하는 것을 참지 못함"
+  },
+  {
    "id": "https://www.independent.co.uk/sport/football/chelsea-leeds-goals-premier-league-result-xabi-alonso-b3089236.html",
    "title": "Chelsea’s deep and ongoing issues revealed by Leeds drubbing",
    "link": "https://www.independent.co.uk/sport/football/chelsea-leeds-goals-premier-league-result-xabi-alonso-b3089236.html",
@@ -2222,6 +2244,17 @@
    "added": 1795285401221,
    "cat": null,
    "titleKo": "사비 알론소의 첼시 경질 예측이 현실화될 수 있습니다. 리즈가 블루코 프로젝트의 모든 문제점을 폭로했기 때문입니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVd5TXF5dUJvdXlhMXh5OHNvcFQxbzY2Wk5XcWVPUi1YRXUyOEVZY0s3QXloRzRzVmlFdTZSZkZ6TDIxeERPM1BiN0tUUktTMm94elNhR19rNVhybFY2N05RdjFHQ0JUenVHYTFNMjAxYXJobGJQLWJxNXlGNU03bmRWenFLRWVzcndmb0t4Y2hfNlNab2c?oc=5",
+   "title": "Chelsea 1-4 Leeds United: Xabi Alonso’s Blues Humiliated",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVd5TXF5dUJvdXlhMXh5OHNvcFQxbzY2Wk5XcWVPUi1YRXUyOEVZY0s3QXloRzRzVmlFdTZSZkZ6TDIxeERPM1BiN0tUUktTMm94elNhR19rNVhybFY2N05RdjFHQ0JUenVHYTFNMjAxYXJobGJQLWJxNXlGNU03bmRWenFLRWVzcndmb0t4Y2hfNlNab2c?oc=5",
+   "source": "Chelsea FC Online",
+   "group": "영국 언론",
+   "date": 1795283866000,
+   "added": 1795381807779,
+   "cat": null,
+   "titleKo": "첼시 1-4 리즈 유나이티드: 샤비 알론소의 블루스, 굴욕을 당하다"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/c5vg2wwepp9eo?at_medium=RSS&at_campaign=rss",
@@ -2483,6 +2516,17 @@
    "added": 1795280705676,
    "cat": null,
    "titleKo": "'골문 앞에서 더 자신감을 가져야 합니다' | 동영상"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0gxa1MzWTNlRlAwSkE1djktQnNHQzZNTVItdHJZX2pvREl5ZkVIYmw4OWFVU2dLazMzakNqU2pkT1pnMkpJa0l2ZEV5bnNjUXRGTnpfaFpZcEtKbVNON1JYMjB0dTNYNVdxbWZVZ0NlYUV6T25FaFJVZV8tbmZPMmJYN0hnMFlyVm5ycUJuQUVlNUFLZy0yY0FCdWJpMWR0WDlrMnNKZGM5Y3l0dlE?oc=5",
+   "title": "Bompastor provides Mayra Ramirez and Manaka Matsukubo injury update",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0gxa1MzWTNlRlAwSkE1djktQnNHQzZNTVItdHJZX2pvREl5ZkVIYmw4OWFVU2dLazMzakNqU2pkT1pnMkpJa0l2ZEV5bnNjUXRGTnpfaFpZcEtKbVNON1JYMjB0dTNYNVdxbWZVZ0NlYUV6T25FaFJVZV8tbmZPMmJYN0hnMFlyVm5ycUJuQUVlNUFLZy0yY0FCdWJpMWR0WDlrMnNKZGM5Y3l0dlE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795280400000,
+   "added": 1795381807779,
+   "cat": "부상",
+   "titleKo": "봄파스토르 감독, 마이라 라미레스와 마쓰쿠보 마나카의 부상 소식 전해"
   },
   {
    "id": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -4188,50 +4232,6 @@
    "date": 1795197600000,
    "cat": null,
    "titleKo": "조 하트, 첼시와의 경기에서 '놀라운' 리즈의 활약을 예측"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UaDFETFlPQkZwZ2tva3JzOGlXelF3aUFDS1YwOWZ1NndnbXVWb3Z0TmRnMV8wSkcyMEpRVkNwSkpTYzBfQ1JrSFhxUUJDNmp6NGE2WERXcERMSE9faVRvZi1kcVluMUla?oc=5",
-   "title": "Chelsea fined £150,000 by FA for discriminatory chanting",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UaDFETFlPQkZwZ2tva3JzOGlXelF3aUFDS1YwOWZ1NndnbXVWb3Z0TmRnMV8wSkcyMEpRVkNwSkpTYzBfQ1JrSFhxUUJDNmp6NGE2WERXcERMSE9faVRvZi1kcVluMUla?oc=5",
-   "source": "BBC",
-   "group": "영국 언론",
-   "date": 1795197170000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "첼시, 차별적인 구호로 인해 FA로부터 15만 파운드의 벌금 부과"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
-   "title": "Chelsea fined £150,000 for discriminatory chanting",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1795197170000,
-   "cat": null,
-   "titleKo": "첼시, 차별적 구호로 15만 파운드 벌금 부과",
-   "group": "영국 언론",
-   "imgTried": true,
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/554b/live/c6288780-e508-11f1-b40b-5f46e8cf687c.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzdseWNneUdrNzlhWlUyQWs2RjFRNUtiMVVvRk50Q1JRMUxEM1U0cnlMR1ZUZUtiQWxZZjJ0TjFoYktwYk5KVXcxeFF2dmpmZDltVVVBYkZ1RzFreUtCd0lYalJBY1Y5X2YwTF9pUTBSeXQ2OS1VeHNPZkJEVXNsQk9CZ1BVOTYwd0FpbU00UDQ?oc=5",
-   "title": "Cobham Unseen: pre-Leeds Utd (h) | Video",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzdseWNneUdrNzlhWlUyQWs2RjFRNUtiMVVvRk50Q1JRMUxEM1U0cnlMR1ZUZUtiQWxZZjJ0TjFoYktwYk5KVXcxeFF2dmpmZDltVVVBYkZ1RzFreUtCd0lYalJBY1Y5X2YwTF9pUTBSeXQ2OS1VeHNPZkJEVXNsQk9CZ1BVOTYwd0FpbU00UDQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795197015000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "코범 비하인드: 리즈 유나이티드전(홈) 전 | 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGFMVFVQejBEV0ZsSW1VdkkxX0pmNzV1SHFXQzk1Z2FxZTNkajlCRTJCWU1Gay1NT0I4eWxUREl4MklzY3ZnWDBHUDMtdkNxbEtpWTR3TFhNRUcxNktfTnd6VlZRaDJ1enJvM1RKYW9tb3NRSm53UmRlUmdwSXFYdWlobVRGYlYxTW5ESElMSjQwUEh2ei1jbUpsZTlhb1JHVGFESDhtLW5hY1ctWjMtQ05wQnBYblptRFJQNWRWVkU5cnhrNHNPWA?oc=5",
-   "title": "Roman Abramovich firm demands to be paid £150m held back in Chelsea sale",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGFMVFVQejBEV0ZsSW1VdkkxX0pmNzV1SHFXQzk1Z2FxZTNkajlCRTJCWU1Gay1NT0I4eWxUREl4MklzY3ZnWDBHUDMtdkNxbEtpWTR3TFhNRUcxNktfTnd6VlZRaDJ1enJvM1RKYW9tb3NRSm53UmRlUmdwSXFYdWlobVRGYlYxTW5ESElMSjQwUEh2ei1jbUpsZTlhb1JHVGFESDhtLW5hY1ctWjMtQ05wQnBYblptRFJQNWRWVkU5cnhrNHNPWA?oc=5",
-   "source": "The Times",
-   "group": "영국 언론",
-   "date": 1795196670000,
-   "cat": null,
-   "titleKo": "로만 아브라모비치가 소유한 기업, 첼시 매각 대금 중 1억 5천만 파운드 지급을 요구"
   }
  ]
 }
