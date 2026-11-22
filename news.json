@@ -1,5 +1,5 @@
 {
- "updated": 1795325713321,
+ "updated": 1795329132120,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -8,17 +8,17 @@
   "football.london": 25,
   "Evening Standard": 9,
   "The Sun": 5,
-  "Mirror": 3,
+  "Mirror": 2,
   "Daily Mail": 7,
   "Telegraph": 6,
-  "Independent": 4,
+  "Independent": 5,
   "Express": 0,
   "Sports Mole": 15,
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 66,
-  "인터풋볼": 0,
+  "구글뉴스(영어)": 64,
+  "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
   "구글뉴스(한국어)": 33,
@@ -26,9 +26,9 @@
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
-  "첼시 공식": 80,
+  "첼시 공식": "실패: 429",
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 23건"
+  "이번 상대": "Nottingham Forest · 새 기사 22건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -581,6 +581,16 @@
     "titleKo": "본머스 vs 노팅엄 포레스트 – 경기 프리뷰 및 팀 소식"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDN2Xy1DSFZBVVBZSUFWR3JkWXJTSVd0cEhUa1MyQW1IR3RiczVONUNCUnVta0JnWGFaSTZ6dFhvdW9Da2U5dlUxYTJnM0MtNEJSNWZVZXdtSXplMWNFVTdxUWpXTmhsWVh4NlEyUC1FTks3LUxMVEk1eWJzbmQ2Ry1Tc05MckVTeEhZR2c2b2pmQ3NVZS1lSFVJTldtSjFHUzFqWUJB?oc=5",
+    "title": "Bournemouth vs Nottingham Forest team news and prediction",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDN2Xy1DSFZBVVBZSUFWR3JkWXJTSVd0cEhUa1MyQW1IR3RiczVONUNCUnVta0JnWGFaSTZ6dFhvdW9Da2U5dlUxYTJnM0MtNEJSNWZVZXdtSXplMWNFVTdxUWpXTmhsWVh4NlEyUC1FTks3LUxMVEk1eWJzbmQ2Ry1Tc05MckVTeEhZR2c2b2pmQ3NVZS1lSFVJTldtSjFHUzFqWUJB?oc=5",
+    "source": "premierleaguenewsnow.com",
+    "date": 1795221912000,
+    "added": 1795329127342,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "본머스 vs 노팅엄 포레스트 팀 소식 및 예상 결과"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkVDNlJaaHVGbXJTbThreGJCRTlkaEJsZWJob2tiakpUdTYzUGg4YnJna05reDV4LVpIU2ROYVlHNDhzZXlQV1BfTXhob1hiLWlPMGFRLUNsSUdtQldrc0ZLN2I3c2tEc2lXdm9HcU5oMlpKbkl6SUlGeFA5TmZpOUpZTFgwZk0zcEFkZkJlUXVVYl9FakI3WUdTZ010UGpfVnJkSQ?oc=5",
     "title": "Bournemouth vs Nottingham Forest",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkVDNlJaaHVGbXJTbThreGJCRTlkaEJsZWJob2tiakpUdTYzUGg4YnJna05reDV4LVpIU2ROYVlHNDhzZXlQV1BfTXhob1hiLWlPMGFRLUNsSUdtQldrc0ZLN2I3c2tEc2lXdm9HcU5oMlpKbkl6SUlGeFA5TmZpOUpZTFgwZk0zcEFkZkJlUXVVYl9FakI3WUdTZ010UGpfVnJkSQ?oc=5",
@@ -829,20 +839,23 @@
     "added": 1795275032052,
     "tag": "상대 소식",
     "titleKo": "올리버 글라스너 감독 기자회견: 본머스 vs 노팅엄 포레스트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1JvRWx6c3pqeGtvcXN4ekYtR0xjTlN3VWdrX281SHM4QXZ1WHhpR3BTeUxqZkRpUk1CcnpSSXc1ckc5bjFZU3JfTUV3M3ZIRzVnNXRHNnRZdWl5RVNGa3ZRWmEtejJwak1wUGEzYXJUSDE1TDl6b2htRWl0R3R4MDRPS1NYRGU1Z3NheGJwdmVaYnRibGszS0E2Z0gyclRWb1lLTA?oc=5",
-    "title": "The real reason Nottingham Forest voted the same way as Man City amid Premier League battle",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1JvRWx6c3pqeGtvcXN4ekYtR0xjTlN3VWdrX281SHM4QXZ1WHhpR3BTeUxqZkRpUk1CcnpSSXc1ckc5bjFZU3JfTUV3M3ZIRzVnNXRHNnRZdWl5RVNGa3ZRWmEtejJwak1wUGEzYXJUSDE1TDl6b2htRWl0R3R4MDRPS1NYRGU1Z3NheGJwdmVaYnRibGszS0E2Z0gyclRWb1lLTA?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795106841000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트가 프리미어리그 경쟁 속에서도 맨체스터 시티와 동일하게 투표한 진짜 이유"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=698995",
+   "title": "‘레버쿠젠 무패 우승 기세 어디갔나?’ 사비 알론소의 첼시, 27년 만에 안방 최악 참사...”발전이 전혀 없다“",
+   "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698995",
+   "source": "인터풋볼",
+   "group": "한국 언론",
+   "date": 1795361100000,
+   "added": 1795329125448,
+   "cat": null,
+   "titleKo": "‘레버쿠젠 무패 우승 기세 어디갔나?’ 사비 알론소의 첼시, 27년 만에 안방 최악 참사...”발전이 전혀 없다“",
+   "imgTried": true,
+   "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/698995_832941_2459_v150.jpg"
+  },
   {
    "id": "http://www.footballist.co.kr/news/articleView.html?idxno=217169",
    "title": "‘5경기 4패’ 무너지는 알론소 첼시, 팬들도 여러 차례 야유 세례",
@@ -855,6 +868,30 @@
    "titleKo": "‘5경기 4패’ 무너지는 알론소 첼시, 팬들도 여러 차례 야유 세례",
    "imgTried": true,
    "image": "https://cdn.footballist.co.kr/news/thumbnail/202611/217169_183072_4038_v150.jpg"
+  },
+  {
+   "id": "https://www.independent.co.uk/sport/football/xabi-alonso-chelsea-leeds-reaction-premier-league-b3089201.html",
+   "title": "The Rafa Benitez curse Xabi Alonso could suffer if Chelsea don’t find an identity",
+   "link": "https://www.independent.co.uk/sport/football/xabi-alonso-chelsea-leeds-reaction-premier-league-b3089201.html",
+   "source": "Independent",
+   "group": "영국 언론",
+   "date": 1795327255000,
+   "image": "https://static.independent.co.uk/2026/11/21/23/01M7ZGCB5B4W7TJ498Y0BKRBGF.jpg?width=1200&auto=webp&trim=582%2C392%2C2%2C485",
+   "added": 1795329125448,
+   "cat": null,
+   "titleKo": "첼시가 정체성을 찾지 못한다면, 사비 알론소가 겪을 수 있는 라파 베니테스의 저주"
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/cole-palmers-heated-back-forth-34948797",
+   "title": "Cole Palmer's heated back and forth with Chelsea duo as Xabi Alonso tasked with tough decision",
+   "link": "https://www.football.london/chelsea-fc/news/cole-palmers-heated-back-forth-34948797",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795327200000,
+   "image": "https://i2-prod.football.london/incoming/article34948798.ece/ALTERNATES/s615/0_GettyImages-2305658612.jpg",
+   "added": 1795329125447,
+   "cat": null,
+   "titleKo": "샤비 알론소가 어려운 결정을 내려야 하는 가운데, 콜 파머가 첼시 듀오와 치열한 설전을 벌였습니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT01odGFZMWZ6Y0xGRFRsMjZfY2VISThDYnFfMngyVTU0UF9ZTi1UTDdjMkJZNkk1V051eFhPZzN3TEZxSXVmX0FKS1Q5bzN6aTBQSzJHVy1KQlRJNEpSZ2RSYWc3WVE4SjRNblYxdXVZNFQ2M3J5bmNQR2d0b2Z1aS1icU5vSEl4SnBSYmpUdGVJNnMtV1E?oc=5",
@@ -1481,6 +1518,17 @@
    "added": 1795298432109,
    "cat": "부상",
    "titleKo": "알론소 감독, 카이세도의 경기 흐름을 바꾼 부상에 대한 소식 전해"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON243ZGFTV09CeDN3X2RpSHZITUhRbDZOZWlWaGZVbkxVdkN0c1ByTmNTc0N1ZzhvcWhaVkljM2tqX2hMTUNHYVlGNWpqVm1zM0pRZDVocU11MldUSE43REowNkFOQWNVTzMtNlZIa1hLTld2Z0dtZmplNVJHVktMOUx5RGgyUXc?oc=5",
+   "title": "Every word Alonso said on 'fragile' Chelsea, Caicedo injury and penalty decision",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON243ZGFTV09CeDN3X2RpSHZITUhRbDZOZWlWaGZVbkxVdkN0c1ByTmNTc0N1ZzhvcWhaVkljM2tqX2hMTUNHYVlGNWpqVm1zM0pRZDVocU11MldUSE43REowNkFOQWNVTzMtNlZIa1hLTld2Z0dtZmplNVJHVktMOUx5RGgyUXc?oc=5",
+   "source": "Football London",
+   "group": "영국 언론",
+   "date": 1795285128000,
+   "added": 1795329125448,
+   "cat": "부상",
+   "titleKo": "알론소 감독이 '취약한' 첼시, 카이세도의 부상, 페널티킥 판정에 대해 한 모든 말"
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34947438",
@@ -4167,47 +4215,6 @@
    "added": 1795221030970,
    "cat": null,
    "titleKo": "여자 슈퍼리그 티켓 소식: 브라이턴 원정 경기"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YRTJfVHdhNUZqM2ZaLTJDNF9HUXhSZDRhM3BncTlmQUkyNVgzWWxzeU1XVTFSck0yZTA5V0tnSmRlYjR0cERfN2lsY0dfWVp5Tk5TRTk1RlNpeWFoZ05XMks2ZE4ycV9XVkJyMjRyT1NwQQ?oc=5",
-   "title": "“나는 아스널에 가고 싶었다” 첼시-토트넘에서 뛰면서 이런 말을? ‘도핑 논란’ 무드릭의 폭탄 발언",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YRTJfVHdhNUZqM2ZaLTJDNF9HUXhSZDRhM3BncTlmQUkyNVgzWWxzeU1XVTFSck0yZTA5V0tnSmRlYjR0cERfN2lsY0dfWVp5Tk5TRTk1RlNpeWFoZ05XMks2ZE4ycV9XVkJyMjRyT1NwQQ?oc=5",
-   "source": "포포투",
-   "group": "한국 언론",
-   "date": 1795167300000,
-   "cat": null,
-   "titleKo": "“나는 아스널에 가고 싶었다” 첼시-토트넘에서 뛰면서 이런 말을? ‘도핑 논란’ 무드릭의 폭탄 발언"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
-   "title": "Bournemouth - Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795165879000,
-   "cat": null,
-   "titleKo": "본머스 - 첼시"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjNWSHdzYkdMWDZ5UHlmTmsybXlxaEJLbS1saVNRclJ5bVRMZWltMDdQbVFuQjlheDlfMVRfSWlsVjhhalRGSG1BN2l0VzhJaU00NWZ6UUI3SG5odmhMS0xGMnZrZnctUXBYMWZTWDd5VE9ZRFZGZFNjS0kzeVdoeC00UXFQR0RSLXNMRXlkZDdjZGVraURQQUc1RkdMdU5XM0E?oc=5",
-   "title": "Fernando Torres reveals regret over Liverpool exit for Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjNWSHdzYkdMWDZ5UHlmTmsybXlxaEJLbS1saVNRclJ5bVRMZWltMDdQbVFuQjlheDlfMVRfSWlsVjhhalRGSG1BN2l0VzhJaU00NWZ6UUI3SG5odmhMS0xGMnZrZnctUXBYMWZTWDd5VE9ZRFZGZFNjS0kzeVdoeC00UXFQR0RSLXNMRXlkZDdjZGVraURQQUc1RkdMdU5XM0E?oc=5",
-   "source": "Football Today",
-   "group": "영국 언론",
-   "date": 1795165719000,
-   "cat": "인터뷰",
-   "titleKo": "페르난도 토레스, 리버풀을 떠나 첼시로 이적한 것을 후회한다고 밝혀"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTFcyRUVpTnRBRzRnRVRabktTVHlnb0RTWEdTZzJucGFHaHlCcHd6VzBFLTZUYUo1MHQwbVB4eVhrTEMwVm5lMm1VODEzVUtCQy0tS0JTQk5keHhocEhV?oc=5",
-   "title": "첼시 공식 발표: 런던 지하철 파업, 리즈전 관람 팬들에게 영향 줄 수 있어‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTFcyRUVpTnRBRzRnRVRabktTVHlnb0RTWEdTZzJucGFHaHlCcHd6VzBFLTZUYUo1MHQwbVB4eVhrTEMwVm5lMm1VODEzVUtCQy0tS0JTQk5keHhocEhV?oc=5",
-   "source": "AllFootball",
-   "group": "한국 언론",
-   "date": 1795165210000,
-   "added": 1795272695718,
-   "cat": "오피셜",
-   "titleKo": "첼시 공식 발표: 런던 지하철 파업, 리즈전 관람 팬들에게 영향 줄 수 있어‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌"
   }
  ]
 }
