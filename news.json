@@ -1,20 +1,20 @@
 {
- "updated": 1795333595385,
+ "updated": 1795336550011,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 4,
+  "Sky Sports": 3,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
   "Evening Standard": 9,
-  "The Sun": 5,
+  "The Sun": 4,
   "Mirror": 2,
   "Daily Mail": 9,
   "Telegraph": 6,
-  "Independent": 5,
+  "Independent": 4,
   "Express": 0,
-  "Sports Mole": 15,
-  "CaughtOffside": 2,
+  "Sports Mole": 14,
+  "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 64,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 25건"
+  "이번 상대": "Nottingham Forest · 새 기사 24건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -41,13 +41,24 @@
   "state": "pre",
   "items": [
    {
+    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0F1UnBYNlZYS0VnZFNCMVo2UGoyWnpQSnhjZlhQWlVLVjRsV1lySVFzeUpvMGxPdTdyWWVfWE0tQWtVQV9HTFM1dlRmU0R1UkhvN1ZvWGdMSFdFaHJwblE0Vk0ta2hfVkRFbXhhTlA4RGlLU19NUlo1cmdnSU5yQjZCeUEyNnRfbFJtQWlFaWF2UUdGb091cU1LS19NMlVyTjlfS2xGdVpqbmtYTGlQd2tNTdIBuAFBVV95cUxNM2RscU5YT3BHT1RPVkwyMjlGTG02X1VsUXQzNFNyeFNGWkZfRnJTMDltTThEMWtWaXRlR2lZYndKWl9EaVF5REl0NmVlX3FRR2NZRENVdHBwcHhDeVg3Vlh3aEhMdVg4UnFBdXA3NVdZR0l3THRuNmxSUW1pTVlfOXQwc2pGMUdCYmZuN2p4bGtQejk5OGZ1X0MwX2Y2VEJqWFdjd3RTYm1vdWJxZXpMMTZ6a3IyWU1I?oc=5",
+    "title": "Oliver Glasner hints at transfer fix but defeat shows Nottingham Forest need solution before then",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0F1UnBYNlZYS0VnZFNCMVo2UGoyWnpQSnhjZlhQWlVLVjRsV1lySVFzeUpvMGxPdTdyWWVfWE0tQWtVQV9HTFM1dlRmU0R1UkhvN1ZvWGdMSFdFaHJwblE0Vk0ta2hfVkRFbXhhTlA4RGlLU19NUlo1cmdnSU5yQjZCeUEyNnRfbFJtQWlFaWF2UUdGb091cU1LS19NMlVyTjlfS2xGdVpqbmtYTGlQd2tNTdIBuAFBVV95cUxNM2RscU5YT3BHT1RPVkwyMjlGTG02X1VsUXQzNFNyeFNGWkZfRnJTMDltTThEMWtWaXRlR2lZYndKWl9EaVF5REl0NmVlX3FRR2NZRENVdHBwcHhDeVg3Vlh3aEhMdVg4UnFBdXA3NVdZR0l3THRuNmxSUW1pTVlfOXQwc2pGMUdCYmZuN2p4bGtQejk5OGZ1X0MwX2Y2VEJqWFdjd3RTYm1vdWJxZXpMMTZ6a3IyWU1I?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795334625000,
+    "added": 1795336540660,
+    "tag": "상대 소식",
+    "titleKo": "올리버 글라스너 감독, 이적 시장을 통한 문제 해결을 시사했지만, 패배로 인해 노팅엄 포레스트가 그 전에 해결책을 찾아야 함을 보여줌"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUpyUkVwcTNmbE1nQVd5Z1hLdG51VWhOLTJXVndQQVdNY1pWOWVabFl3SnNWUDFUS0V5SGlEbDNDZVhJOEthUEw2alg0MTYtZElGVElQeFQtWDZ1MmF3UmktX1BGV0ZUem5paVFXcnlTaTFTd0hsb2ZmUG5KM0R1V3hjNF9MbzI3TjN5SVl6SGFPaVVsTTMzOUowMkF1T2N0LURsTXhsS1loZF9FVGZ3LVlieENWa3JITWNFcGZEdjQ?oc=5",
     "title": "Roy Keane says Nottingham Forest icon is the best manager in football history",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUpyUkVwcTNmbE1nQVd5Z1hLdG51VWhOLTJXVndQQVdNY1pWOWVabFl3SnNWUDFUS0V5SGlEbDNDZVhJOEthUEw2alg0MTYtZElGVElQeFQtWDZ1MmF3UmktX1BGV0ZUem5paVFXcnlTaTFTd0hsb2ZmUG5KM0R1V3hjNF9MbzI3TjN5SVl6SGFPaVVsTTMzOUowMkF1T2N0LURsTXhsS1loZF9FVGZ3LVlieENWa3JITWNFcGZEdjQ?oc=5",
     "source": "Nottingham Forest News",
     "date": 1795330920000,
     "added": 1795333594824,
-    "tag": "도발·발언"
+    "tag": "도발·발언",
+    "titleKo": "로이 킨, 노팅엄 포레스트의 아이콘이 축구 역사상 최고의 감독이라고 말하다"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVFTNVZDUXlLa0REamYwSmpOdFFJZll4VFRmSHg2TW9qVXZPOUppQlZXcThIY1JNRGdTQmNZdTAtRlY4MHVEQU80SURYcmJrd0pqaG02eGlYV3I0S21nMDB0SUxwRGdwN3BqV1VMRGhNYVlZYWFhX19QTXQ5Z3lncDJYLThsZTRtZ3hLbGRJbUdTTk1qd180OWEzSHhMSzFfWXdxdUNNdGxMYjYtUmEw?oc=5",
@@ -56,7 +67,8 @@
     "source": "Nottingham Post",
     "date": 1795330821000,
     "added": 1795333594824,
-    "tag": "상대 소식"
+    "tag": "상대 소식",
+    "titleKo": "1월 이적 시장을 앞두고 미래가 불확실한 노팅엄 포레스트 선수 4명"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WelhxaHJmN2ZCVUw3Rjh6eTdlQmJkWHZ0QVN0YmU0TE9YcmF4TjNvR1RnM1gzN3lkUDJ3WkhabjlQZTNLOVNrTkJoOVNQLUJoNl90Q1VzWVdPaXBEcHVN?oc=5",
@@ -827,16 +839,6 @@
     "added": 1795308264714,
     "tag": "라인업·팀뉴스",
     "titleKo": "AFC 본머스 - 노팅엄 포레스트 FC 전력 분석 및 베팅 팁 2026년 11월 21일"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUUhiREdONnU4d0VKY2pVVElWaDUwNjE4UXdiV1JoUVNhZXZGdkd0dXJmZ3k3YWVrdF9pYUFSWG9OUFIwLWN5ZXFwelFSSGs5Ylhic1gyUzhWQWJFWHdnejlpLXc0bVc3dW1VSTEyWTZNcVVoS0c5RjVnamRhTVRjS1ZLcFpCNWpVa3N1MW1XWHlQMThGc0JPcUQwMmhfdGJvdnd6eDkzbnc5VG9UcUZ4ZVBrbGhIRlQxeFJpTmNSLVpjUThhaDB6LW84RGxodGN4dVZnTTNvVmhodVpWS1hZ?oc=5",
-    "title": "Nottingham Forest transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUUhiREdONnU4d0VKY2pVVElWaDUwNjE4UXdiV1JoUVNhZXZGdkd0dXJmZ3k3YWVrdF9pYUFSWG9OUFIwLWN5ZXFwelFSSGs5Ylhic1gyUzhWQWJFWHdnejlpLXc0bVc3dW1VSTEyWTZNcVVoS0c5RjVnamRhTVRjS1ZLcFpCNWpVa3N1MW1XWHlQMThGc0JPcUQwMmhfdGJvdnd6eDkzbnc5VG9UcUZ4ZVBrbGhIRlQxeFJpTmNSLVpjUThhaDB6LW84RGxodGN4dVZnTTNvVmhodVpWS1hZ?oc=5",
-    "source": "Sky Sports",
-    "date": 1795110899000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 이적, 최신 뉴스, 루머 및 가십: 실시간 업데이트, 득점 및 하이라이트"
    }
   ]
  },
@@ -868,6 +870,29 @@
    "image": "https://cdn.footballist.co.kr/news/thumbnail/202611/217169_183072_4038_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53TkJUZUZDeDdtbC1vVVE1bjhHRWo4MVFvQnMwaTNiQkhWWkg5N0ZZYmR3MXdpYlJ4aGozaHdISzN6TlZOSXdN?oc=5",
+   "title": "Chelsea reportedly lose four of five without João Pedro. Grim reading.",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53TkJUZUZDeDdtbC1vVVE1bjhHRWo4MVFvQnMwaTNiQkhWWkg5N0ZZYmR3MXdpYlJ4aGozaHdISzN6TlZOSXdN?oc=5",
+   "source": "Digg",
+   "group": "영국 언론",
+   "date": 1795335033000,
+   "added": 1795336538898,
+   "cat": null,
+   "titleKo": "조앙 페드루가 없는 첼시는 5경기 중 4경기를 패한 것으로 알려졌습니다. 암울한 소식입니다."
+  },
+  {
+   "id": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
+   "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
+   "link": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
+   "source": "The Guardian",
+   "group": "영국 언론",
+   "date": 1795334421000,
+   "image": "https://i.guim.co.uk/img/media/af3248e2ee441e7d2f137ca7fb9611270fe9bb7e/792_360_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=8aefea8ca5efaeeabc5ee70bed2bfac5",
+   "added": 1795336538897,
+   "cat": null,
+   "titleKo": "세사르 아스필리쿠에타: '첼시에서는 무승부가 재앙이었습니다. 성과를 내지 못하면 팀에서 나가야 합니다.'"
+  },
+  {
    "id": "https://www.dailymail.com/sport/football/article-16312357/Cool-Palmer-turned-Complaining-Cole-sulking-club-lurches-crisis-doesnt-say-lot-Chelseas-cultural-reset-writes-KIERAN-GILL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
    "title": "Cool Palmer has turned into Complaining Cole... his sulking as his club lurches into crisis doesn't say a lot for Chelsea's cultural reset, writes KIERAN GILL",
    "link": "https://www.dailymail.com/sport/football/article-16312357/Cool-Palmer-turned-Complaining-Cole-sulking-club-lurches-crisis-doesnt-say-lot-Chelseas-cultural-reset-writes-KIERAN-GILL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -876,7 +901,8 @@
    "date": 1795331459000,
    "image": "https://i.dailymail.com/1s/2026/11/21/23/112656617-0-image-a-24_1795304312914.jpg",
    "added": 1795333592857,
-   "cat": null
+   "cat": null,
+   "titleKo": "쿨한 팔머가 불평하는 콜로 변했습니다... 그의 클럽이 위기에 빠지면서 그의 불평은 첼시의 문화적 재정립에 대해 많은 것을 말해주지 않습니다. 키에런 길(KIERAN GILL)이 씁니다."
   },
   {
    "id": "https://www.independent.co.uk/sport/football/xabi-alonso-chelsea-leeds-reaction-premier-league-b3089201.html",
@@ -1203,7 +1229,8 @@
    "group": "영국 언론",
    "date": 1795294359000,
    "added": 1795333592857,
-   "cat": "인터뷰"
+   "cat": "인터뷰",
+   "titleKo": "첼시 감독 사비 알론소, 리즈 유나이티드에 굴욕적인 패배를 당한 후 첼시가 약하고 강해져야 한다고 말함"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzd1UU9NZnVRZnhBMkJtOHpTNmxnVGRMejBkMXdoR3pIZHRXckRRY0RNek1kSWVPVVRlTXByam5ESE1TYVh4NGktVUIzOWRZWGJram9aaE43TVFJTzJCTEFoMVpjb0VseXpUSzlFZ2VldFFBaWItS2VRckZISUJFa2dsMnFtLTBGb0VCS3VkOEhvOFU?oc=5",
@@ -1270,7 +1297,8 @@
    "group": "영국 언론",
    "date": 1795292486000,
    "added": 1795333592857,
-   "cat": null
+   "cat": null,
+   "titleKo": "고통스러운 4골 차 패배 후, 알론소는 첼시의 '연약함'을 비난하고 심판진을 성토했습니다."
   },
   {
    "id": "https://www.thesun.co.uk/sport/41102299/chelsea-cole-palmer-snubs-fans-joao-pedro-leeds-defeat/",
@@ -4189,28 +4217,6 @@
    "cat": "이적",
    "titleKo": "노팅엄 포레스트 이적 소식: 로마, 첼시 공격수의 '대안'으로 스타 선수 영입 고려",
    "image": "https://www.sportsmole.co.uk/thumbor/uPGDNsfWtT7FmaxVnJno3HQiHoA=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2025%2F11%2Fimago1069641665-1-6929c539769af400538171.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUERqQ1NEc2R1dWRzUHN0VFViRURGWEF2SkdlREJma3RDTTFLYjQ0MF9LaUZyRmlYbVlDU2pxYmZUeUxvZ2dKNFU5UDlLN0taZ3JJYjgzSVF2ZEdsVDF2OEUxZklJR1d1RWdrRHozdlluanhNTzlURVk5QzViSzgxSDhxcHpZRGFFb0djYU1nV053RUQzOXlnNEdyT0xjN2dHZlBvV2Q5TC1YR055Q3REbQ?oc=5",
-   "title": "Chelsea vs Leeds United: Team news, key stats and everything you need to know",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUERqQ1NEc2R1dWRzUHN0VFViRURGWEF2SkdlREJma3RDTTFLYjQ0MF9LaUZyRmlYbVlDU2pxYmZUeUxvZ2dKNFU5UDlLN0taZ3JJYjgzSVF2ZEdsVDF2OEUxZklJR1d1RWdrRHozdlluanhNTzlURVk5QzViSzgxSDhxcHpZRGFFb0djYU1nV053RUQzOXlnNEdyT0xjN2dHZlBvV2Q5TC1YR055Q3REbQ?oc=5",
-   "source": "Leeds United",
-   "group": "영국 언론",
-   "date": 1795173071000,
-   "added": 1795254947264,
-   "cat": "프리뷰",
-   "titleKo": "첼시 vs 리즈 유나이티드: 팀 소식, 주요 통계 및 알아두어야 할 모든 것"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUVFQnU0U2VYQ1pzaW1RczhjYWYtMVhnaG5oSk9RM0p0c3ViNjNMYnNjcGttQkh5cWl0elJoNnpYQ19YcXpwVDc0MU9qNms5WkpfdDZCbHB5dUtWVVRNSzk5eGFpYUIwVmRrX3FlUTdBamNzelJjcE1MV0xxV1lYNFh6b3NKcUhIRzRXZDN1TU16V1pmTUxF?oc=5",
-   "title": "Bompastor updates on Manaka Matsukubo availability",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUVFQnU0U2VYQ1pzaW1RczhjYWYtMVhnaG5oSk9RM0p0c3ViNjNMYnNjcGttQkh5cWl0elJoNnpYQ19YcXpwVDc0MU9qNms5WkpfdDZCbHB5dUtWVVRNSzk5eGFpYUIwVmRrX3FlUTdBamNzelJjcE1MV0xxV1lYNFh6b3NKcUhIRzRXZDN1TU16V1pmTUxF?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795172400000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "봄파스토르 감독, 마쓰쿠보 마나카 출전 가능 여부에 대한 업데이트"
   }
  ]
 }
