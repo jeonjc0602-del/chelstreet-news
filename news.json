@@ -1,23 +1,23 @@
 {
- "updated": 1795347489265,
+ "updated": 1795350354035,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
   "talkSPORT": 6,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 9,
+  "Evening Standard": 10,
   "The Sun": 4,
   "Mirror": 2,
-  "Daily Mail": 9,
+  "Daily Mail": 8,
   "Telegraph": 6,
   "Independent": 4,
-  "Express": 0,
-  "Sports Mole": 14,
-  "CaughtOffside": 0,
+  "Express": "실패: 403",
+  "Sports Mole": 13,
+  "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 65,
+  "구글뉴스(영어)": 66,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 25건"
+  "이번 상대": "Nottingham Forest · 새 기사 24건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -857,6 +857,53 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/698995_832941_2459_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2RneUw5eTlKMHMzNElmODY3b1E1Qm1MWTYzZURvUVlBWGh0N0h1TURkc3RSOUt5RS10NFo4cVN3MWJVSFJTNjZZWldRT3p1RGVJaFROMzh0VXF6OVpRWVhuVnR2T2V3THFHVXdYVlhUbzhocUotNllkSWtwanhHUDI0WnhHWUxvQTRKYmxRVQ?oc=5",
+   "title": "Chelsea's next five Premier League fixtures as top four race takes fresh turn",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2RneUw5eTlKMHMzNElmODY3b1E1Qm1MWTYzZURvUVlBWGh0N0h1TURkc3RSOUt5RS10NFo4cVN3MWJVSFJTNjZZWldRT3p1RGVJaFROMzh0VXF6OVpRWVhuVnR2T2V3THFHVXdYVlhUbzhocUotNllkSWtwanhHUDI0WnhHWUxvQTRKYmxRVQ?oc=5",
+   "source": "Football London",
+   "group": "영국 언론",
+   "date": 1795348908000,
+   "added": 1795350347191,
+   "cat": null,
+   "titleKo": "첼시의 다음 5경기 일정, 빅4 경쟁에 새로운 국면이 열리다"
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/chelseas-next-five-premier-league-34941728",
+   "title": "Chelsea's next five Premier League fixtures compared to Brighton, Liverpool and Man City",
+   "link": "https://www.football.london/chelsea-fc/news/chelseas-next-five-premier-league-34941728",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795348800000,
+   "image": "https://i2-prod.football.london/incoming/article34884022.ece/ALTERNATES/s615/0_GettyImages-2301103906.jpg",
+   "added": 1795350347190,
+   "cat": null,
+   "titleKo": "브라이턴, 리버풀, 맨체스터 시티와 비교한 첼시의 다음 5경기 프리미어리그 일정"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/39471356/chelsea-ticket-deal-price-hotel-premier-league-stamford-bridge/",
+   "title": "Chelsea tickets and VIP hospitality deals for Premier League games at Stamford Bridge from just £155pp",
+   "link": "https://www.thesun.co.uk/sport/39471356/chelsea-ticket-deal-price-hotel-premier-league-stamford-bridge/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795347982000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F08%2FDD-SPORT-TRAVEL-TICKETS-12-08_OP-chelsea-1.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795350347190,
+   "cat": null,
+   "titleKo": "스탬퍼드 브리지에서 열리는 프리미어리그 경기 관람을 위한 첼시 티켓 및 VIP 접대 패키지, 1인당 단돈 £155부터"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/22/chelsea-move-premier-league-proven-midfielder/",
+   "title": "Chelsea consider move for 29-year-old Premier League-proven midfielder",
+   "link": "https://www.caughtoffside.com/2026/11/22/chelsea-move-premier-league-proven-midfielder/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795347625000,
+   "image": "https://icdn.caughtoffside.com/2026/10/COS-Featured_Hero-Image-Templates-1793254025.jpg",
+   "added": 1795350347190,
+   "cat": null,
+   "titleKo": "첼시, 프리미어리그에서 검증된 29세 미드필더 영입 고려"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbnlzWkFGbV9ObmkyQS1uX3ptZGRLNzRYbmpiel9zOW5nc1dsMTFZNHMyMGVaSHdEZHFaRzhkQUhDaUVJaWhEUy1KNTJXV2FZajZMUVZhcXBKVXdQQjItWm9aaFQ4dHNSVmVZRE9neFM5VWN6M3QxOHROTDVZZVZhekpGTHZiWmVYSk40U2RjYU4?oc=5",
    "title": "Xabi Alonso warned Chelsea FC sack decision could be imminent as fans turn on manager",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbnlzWkFGbV9ObmkyQS1uX3ptZGRLNzRYbmpiel9zOW5nc1dsMTFZNHMyMGVaSHdEZHFaRzhkQUhDaUVJaWhEUy1KNTJXV2FZajZMUVZhcXBKVXdQQjItWm9aaFQ4dHNSVmVZRE9neFM5VWN6M3QxOHROTDVZZVZhekpGTHZiWmVYSk40U2RjYU4?oc=5",
@@ -866,6 +913,18 @@
    "added": 1795347485019,
    "cat": null,
    "titleKo": "샤비 알론소, 첼시 FC의 감독 경질 결정이 임박할 수 있다고 경고"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-sack-decision-b1305890.html",
+   "title": "Xabi Alonso warned Chelsea sack decision could be imminent as fans turn on manager",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-sack-decision-b1305890.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795346981000,
+   "image": "https://static.standard.co.uk/2026/11/21/17/01M7ZGCB5B4W7TJ498Y0BKRBGF.jpg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795350347190,
+   "cat": null,
+   "titleKo": "샤비 알론소, 팬들이 감독을 비난하자 첼시의 경질 결정이 임박할 수 있다고 경고"
   },
   {
    "id": "https://www.thesun.co.uk/sport/41105269/snooker-neil-robertson-xabi-alonso-chelseas-leeds/",
@@ -985,6 +1044,17 @@
    "added": 1795329125447,
    "cat": null,
    "titleKo": "샤비 알론소가 어려운 결정을 내려야 하는 가운데, 콜 파머가 첼시 듀오와 치열한 설전을 벌였습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlFEVzd4aGRBc3FGUjJXWGJSaF9Nc2NLVnB5UGpyUk9HanEwcGJzNGFHRkEzamZveTlyd3NHX2Izb1I0N1AwZVF1SElZRHBXX0ktRmUzVzZuQk5HcVAzMjBETWIyU3JrNGI5VzduOXVrX0syUy00ZHB1ZHVxbjBsWGlIaWg2NEFHQWc?oc=5",
+   "title": "'They couldn't live with it!' - Dominic Calvert-Lewin revels in Stamford Bridge rout as Chelsea crumble against Leeds United",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlFEVzd4aGRBc3FGUjJXWGJSaF9Nc2NLVnB5UGpyUk9HanEwcGJzNGFHRkEzamZveTlyd3NHX2Izb1I0N1AwZVF1SElZRHBXX0ktRmUzVzZuQk5HcVAzMjBETWIyU3JrNGI5VzduOXVrX0syUy00ZHB1ZHVxbjBsWGlIaWg2NEFHQWc?oc=5",
+   "source": "Yahoo",
+   "group": "영국 언론",
+   "date": 1795325760000,
+   "added": 1795350347191,
+   "cat": null,
+   "titleKo": "'그들은 그 사실을 받아들일 수 없었습니다!- 도미닉 칼버트-르윈, 첼시가 리즈 유나이티드에 패배하며 스탬퍼드 브리지에서 대승을 거둔 것을 기뻐함"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT01odGFZMWZ6Y0xGRFRsMjZfY2VISThDYnFfMngyVTU0UF9ZTi1UTDdjMkJZNkk1V051eFhPZzN3TEZxSXVmX0FKS1Q5bzN6aTBQSzJHVy1KQlRJNEpSZ2RSYWc3WVE4SjRNblYxdXVZNFQ2M3J5bmNQR2d0b2Z1aS1icU5vSEl4SnBSYmpUdGVJNnMtV1E?oc=5",
@@ -4155,72 +4225,6 @@
    "date": 1795181220000,
    "cat": null,
    "titleKo": "첼시의 전설이 MOTD 출연 중 해임되는 등 축구계에서 가장 잔인한 해임 사례"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news-now/chelsea-2012-assister-one-save-changed-his-career/",
-   "title": "“Saved my life” – Chelsea’s 2012 assister explains how one goalkeeper save changed his career",
-   "link": "https://www.talkchelsea.net/news-now/chelsea-2012-assister-one-save-changed-his-career/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795179600000,
-   "cat": null,
-   "titleKo": "\"제 목숨을 구해줬죠\" – 첼시의 2012년 어시스트 주인공이 한 골키퍼의 선방이 자신의 커리어를 어떻게 바꿨는지 설명합니다",
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2017/11/Juan-Mata-Franck-Ribery-550x378.jpg"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/news/five-african-wonderkids-to-watch-at-under-17-world-cup-including-man-united-and-chelsea-prospects_609488.html",
-   "title": "Under-17 World Cup: Five African wonderkids to watch, including Man United and Chelsea prospects",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/news/five-african-wonderkids-to-watch-at-under-17-world-cup-including-man-united-and-chelsea-prospects_609488.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795178571000,
-   "cat": null,
-   "titleKo": "17세 이하 월드컵: 맨유와 첼시의 유망주를 포함한 주목할 만한 아프리카의 5명의 원더키드",
-   "image": "https://www.sportsmole.co.uk/thumbor/HA9vz5E7ocK7HZL1Tl901z377LA=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsportxalamy-3frc81k-1-1-6b003d60a3180852447000.jpg"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/mykhailo-mudryk-reveals-real-reason-34941774",
-   "title": "Mykhailo Mudryk reveals real reason he joined Chelsea over Arsenal with explosive claim",
-   "link": "https://www.football.london/chelsea-fc/news/mykhailo-mudryk-reveals-real-reason-34941774",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795178481000,
-   "cat": "인터뷰",
-   "titleKo": "미하일로 무드릭, 아스널이 아닌 첼시에 입단한 진짜 이유를 폭로하며 파격적인 주장을 펼쳤습니다.",
-   "image": "https://i2-prod.football.london/incoming/article34941845.ece/ALTERNATES/s615/0_Screenshot-2026-11-20-122011.png"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/xabi-alonso-press-conference-live-34932673",
-   "title": "Xabi Alonso press conference LIVE: Chelsea boss on Joao Pedro injury, Caicedo latest and Leeds",
-   "link": "https://www.football.london/chelsea-fc/news/xabi-alonso-press-conference-live-34932673",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795177800000,
-   "cat": "부상",
-   "titleKo": "사비 알론소 기자회견 라이브: 첼시 감독이 조앙 페드로의 부상, 카이세도의 최근 상황 및 리즈에 대해 이야기합니다.",
-   "image": "https://i2-prod.football.london/incoming/article34932693.ece/ALTERNATES/s615/0_GettyImages-2303343771.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jZEl2VzVKZy1sYjR1UDEyekY4WDNOdHFUUnVYbV9sUUx1TDBZdDZBbEk5NUpiSGl2TjhxRHQ1NklrNmJCSXVCdnExdUdLd3dYTHItM1h0MnlQbktnbDZ5alQxcUtSelpXbXhZ?oc=5",
-   "title": "Chelsea news: Adarabioyo, James and Colwill launch trading cards shop",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jZEl2VzVKZy1sYjR1UDEyekY4WDNOdHFUUnVYbV9sUUx1TDBZdDZBbEk5NUpiSGl2TjhxRHQ1NklrNmJCSXVCdnExdUdLd3dYTHItM1h0MnlQbktnbDZ5alQxcUtSelpXbXhZ?oc=5",
-   "source": "BBC",
-   "group": "영국 언론",
-   "date": 1795176875000,
-   "added": 1795245568569,
-   "cat": null,
-   "titleKo": "첼시 뉴스: 아다라비오요, 제임스, 콜윌이 트레이딩 카드 숍을 오픈하다"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cqvg21k52dj6o?at_medium=RSS&at_campaign=rss",
-   "title": "Tosin, James and Colwill launch trading cards shop",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg21k52dj6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1795176875000,
-   "cat": null,
-   "titleKo": "토신, 제임스, 콜윌이 트레이딩 카드 숍을 오픈합니다",
-   "group": "영국 언론",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8461/live/b754fdc0-e4da-11f1-9cc5-e9713e77fd78.jpg"
   }
  ]
 }
