@@ -1,19 +1,19 @@
 {
- "updated": 1795370327141,
+ "updated": 1795372902847,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 5,
-  "The Sun": 4,
+  "Evening Standard": 3,
+  "The Sun": 1,
   "Mirror": 1,
   "Daily Mail": 7,
   "Telegraph": 6,
   "Independent": 4,
   "Express": 0,
-  "Sports Mole": 9,
+  "Sports Mole": 6,
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 33,
+  "구글뉴스(한국어)": 34,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 27건"
+  "이번 상대": "Nottingham Forest · 새 기사 29건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -69,6 +69,16 @@
     "added": 1795362668828,
     "tag": "상대 소식",
     "titleKo": "뉴캐슬 유나이티드 vs 노팅엄 포레스트: 여자 선수 컵 대회 통계 및 전적"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMzQ4ZWVNanEzNmt4TjJyM0laR1JBSTVSeXVyV0pPMDRFNDlxUzBQLXFsUjJBZFdOcnNiTExNYWJfalhSWVZyd0tLTFJBTWRlOHhOOHlIZm5CM0dwVGdxaTVxSTFUbm5KTGJlSVhobW5xM3E0TzVZOVcyLVdNLWRSODFfanhCN01tVjBiOFFDMVZDOEZkQXQ1SHdCRTE2UGVadVRKSzBnYkJKZXp6Ry1YaW5ZNkJjdEFoODdKWlJhOHhidktfVXJQTTZBX216VTExVzVfV2gwUGQ?oc=5",
+    "title": "Sources: Premier League club to swoop for Omari Hutchinson after Nottingham Forest latest",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMzQ4ZWVNanEzNmt4TjJyM0laR1JBSTVSeXVyV0pPMDRFNDlxUzBQLXFsUjJBZFdOcnNiTExNYWJfalhSWVZyd0tLTFJBTWRlOHhOOHlIZm5CM0dwVGdxaTVxSTFUbm5KTGJlSVhobW5xM3E0TzVZOVcyLVdNLWRSODFfanhCN01tVjBiOFFDMVZDOEZkQXQ1SHdCRTE2UGVadVRKSzBnYkJKZXp6Ry1YaW5ZNkJjdEFoODdKWlJhOHhidktfVXJQTTZBX216VTExVzVfV2gwUGQ?oc=5",
+    "source": "Football Insider",
+    "date": 1795359548000,
+    "added": 1795372899696,
+    "tag": "상대 소식",
+    "titleKo": "출처: 노팅엄 포레스트의 최근 행보에 이어 프리미어리그 구단이 오마리 허친슨 영입에 나설 전망"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTZUUElTelFmZ1pxZm8xaW1WWUZXaktfZGJuWTV5VVZfX09DLXQ1R2gwNFNNdDhURU5sSDNFaEhoWmJNejNHYWVMbHdvbVlYUkItaDR5Z2NvSFVRclR4T21hakN6bzlZUEs1V1dfTkszTzR2QnRtTXN4VGhQUGFydjI5RFlxUzB4eFY5eWFsSVF6Z09yZ21kZXg5SHktQ01XYUZDTEZnSE9qZGZJVnlYQ0lJTUNaQQ?oc=5",
@@ -829,16 +839,6 @@
     "added": 1795308264714,
     "tag": "상대 소식",
     "titleKo": "마르코 로제 감독, 노팅엄 포레스트와의 경기를 앞두고 알렉스 스콧의 복귀 계획을 설명하다"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zWVMyZlhmU1RfaUdOUEhyTDdGUzhuV0NyQUZjVElUZzZfQU11dHhmYzlWRHNqN21jVmFGUnlMdklUdE5STTF4alJsRGEzOHJ3ZmowZ3hnSlNVV0MzTWtkT2tUTXNubmp4TERz?oc=5",
-    "title": "Nottingham Forest news: Oliver Glasner praises Ryan Yates' love for the club",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zWVMyZlhmU1RfaUdOUEhyTDdGUzhuV0NyQUZjVElUZzZfQU11dHhmYzlWRHNqN21jVmFGUnlMdklUdE5STTF4alJsRGEzOHJ3ZmowZ3hnSlNVV0MzTWtkT2tUTXNubmp4TERz?oc=5",
-    "source": "BBC",
-    "date": 1795177012000,
-    "added": 1795308264714,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 뉴스: 올리버 글라스너 감독, 라이언 예이츠의 구단에 대한 애정을 칭찬하다"
    }
   ]
  },
@@ -864,6 +864,17 @@
    "added": 1795367881415,
    "cat": null,
    "titleKo": "코번트리 시티 | 태그"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
+   "title": "Track Order - Chelsea Store",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795366788000,
+   "added": 1795372899057,
+   "cat": null,
+   "titleKo": "주문 내역 조회 - 첼시 매장"
   },
   {
    "id": "https://www.caughtoffside.com/2026/11/22/chelsea-manager-xabi-alonso-is-safe-for-now/",
@@ -2313,6 +2324,17 @@
    "added": 1795283105237,
    "cat": "프리뷰",
    "titleKo": "첼시 선수 평점: 에메가는 프리미어리그 첫 선발 출전에서 즉각적인 성공을 거뒀지만, 포파나는 리즈전에서 너무 느렸다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONk00YnBjVGx2ZVRkcjNmclVnUHgwOUtvbjRldDUtczZ1NHhnVW9lVU9Xa1hGcDNwaFBDOW53SW1abDVsTVJNUlh1V045QmU0bVgxajJDWFBZcHVSMVNwZUIxazJBQWdZcEUzd2dfejFHRzI1WWNaRjlOQ1dXZVhvQ0hVNl9vX1ZFX0Zpd1JxQ2FlTmpiZktXZzVlLUhydV9JLWE3RUhCSnZQQzQ?oc=5",
+   "title": "Ampadu urges Leeds to build on 4-1 Chelsea win as European ambitions grow",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONk00YnBjVGx2ZVRkcjNmclVnUHgwOUtvbjRldDUtczZ1NHhnVW9lVU9Xa1hGcDNwaFBDOW53SW1abDVsTVJNUlh1V045QmU0bVgxajJDWFBZcHVSMVNwZUIxazJBQWdZcEUzd2dfejFHRzI1WWNaRjlOQ1dXZVhvQ0hVNl9vX1ZFX0Zpd1JxQ2FlTmpiZktXZzVlLUhydV9JLWE3RUhCSnZQQzQ?oc=5",
+   "source": "https://www.footballmuse.com/",
+   "group": "영국 언론",
+   "date": 1795281840000,
+   "added": 1795372899056,
+   "cat": null,
+   "titleKo": "암파두, 첼시의 유럽 진출 야망이 커짐에 따라 첼시가 4-1로 이긴 리즈전을 발판으로 삼을 것을 촉구"
   },
   {
    "id": "https://www.standard.co.uk/sport/football/chelsea-fc-player-ratings-vs-leeds-palmer-estevao-b1305837.html",
@@ -4210,30 +4232,6 @@
    "date": 1795196670000,
    "cat": null,
    "titleKo": "로만 아브라모비치가 소유한 기업, 첼시 매각 대금 중 1억 5천만 파운드 지급을 요구"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/news/chelsea-bidding-to-extend-27-year-streak-against-leeds_609520.html",
-   "title": "Chelsea vs. Leeds: Blues bidding to extend 27-year streak in key Premier League showdown",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/news/chelsea-bidding-to-extend-27-year-streak-against-leeds_609520.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795195865000,
-   "cat": "이적",
-   "titleKo": "첼시 vs. 리즈: 프리미어리그 핵심 대결에서 27년 연속 승리 기록을 이어가려는 '블루스'",
-   "imgTried": true,
-   "image": "https://www.sportsmole.co.uk/thumbor/JrpgdofrYbT43_jKzxDhOdyZ1vY=/1200x630/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F09%2Fxabi-alonso-email-sportmole-6abcb44ea60e8076440906.png"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/news/penders-or-martinez-alonso-gives-update-on-chelsea-goalkeepers-amid-dilemma_609518.html",
-   "title": "Chelsea team news: Mike Penders, Emiliano Martinez update provided ahead of Xabi Alonso dilemma",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/news/penders-or-martinez-alonso-gives-update-on-chelsea-goalkeepers-amid-dilemma_609518.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795195816000,
-   "cat": null,
-   "titleKo": "첼시 팀 소식: 사비 알론소의 딜레마에 앞서 마이크 펜더스, 에밀리아노 마르티네스 관련 업데이트 제공",
-   "imgTried": true,
-   "image": "https://www.sportsmole.co.uk/thumbor/DpykShexQ7oYr8Pa_K9DHDhoRj0=/1200x630/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F09%2Fimago1083332526h-6ab53e0e500cd244982360.jpg"
   }
  ]
 }
