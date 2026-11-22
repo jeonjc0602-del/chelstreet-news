@@ -1,5 +1,5 @@
 {
- "updated": 1795336550011,
+ "updated": 1795339465340,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 32,
+  "구글뉴스(한국어)": 31,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 24건"
+  "이번 상대": "Nottingham Forest · 새 기사 29건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,26 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGZqVENKWndrWF9VTm0wZzFSdS03aTQ2YWtCd3RoRk8yZGlqUDNIY1ctVWRoUVBJMFhiYWJFM3lFOXNzeDJWODdZOFhaU1k2MXBGVzAzZm1JX2pCUEsyNWNWblRiT0dQRnQ1RDR3SkZhSnNJTTRlbkdqX2RBZTBnZ3RHeE9XYUkySVp6NFNXSXJiNXJoQ1Q0SmVEZDhGLVFOY0tVb0VYYTl0NjRwSUp0MFk3aUgzdmhyOEJRNnpRSDRKd2NnNC0w?oc=5",
+    "title": "Glasner has no choice but to play Forest star who he constantly ignores vs Chelsea",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGZqVENKWndrWF9VTm0wZzFSdS03aTQ2YWtCd3RoRk8yZGlqUDNIY1ctVWRoUVBJMFhiYWJFM3lFOXNzeDJWODdZOFhaU1k2MXBGVzAzZm1JX2pCUEsyNWNWblRiT0dQRnQ1RDR3SkZhSnNJTTRlbkdqX2RBZTBnZ3RHeE9XYUkySVp6NFNXSXJiNXJoQ1Q0SmVEZDhGLVFOY0tVb0VYYTl0NjRwSUp0MFk3aUgzdmhyOEJRNnpRSDRKd2NnNC0w?oc=5",
+    "source": "Nottingham Forest News",
+    "date": 1795338000000,
+    "added": 1795339461453,
+    "tag": "상대 소식",
+    "titleKo": "글라스너 감독, 첼시전에서 자신이 지속적으로 외면해 온 포레스트의 주축 선수를 기용할 수밖에 없는 상황"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3lOSGVZUUtzeU1GZlZPMEZ1clBLSHVIbVlDUzY4YVVGcU92dkN6aF9VSWpnVEZFT2JCWkxVX0JHV2JjYlhhTGxJZUFESG1IMWNpR29XNXRIWk5kWVBGU0htYXloYi1VUnJGR2xlZVYtcEFPUmYyTHlRUVQ3Q3p2d3RpM0J3MEI2emwxbUtmSUJURzl5TnhMbHJBZnQ?oc=5",
+    "title": "Nottingham Forest vs Chelsea",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3lOSGVZUUtzeU1GZlZPMEZ1clBLSHVIbVlDUzY4YVVGcU92dkN6aF9VSWpnVEZFT2JCWkxVX0JHV2JjYlhhTGxJZUFESG1IMWNpR29XNXRIWk5kWVBGU0htYXloYi1VUnJGR2xlZVYtcEFPUmYyTHlRUVQ3Q3p2d3RpM0J3MEI2emwxbUtmSUJURzl5TnhMbHJBZnQ?oc=5",
+    "source": "beIN SPORTS",
+    "date": 1795337314000,
+    "added": 1795339461453,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs 첼시"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0F1UnBYNlZYS0VnZFNCMVo2UGoyWnpQSnhjZlhQWlVLVjRsV1lySVFzeUpvMGxPdTdyWWVfWE0tQWtVQV9HTFM1dlRmU0R1UkhvN1ZvWGdMSFdFaHJwblE0Vk0ta2hfVkRFbXhhTlA4RGlLU19NUlo1cmdnSU5yQjZCeUEyNnRfbFJtQWlFaWF2UUdGb091cU1LS19NMlVyTjlfS2xGdVpqbmtYTGlQd2tNTdIBuAFBVV95cUxNM2RscU5YT3BHT1RPVkwyMjlGTG02X1VsUXQzNFNyeFNGWkZfRnJTMDltTThEMWtWaXRlR2lZYndKWl9EaVF5REl0NmVlX3FRR2NZRENVdHBwcHhDeVg3Vlh3aEhMdVg4UnFBdXA3NVdZR0l3THRuNmxSUW1pTVlfOXQwc2pGMUdCYmZuN2p4bGtQejk5OGZ1X0MwX2Y2VEJqWFdjd3RTYm1vdWJxZXpMMTZ6a3IyWU1I?oc=5",
     "title": "Oliver Glasner hints at transfer fix but defeat shows Nottingham Forest need solution before then",
@@ -279,6 +299,16 @@
     "added": 1795288589742,
     "tag": "상대 소식",
     "titleKo": "본머스 2-0 노팅엄 포레스트 | 프리미어리그 하이라이트"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVl2ekZFU3NRdFprMGVOUkxKdU8wSHc3YzItaU5rZDVPUnB6LVBLYUY4bzZJTW9zQ21WQUdkeUJveS1mSXUydm4wNjlOWm1ibTFQdFgxYjZtSVFKY3VLeUJHS2gwM001VXpVM1FsNDBaaDMxVHg2dTd6TWg3RU1vNzFEV2c3YUl0MHM5VEV3?oc=5",
+    "title": "Bournemouth 2-0 Nottingham Forest as Evanilson opens scoring",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVl2ekZFU3NRdFprMGVOUkxKdU8wSHc3YzItaU5rZDVPUnB6LVBLYUY4bzZJTW9zQ21WQUdkeUJveS1mSXUydm4wNjlOWm1ibTFQdFgxYjZtSVFKY3VLeUJHS2gwM001VXpVM1FsNDBaaDMxVHg2dTd6TWg3RU1vNzFEV2c3YUl0MHM5VEV3?oc=5",
+    "source": "Dave.Sport",
+    "date": 1795280870000,
+    "added": 1795339461453,
+    "tag": "상대 소식",
+    "titleKo": "에바닐송의 선제골로 본머스가 노팅엄 포레스트에 2-0 승리"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83cGtnaTg2RWhNdU5rckV2OTBob1BUb3pvQmdkVU5ySndYcHM5SnM5ZVZneUo5Snhoei1Xam1fZFZXSUlJX0lWWkIxdG1wWGNtMnJoaFFzMVVtRWM5anhlNnUwNW15cDZiQkQ1em5HbEhwaHBvVnFESkFTaw?oc=5",
@@ -721,6 +751,16 @@
     "titleKo": "노팅엄 포레스트 뉴스: 올리버 글라스너 감독, 라이언 예이츠의 구단에 대한 애정을 칭찬하다"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GTkFQNlVhZUdKTzVkVXJ5NjgxTGZCcjdwQ2FZejBWa0dpZklEOF95TWRpSWpCLU5JSmNxd29TM0ZBcGJwMU9LcVlPSmhRSUZBa0E0VFN6ZS1ybm1tb2I2TnJRN3c2dmMyc2JZ?oc=5",
+    "title": "Nottingham Forest Weigh Bournemouth Plans and Transfer Decisions",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GTkFQNlVhZUdKTzVkVXJ5NjgxTGZCcjdwQ2FZejBWa0dpZklEOF95TWRpSWpCLU5JSmNxd29TM0ZBcGJwMU9LcVlPSmhRSUZBa0E0VFN6ZS1ybm1tb2I2TnJRN3c2dmMyc2JZ?oc=5",
+    "source": "cwibc.co.id",
+    "date": 1795173891000,
+    "added": 1795339461453,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트, 본머스 영입 계획 및 이적 결정 검토"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDNQTVoxTzZZcGZ6NmRpaG5DWFBBWUt5Tm9jMXAxOTRnbHhaRnpNMXo0N2paWlZjZ0lmc3RDcjFUM3gwY0tWWG9HcG9ua0hzWnJydjBfb2lEVTh3RzdPNlA5SklVX1l6Tjg2OEEyeGFzNkdxTngtSWs3WnpDZVA1NmRaSnlHWWE5OTJrYk1RTVVPeW5nOVJfbkhzQmlUZVE4a3BjcElQTTRrMGJsekVv?oc=5",
     "title": "Ten players could miss Bournemouth vs Nottingham Forest after flight chaos",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDNQTVoxTzZZcGZ6NmRpaG5DWFBBWUt5Tm9jMXAxOTRnbHhaRnpNMXo0N2paWlZjZ0lmc3RDcjFUM3gwY0tWWG9HcG9ua0hzWnJydjBfb2lEVTh3RzdPNlA5SklVX1l6Tjg2OEEyeGFzNkdxTngtSWs3WnpDZVA1NmRaSnlHWWE5OTJrYk1RTVVPeW5nOVJfbkhzQmlUZVE4a3BjcElQTTRrMGJsekVv?oc=5",
@@ -799,46 +839,6 @@
     "added": 1795275032052,
     "tag": "상대 소식",
     "titleKo": "'많은 이야기가 나오기 시작했습니다' - 라이언 예이츠, 그의 감동적인 노팅엄 포레스트 연설에 대해"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzVUWUVZNDVvc0d6cWRGcVNvTi00UjgzR3J2Smx5MG1McWxlUk1Ianc5bGN3dmU2Qmg4S2J5TEtiTXNJNWtCYzlkdUI2U0gwTTh4SDJDVzJLSEIySm54b1JvR0hDRVJYZ1NiYnVJZ2VRejVMcUVIbnRfRm1yOXF4aFpZQjRRWmRwTUlLdHk4WEpYVzdkUy16eW1yMzRYbVFLLTRFMlprNDFzUQ?oc=5",
-    "title": "Bournemouth vs Nottingham Forest Lineups and Team News: Schlager a Doubt",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzVUWUVZNDVvc0d6cWRGcVNvTi00UjgzR3J2Smx5MG1McWxlUk1Ianc5bGN3dmU2Qmg4S2J5TEtiTXNJNWtCYzlkdUI2U0gwTTh4SDJDVzJLSEIySm54b1JvR0hDRVJYZ1NiYnVJZ2VRejVMcUVIbnRfRm1yOXF4aFpZQjRRWmRwTUlLdHk4WEpYVzdkUy16eW1yMzRYbVFLLTRFMlprNDFzUQ?oc=5",
-    "source": "The False 9",
-    "date": 1795153890000,
-    "added": 1795275032052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "본머스 vs 노팅엄 포레스트 선발 명단 및 팀 소식: 슈라거 출전 불투명"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM2plSTJWQlNTNnJ2cEZ3dG5SbXROUjVnTmRTT1g3b0M4MHN4VDE3V0swNUJsZVFoQi10T3Brb0tlUDhPMHJWZjNxWk82QzV3OGY2V2lRekpqc3BZSGptRmRDVFp1RHA4c0FLNnVnYW1waTJUemFldmtJeWJiWi1IU2pTOG9RekY2LUo5ci0zWjJ1czdELXZSeDNwVkpQckZNUlA1RFktYjlvTjRMMm5nZk1QTVVQVkJ1TXB5ZTRwa3VlQWp1cVQzV3FNTUx3cW11b3M0MThqNkU?oc=5",
-    "title": "Bournemouth injury news: Marco Rose reveals Alex Scott start plan ahead of Nottingham Forest clash",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM2plSTJWQlNTNnJ2cEZ3dG5SbXROUjVnTmRTT1g3b0M4MHN4VDE3V0swNUJsZVFoQi10T3Brb0tlUDhPMHJWZjNxWk82QzV3OGY2V2lRekpqc3BZSGptRmRDVFp1RHA4c0FLNnVnYW1waTJUemFldmtJeWJiWi1IU2pTOG9RekY2LUo5ci0zWjJ1czdELXZSeDNwVkpQckZNUlA1RFktYjlvTjRMMm5nZk1QTVVQVkJ1TXB5ZTRwa3VlQWp1cVQzV3FNTUx3cW11b3M0MThqNkU?oc=5",
-    "source": "Sports Mole",
-    "date": 1795123571000,
-    "added": 1795275032052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "본머스 부상 소식: 마르코 로제 감독, 노팅엄 포레스트와의 경기를 앞두고 알렉스 스콧 선발 출전 계획 밝혀"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1RhM3JnVlJSODFQeGkzckxacml5ckFmNk51aEdYQzBHVkYxTTdDTXlBaENVa3FKSTVHSEkzVjlOOWZGbTktWWpVYWE1dEpJRlRHMUZSdV94enY1Tk53MGRnZldJTHpTS01VYnlPLXIxSlIwN294ZERvdmZpT09QWFk1Y2RhZXp5Y2QwUkZkN1FHUjZvLVNzNkZoSEVtM19lZE0zSUJyX0g4RC1zdmJ0V1RaU1N0eHMzLWdtTjFfbkJ4QW11?oc=5",
-    "title": "Preview: Bournemouth vs Nottingham Forest - prediction, team news, lineups",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1RhM3JnVlJSODFQeGkzckxacml5ckFmNk51aEdYQzBHVkYxTTdDTXlBaENVa3FKSTVHSEkzVjlOOWZGbTktWWpVYWE1dEpJRlRHMUZSdV94enY1Tk53MGRnZldJTHpTS01VYnlPLXIxSlIwN294ZERvdmZpT09QWFk1Y2RhZXp5Y2QwUkZkN1FHUjZvLVNzNkZoSEVtM19lZE0zSUJyX0g4RC1zdmJ0V1RaU1N0eHMzLWdtTjFfbkJ4QW11?oc=5",
-    "source": "Sports Mole",
-    "date": 1795122000000,
-    "added": 1795275032052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "프리뷰: 본머스 vs 노팅엄 포레스트 - 예측, 팀 소식, 선발 명단"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlRNTVpwM1Q1VW8xNVg5VXpfX1lNT0hlbE8wZlptNjVETEZCQ0VuRWVFTkdjdWFCaU9OVnBKM1N3Tmx5TEl1TlkwMW1GRjBka3lIb0VaQXJuaGJoQTh1QWJpbmFfSElBMkQ5QXNiOTNyMTlWekx2RWptbGpscG9ORDZTaER1ZVRsdkExZzdMMG9SS1lMWXNmZzhhbFh2OE1rYUV1VQ?oc=5",
-    "title": "AFC Bournemouth - Nottingham Forest FC prediction & tips 21.11.2026",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlRNTVpwM1Q1VW8xNVg5VXpfX1lNT0hlbE8wZlptNjVETEZCQ0VuRWVFTkdjdWFCaU9OVnBKM1N3Tmx5TEl1TlkwMW1GRjBka3lIb0VaQXJuaGJoQTh1QWJpbmFfSElBMkQ5QXNiOTNyMTlWekx2RWptbGpscG9ORDZTaER1ZVRsdkExZzdMMG9SS1lMWXNmZzhhbFh2OE1rYUV1VQ?oc=5",
-    "source": "Transfermarkt",
-    "date": 1795111790000,
-    "added": 1795308264714,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "AFC 본머스 - 노팅엄 포레스트 FC 전력 분석 및 베팅 팁 2026년 11월 21일"
    }
   ]
  },
@@ -1152,6 +1152,17 @@
    "added": 1795298432108,
    "cat": "부상",
    "titleKo": "프리미어리그 포럼: 알론소가 첼시의 부진을 타개할 수 있을까? 라야의 부상이 아스널에 얼마나 치명적일 수 있을까요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFdWZ3lVTUhVdWhLNUdRWTZtUFdNUHJ6bXB2eEo3SlYyaFZnQVlka0c0R19tbkVLcXRPUmsyS2kzdzUxUkRMR2wtUlJHaHNTLTNRZ2cxcTIwY21XS3JYTDhfTjNfQklwM25pMFViNTBZanhOalVzajJxWEJfVFViY3R5OWVEdjNVRy1qSW12cFpkajBOSnJCdmpWSXM4MU5Ca25VRmwtVm5pVk81?oc=5",
+   "title": "첼시, 리즈 유나이티드에 1-4 완패, 스탬포드 브릿지에서 악몽 계속",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFdWZ3lVTUhVdWhLNUdRWTZtUFdNUHJ6bXB2eEo3SlYyaFZnQVlka0c0R19tbkVLcXRPUmsyS2kzdzUxUkRMR2wtUlJHaHNTLTNRZ2cxcTIwY21XS3JYTDhfTjNfQklwM25pMFViNTBZanhOalVzajJxWEJfVFViY3R5OWVEdjNVRy1qSW12cFpkajBOSnJCdmpWSXM4MU5Ca25VRmwtVm5pVk81?oc=5",
+   "source": "VOI.ID",
+   "group": "한국 언론",
+   "date": 1795297500000,
+   "added": 1795339459296,
+   "cat": null,
+   "titleKo": "첼시, 리즈 유나이티드에 1-4 완패, 스탬포드 브릿지에서 악몽 계속"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXBjeE1ZenlQdEl5UWlaYUNNUDRfTVhqbWxSX0hPRWd4aXk0VFJzRFViSlFzcTRkdUhEQU9BNHdfZkl5T1NUZG80Zl9NYnRrWFRseElzU3pyRzRCZFp5bkJ0ZlRIa2MzTlFidkl6WGF3RW9YZHNLRl9uUDFYVzJKVndDQ2laYnp1TS1DNnJUZw?oc=5",
@@ -4206,17 +4217,6 @@
    "cat": null,
    "titleKo": "지금까지의 사비 알론소 감독의 첼시: 블루스는 올바른 방향으로 가고 있을까요?",
    "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/09/chelsea-v-leeds-united-carabao-cup-third-round-2-550x367.jpg"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/nottingham-forest/transfer-talk/news/roma-view-forest-star-as-alternative-to-chelsea-attacker_609482.html",
-   "title": "Nottingham Forest transfer news: Roma view star as 'alternative' to Chelsea attacker",
-   "link": "https://www.sportsmole.co.uk/football/nottingham-forest/transfer-talk/news/roma-view-forest-star-as-alternative-to-chelsea-attacker_609482.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795173580000,
-   "cat": "이적",
-   "titleKo": "노팅엄 포레스트 이적 소식: 로마, 첼시 공격수의 '대안'으로 스타 선수 영입 고려",
-   "image": "https://www.sportsmole.co.uk/thumbor/uPGDNsfWtT7FmaxVnJno3HQiHoA=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2025%2F11%2Fimago1069641665-1-6929c539769af400538171.jpg"
   }
  ]
 }
