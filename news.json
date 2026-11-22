@@ -1,5 +1,5 @@
 {
- "updated": 1795312470551,
+ "updated": 1795315410640,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -17,11 +17,11 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 66,
+  "구글뉴스(영어)": 65,
   "인터풋볼": 0,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 31,
+  "구글뉴스(한국어)": 32,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -431,6 +431,16 @@
     "titleKo": "본머스, 노팅엄 포리스트에 2-0 승리하며 구단 기록 세워"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlJkbVBGaEJaenBjVVdma2ZQcW56Yzk1LXUwZE5TT0hoaXBfYUNldXV0WXFkc3c2NG9RM2wteDJwbVZhU3gwOHUweWUtaVMtb2hWVWtYTUo1ZnZNUE4xcHNJWE9aZXEyUFpSSVFwdHlSaGFmX3RDTE5nTjlZbHVTQmtOQVFUVHUwRkw0?oc=5",
+    "title": "Nottingham Forest v Chelsea LIVE 27/11/2026 | Football",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlJkbVBGaEJaenBjVVdma2ZQcW56Yzk1LXUwZE5TT0hoaXBfYUNldXV0WXFkc3c2NG9RM2wteDJwbVZhU3gwOHUweWUtaVMtb2hWVWtYTUo1ZnZNUE4xcHNJWE9aZXEyUFpSSVFwdHlSaGFmX3RDTE5nTjlZbHVTQmtOQVFUVHUwRkw0?oc=5",
+    "source": "Flash Scores",
+    "date": 1795253450000,
+    "added": 1795315408448,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 대 첼시 라이브 2026/11/27 | 축구"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDdSdExPd1RPeE5FejhZVWNqbHZTRWhqRlhoOUJiMVJQSkRRY1Nod29adkNvTEhVRmswVGFiUGNiTVREOE15LWZxdHRUdUxpcjJOcmw1R2NDZm1rb0RiVVE0dTVkb2VoYXJWSHBaVjFqTlNvdHlvaVl4cWFCU3ZPdzdCLXk5ck9RNmdxeURCRWlNVDQxOVd1NEZ3SzFtRFVaT0Q0ZVlaeWRwY3lSZERIY210MWxPZURqX0JGWi1rNzNiZHZOcGtYTDZVb3JfZEgxLVRxWkFkVmpFNWhjNHB0OHRtaldoRjZ3R1pGUDQ4ekxldTQ?oc=5",
     "title": "Transfer Rumours: Kvaratskhelia deal close as Chelsea 'hold meetings' over €100m signing",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDdSdExPd1RPeE5FejhZVWNqbHZTRWhqRlhoOUJiMVJQSkRRY1Nod29adkNvTEhVRmswVGFiUGNiTVREOE15LWZxdHRUdUxpcjJOcmw1R2NDZm1rb0RiVVE0dTVkb2VoYXJWSHBaVjFqTlNvdHlvaVl4cWFCU3ZPdzdCLXk5ck9RNmdxeURCRWlNVDQxOVd1NEZ3SzFtRFVaT0Q0ZVlaeWRwY3lSZERIY210MWxPZURqX0JGWi1rNzNiZHZOcGtYTDZVb3JfZEgxLVRxWkFkVmpFNWhjNHB0OHRtaldoRjZ3R1pGUDQ4ekxldTQ?oc=5",
@@ -829,16 +839,6 @@
     "added": 1795277863027,
     "tag": "상대 소식",
     "titleKo": "저녁 경기를 우려하는 팬들이 있는 가운데 첼시의 경기 일정 2개가 변경되었습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjFUZGRrSlM5YWlVS1p2UjEyOGV1SHVzQ0Z2aGJZTk02ejNXNkVMdlZYYVRUUnVxRmtjeEZaNzRFLVFhUGFYRkhSZVRLSC1iLXgybXNEYko4MVpJSFVYTnRGandSaHJvX0NlVjU5a3djZ0lDSkhBaWphUUoxRE80WHA0cTduN1FEeWduaktUY1pDMW1oVElqelZfVE56MV9sOWZoZjdXZ1FJNzg?oc=5",
-    "title": "James McAtee feared he had 'no chance' under Oliver Glasner after two days at Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjFUZGRrSlM5YWlVS1p2UjEyOGV1SHVzQ0Z2aGJZTk02ejNXNkVMdlZYYVRUUnVxRmtjeEZaNzRFLVFhUGFYRkhSZVRLSC1iLXgybXNEYko4MVpJSFVYTnRGandSaHJvX0NlVjU5a3djZ0lDSkhBaWphUUoxRE80WHA0cTduN1FEeWduaktUY1pDMW1oVElqelZfVE56MV9sOWZoZjdXZ1FJNzg?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795084945000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "제임스 맥아티는 노팅엄 포레스트에서 이틀을 보낸 후 올리버 글라스너 감독 아래에서는 '기회가 없을 것'이라고 우려했습니다."
    }
   ]
  },
@@ -955,6 +955,17 @@
    "added": 1795305392364,
    "cat": null,
    "titleKo": "리즈가 첼시를 꺾고 스탬퍼드 브리지에서 27년 만에 징크스를 깼다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekZhc3U1VFVBdVNudGVsM0I5dWkzSEwwSWZoQmZPalN5RHF1eUpVQ3YyTnZHbkpRb1hZY3N4N3RlZWhHTWFSUmt4eWhoV2xUck81Wi1fWXBqZXY3WC1GbVdLcnJSRldwdlZhLXNaZGhwdFFSUGlmOVdWZFJ4aFN5cUJncncyU05KMjV0bW1seEVDdjZLRHVfTGp1cUdQWlVycWk3cmVR?oc=5",
+   "title": "첼시, 홈에서 리즈 유나이티드에 1-4 역전패",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekZhc3U1VFVBdVNudGVsM0I5dWkzSEwwSWZoQmZPalN5RHF1eUpVQ3YyTnZHbkpRb1hZY3N4N3RlZWhHTWFSUmt4eWhoV2xUck81Wi1fWXBqZXY3WC1GbVdLcnJSRldwdlZhLXNaZGhwdFFSUGlmOVdWZFJ4aFN5cUJncncyU05KMjV0bW1seEVDdjZLRHVfTGp1cUdQWlVycWk3cmVR?oc=5",
+   "source": "Laodong.vn",
+   "group": "한국 언론",
+   "date": 1795304669000,
+   "added": 1795315407943,
+   "cat": null,
+   "titleKo": "첼시, 홈에서 리즈 유나이티드에 1-4 역전패"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/cqy7r0eg2y05o?at_medium=RSS&at_campaign=rss",
@@ -1702,6 +1713,17 @@
    "added": 1795283105237,
    "cat": null,
    "titleKo": "첼시 1-4 리즈: 샤비 알론소에 대한 비판이 거세지는 가운데, 블루스가 처참하게 패배하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUeDNqQ2VSN1BEY0V2aWY0WHROV3hLbHRQNmNjdnhPWmNxVlRMZTZiZ3RhT1ZtWm1aRmxCbktHbDRfSkpmd3VFaEI3SF92aFk3c19QZXB5QzF0elpWZDlqczJTdlhUMGNRWVl6b0R4VG16R3l5?oc=5",
+   "title": "Chelsea Player Ratings vs. Leeds: Defensive Horror Show Heaps Pressure on Alonso",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUeDNqQ2VSN1BEY0V2aWY0WHROV3hLbHRQNmNjdnhPWmNxVlRMZTZiZ3RhT1ZtWm1aRmxCbktHbDRfSkpmd3VFaEI3SF92aFk3c19QZXB5QzF0elpWZDlqczJTdlhUMGNRWVl6b0R4VG16R3l5?oc=5",
+   "source": "Sports Illustrated",
+   "group": "영국 언론",
+   "date": 1795281051000,
+   "added": 1795315407943,
+   "cat": "프리뷰",
+   "titleKo": "첼시 선수 평점(리즈전): 수비진의 끔찍한 경기력으로 알론소에게 부담 가중"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGVYZTdUVEpZNHIwenFZV2pPVl93Y1c1eUcybnNLVGZVbWNDbkgyY0hHTWhXX1NzSlA3Y3ZfbXIzWmJ5ZS1ZYXB4MllMNW9Kc1hNamJzajFZajJnY0twVWhmcUN1V1hFNlhfb0dHNzFzNDE4cnRBcUdHMU91TjNvUFBaeDhITGVLRTdQanh2TnM0QWhudzFTNjhkTllWSHlOMUp2SExpaGI?oc=5",
@@ -4184,26 +4206,6 @@
    "added": 1795222576855,
    "cat": null,
    "titleKo": "리즈 경기 관련 이동 정보 업데이트 – 피카딜리 및 디스트릭트 라인 운행 중단"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVQ1aUpISldGUWJwaWJYeVQwQ21Bc25haWdxSTgtd0tiYk9EQ3ZNTXRKOXlCdHY3VG5SMjJhajdzc3BsaThRRmd6Z0paM1g1dzZJUVM2ZFd0eGNXTWRwbEJhVWYyUnBuRE4tM191VE1iVmEzR0xjaFdza1dqYWlqRHYyQU1FTkkzbmJIUkNEb2NBVVE?oc=5",
-   "title": "Chelsea vs Leeds: Key statistics and facts | News | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVQ1aUpISldGUWJwaWJYeVQwQ21Bc25haWdxSTgtd0tiYk9EQ3ZNTXRKOXlCdHY3VG5SMjJhajdzc3BsaThRRmd6Z0paM1g1dzZJUVM2ZFd0eGNXTWRwbEJhVWYyUnBuRE4tM191VE1iVmEzR0xjaFdza1dqYWlqRHYyQU1FTkkzbmJIUkNEb2NBVVE?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795161600000,
-   "cat": "오피셜",
-   "titleKo": "첼시 vs 리즈: 주요 통계 및 정보 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDNfZzdhWl9nY0ZEWXJ2ZDhZVHZfdElkN0xXM01YcldpR204aHVNX3FubC1wTlk3N0RnQng4TmlneDhxYTJIdW5QWXZTeUhVZllCNkIxeEY4QmctR1lKRU1zTnJmbC04LTR5b0ZQM1lZdWwtRHdGY3dTdWhqZW5jQnNiSnBKZ08tM0xULXFYbzlMeXNSY2I5MTZmNGhSQlI1TVNBVVFabWdBdURoREEtX0lDeS0xWEtJNHB5LUxiOHZYMjJUWWM0Qm53UUhKbGh2?oc=5",
-   "title": "클럽 월드컵: 시간, 날짜, 채널, 어디서 PSG-첼시 결승전을 시청할 수 있나요?",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDNfZzdhWl9nY0ZEWXJ2ZDhZVHZfdElkN0xXM01YcldpR204aHVNX3FubC1wTlk3N0RnQng4TmlneDhxYTJIdW5QWXZTeUhVZllCNkIxeEY4QmctR1lKRU1zTnJmbC04LTR5b0ZQM1lZdWwtRHdGY3dTdWhqZW5jQnNiSnBKZ08tM0xULXFYbzlMeXNSY2I5MTZmNGhSQlI1TVNBVVFabWdBdURoREEtX0lDeS0xWEtJNHB5LUxiOHZYMjJUWWM0Qm53UUhKbGh2?oc=5",
-   "source": "Sortir à Paris",
-   "group": "한국 언론",
-   "date": 1795160647000,
-   "cat": null,
-   "titleKo": "클럽 월드컵: 시간, 날짜, 채널, 어디서 PSG-첼시 결승전을 시청할 수 있나요?"
   }
  ]
 }
