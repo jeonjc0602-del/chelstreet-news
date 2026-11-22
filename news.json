@@ -1,5 +1,5 @@
 {
- "updated": 1795308278731,
+ "updated": 1795312470551,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -17,18 +17,18 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 66,
   "인터풋볼": 0,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 27,
+  "구글뉴스(한국어)": 31,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 22건"
+  "이번 상대": "Nottingham Forest · 새 기사 19건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -857,6 +857,39 @@
    "image": "https://cdn.footballist.co.kr/news/thumbnail/202611/217169_183072_4038_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFBxeVYtM0lFU3J1M3ZhMTlpT1V1VXB4dnR0RVg1YW5TYzB4ejNxc05iaGRhNlFTNmpGM0QyTjE2ZWM4QlFYTXdieUgxQ1h0YXpKcFN0cmR6V21lOW52eDBxcDNhVDZVMWtPZHl2V1A3cjIyMGtadnNWN3k2RTNzaVE5WlMwMFZIOEtRa1ZCaU1BQkJkSHo0TUgxUTZIUGNUNHV1LVhVTThlUzBFZGZYR0g3d2Y2VjFfblBabjZn?oc=5",
+   "title": "11월 22일 축구 경기 결과 및 일정: 첼시, 리즈 유나이티드에 대패, 남딘은 선두 자리 굳혀.",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFBxeVYtM0lFU3J1M3ZhMTlpT1V1VXB4dnR0RVg1YW5TYzB4ejNxc05iaGRhNlFTNmpGM0QyTjE2ZWM4QlFYTXdieUgxQ1h0YXpKcFN0cmR6V21lOW52eDBxcDNhVDZVMWtPZHl2V1A3cjIyMGtadnNWN3k2RTNzaVE5WlMwMFZIOEtRa1ZCaU1BQkJkSHo0TUgxUTZIUGNUNHV1LVhVTThlUzBFZGZYR0g3d2Y2VjFfblBabjZn?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795308892000,
+   "added": 1795312467104,
+   "cat": null,
+   "titleKo": "11월 22일 축구 경기 결과 및 일정: 첼시, 리즈 유나이티드에 대패, 남딘은 선두 자리 굳혀."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXJqdWZNN1NTaUpJUU5hRmxuWHd6dl8tNXRyaENKMEhSMkZFczBGbFZZV0J4UmlLWTVWdmhTbmVlbHFlYlJNQURPMGFoYkE0eUpScW1CcGJFSktWSF95UkFRNzJXRm1jbzlNVm1sRlFST3dVa2MySE9DbmM1YS1wdWtKV1huU3BJb1h0MUtQZDV2YXpLc2hmY1Rn?oc=5",
+   "title": "남딘이 2026/27 V리그 선두 자리를 굳혔고, 첼시는 역사적인 패배를 당했다.",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXJqdWZNN1NTaUpJUU5hRmxuWHd6dl8tNXRyaENKMEhSMkZFczBGbFZZV0J4UmlLWTVWdmhTbmVlbHFlYlJNQURPMGFoYkE0eUpScW1CcGJFSktWSF95UkFRNzJXRm1jbzlNVm1sRlFST3dVa2MySE9DbmM1YS1wdWtKV1huU3BJb1h0MUtQZDV2YXpLc2hmY1Rn?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795308887000,
+   "added": 1795312467104,
+   "cat": null,
+   "titleKo": "남딘이 2026/27 V리그 선두 자리를 굳혔고, 첼시는 역사적인 패배를 당했다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJV3JZMThWYUpfYlJWcGthNHJHOXJtODNqSmRsSktXQzJMV0U4RDVDd3hLbXF0NEkxY00wQVVJclEwQ3B1d2FObF9LRGpMQUtkcDhpaUNwRHhFR2ZBLXR0OU93RzU0Xy05cWlnMWxCWElyRWxvTHc1ZnRJb9IBf0FVX3lxTE1XLWFPc0lCWkpwV3dTLUJnN0JvQ2pLUmZFU2k0U3RjZk1ZckRLM1J4S1FScVJMVjNPWk50SldVdVBzNkpXd2s4QkgzTFhvSUE0TlhTSUVIU203VmJqRWR5dUF0anBzelQ2VG5wMWZtd2tLek9kcmh1VmtKNlVDQVk?oc=5",
+   "title": "첼시, 27년 만에 홈서 리즈에 1-4 대패…리그 3연패 빠지며 8위 추락",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJV3JZMThWYUpfYlJWcGthNHJHOXJtODNqSmRsSktXQzJMV0U4RDVDd3hLbXF0NEkxY00wQVVJclEwQ3B1d2FObF9LRGpMQUtkcDhpaUNwRHhFR2ZBLXR0OU93RzU0Xy05cWlnMWxCWElyRWxvTHc1ZnRJb9IBf0FVX3lxTE1XLWFPc0lCWkpwV3dTLUJnN0JvQ2pLUmZFU2k0U3RjZk1ZckRLM1J4S1FScVJMVjNPWk50SldVdVBzNkpXd2s4QkgzTFhvSUE0TlhTSUVIU203VmJqRWR5dUF0anBzelQ2VG5wMWZtd2tLek9kcmh1VmtKNlVDQVk?oc=5",
+   "source": "데일리스포츠한국",
+   "group": "한국 언론",
+   "date": 1795308148000,
+   "added": 1795312467104,
+   "cat": null,
+   "titleKo": "첼시, 27년 만에 홈서 리즈에 1-4 대패…리그 3연패 빠지며 8위 추락"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
    "title": "Chelsea pundit toys with idea of Jamal Musiala return",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
@@ -980,6 +1013,17 @@
    "added": 1795298432108,
    "cat": "부상",
    "titleKo": "프리미어리그 포럼: 알론소가 첼시의 부진을 타개할 수 있을까? 라야의 부상이 아스널에 얼마나 치명적일 수 있을까요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXBjeE1ZenlQdEl5UWlaYUNNUDRfTVhqbWxSX0hPRWd4aXk0VFJzRFViSlFzcTRkdUhEQU9BNHdfZkl5T1NUZG80Zl9NYnRrWFRseElzU3pyRzRCZFp5bkJ0ZlRIa2MzTlFidkl6WGF3RW9YZHNLRl9uUDFYVzJKVndDQ2laYnp1TS1DNnJUZw?oc=5",
+   "title": "Tom Brady Reportedly Acquires Ownership Stake in Chelsea FC Following Birmingham City Exit",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXBjeE1ZenlQdEl5UWlaYUNNUDRfTVhqbWxSX0hPRWd4aXk0VFJzRFViSlFzcTRkdUhEQU9BNHdfZkl5T1NUZG80Zl9NYnRrWFRseElzU3pyRzRCZFp5bkJ0ZlRIa2MzTlFidkl6WGF3RW9YZHNLRl9uUDFYVzJKVndDQ2laYnp1TS1DNnJUZw?oc=5",
+   "source": "Complex",
+   "group": "영국 언론",
+   "date": 1795297468000,
+   "added": 1795312467104,
+   "cat": null,
+   "titleKo": "톰 브래디, 버밍엄 시티 매각 후 첼시 FC 지분 인수 보도"
   },
   {
    "id": "https://www.talkchelsea.net/news-now/cole-palmer-ignores-joao-pero-culture-coach/",
@@ -1325,6 +1369,17 @@
    "added": 1795298432109,
    "cat": null,
    "titleKo": "첼시는 홈에서 리즈에게 굴욕적인 패배를 당했다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nazhVQ1FKSVRqUm9IdkJOVm9hRzI2U1ZjSmFzWWM2MGFudXNza1RoME1NcmRjVDZ3QVUwRUt6SzhOdUxjTjdocVB6RTIydzhOYWF0Y21oUWlidGQ3OVppZThJWm9HMzVO?oc=5",
+   "title": "Women's Super League highlights: Liverpool 0-0 Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nazhVQ1FKSVRqUm9IdkJOVm9hRzI2U1ZjSmFzWWM2MGFudXNza1RoME1NcmRjVDZ3QVUwRUt6SzhOdUxjTjdocVB6RTIydzhOYWF0Y21oUWlidGQ3OVppZThJWm9HMzVO?oc=5",
+   "source": "BBC",
+   "group": "영국 언론",
+   "date": 1795286095000,
+   "added": 1795312467104,
+   "cat": null,
+   "titleKo": "여자 슈퍼리그 하이라이트: 리버풀 0-0 첼시"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUh6eUdXck52VGd3cXFhblhTMVJYVjJISFBBOU9zb3JYdzZROERRSlMzbGJYNS1nMHkwOHdDbDlqU2Y5Yk9mMWd1ejh2Zmh6NVM4aC04TkRhVnlNT0tPRmtITm9rTUJwVXJZZHF4Q2p5VDJXVldualMtOEdWYmJtMXh5TXhZUGVYdndNR2xfSzZNLS1MWTkwd0pNU285YTFubjZ4OXF2RTVMQzhy0gGyAUFVX3lxTFBQeXVNVjNOWTRiaVFsaHY1dzJlNHY0Z0N6LXlLcWRuY09GODlUWURWS3RUeEZUZmNlcTVocXRHbzdXcXpNV2wyc3IweWNsV3JzX0I5Z3ZReVFURzdVUmdHZVJhNnRKLUt1N293cDk0RnhtWDlIUGNDOXNLUlo4OTU4OXFqMjI4RWtMdkV0a1RRZTdLY1F5Skl5d1NlY0h6Rm5zalFnZ05VU0U3ME1TMktYNXc?oc=5",
@@ -4149,60 +4204,6 @@
    "date": 1795160647000,
    "cat": null,
    "titleKo": "클럽 월드컵: 시간, 날짜, 채널, 어디서 PSG-첼시 결승전을 시청할 수 있나요?"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3dtT3lQdVo0elVPUWg3cGNIZF9FNUpGMnJjV0loQ1VMZzVnbS1UX2hOMEphR0dOREd6OVFPZzJaWDlDU1ZVcENXLWdVZHdRRTJ0a25vQVZIUXVHbnVWV3FJZkh2TG82dTYwXzUwdld6ak9hSGhkZkw0TGsxU1hMUGFwSm5vZ3IxNGlDb2FKZlZGQQ?oc=5",
-   "title": "Chelsea blow as Caicedo confirms fitness scare on international duty",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3dtT3lQdVo0elVPUWg3cGNIZF9FNUpGMnJjV0loQ1VMZzVnbS1UX2hOMEphR0dOREd6OVFPZzJaWDlDU1ZVcENXLWdVZHdRRTJ0a25vQVZIUXVHbnVWV3FJZkh2TG82dTYwXzUwdld6ak9hSGhkZkw0TGsxU1hMUGFwSm5vZ3IxNGlDb2FKZlZGQQ?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795160197000,
-   "cat": "오피셜",
-   "titleKo": "카이세도가 국가대표팀 소집 중 부상 우려를 확인하며 첼시에 타격"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/cruel-blow-for-xabi-alonso-as-chelsea-barred-from-signing-gbp30m-midfield-maestro_609464.html",
-   "title": "Xabi Alonso's January transfer plan dealt cruel blow as Chelsea 'barred' from signing £30m maestro",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/cruel-blow-for-xabi-alonso-as-chelsea-barred-from-signing-gbp30m-midfield-maestro_609464.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795159860000,
-   "cat": "이적",
-   "titleKo": "사비 알론소의 1월 이적 계획이 큰 차질을 빚었습니다. 첼시가 3천만 파운드(약 500억 원)의 이적료를 지불하고 영입하려는 마에스트로를 '금지'했기 때문입니다.",
-   "image": "https://www.sportsmole.co.uk/thumbor/6nNZJMELg1-ZajAF74U0CTlbA08=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Falonso-alajbegovic-email-sportmole-6afff74ab648b510077015.png"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/transfer-news/trent-alexander-arnold-transfer-rudiger-34936610",
-   "title": "Trent Alexander-Arnold transfer, Rudiger return and Estevao exit - 26 Chelsea questions answered",
-   "link": "https://www.football.london/chelsea-fc/transfer-news/trent-alexander-arnold-transfer-rudiger-34936610",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795158000000,
-   "cat": "이적",
-   "titleKo": "트렌트 알렉산더-아놀드 이적, 뤼디거 복귀, 에스테바오 이적 - 첼시에 대한 26가지 질문에 대한 답변",
-   "image": "https://i2-prod.football.london/incoming/article34936908.ece/ALTERNATES/s615/0_GettyImages-2304804839.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzI4UnBRMDlwMWtHOTdRdzhWaDF6bXRuZXlaQVg0WW5yY0c3Q29SQkpiUXkzVFFKLUF4VnRHV0QxLXp5aWFELW80VmppdTFYSm9JQU1NRzloM0hvWmZ3WHZ2cWxyTG4xem80cXBBYlpjVzBUVkJDXy1wZEROdXI1UjB3Nkd1Y3g2VHcxdk5B?oc=5",
-   "title": "Sjoeke Nusken: There is more to come from us",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzI4UnBRMDlwMWtHOTdRdzhWaDF6bXRuZXlaQVg0WW5yY0c3Q29SQkpiUXkzVFFKLUF4VnRHV0QxLXp5aWFELW80VmppdTFYSm9JQU1NRzloM0hvWmZ3WHZ2cWxyTG4xem80cXBBYlpjVzBUVkJDXy1wZEROdXI1UjB3Nkd1Y3g2VHcxdk5B?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795154705000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "Sjoeke Nusken: 앞으로 더 많은 성과가 있을 것입니다."
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/chelsea-line-ups-leeds-estevao-34934896",
-   "title": "Estevao agreement reached, Joao Pedro decision made - Chelsea line-ups for Leeds United clash",
-   "link": "https://www.football.london/chelsea-fc/news/chelsea-line-ups-leeds-estevao-34934896",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795154400000,
-   "cat": null,
-   "titleKo": "에스테바오 영입 합의, 주앙 페드로 영입 결정 - 리즈 유나이티드와의 경기를 위한 첼시 선발 명단",
-   "image": "https://i2-prod.football.london/incoming/article34681972.ece/ALTERNATES/s615/1_GettyImages-2292344542.jpg"
   }
  ]
 }
