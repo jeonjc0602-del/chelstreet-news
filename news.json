@@ -1,5 +1,5 @@
 {
- "updated": 1795376063673,
+ "updated": 1795379030119,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -7,28 +7,28 @@
   "The Guardian": 20,
   "football.london": 25,
   "Evening Standard": 2,
-  "The Sun": 1,
+  "The Sun": 0,
   "Mirror": 0,
   "Daily Mail": 6,
   "Telegraph": 6,
-  "Independent": 3,
+  "Independent": 2,
   "Express": 0,
   "Sports Mole": 6,
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 34,
+  "구글뉴스(한국어)": 33,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 28건"
+  "이번 상대": "Nottingham Forest · 새 기사 35건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVh0MXo2eEJINzg1SDVpM0dYdXpxM1hpQjF1dGpULWR1d1dDcVBzaWxvOC1Mdng1c1FHRjBMVzBISUpLN3JUYV9TbXctLUxORnpzYkwyclI3X3V5dXB3c19saTJ5TjZwMzJ2dURlbFhXX3d6Um8wZE1oLVVXc21neXBSQWU3ajFCZEhSN0tXRVQ4Uk1NdWhfN0JNSVV3RDIxa284di1rUFhJa2U2dEFNWWdHQ21MeDVSOHBv?oc=5",
+    "title": "Liverpool and Chelsea now want £20m star being eyed by Forest boss Glasner",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVh0MXo2eEJINzg1SDVpM0dYdXpxM1hpQjF1dGpULWR1d1dDcVBzaWxvOC1Mdng1c1FHRjBMVzBISUpLN3JUYV9TbXctLUxORnpzYkwyclI3X3V5dXB3c19saTJ5TjZwMzJ2dURlbFhXX3d6Um8wZE1oLVVXc21neXBSQWU3ajFCZEhSN0tXRVQ4Uk1NdWhfN0JNSVV3RDIxa284di1rUFhJa2U2dEFNWWdHQ21MeDVSOHBv?oc=5",
+    "source": "Nottingham Forest News",
+    "date": 1795377600000,
+    "added": 1795379026688,
+    "tag": "상대 소식",
+    "titleKo": "리버풀과 첼시, 노팅엄 포레스트의 글라스너 감독이 관심을 보이는 2천만 파운드(약 340억 원)의 몸값을 자랑하는 스타 선수 영입을 원하고 있습니다."
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1BZRlh4U2d0eUJCVHpzWDFuek5ER2VmN213cTRRVlNyc0JXZGFuSFM0VFp2SFBKclJsS3kzSVFzbmNDR0hnWC11Y2RTQkRoZ2dPSnR3TU1hdDMtUF9wa0ZSUkpoTDZDWVFCcGtVWFNJZHF4bFhXLVcwSDJqOG5QR2s5RHIxNUNOc2FmSlVLY0VtMjdZV05IWGx6WWdFMzdXdVpRQ3k4N0I2eVR0UUp0X0RsdXlWZw?oc=5",
     "title": "He scored goals for QPR and Nottingham Forest - Then tried to transform healthcare",
@@ -79,6 +89,26 @@
     "added": 1795372899696,
     "tag": "상대 소식",
     "titleKo": "출처: 노팅엄 포레스트의 최근 행보에 이어 프리미어리그 구단이 오마리 허친슨 영입에 나설 전망"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlPbTJRVzFTQjRsdG9uTTVoNmozLTZxLTRtZ0Z0N2o4MVlEb19NbWhfTlo2UE9LZTB0cTNwaFYyWDJ2ZllLQVdvc0dmN2ZHNGZ1a0dtTGZFelE0d0JBQU9hNmhUOUZtc3VtUHVLZXh4eVVqYTdGUUVQUEs2RW5TUFhIVGozZ080SVJTcU1Za2p6bVVlTm85R2hMb3B0c3fSAaQBQVVfeXFMTUlLcnIxUkRyZWoyTTBTMXlUbVhBNmROdFcxSU5EMzBoVGRJTGx3VkNRQ3pOZTU5X1B3TldBVUhDX19XYWZYaFN1NzB6bHVLVTZRMUhYTkM5UUpPR1dydUd1SEZHWmxIZE5qdV91WlZmOGJtTlY0MTdsTkZEaE1EUG1kR3BteS1xS2hkaS1HUGhsam1jSjZIYzYyZVNrYzM3ek1iTHQ?oc=5",
+    "title": "Xabi Alonso makes worrying comment as 'fragile' Chelsea hit new low",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlPbTJRVzFTQjRsdG9uTTVoNmozLTZxLTRtZ0Z0N2o4MVlEb19NbWhfTlo2UE9LZTB0cTNwaFYyWDJ2ZllLQVdvc0dmN2ZHNGZ1a0dtTGZFelE0d0JBQU9hNmhUOUZtc3VtUHVLZXh4eVVqYTdGUUVQUEs2RW5TUFhIVGozZ080SVJTcU1Za2p6bVVlTm85R2hMb3B0c3fSAaQBQVVfeXFMTUlLcnIxUkRyZWoyTTBTMXlUbVhBNmROdFcxSU5EMzBoVGRJTGx3VkNRQ3pOZTU5X1B3TldBVUhDX19XYWZYaFN1NzB6bHVLVTZRMUhYTkM5UUpPR1dydUd1SEZHWmxIZE5qdV91WlZmOGJtTlY0MTdsTkZEaE1EUG1kR3BteS1xS2hkaS1HUGhsam1jSjZIYzYyZVNrYzM3ek1iTHQ?oc=5",
+    "source": "Daily Express",
+    "date": 1795355700000,
+    "added": 1795379026688,
+    "tag": "상대 소식",
+    "titleKo": "샤비 알론소, '취약한' 첼시가 새로운 저점을 찍자 우려스러운 발언을 하다"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtVnRwZ2RiUDM1Y2dwa09fVUZ3SzFBemo5dzhWX3ZwcEM0Ri1OYUczTjJ1RWx3Mk81cVRRYUZiaEZqUUhNemEyVXc4UGJNYnc?oc=5",
+    "title": "Chelsea's next five Premier League fixtures include Liverpool and Manchester City tests",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtVnRwZ2RiUDM1Y2dwa09fVUZ3SzFBemo5dzhWX3ZwcEM0Ri1OYUczTjJ1RWx3Mk81cVRRYUZiaEZqUUhNemEyVXc4UGJNYnc?oc=5",
+    "source": "懂球帝",
+    "date": 1795350060000,
+    "added": 1795379026688,
+    "tag": "상대 소식",
+    "titleKo": "첼시의 다음 5경기 프리미어리그 일정에는 리버풀과 맨체스터 시티와의 경기가 포함되어 있습니다."
    },
    {
     "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTZUUElTelFmZ1pxZm8xaW1WWUZXaktfZGJuWTV5VVZfX09DLXQ1R2gwNFNNdDhURU5sSDNFaEhoWmJNejNHYWVMbHdvbVlYUkItaDR5Z2NvSFVRclR4T21hakN6bzlZUEs1V1dfTkszTzR2QnRtTXN4VGhQUGFydjI5RFlxUzB4eFY5eWFsSVF6Z09yZ21kZXg5SHktQ01XYUZDTEZnSE9qZGZJVnlYQ0lJTUNaQQ?oc=5",
@@ -809,36 +839,6 @@
     "added": 1795277863027,
     "tag": "상대 소식",
     "titleKo": "AS 로마, 1,000만 파운드에 노팅엄 포레스트 윙어 영입 목표"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3gtaEs1OXptWEQ2dWlMVXlhNVR1dDI2WVZ6Wkd3R29Ha0NWNUZoR21vdUxic1NKVGFrdVc2dVR2WTIxSmptTjlzdmNHOTBLNTVFUEt0VzJUS0pES0tVay0tQTZJZ1RnTE1rMjE1Nm1mQXRCc29kTmx1RFVLZDA2a1V0bllDN1l5UDkyZDBwV3dVV2U2TW5vTkR0ZkktYjN3U09UX0VVRklPOWE4Q0lnZmxHYnXSAboBQVVfeXFMT1laTXByZUdGZUpBS1hHd2pYcUxKSkpDTFd3dDM3ZURsSmtPVzl4NnJsNHhnREFBQlRnekNJZlJsZi1ncERNLTdsVlhMMGE4aHNSY3YtbzVLcUdXcE0zamlPOExjOEJwaG9hbFhXV2pwOFpHY3FHelhERW1EOHZ1STdtT1dKQTNzTEVGM2tqUHo0eG5Xd1V4NDkwTGJnS3pNZ2VHMi1zU3dYZU92Sk5tRnpFU0JUYTNuZzlB?oc=5",
-    "title": "Phil Neumann’s stance on Nottingham Forest transfer clear as Birmingham boss speaks out",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3gtaEs1OXptWEQ2dWlMVXlhNVR1dDI2WVZ6Wkd3R29Ha0NWNUZoR21vdUxic1NKVGFrdVc2dVR2WTIxSmptTjlzdmNHOTBLNTVFUEt0VzJUS0pES0tVay0tQTZJZ1RnTE1rMjE1Nm1mQXRCc29kTmx1RFVLZDA2a1V0bllDN1l5UDkyZDBwV3dVV2U2TW5vTkR0ZkktYjN3U09UX0VVRklPOWE4Q0lnZmxHYnXSAboBQVVfeXFMT1laTXByZUdGZUpBS1hHd2pYcUxKSkpDTFd3dDM3ZURsSmtPVzl4NnJsNHhnREFBQlRnekNJZlJsZi1ncERNLTdsVlhMMGE4aHNSY3YtbzVLcUdXcE0zamlPOExjOEJwaG9hbFhXV2pwOFpHY3FHelhERW1EOHZ1STdtT1dKQTNzTEVGM2tqUHo0eG5Xd1V4NDkwTGJnS3pNZ2VHMi1zU3dYZU92Sk5tRnpFU0JUYTNuZzlB?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795188439000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "버밍엄 감독이 입장을 밝히면서 필 노이만의 노팅엄 포레스트 이적에 대한 입장이 명확해졌습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS2t5eTdScEphd0d5R3lNRVY3WDlJZktvUWdnVTdqOFRKTEpPUUU2dHJxZjR1NmhOSGhMVFZteEZjVk40dVllSWFzeTMyenFMUDd6czBvUzh2NEttZVdZWHMxZDRjZ2FQb2VYMFR3cDB1dlFHdlJzVEpQS3cxV3hlQnFXb3RJLVlTR0l0eUl1VzlGeFZrRXJwbWlHSHRmNjRmN0FwQWU4S3ZQNTVhMjdRSDFWVzlOdktKZFRRNVhoWjliVkpwU09XYXBMcjN6ZExwOXhTYzk3WHJFay14TFNRSlNR?oc=5",
-    "title": "Team News: Bournemouth vs. Nottingham Forest injury, suspension list, predicted XIs",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS2t5eTdScEphd0d5R3lNRVY3WDlJZktvUWdnVTdqOFRKTEpPUUU2dHJxZjR1NmhOSGhMVFZteEZjVk40dVllSWFzeTMyenFMUDd6czBvUzh2NEttZVdZWHMxZDRjZ2FQb2VYMFR3cDB1dlFHdlJzVEpQS3cxV3hlQnFXb3RJLVlTR0l0eUl1VzlGeFZrRXJwbWlHSHRmNjRmN0FwQWU4S3ZQNTVhMjdRSDFWVzlOdktKZFRRNVhoWjliVkpwU09XYXBMcjN6ZExwOXhTYzk3WHJFay14TFNRSlNR?oc=5",
-    "source": "Sports Mole",
-    "date": 1795186802000,
-    "added": 1795275032052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "팀 소식: 본머스 vs 노팅엄 포레스트 부상, 출장 정지 명단, 예상 선발 명단"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDM0aFpiLTdxUFl2S0FreGVpc0t2ZmtvcWowdi0zMmJDWk5VS1RoLThpQ3VrZnNfNW8yLWFIWkM4dlVWWEV1TFg3akktaDlQZEx6a3dRc2NEOUNLbUZYSjJRSWhnMmk0R3VmRXZOYUpHN0t2V3pMeHV2cG1FV3pjZVl5VWtZQ2s?oc=5",
-    "title": "Marco Rose outlines return plan for Alex Scott ahead of Nottingham Forest clash",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDM0aFpiLTdxUFl2S0FreGVpc0t2ZmtvcWowdi0zMmJDWk5VS1RoLThpQ3VrZnNfNW8yLWFIWkM4dlVWWEV1TFg3akktaDlQZEx6a3dRc2NEOUNLbUZYSjJRSWhnMmk0R3VmRXZOYUpHN0t2V3pMeHV2cG1FV3pjZVl5VWtZQ2s?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795182480000,
-    "added": 1795308264714,
-    "tag": "상대 소식",
-    "titleKo": "마르코 로제 감독, 노팅엄 포레스트와의 경기를 앞두고 알렉스 스콧의 복귀 계획을 설명하다"
    }
   ]
  },
