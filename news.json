@@ -1,5 +1,5 @@
 {
- "updated": 1795339465340,
+ "updated": 1795342352379,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 31,
+  "구글뉴스(한국어)": 30,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 29건"
+  "이번 상대": "Nottingham Forest · 새 기사 27건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -189,6 +189,16 @@
     "added": 1795288589742,
     "tag": "상대 소식",
     "titleKo": "본머스 2-0 노팅엄 포레스트: 마르코 로제 감독, 체리스가 새로운 구단 기록을 세운 후 '상당히 인상적인' 에바닐송을 칭찬하다"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUUhiREdONnU4d0VKY2pVVElWaDUwNjE4UXdiV1JoUVNhZXZGdkd0dXJmZ3k3YWVrdF9pYUFSWG9OUFIwLWN5ZXFwelFSSGs5Ylhic1gyUzhWQWJFWHdnejlpLXc0bVc3dW1VSTEyWTZNcVVoS0c5RjVnamRhTVRjS1ZLcFpCNWpVa3N1MW1XWHlQMThGc0JPcUQwMmhfdGJvdnd6eDkzbnc5VG9UcUZ4ZVBrbGhIRlQxeFJpTmNSLVpjUThhaDB6LW84RGxodGN4dVZnTTNvVmhodVpWS1hZ?oc=5",
+    "title": "Nottingham Forest transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUUhiREdONnU4d0VKY2pVVElWaDUwNjE4UXdiV1JoUVNhZXZGdkd0dXJmZ3k3YWVrdF9pYUFSWG9OUFIwLWN5ZXFwelFSSGs5Ylhic1gyUzhWQWJFWHdnejlpLXc0bVc3dW1VSTEyWTZNcVVoS0c5RjVnamRhTVRjS1ZLcFpCNWpVa3N1MW1XWHlQMThGc0JPcUQwMmhfdGJvdnd6eDkzbnc5VG9UcUZ4ZVBrbGhIRlQxeFJpTmNSLVpjUThhaDB6LW84RGxodGN4dVZnTTNvVmhodVpWS1hZ?oc=5",
+    "source": "Sky Sports",
+    "date": 1795286514000,
+    "added": 1795342350020,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 이적, 최신 뉴스, 루머 및 소문: 실시간 업데이트, 득점 및 하이라이트"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0hnQ1I5UFByel9wSzlBVE1VaklqaDYwUUpkT21HbU9KX05MMnM5TFBXcU9YSjdnak83dzlpUTgtX0FXT001N2dzODBPc0RTQ2h4TkwxbTZBNVUzanJaZ2FxcmxLM2ZhRVpPTGdwNFFkLWxldjJFcV80U0MtaE9iby1XVVZtUUFReFdWQ1poZmE1Sy1OVmlNdURjaGJWTHE2RGxR?oc=5",
@@ -829,16 +839,6 @@
     "added": 1795275032052,
     "tag": "상대 소식",
     "titleKo": "로베르토 데 제르비 감독, 토트넘을 위해 노팅엄 포레스트의 스타 영입에 열의를 보이고 있습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtIai1jSm5kX3c3LTZHTVZ4RDJuVmJNU2dYNDByWnpESGpOcEVZbkZsVXIyWXI0N3JXbnNraFVmcHBjREtHMktiZWdfb1IxZlczeUlaQ2ZGbFNGMlBMaGRBaGg3VVlRblpiNmVNOE8xNHVLMUtfQTVyb0FDTldGbmwwSGxkOEYxSnNPcnh2dVJZWnVKWENrcGF0cEx5MU5sRURUbXVMWQ?oc=5",
-    "title": "'Loads of stuff started coming out' - Ryan Yates on his inspirational Nottingham Forest speech",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtIai1jSm5kX3c3LTZHTVZ4RDJuVmJNU2dYNDByWnpESGpOcEVZbkZsVXIyWXI0N3JXbnNraFVmcHBjREtHMktiZWdfb1IxZlczeUlaQ2ZGbFNGMlBMaGRBaGg3VVlRblpiNmVNOE8xNHVLMUtfQTVyb0FDTldGbmwwSGxkOEYxSnNPcnh2dVJZWnVKWENrcGF0cEx5MU5sRURUbXVMWQ?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795154514000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "'많은 이야기가 나오기 시작했습니다' - 라이언 예이츠, 그의 감동적인 노팅엄 포레스트 연설에 대해"
    }
   ]
  },
@@ -891,6 +891,17 @@
    "added": 1795336538897,
    "cat": null,
    "titleKo": "세사르 아스필리쿠에타: '첼시에서는 무승부가 재앙이었습니다. 성과를 내지 못하면 팀에서 나가야 합니다.'"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEV1cTdoNEFTRmhnUlRqcW5FM0VESllEa3E1eERJcDcxSXJNbG53dXZXeld2NWJTdjN4bllsTF9UdzZPcV96c2llY2ROeWVHeHhaWDU2VkpGVFV0V1QxMXZDRzRjblpXdVJac0FRX0o2eGNhVENIWWxIcy1DMHZwTkFPOG9LT1Y1MHoyNll2OTJ2eXlXM0dBYkx1QWQ?oc=5",
+   "title": "Alonso: We need to be tougher to recover from set-backs",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEV1cTdoNEFTRmhnUlRqcW5FM0VESllEa3E1eERJcDcxSXJNbG53dXZXeld2NWJTdjN4bllsTF9UdzZPcV96c2llY2ROeWVHeHhaWDU2VkpGVFV0V1QxMXZDRzRjblpXdVJac0FRX0o2eGNhVENIWWxIcy1DMHZwTkFPOG9LT1Y1MHoyNll2OTJ2eXlXM0dBYkx1QWQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795334400000,
+   "added": 1795342348333,
+   "cat": null,
+   "titleKo": "알론소: 우리는 어려움을 극복하기 위해 더 강해져야 합니다."
   },
   {
    "id": "https://www.dailymail.com/sport/football/article-16312357/Cool-Palmer-turned-Complaining-Cole-sulking-club-lurches-crisis-doesnt-say-lot-Chelseas-cultural-reset-writes-KIERAN-GILL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -4206,17 +4217,6 @@
    "added": 1795254947265,
    "cat": null,
    "titleKo": "영국, 아일랜드, 미국 및 전 세계에서 첼시 대 리즈 경기를 시청하는 방법"
-  },
-  {
-   "id": "https://www.talkchelsea.net/opinions/xabi-alonso-chelsea-right-direction-blues/",
-   "title": "Xabi Alonso’s Chelsea so far: Are the Blues headed in the right direction?",
-   "link": "https://www.talkchelsea.net/opinions/xabi-alonso-chelsea-right-direction-blues/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795174007000,
-   "cat": null,
-   "titleKo": "지금까지의 사비 알론소 감독의 첼시: 블루스는 올바른 방향으로 가고 있을까요?",
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/09/chelsea-v-leeds-united-carabao-cup-third-round-2-550x367.jpg"
   }
  ]
 }
