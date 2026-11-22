@@ -1,13 +1,13 @@
 {
- "updated": 1795386616844,
+ "updated": 1795389393726,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
-  "talkSPORT": 5,
+  "talkSPORT": 6,
   "The Guardian": 20,
   "football.london": 25,
   "Evening Standard": 1,
-  "The Sun": 0,
+  "The Sun": 1,
   "Mirror": 0,
   "Daily Mail": 6,
   "Telegraph": 6,
@@ -17,18 +17,18 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": "실패: 503",
+  "구글뉴스(영어)": 71,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": "실패: 503",
+  "구글뉴스(한국어)": 34,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
-  "첼시 공식": "실패: 503",
+  "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 0건"
+  "이번 상대": "Nottingham Forest · 새 기사 30건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -49,6 +49,16 @@
     "added": 1795379026688,
     "tag": "상대 소식",
     "titleKo": "리버풀과 첼시, 노팅엄 포레스트의 글라스너 감독이 관심을 보이는 2천만 파운드(약 340억 원)의 몸값을 자랑하는 스타 선수 영입을 원하고 있습니다."
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmZQTDJoZi1MTm1HdnluaVhaM0htOFlVTnQyWnB4OVBnZWVza2FoQ0x6VlhmTW85cW5FS0VwcGxWZlQ0eHRZUGRtSUl0dV9wdGUxOGpEOWxvaC13SGpjSlgxTlU5Z3E2blhkYVAwaHlERllTZVcxTGNFTjl6SExYRlVxQlhoNUdQeDVfc0g4SWhZanM?oc=5",
+    "title": "Match Report. Newcastle United Women 0 Nottingham Forest Women 2",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmZQTDJoZi1MTm1HdnluaVhaM0htOFlVTnQyWnB4OVBnZWVza2FoQ0x6VlhmTW85cW5FS0VwcGxWZlQ0eHRZUGRtSUl0dV9wdGUxOGpEOWxvaC13SGpjSlgxTlU5Z3E2blhkYVAwaHlERllTZVcxTGNFTjl6SExYRlVxQlhoNUdQeDVfc0g4SWhZanM?oc=5",
+    "source": "Newcastle United",
+    "date": 1795368091000,
+    "added": 1795389388375,
+    "tag": "상대 소식",
+    "titleKo": "경기 보고서. 뉴캐슬 유나이티드 여자팀 0 - 노팅엄 포레스트 여자팀 2"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1BZRlh4U2d0eUJCVHpzWDFuek5ER2VmN213cTRRVlNyc0JXZGFuSFM0VFp2SFBKclJsS3kzSVFzbmNDR0hnWC11Y2RTQkRoZ2dPSnR3TU1hdDMtUF9wa0ZSUkpoTDZDWVFCcGtVWFNJZHF4bFhXLVcwSDJqOG5QR2s5RHIxNUNOc2FmSlVLY0VtMjdZV05IWGx6WWdFMzdXdVpRQ3k4N0I2eVR0UUp0X0RsdXlWZw?oc=5",
@@ -829,20 +839,35 @@
     "added": 1795275032052,
     "tag": "라인업·팀뉴스",
     "titleKo": "본머스 대 노팅엄 포레스트 경기 예측: 에바닐송 6/5, 득점 행진 이어갈 듯"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUElfekxlSUVyQ3U4bkxRNVBval9UTDB2c19iUk1sUExhQ2xlNzNwTU5uekRQTzZLSkl6d1dnWTE1bWxkMHBFeFA4V0djM0c0cGkweVZibUZOcVoybjBuWW9HOVVGZEREZjRxcUVUQlNHMXgyRUdFbTB3X0JLSW5UTG51dDFXeVZPS01RWXZIcEk?oc=5",
-    "title": "AS Roma target Nottingham Forest winger in £10m deal",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUElfekxlSUVyQ3U4bkxRNVBval9UTDB2c19iUk1sUExhQ2xlNzNwTU5uekRQTzZLSkl6d1dnWTE1bWxkMHBFeFA4V0djM0c0cGkweVZibUZOcVoybjBuWW9HOVVGZEREZjRxcUVUQlNHMXgyRUdFbTB3X0JLSW5UTG51dDFXeVZPS01RWXZIcEk?oc=5",
-    "source": "TEAMtalk",
-    "date": 1795189628000,
-    "added": 1795277863027,
-    "tag": "상대 소식",
-    "titleKo": "AS 로마, 1,000만 파운드에 노팅엄 포레스트 윙어 영입 목표"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://talksport.com/football/4724970/chelsea-emmanuel-emegha-victim-robbery/",
+   "title": "Chelsea forward Emmanuel Emegha victim of robbery after defeat to Leeds",
+   "link": "https://talksport.com/football/4724970/chelsea-emmanuel-emegha-victim-robbery/",
+   "source": "talkSPORT",
+   "group": "영국 언론",
+   "date": 1795388390000,
+   "added": 1795389386653,
+   "cat": null,
+   "titleKo": "첼시 공격수 에마뉘엘 에메가, 리즈전 패배 후 강도 피해",
+   "imgTried": true,
+   "image": "https://talksport.com/wp-content/uploads/2026/11/crop-4724982.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41110978/chelsea-emmanuel-emegha-robbed/",
+   "title": "Chelsea star Emmanuel Emegha reveals he was ROBBED after scoring first Premier League goal in Leeds loss",
+   "link": "https://www.thesun.co.uk/sport/41110978/chelsea-emmanuel-emegha-robbed/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795388030000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41111012.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795389386654,
+   "cat": "인터뷰",
+   "titleKo": "첼시의 스타 선수 에마뉘엘 에메가가 리즈전에서 첫 프리미어리그 골을 넣은 후 강도를 당했다고 밝힘"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVV9DaEMzN0wwNkowUk5NOFdCcTN4QWhKdVJkamJzNHhkeXg5UXFLMVdyUDBxb29BUXZhMW10Y1pnZXl5TTVqSzYwQjJBZHBGTjhzWDVLQWRZb1oyYkhzbE4zVkMxVUZ0aTZsSWdPR3U0RGRydDNoQVFucng3TDRGNGhPY0dFdHRCZXFKX3MtRmpmRmJTZUFJRWpOTk9sSHI5Z3JzSEhn?oc=5",
    "title": "Cole Palmer proof Chelsea’s long contracts give players too much power",
@@ -2403,6 +2428,17 @@
    "added": 1795283105237,
    "cat": null,
    "titleKo": "첼시가 무너지면서 리즈가 스탬퍼드 브리지에서 대승을 거뒀습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKNWtBUmpuTXYzVl80Y2ZYZVBhN3RjanY1MGtUWW4yQ01Bc3g1SEFHeE1USDBuZWFXSThkazRVS0tUSnh6TG85UG1hZjZTSnE2bXlraUpVRXpFcU5fSVcwTzkwYi1odm9BWjdVb3RORdIBdEFVX3lxTE96RVlYZVZ4UFZLRXBKaVVlMXNoZThpZERrVl9vQlRTZlRxM1ZQaEJ3LXRsSTVWdjNqZUdBRWNid3NlaERjRndvQlBHeFRKNW5rcUU0eUtobW5WMDhZa0lLLTlCamNvSW4wTHJOY3dqRUVXTUxX?oc=5",
+   "title": "Chelsea hammered by Leeds as controversial penalty leaves Xabi Alonso furious",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKNWtBUmpuTXYzVl80Y2ZYZVBhN3RjanY1MGtUWW4yQ01Bc3g1SEFHeE1USDBuZWFXSThkazRVS0tUSnh6TG85UG1hZjZTSnE2bXlraUpVRXpFcU5fSVcwTzkwYi1odm9BWjdVb3RORdIBdEFVX3lxTE96RVlYZVZ4UFZLRXBKaVVlMXNoZThpZERrVl9vQlRTZlRxM1ZQaEJ3LXRsSTVWdjNqZUdBRWNid3NlaERjRndvQlBHeFRKNW5rcUU0eUtobW5WMDhZa0lLLTlCamNvSW4wTHJOY3dqRUVXTUxX?oc=5",
+   "source": "Daily Express",
+   "group": "영국 언론",
+   "date": 1795281600000,
+   "added": 1795389386655,
+   "cat": null,
+   "titleKo": "논란의 여지가 있는 페널티로 자비 알론소가 분노한 가운데, 첼시가 리즈에게 대패했습니다."
   },
   {
    "id": "https://www.telegraph.co.uk/football/2026/11/21/premier-league-live-score-chelsea-leeds-tottenham-ipswich/",
@@ -4199,40 +4235,6 @@
    "added": 1795238124192,
    "cat": null,
    "titleKo": "첼시 vs 리즈 유나이티드 경기 예측: 크리스 서튼이 전망하는 프리미어리그 경기"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4bTY4LW43RFBBeDRVUElpV0pFRjFFQ3pwelh2Zm4yUjNUMzJxb1FYX2paNGFxU0NtN3FCaUtfQW9nN2JzUUFRQTh6WXNVenpSU3A2TlFFWkhmR05PTE5OVzhaS2ltaEdpbWd2NVZjRlluQmFhLVRfb0ZOQ0RsV2c?oc=5",
-   "title": "Chelsea - Leeds",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4bTY4LW43RFBBeDRVUElpV0pFRjFFQ3pwelh2Zm4yUjNUMzJxb1FYX2paNGFxU0NtN3FCaUtfQW9nN2JzUUFRQTh6WXNVenpSU3A2TlFFWkhmR05PTE5OVzhaS2ltaEdpbWd2NVZjRlluQmFhLVRfb0ZOQ0RsV2c?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795198833000,
-   "added": 1795228189345,
-   "cat": null,
-   "titleKo": "첼시 - 리즈 유나이티드"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjQ2WUEzU3RnVmNxWDdid1o3anRiXzRsZ2tKa2FRTDNycUhoZnd3U2FaVFpsd0Q1SDBGdE5CQVdDMmxpTnVqaldDc0RqLWhpNWpCTEFnY0JXb1VvcFVPdllsNExmRzVzTFJqczBvX3Q1LUVJN0JkZi1ra0JOODBvdEFPNW1ncTI3YUVNYkIxMDJVZHBxcjl1SUtlcWtCSGFaYmxV?oc=5",
-   "title": "Sources: Tom Brady buys shares in Chelsea after Birmingham exit",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjQ2WUEzU3RnVmNxWDdid1o3anRiXzRsZ2tKa2FRTDNycUhoZnd3U2FaVFpsd0Q1SDBGdE5CQVdDMmxpTnVqaldDc0RqLWhpNWpCTEFnY0JXb1VvcFVPdllsNExmRzVzTFJqczBvX3Q1LUVJN0JkZi1ra0JOODBvdEFPNW1ncTI3YUVNYkIxMDJVZHBxcjl1SUtlcWtCSGFaYmxV?oc=5",
-   "source": "ESPN Singapore",
-   "group": "영국 언론",
-   "date": 1795198479000,
-   "added": 1795230706372,
-   "cat": null,
-   "titleKo": "출처: 톰 브래디, 버밍엄 매각 후 첼시 지분 매입"
-  },
-  {
-   "id": "https://chelsea.news/2026/11/hato-ruled-out-of-leeds-with-no-return-date-as-forest-palace-liverpool-and-city-loom/",
-   "title": "Hato ruled out of Leeds with no return date as Forest, Palace, Liverpool and City loom",
-   "link": "https://chelsea.news/2026/11/hato-ruled-out-of-leeds-with-no-return-date-as-forest-palace-liverpool-and-city-loom/",
-   "source": "Chelsea News",
-   "group": "팬 블로그",
-   "date": 1795198146000,
-   "cat": "부상",
-   "titleKo": "포레스트, 팰리스, 리버풀, 맨시티와의 경기를 앞두고 아토가 리즈전 출전을 못하게 되었으며, 복귀 시기도 미정입니다.",
-   "imgTried": true,
-   "image": "https://chelsea.news/wp-content/uploads/2026/11/football-2.jpg"
   }
  ]
 }
