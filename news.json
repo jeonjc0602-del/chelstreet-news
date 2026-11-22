@@ -1,5 +1,5 @@
 {
- "updated": 1795389393726,
+ "updated": 1795391873565,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -9,7 +9,7 @@
   "Evening Standard": 1,
   "The Sun": 1,
   "Mirror": 0,
-  "Daily Mail": 6,
+  "Daily Mail": 8,
   "Telegraph": 6,
   "Independent": 2,
   "Express": 0,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 34,
+  "구글뉴스(한국어)": 31,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 30건"
+  "이번 상대": "Nottingham Forest · 새 기사 32건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -844,6 +844,18 @@
  },
  "items": [
   {
+   "id": "https://www.dailymail.com/sport/football/article-16313915/Emmanuel-Emegha-ROBBED-Chelsea-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Chelsea star Emmanuel Emegha was ROBBED in the aftermath of his side's 4-1 defeat by Leeds - as striker confirms 'no one was hurt'",
+   "link": "https://www.dailymail.com/sport/football/article-16313915/Emmanuel-Emegha-ROBBED-Chelsea-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795390861000,
+   "image": "https://i.dailymail.com/1s/2026/11/22/23/112667085-0-image-a-8_1795389873932.jpg",
+   "added": 1795391868855,
+   "cat": "오피셜",
+   "titleKo": "첼시의 스타 선수 에마뉘엘 에메가가 팀이 리즈에게 4-1로 패한 후 강도를 당했습니다. 스트라이커는 '아무도 다치지 않았다'고 확인했습니다."
+  },
+  {
    "id": "https://talksport.com/football/4724970/chelsea-emmanuel-emegha-victim-robbery/",
    "title": "Chelsea forward Emmanuel Emegha victim of robbery after defeat to Leeds",
    "link": "https://talksport.com/football/4724970/chelsea-emmanuel-emegha-victim-robbery/",
@@ -1210,6 +1222,17 @@
    "added": 1795350347190,
    "cat": null,
    "titleKo": "샤비 알론소, 팬들이 감독을 비난하자 첼시의 경질 결정이 임박할 수 있다고 경고"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0FQN2h1cHcxRFR2d0hjcWw1Nmp1N3ZJMlk4RmlXeW9vRy1XZE9JY0NEc3JseG9OazczWDY4NkRHbTl0YzUxSndQaWI5QW9BUWlhYTZ4d0R0bGI4a2x6Q082RklGdTJBY0ZGeHI1LUxFRVFFZFhFX0syVGNrVUpRdkY5TGdOSDFOOHQ5TWNZdVdhZC1Xa21pbnNfSTZrblc3VjZIcC1FQnc4UHBhR1RXNQ?oc=5",
+   "title": "Cole Palmer Snubs Chelsea Fans and Exchanges Words With Joao Pedro: Reports",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0FQN2h1cHcxRFR2d0hjcWw1Nmp1N3ZJMlk4RmlXeW9vRy1XZE9JY0NEc3JseG9OazczWDY4NkRHbTl0YzUxSndQaWI5QW9BUWlhYTZ4d0R0bGI4a2x6Q082RklGdTJBY0ZGeHI1LUxFRVFFZFhFX0syVGNrVUpRdkY5TGdOSDFOOHQ5TWNZdVdhZC1Xa21pbnNfSTZrblc3VjZIcC1FQnc4UHBhR1RXNQ?oc=5",
+   "source": "Chelsea FC Online",
+   "group": "영국 언론",
+   "date": 1795346918000,
+   "added": 1795391868856,
+   "cat": null,
+   "titleKo": "콜 파머, 첼시 팬들을 무시하고 주앙 페드로와 말다툼: 보도"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDNfZzdhWl9nY0ZEWXJ2ZDhZVHZfdElkN0xXM01YcldpR204aHVNX3FubC1wTlk3N0RnQng4TmlneDhxYTJIdW5QWXZTeUhVZllCNkIxeEY4QmctR1lKRU1zTnJmbC04LTR5b0ZQM1lZdWwtRHdGY3dTdWhqZW5jQnNiSnBKZ08tM0xULXFYbzlMeXNSY2I5MTZmNGhSQlI1TVNBVVFabWdBdURoREEtX0lDeS0xWEtJNHB5LUxiOHZYMjJUWWM0Qm53UUhKbGh2?oc=5",
@@ -4214,27 +4237,6 @@
    "titleKo": "맨유와 첼시, 29세 미드필더의 프리미어리그 복귀 가능성 주시",
    "imgTried": true,
    "image": "https://icdn.caughtoffside.com/2024/12/Chelsea-and-Manchester-United.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcklrMTlCT3lXWXZ1TDMzOU5LTFpOZllIdHFxY2lmRzJPWlBCdGtuN001LVd1dk94ZFBnQmZlQ2R6aUJ6Qi1LbFFaSkZOcG9hV2pjQmVHUEpSRGJQaXU1TWZMX3NuZlBqc09FZ1BGQ3NoT0JLMzFQT1FlVTNnckotWTlvX3hqY0FrZ2FDMHVwQkt2YXdqM3c?oc=5",
-   "title": "Tom Brady in talks to buy stake in Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcklrMTlCT3lXWXZ1TDMzOU5LTFpOZllIdHFxY2lmRzJPWlBCdGtuN001LVd1dk94ZFBnQmZlQ2R6aUJ6Qi1LbFFaSkZOcG9hV2pjQmVHUEpSRGJQaXU1TWZMX3NuZlBqc09FZ1BGQ3NoT0JLMzFQT1FlVTNnckotWTlvX3hqY0FrZ2FDMHVwQkt2YXdqM3c?oc=5",
-   "source": "The Telegraph",
-   "group": "영국 언론",
-   "date": 1795199280000,
-   "cat": "이적",
-   "titleKo": "톰 브래디, 첼시 지분 인수 협상 중"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jc2RkTHByeF9sbVBGb1AtWnhpdF96TnB3aXFjdXN6X25kRFNraGRCTDdyaFloel9oSWpENHI1YmpqOXc5cFhud3AwTkY3eFh1TV9YWkxiZE5pX21fdmFVaGo2WUN5YzEt?oc=5",
-   "title": "Chelsea vs Leeds United predictions: Chris Sutton on Premier League game",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jc2RkTHByeF9sbVBGb1AtWnhpdF96TnB3aXFjdXN6X25kRFNraGRCTDdyaFloel9oSWpENHI1YmpqOXc5cFhud3AwTkY3eFh1TV9YWkxiZE5pX21fdmFVaGo2WUN5YzEt?oc=5",
-   "source": "BBC",
-   "group": "영국 언론",
-   "date": 1795199255000,
-   "added": 1795238124192,
-   "cat": null,
-   "titleKo": "첼시 vs 리즈 유나이티드 경기 예측: 크리스 서튼이 전망하는 프리미어리그 경기"
   }
  ]
 }
