@@ -1,34 +1,34 @@
 {
- "updated": 1795449227122,
+ "updated": 1795452465351,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 1,
+  "Sky Sports": 0,
   "talkSPORT": 5,
   "The Guardian": 20,
   "football.london": 25,
   "Evening Standard": 4,
   "The Sun": 4,
   "Mirror": 1,
-  "Daily Mail": 6,
+  "Daily Mail": 5,
   "Telegraph": 6,
   "Independent": 1,
   "Express": 0,
-  "Sports Mole": 4,
-  "CaughtOffside": 0,
+  "Sports Mole": 3,
+  "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 66,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 30,
+  "구글뉴스(한국어)": 31,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 33건"
+  "이번 상대": "Nottingham Forest · 새 기사 27건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -857,6 +857,41 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699083_833122_1044_v150.jpg"
   },
   {
+   "id": "https://www.caughtoffside.com/2026/11/23/merson-shares-xabi-alonso-theory-which-should-worry-chelsea/",
+   "title": "‘If this was Liam Rosenior…’ – Merson shares Xabi Alonso theory which should worry Chelsea fans",
+   "link": "https://www.caughtoffside.com/2026/11/23/merson-shares-xabi-alonso-theory-which-should-worry-chelsea/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795452165000,
+   "image": "https://icdn.caughtoffside.com/2026/11/merson-alonso.jpg",
+   "added": 1795452458511,
+   "cat": null,
+   "titleKo": "'이게 리암 로젠이어였다면...' – 머슨, 첼시 팬들을 걱정하게 만들 Xabi Alonso 이론을 공유하다"
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/chelseas-stance-xabi-alonso-revealed-34955291",
+   "title": "Chelsea's stance on Xabi Alonso revealed and update on sporting director's future",
+   "link": "https://www.football.london/chelsea-fc/news/chelseas-stance-xabi-alonso-revealed-34955291",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795451928000,
+   "image": "https://i2-prod.football.london/incoming/article34949062.ece/ALTERNATES/s615/0_GettyImages-2306212301.jpg",
+   "added": 1795452458511,
+   "cat": null,
+   "titleKo": "첼시의 사비 알론소 영입에 대한 입장과 스포츠 디렉터의 미래에 대한 업데이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFJPZUJmM2ZVcHYtTElYZ0l3bmlVbWh2TEpic1gwSXEwc2xRRFA4WVl1cUczblU5TnQ2Q184eXNMaksxUTZkUkNYWUV5Rkd1alVmM0VYcHBra0lxQ202ZmVnZnNJeWZUaHlXLV9PemZnb0JSQ2lEYzZlUGlnV2lrOXBVTDFuenctLU0zZ2dGQklrYkpSVTFtYUJhRkhiS3JKWGhsMU1fbHVsblNMbjBZ?oc=5",
+   "title": "Sources: Chelsea's stance on Xabi Alonso's future updated",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFJPZUJmM2ZVcHYtTElYZ0l3bmlVbWh2TEpic1gwSXEwc2xRRFA4WVl1cUczblU5TnQ2Q184eXNMaksxUTZkUkNYWUV5Rkd1alVmM0VYcHBra0lxQ202ZmVnZnNJeWZUaHlXLV9PemZnb0JSQ2lEYzZlUGlnV2lrOXBVTDFuenctLU0zZ2dGQklrYkpSVTFtYUJhRkhiS3JKWGhsMU1fbHVsblNMbjBZ?oc=5",
+   "source": "Football Insider",
+   "group": "영국 언론",
+   "date": 1795449600000,
+   "added": 1795452458512,
+   "cat": null,
+   "titleKo": "소식통: 샤비 알론소의 미래에 대한 첼시의 입장 업데이트"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVBwSTE1MGlmSk56QU9YWDhtTzZXR2R4ZHV2R0FjRmZfS2dlT09aRHc4Zkt1REFmSjBOc3ZZT01KMzVwUHBpcXZ5dWx3TDlOV0w3VXFKMXJ3R1dJQmhONTBsVzVlVWRVRXdGeFptMnZvQXpEUVFtRUFOZnROdTJMSGg5QnZLVEFHMEk1ZmUwUjZlYU8tb0VOY3JPd1NyYlF0WUwzcnVlS25Qb0E?oc=5",
    "title": "Xabi Alonso retains Chelsea faith despite defence concerns and fan backlash",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVBwSTE1MGlmSk56QU9YWDhtTzZXR2R4ZHV2R0FjRmZfS2dlT09aRHc4Zkt1REFmSjBOc3ZZT01KMzVwUHBpcXZ5dWx3TDlOV0w3VXFKMXJ3R1dJQmhONTBsVzVlVWRVRXdGeFptMnZvQXpEUVFtRUFOZnROdTJMSGg5QnZLVEFHMEk1ZmUwUjZlYU8tb0VOY3JPd1NyYlF0WUwzcnVlS25Qb0E?oc=5",
@@ -1135,6 +1170,17 @@
    "titleKo": "첼시, 리즈전 패배 후 에메가가 '강도'를 당한 데 대해 지원 제공"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dmUng4eC1ZNmZmalBxQUYxaWtTQWxkc2Rldmt1YlBtTWdENzdQY2ZYUUppc0oyb1A2N3YxU0VrbTNHMl8wUDZORkxkRGlob1h6RU5zVlhaMVlRN20xblZheWdKaDdqV01XeVNrM2g5bk5nZ3p3Qzg1SVhpLWVJNnFGWlQydFJqTkVWYmhjN0JyQWozc2R0UV9hbw?oc=5",
+   "title": "Will Joao Pedro play against Leeds? Latest after new Chelsea update",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dmUng4eC1ZNmZmalBxQUYxaWtTQWxkc2Rldmt1YlBtTWdENzdQY2ZYUUppc0oyb1A2N3YxU0VrbTNHMl8wUDZORkxkRGlob1h6RU5zVlhaMVlRN20xblZheWdKaDdqV01XeVNrM2g5bk5nZ3p3Qzg1SVhpLWVJNnFGWlQydFJqTkVWYmhjN0JyQWozc2R0UV9hbw?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795432344000,
+   "added": 1795452458511,
+   "cat": null,
+   "titleKo": "주앙 페드로는 리즈와의 경기에서 뛸 수 있을까요? 첼시 관련 새로운 소식 이후의 최신 정보"
+  },
+  {
    "id": "https://www.football.london/chelsea-fc/news/chelsea-respond-after-emmanuel-emegha-34952428",
    "title": "Chelsea respond after Emmanuel Emegha 'robbed' following Leeds United defeat",
    "link": "https://www.football.london/chelsea-fc/news/chelsea-respond-after-emmanuel-emegha-34952428",
@@ -1167,6 +1213,17 @@
    "added": 1795433343970,
    "cat": null,
    "titleKo": "알론소와 라비아가 리즈전 패배 후 첼시 팬들에게 침착함을 당부했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUtEWDhuVm1DdW1yYWxDYjlOM2xfWV9MY3hPWXRrMDl4SkNMa3JkSlVQY1BBaUdJNmZ6VDl2clBWWGtEQWo1WENhelpSb2psYkQ2TldYd1RaYkNuRW9aZlVYaTlhTlFSZnM1RVIxeVlnNWlJeWZXOVpMMGV0YnJhTmNKSExvZGFXSGdiamFsdVVJYUlVTmgtU0twZw?oc=5",
+   "title": "New details emerge as Chelsea star ‘robbed’ after Leeds game",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUtEWDhuVm1DdW1yYWxDYjlOM2xfWV9MY3hPWXRrMDl4SkNMa3JkSlVQY1BBaUdJNmZ6VDl2clBWWGtEQWo1WENhelpSb2psYkQ2TldYd1RaYkNuRW9aZlVYaTlhTlFSZnM1RVIxeVlnNWlJeWZXOVpMMGV0YnJhTmNKSExvZGFXSGdiamFsdVVJYUlVTmgtU0twZw?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795428979000,
+   "added": 1795452458511,
+   "cat": null,
+   "titleKo": "리즈와의 경기 후 '강도'를 당한 첼시 스타에 대한 새로운 정보가 밝혀졌습니다."
   },
   {
    "id": "https://www.standard.co.uk/sport/football/emmanuel-emegha-robbed-chelsea-fc-leeds-b1305971.html",
@@ -4201,62 +4258,6 @@
    "added": 1795257605202,
    "cat": null,
    "titleKo": "11월 21일 22시, 프리미어 리그 11라운드 첼시 대 리즈 경기 생중계 링크입니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF9hMF92ZW9nam1iblVmeXFRZ182XzlBSjYzVnFLZ3BXUzJ0MElNRGMxNDJaRXZ0RVUtVzhtaFlYaElKR0Zocm51V3Q0NHEwOXhUVlJ2ZWZBaXdVdWJQVkthbjZtYVZQUWhicHJmM0NMTUVSSVlWcnB6cTRHYkNGWk5ocHlYZw?oc=5",
-   "title": "첼시 vs 리즈 경기 예측: 우승 경쟁의 뜨거운 승부",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF9hMF92ZW9nam1iblVmeXFRZ182XzlBSjYzVnFLZ3BXUzJ0MElNRGMxNDJaRXZ0RVUtVzhtaFlYaElKR0Zocm51V3Q0NHEwOXhUVlJ2ZWZBaXdVdWJQVkthbjZtYVZQUWhicHJmM0NMTUVSSVlWcnB6cTRHYkNGWk5ocHlYZw?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795257439000,
-   "added": 1795257605202,
-   "cat": null,
-   "titleKo": "첼시 vs 리즈 경기 예측: 우승 경쟁의 뜨거운 승부"
-  },
-  {
-   "id": "https://chelsea.news/2026/11/chelsea-lose-appeal-against-150000-fa-fine-for-anti-catholic-and-anti-irish-chanting/",
-   "title": "Chelsea lose appeal against £150,000 FA fine for anti-Catholic and anti-Irish chanting",
-   "link": "https://chelsea.news/2026/11/chelsea-lose-appeal-against-150000-fa-fine-for-anti-catholic-and-anti-irish-chanting/",
-   "source": "Chelsea News",
-   "group": "팬 블로그",
-   "date": 1795257211000,
-   "image": "https://chelsea.news/wp-content/uploads/2026/11/football-3.jpg",
-   "added": 1795260411404,
-   "cat": null,
-   "titleKo": "첼시, 반가톨릭 및 반아일랜드 구호에 대한 15만 파운드 FA 벌금 부과에 대한 항소 기각"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlZrbm1ac3ZNX1lPenNJeTNJaTA2SGVMVjFaS0FGd1laZF9Kd2hUbkRsMGpEcVJKMzdUZUx2VVRWZHdhN0NGZGM0cXpHU2NXbHlWMl9rMWlQOGhDbHV6ZmJjczJTUTNpTHF1dUplYWxqNGxXOWZESm5VbXpUZHhmNExnTk1VeXpJcXVST0dLUm9XalBscm1BRXRoVVY?oc=5",
-   "title": "오카포르 멀티골…리즈, 첼시 완파",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlZrbm1ac3ZNX1lPenNJeTNJaTA2SGVMVjFaS0FGd1laZF9Kd2hUbkRsMGpEcVJKMzdUZUx2VVRWZHdhN0NGZGM0cXpHU2NXbHlWMl9rMWlQOGhDbHV6ZmJjczJTUTNpTHF1dUplYWxqNGxXOWZESm5VbXpUZHhmNExnTk1VeXpJcXVST0dLUm9XalBscm1BRXRoVVY?oc=5",
-   "source": "Mezha.net",
-   "group": "한국 언론",
-   "date": 1795256040000,
-   "added": 1795283105238,
-   "cat": null,
-   "titleKo": "오카포르 멀티골…리즈, 첼시 완파"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTdVTkVORWdNUUl2MVVNdlZSOXdjRUxGVEtrZFhaNWZoM2FnSEhLNGI4ODR3ZzdCZkswRy03VnNocFNvbmNfSmN2Z1dXbWE5R21rcHZocGpOSzl3RFg5RFJ3OGlxT2Y3aUpVSllYTXFCSzRQUTJERHBLNnViVXdWd2FsLWY3WEJuenZz?oc=5",
-   "title": "'슈퍼볼 7회 우승 NFL 역대 최고 전설, 이번엔 첼시로 향한다' 톰 브래디, 버밍엄 지분 팔고 PL 명문 구단 투자 추진",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTdVTkVORWdNUUl2MVVNdlZSOXdjRUxGVEtrZFhaNWZoM2FnSEhLNGI4ODR3ZzdCZkswRy03VnNocFNvbmNfSmN2Z1dXbWE5R21rcHZocGpOSzl3RFg5RFJ3OGlxT2Y3aUpVSllYTXFCSzRQUTJERHBLNnViVXdWd2FsLWY3WEJuenZz?oc=5",
-   "source": "조선일보",
-   "group": "한국 언론",
-   "date": 1795255020000,
-   "added": 1795269738976,
-   "cat": null,
-   "titleKo": "'슈퍼볼 7회 우승 NFL 역대 최고 전설, 이번엔 첼시로 향한다' 톰 브래디, 버밍엄 지분 팔고 PL 명문 구단 투자 추진"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyYU1NNUJXZG1leFpKMTZsb3NsUXNPNzNvZmxSdzlKN1RrNzl1dFMtQ3FXV3Y4bjlqYnF5Qy04UFlaczcxQjhITGFfU3ppN21qUHVVQUhNV05lLVZPMFRrTWJlMHprdzJMZWfSAW9BVV95cUxOMzdyZ293MjNMMi0yWTUwTWM1VDAybFphRlN6ZE1NRGtxSEJhbDF6UjhJeWhaVTVXSnh5Y2t0Sl9lSG1UZDNYaE1lTkIyVHppYjhlSkQ5RUdiWUVvdzZmZlFLaUg5Z3BsNkZDV2RaZDQ?oc=5",
-   "title": "'슈퍼볼 7회 우승 NFL 역대 최고 전설, 이번엔 첼시로 향한다' 톰 브래디, 버밍엄 지분 팔고 PL 명문 구단 투자 추진 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyYU1NNUJXZG1leFpKMTZsb3NsUXNPNzNvZmxSdzlKN1RrNzl1dFMtQ3FXV3Y4bjlqYnF5Qy04UFlaczcxQjhITGFfU3ppN21qUHVVQUhNV05lLVZPMFRrTWJlMHprdzJMZWfSAW9BVV95cUxOMzdyZ293MjNMMi0yWTUwTWM1VDAybFphRlN6ZE1NRGtxSEJhbDF6UjhJeWhaVTVXSnh5Y2t0Sl9lSG1UZDNYaE1lTkIyVHppYjhlSkQ5RUdiWUVvdzZmZlFLaUg5Z3BsNkZDV2RaZDQ?oc=5",
-   "source": "머니투데이",
-   "group": "한국 언론",
-   "date": 1795254900000,
-   "added": 1795257605202,
-   "cat": null,
-   "titleKo": "'슈퍼볼 7회 우승 NFL 역대 최고 전설, 이번엔 첼시로 향한다' 톰 브래디, 버밍엄 지분 팔고 PL 명문 구단 투자 추진 - 머니투데이"
   }
  ]
 }
