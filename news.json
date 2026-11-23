@@ -1,5 +1,5 @@
 {
- "updated": 1795475444060,
+ "updated": 1795478275407,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,7 +12,7 @@
   "Daily Mail": 5,
   "Telegraph": 6,
   "Independent": 2,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 4,
   "CaughtOffside": 4,
   "90min": 1,
@@ -20,15 +20,15 @@
   "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 1,
-  "베스트일레븐": 1,
-  "구글뉴스(한국어)": 19,
+  "베스트일레븐": 2,
+  "구글뉴스(한국어)": 20,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 33건"
+  "이번 상대": "Nottingham Forest · 새 기사 47건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -119,6 +119,16 @@
     "added": 1795430113308,
     "tag": "상대 소식",
     "titleKo": "샤비 알론소가 첼시와 노팅엄 포레스트의 경기를 앞두고 해결해야 할 5가지 사항"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZjdWcDRNOFJzTzE4S2plZTdSSXNYN0NyX2gwdEptVE1oenJqSjZhc2xMQzBDWFJFYkEyZU5pT000VmQ4NXdIYXBuTlhldzY0R0N3bktDenZ4dmRuWGZySC1oM0prc1JfSTJGXzNib044cUpOSGlSbXNZZ2RfYnlRRTVvUUZSV2FiRjVxRVlSRlhDR2p2LXFpWmFtMU14blp5ZWxOUmJQWEtRbGVsaThKLVdUSkN1LTAyTWtLeG50cjBOU2ZESVl5QXJGQmZZbHctODlBVk1pQkY2UGh4TlE?oc=5",
+    "title": "Chelsea are closer to the bottom than to Arsenal, and they still plan to give Xabi Alonso time",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZjdWcDRNOFJzTzE4S2plZTdSSXNYN0NyX2gwdEptVE1oenJqSjZhc2xMQzBDWFJFYkEyZU5pT000VmQ4NXdIYXBuTlhldzY0R0N3bktDenZ4dmRuWGZySC1oM0prc1JfSTJGXzNib044cUpOSGlSbXNZZ2RfYnlRRTVvUUZSV2FiRjVxRVlSRlhDR2p2LXFpWmFtMU14blp5ZWxOUmJQWEtRbGVsaThKLVdUSkN1LTAyTWtLeG50cjBOU2ZESVl5QXJGQmZZbHctODlBVk1pQkY2UGh4TlE?oc=5",
+    "source": "SportsAdda",
+    "date": 1795425602000,
+    "added": 1795478270561,
+    "tag": "상대 소식",
+    "titleKo": "첼시는 아스널보다 하위권에 더 가깝지만, 여전히 사비 알론소에게 시간을 줄 계획입니다."
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFhIYnJoQlZaMDRyZWo5anpwWG5iZVpxSjhCdHJNNVVwNmtlbnZ3Mml3NHlpNWJCcHZRXzRjWlpXZWNfMWdJU1RzQlU3THFTMTFjWC1IaW1qR1VzYWZxY3RLaUtfYmwyNkRVNTF6UFJqVlo4dVViZW9wdml3YzI0ang0RC1tVUVzaHV1b3AzeFNmOUd5Q08zeWhDSzBKVE90QXBnc2dhOXZ5SkJBd2d6RFdhUGNNSnd3SGNmY19XdU5kbTlmT0xSZTVn?oc=5",
@@ -349,6 +359,16 @@
     "added": 1795318573455,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 대 브라이턴 & 호브 앨비언 경기 시청하기"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUk3M0w0Qi1nTTQyMmVNSTB2QlNxZDJDWEQ0WmVBY2ZqU0J5ZFRxU2lmYU1ZZ1pJeE11b0lfem5nWFhmSFk3NFRJSkpVdnpYajVmLVhDNk1EMTROMzRPNTZtQ1l1WS0yelhDZ1hIM1l3WHU0R0RPbXo4SWJTT2tHUXRyMC1hSTdhUk5yck56MExyWk9QaGduSUE4alJCbFk?oc=5",
+    "title": "November 27, 2026: Nottingham Forest FC vs Chelsea FC Soccer Prediction Market",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUk3M0w0Qi1nTTQyMmVNSTB2QlNxZDJDWEQ0WmVBY2ZqU0J5ZFRxU2lmYU1ZZ1pJeE11b0lfem5nWFhmSFk3NFRJSkpVdnpYajVmLVhDNk1EMTROMzRPNTZtQ1l1WS0yelhDZ1hIM1l3WHU0R0RPbXo4SWJTT2tHUXRyMC1hSTdhUk5yck56MExyWk9QaGduSUE4alJCbFk?oc=5",
+    "source": "Robinhood",
+    "date": 1795302303000,
+    "added": 1795478270561,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "2026년 11월 27일: 노팅엄 포레스트 FC 대 첼시 FC 축구 경기 예측 마켓"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fcUZpcWxpWGplU1NPajg0d2VJS1gtTWw2X1FIV0VTNVNZV0ZwN0QxaDlNcEVjdk5kNW9FUVppTjNNVVF5Nk5nR0NGZw?oc=5",
@@ -819,30 +839,23 @@
     "added": 1795275032052,
     "tag": "상대 소식",
     "titleKo": "AS 로마, 첼시의 제이미 기텐스에 대한 대안으로 1월 이적 시장에서 1,000만 파운드에 노팅엄 포레스트의 입지가 불안한 윙어를 영입 목표로 삼다"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVdQd1hiREV4UTZCWEtBRkZkMUNGYnduRHZiWjFDZ295VzM1U3FRaEtyM2NXN3I3THUxN05PVUdrejd4Nkcwb0IyUVB5NzdpRlh2VVU3X25XZ3UtS1J0Rm1zX3Y3LUFJUTc4Vy02dFZCMHBXUGVCZWpGUGVtcWw0R3RGbkloVFZYd0tBM3h3Snoxcy05clZv?oc=5",
-    "title": "본머스, 노팅엄 포리스트에 2-0 승리하며 구단 기록 세워",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVdQd1hiREV4UTZCWEtBRkZkMUNGYnduRHZiWjFDZ295VzM1U3FRaEtyM2NXN3I3THUxN05PVUdrejd4Nkcwb0IyUVB5NzdpRlh2VVU3X25XZ3UtS1J0Rm1zX3Y3LUFJUTc4Vy02dFZCMHBXUGVCZWpGUGVtcWw0R3RGbkloVFZYd0tBM3h3Snoxcy05clZv?oc=5",
-    "source": "Mezha.net",
-    "date": 1795255500000,
-    "added": 1795308264714,
-    "tag": "상대 소식",
-    "titleKo": "본머스, 노팅엄 포리스트에 2-0 승리하며 구단 기록 세워"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlJkbVBGaEJaenBjVVdma2ZQcW56Yzk1LXUwZE5TT0hoaXBfYUNldXV0WXFkc3c2NG9RM2wteDJwbVZhU3gwOHUweWUtaVMtb2hWVWtYTUo1ZnZNUE4xcHNJWE9aZXEyUFpSSVFwdHlSaGFmX3RDTE5nTjlZbHVTQmtOQVFUVHUwRkw0?oc=5",
-    "title": "Nottingham Forest v Chelsea LIVE 27/11/2026 | Football",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlJkbVBGaEJaenBjVVdma2ZQcW56Yzk1LXUwZE5TT0hoaXBfYUNldXV0WXFkc3c2NG9RM2wteDJwbVZhU3gwOHUweWUtaVMtb2hWVWtYTUo1ZnZNUE4xcHNJWE9aZXEyUFpSSVFwdHlSaGFmX3RDTE5nTjlZbHVTQmtOQVFUVHUwRkw0?oc=5",
-    "source": "Flash Scores",
-    "date": 1795253450000,
-    "added": 1795315408448,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 대 첼시 라이브 2026/11/27 | 축구"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.besteleven.com/news/articleView.html?idxno=314279",
+   "title": "주포 빠지니 5경기 무승에 고작 2골… 첼시 골잡이 주앙 페드루 연내 복귀 어렵다, 카이세도 부상까지 설상가상",
+   "link": "https://www.besteleven.com/news/articleView.html?idxno=314279",
+   "source": "베스트일레븐",
+   "group": "한국 언론",
+   "date": 1795508452000,
+   "added": 1795478269778,
+   "cat": "부상",
+   "titleKo": "주포 빠지니 5경기 무승에 고작 2골… 첼시 골잡이 주앙 페드루 연내 복귀 어렵다, 카이세도 부상까지 설상가상",
+   "imgTried": true,
+   "image": "https://cdn.besteleven.com/news/photo/202611/314279_245215_197.jpg"
+  },
   {
    "id": "https://www.besteleven.com/news/articleView.html?idxno=314276",
    "title": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
@@ -855,6 +868,29 @@
    "titleKo": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314276_245206_4959.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UaWQwWUJCelFEMm1HS3Q0RUtWX0JhbXBCckl5ZXlmZGoyZnJqZG5IR2h4Yk1wenhPZlJvWEFsVFE5YVdQTjhSRWMxRTBfNVAybDV3?oc=5",
+   "title": "\"허니문 기간 끝났다\" 리즈전 충격의 1-4 패배에 냉정한 진단...\"알론소의 첼시, 수준 한참 미달\"",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UaWQwWUJCelFEMm1HS3Q0RUtWX0JhbXBCckl5ZXlmZGoyZnJqZG5IR2h4Yk1wenhPZlJvWEFsVFE5YVdQTjhSRWMxRTBfNVAybDV3?oc=5",
+   "source": "OSEN",
+   "group": "한국 언론",
+   "date": 1795477920000,
+   "added": 1795478269778,
+   "cat": null,
+   "titleKo": "\"허니문 기간 끝났다\" 리즈전 충격의 1-4 패배에 냉정한 진단...\"알론소의 첼시, 수준 한참 미달\""
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/videos/ck9d7q41ewpqo?at_medium=RSS&at_campaign=rss",
+   "title": "Should players stop applauding fans after losses?",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck9d7q41ewpqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "group": "영국 언론",
+   "date": 1795475885000,
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f077/live/a72f9c00-e793-11f1-99a1-253766e7ad8b.jpg",
+   "added": 1795478269777,
+   "cat": null,
+   "titleKo": "선수들이 패배한 후에도 팬들에게 박수를 보내야 할까요?"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDZ3R0QzQkJlR19JZE1OcDkzb0Jyelp4S3lueHJKWUUtSjFudmxiVVR0eFM5LWxKYktYeC03ODRUbFZnSE00eVp2YzZKSTVtWUNMQk1mVkRYV1UzRkFBWERScDlIMHJ1OWl1X3kxT183cjJqdFItVnJ1Q0Q2SWFZclNMRV8xeWhiQTYzV084SEE?oc=5",
@@ -4230,39 +4266,6 @@
    "added": 1795277862288,
    "cat": null,
    "titleKo": "리버풀, WSL 리그 선두 첼시를 상대로 승점 1점을 획득하며 실망을 안겨주다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEF6STAxbmtfTU91Uk5pQ3dGRWpQM2pLSkwwNFd0ek0zSTZLYS1YdENEdW9LM1Yyano4UlJxbFJnOHBrcjdoTEhDUnpWOFJUWUFrR2hsVGFnT1dFZk1zN2xMMHFSYUlIR1pNREdaS19lZ1U2TG9kaGh6MW9UY3RzYlQ4MUVEaWlVRmxWdVlpZXdFcjVHUlh0VFJxeFVKXzNfVC1xNDlZbHlKc3ZiM0Z3LTJGeGp2aVpBMTQ3RllUZTlQU2NsLUVqdDFPLWdfZFJwZFVv?oc=5",
-   "title": "Spitzenreiter Chelsea stolpert! Liverpool erkämpft sich wichtigen Punkt | Liverpool FC - Chelsea FC",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEF6STAxbmtfTU91Uk5pQ3dGRWpQM2pLSkwwNFd0ek0zSTZLYS1YdENEdW9LM1Yyano4UlJxbFJnOHBrcjdoTEhDUnpWOFJUWUFrR2hsVGFnT1dFZk1zN2xMMHFSYUlIR1pNREdaS19lZ1U2TG9kaGh6MW9UY3RzYlQ4MUVEaWlVRmxWdVlpZXdFcjVHUlh0VFJxeFVKXzNfVC1xNDlZbHlKc3ZiM0Z3LTJGeGp2aVpBMTQ3RllUZTlQU2NsLUVqdDFPLWdfZFJwZFVv?oc=5",
-   "source": "OneFootball",
-   "group": "영국 언론",
-   "date": 1795276303000,
-   "added": 1795277862288,
-   "cat": null,
-   "titleKo": "선두 첼시가 흔들립니다! 리버풀이 중요한 승점을 따냅니다 | 리버풀 FC - 첼시 FC"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWtXTlhUYUFJMnliLWF6YTN6WVpaWERBa2dQbktXNTdBZlY2YTVUMnFNenBGY0dTMUFTX0pNaGY3UmlDVXFsOWhMQXNGMkhRMkc0a05uTDR2cEgzNHdJS3J6YWFzLWw0UVE0N3RwT0ljSVBhc3lERm93MTlXZDdCN0FXSW5XMXdwa1oxSURqQXNBTF8zLWFYWTVRYm1aNzJsV1ozbHA1TnJ2RU0?oc=5",
-   "title": "Liverpool vs Chelsea | BWSL",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWtXTlhUYUFJMnliLWF6YTN6WVpaWERBa2dQbktXNTdBZlY2YTVUMnFNenBGY0dTMUFTX0pNaGY3UmlDVXFsOWhMQXNGMkhRMkc0a05uTDR2cEgzNHdJS3J6YWFzLWw0UVE0N3RwT0ljSVBhc3lERm93MTlXZDdCN0FXSW5XMXdwa1oxSURqQXNBTF8zLWFYWTVRYm1aNzJsV1ozbHA1TnJ2RU0?oc=5",
-   "source": "WSL Football",
-   "group": "영국 언론",
-   "date": 1795275884000,
-   "added": 1795357254473,
-   "cat": null,
-   "titleKo": "리버풀 vs 첼시 | BWSL"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWl9UNTlJa3I4Y05oVGxqMGpNOHZrSm1OY1J0WHNIbnJWZURoSFpwNnFpUnR4cVkyQXJ2LWs3X3o5VTl4WDVuX09wTjNoZXFtUDVIOWlJMk1iMzEzSnJOSHlXby0wZzhSWEJ5RzRpUkZHNjBiZzZ6a3luaEJ6OTZyeVlZMVpNZw?oc=5",
-   "title": "Live Commentary - Liverpool Women vs Chelsea Women | 21.11.2026",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWl9UNTlJa3I4Y05oVGxqMGpNOHZrSm1OY1J0WHNIbnJWZURoSFpwNnFpUnR4cVkyQXJ2LWs3X3o5VTl4WDVuX09wTjNoZXFtUDVIOWlJMk1iMzEzSnJOSHlXby0wZzhSWEJ5RzRpUkZHNjBiZzZ6a3luaEJ6OTZyeVlZMVpNZw?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795275255000,
-   "added": 1795433343970,
-   "cat": null,
-   "titleKo": "실시간 중계 - 리버풀 여자팀 vs 첼시 여자팀 | 2026년 11월 21일"
   }
  ]
 }
