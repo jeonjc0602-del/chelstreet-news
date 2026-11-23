@@ -1,12 +1,12 @@
 {
- "updated": 1795410962823,
+ "updated": 1795415193601,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
   "talkSPORT": 6,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 1,
+  "Evening Standard": 2,
   "The Sun": 1,
   "Mirror": 0,
   "Daily Mail": 8,
@@ -14,14 +14,14 @@
   "Independent": 1,
   "Express": 0,
   "Sports Mole": 5,
-  "CaughtOffside": 2,
+  "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 71,
   "인터풋볼": 0,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 32,
+  "구글뉴스(한국어)": 31,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejh4OXN5VmFFeVRLUzFjT00yRi1LTGJ6NTRfb1BReTR1Qk1wbE0wd08yOU1xQkNNb1M0eS1HNzZsMFlhUGZxYXdjb1JnMDV4bGNPQ1NkOXFfX1F6RloxcmpjSldTZUdhQUxKekNLQkwyNm5yLUUtRDRaNmIwVGo1NmxVZ044NDBIcmM0cFJCRkZ1ckZyVUVEWG9kb3ItS20yVXNVSw?oc=5",
+    "title": "Nottingham Forest are stuck in a familiar rut. Glasner has to wrest them free",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejh4OXN5VmFFeVRLUzFjT00yRi1LTGJ6NTRfb1BReTR1Qk1wbE0wd08yOU1xQkNNb1M0eS1HNzZsMFlhUGZxYXdjb1JnMDV4bGNPQ1NkOXFfX1F6RloxcmpjSldTZUdhQUxKekNLQkwyNm5yLUUtRDRaNmIwVGo1NmxVZ044NDBIcmM0cFJCRkZ1ckZyVUVEWG9kb3ItS20yVXNVSw?oc=5",
+    "source": "The New York Times",
+    "date": 1795411643000,
+    "added": 1795415187692,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트는 익숙한 늪에 빠져 있습니다. 글라스너 감독이 그들을 구해내야 합니다."
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
     "title": "첼시는 불안정한 상태입니다",
@@ -829,20 +839,68 @@
     "added": 1795308264714,
     "tag": "상대 소식",
     "titleKo": "본머스 vs 노팅엄 포레스트: 주요 통계 및 화제"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzTUtmZmhXWkxNTExVX25uWUJtUkpmdWRoOGwybXJoNUY3NkZsRmV1T2ZsNlBNdkJ6MEhJODZGUWRGeEh3QTB1VnVSWWJWdWhmbk1iYWphWExMXzl4?oc=5",
-    "title": "AFC Bournemouth v Nottingham Forest | LJP’s Match Preview | Premier League",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzTUtmZmhXWkxNTExVX25uWUJtUkpmdWRoOGwybXJoNUY3NkZsRmV1T2ZsNlBNdkJ6MEhJODZGUWRGeEh3QTB1VnVSWWJWdWhmbk1iYWphWExMXzl4?oc=5",
-    "source": "YouTube",
-    "date": 1795195808000,
-    "added": 1795308264714,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "AFC 본머스 vs 노팅엄 포레스트 | LJP의 경기 프리뷰 | 프리미어리그"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.caughtoffside.com/2026/11/23/arsenal-chelsea-monitor-europes-fastest-rising-managers/",
+   "title": "Arsenal and Chelsea monitor one of Europe’s fastest-rising young managers",
+   "link": "https://www.caughtoffside.com/2026/11/23/arsenal-chelsea-monitor-europes-fastest-rising-managers/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795414666000,
+   "image": "https://icdn.caughtoffside.com/2026/10/COS-Featured_Hero-Image-Templates-18-1.jpg",
+   "added": 1795415186794,
+   "cat": null,
+   "titleKo": "아스널과 첼시, 유럽에서 가장 빠르게 성장하는 젊은 감독 중 한 명을 주시하다"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-update-caicedo-joao-pedro-hato-latest-news-return-dates-b1305824.html",
+   "title": "Chelsea injury update: Moises Caicedo, Joao Pedro, Jorrel Hato latest news and return dates",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-update-caicedo-joao-pedro-hato-latest-news-return-dates-b1305824.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795414519000,
+   "image": "https://static.standard.co.uk/2026/11/21/17/11/Joao-Pedro-Caicedo-James-Chelsea.jpeg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795415186794,
+   "cat": "부상",
+   "titleKo": "첼시 부상자 업데이트: 모이세스 카이세도, 주앙 페드로, 조렐 하토 최근 소식 및 복귀일"
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/brutally-honest-chelsea-assessment-xabi-34941299",
+   "title": "The brutally honest Chelsea assessment Xabi Alonso will agree with as £342m decision questioned",
+   "link": "https://www.football.london/chelsea-fc/news/brutally-honest-chelsea-assessment-xabi-34941299",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795413600000,
+   "image": "https://i2-prod.football.london/incoming/article34941352.ece/ALTERNATES/s615/0_GettyImages-2298978513.jpg",
+   "added": 1795415186794,
+   "cat": null,
+   "titleKo": "샤비 알론소가 동의할 만한 첼시에 대한 솔직한 평가. 3억 4,200만 파운드(약 5,850억 원) 규모의 결정에 의문이 제기됨"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtXQ05sbjRoTmExMjVBZUQ3NTI1bjEzTjE3ZWdwTFUzc0R0SFVCaEZVaV9ybG9BTk5wY2xHQnd4dWRWV3cxV0pURWF0SGhuSl9zcFplNVY4Um1NREJYdV9HZ1FKbnpDX0hpbDJRRkRRbkhBZmtrY0l6RXJOX2ZSRmdPSUxCOEw4aE1iVUUtOXhqNHd6NEpUam01cTYzdw?oc=5",
+   "title": "Chelsea Diary: Away days and Academy derby on the agenda | News | Official Site",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtXQ05sbjRoTmExMjVBZUQ3NTI1bjEzTjE3ZWdwTFUzc0R0SFVCaEZVaV9ybG9BTk5wY2xHQnd4dWRWV3cxV0pURWF0SGhuSl9zcFplNVY4Um1NREJYdV9HZ1FKbnpDX0hpbDJRRkRRbkhBZmtrY0l6RXJOX2ZSRmdPSUxCOEw4aE1iVUUtOXhqNHd6NEpUam01cTYzdw?oc=5",
+   "source": "Chelsea Football Club",
+   "group": "영국 언론",
+   "date": 1795413600000,
+   "added": 1795415186794,
+   "cat": "오피셜",
+   "titleKo": "첼시 다이어리: 원정 경기와 아카데미 더비가 예정되어 있습니다 | 뉴스 | 공식 사이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGdYMWFiNlRqdk12TnVUUDJ3RGdDeGUtVlRiSFpEVF9UNUtRRXJiZkJXbmZ1T2V1RWZYYTlkNEZZM1pZdnVyX0I2RGJlT0lKN3ZQVWhQWGU4VWEzRDBSZjV0ak1TYkpQZkJpdnVER2k3clFXNjVJT200TTd5Tm4wS0kybmJ1VEV4VUE?oc=5",
+   "title": "Chelsea make Xabi Alonso sack decision after Leeds United humiliation at Stamford Bridge",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGdYMWFiNlRqdk12TnVUUDJ3RGdDeGUtVlRiSFpEVF9UNUtRRXJiZkJXbmZ1T2V1RWZYYTlkNEZZM1pZdnVyX0I2RGJlT0lKN3ZQVWhQWGU4VWEzRDBSZjV0ak1TYkpQZkJpdnVER2k3clFXNjVJT200TTd5Tm4wS0kybmJ1VEV4VUE?oc=5",
+   "source": "Yahoo Sports",
+   "group": "영국 언론",
+   "date": 1795411800000,
+   "added": 1795415186794,
+   "cat": null,
+   "titleKo": "첼시, 스탬퍼드 브리지에서 리즈 유나이티드에 대패한 후 사비 알론소 경질 결정"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE1NRVB2Y0RMSS00Y1drY243YzBJZUhOTVZIQjNQU2NDSlpqQjRnZ3RYaWdPTElQY01aRVB5YlZjdm1rODJkazFud3BpZXRfT0RHTG95X1dNVmt4NVY2Q2dSVG9va2lxR3NTaWhlSEl3elJVVXhuX0JjTzFOaGtuRGJieDd0UEJOZ1hlcTdVTWxPMVVGZ1NfWmdxSGhIOXpqbWk4YTRBejdjNmRqdjI3Y2JtQ0l1d0RBeE1ZemhxaDJjUQ?oc=5",
    "title": "톰 브래디, 버밍엄 시티 떠나 첼시 FC 소수 지분 인수",
@@ -4090,6 +4148,17 @@
    "titleKo": "톰 브래디, 첼시 FC 지분 인수 보도"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpKWkFkTjZ5S0xubVN4ejJNTEtlaVhsNkdJOHJ3eUpGLWNLcHM5OVpqWURHZ0toRzZBU0RYN0tHdVVOVkR0dFFzVUFFRVNaZGxIVy1QX1U1YUxXU2dhM201aVQxVVRBdTVMNEEyNDRpcndkd0RiNU1tZFVuQ2x3SA?oc=5",
+   "title": "Penders reflects on PL Save of the Month | Video",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpKWkFkTjZ5S0xubVN4ejJNTEtlaVhsNkdJOHJ3eUpGLWNLcHM5OVpqWURHZ0toRzZBU0RYN0tHdVVOVkR0dFFzVUFFRVNaZGxIVy1QX1U1YUxXU2dhM201aVQxVVRBdTVMNEEyNDRpcndkd0RiNU1tZFVuQ2x3SA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795209486000,
+   "added": 1795415186795,
+   "cat": null,
+   "titleKo": "펜더스, 이달의 PL 세이브에 대해 이야기하다 | 동영상"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWZMNmZfQWtvbDI5YzBFNXZVTTdOcUlQOUFyQnpxWkVyRnJ3VDhfTWcydU5vemNtQ0d3NkVJUC1MVHl0TmFrWlpHeHB6aGRYQlpfYXZVZVRJYlo1NzZoUnpFaXVBcld1YUdnOE1KN09iWU1rMHowTTBrd1FEMTY3UDhTcEhRb1NO?oc=5",
    "title": "Chelsea respond after being handed $196,000 fine by FA for anti-Catholic and anti-Irish chants",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWZMNmZfQWtvbDI5YzBFNXZVTTdOcUlQOUFyQnpxWkVyRnJ3VDhfTWcydU5vemNtQ0d3NkVJUC1MVHl0TmFrWlpHeHB6aGRYQlpfYXZVZVRJYlo1NzZoUnpFaXVBcld1YUdnOE1KN09iWU1rMHowTTBrd1FEMTY3UDhTcEhRb1NO?oc=5",
@@ -4174,71 +4243,6 @@
    "date": 1795206280000,
    "cat": null,
    "titleKo": "첼시, 찰튼과의 FA컵 경기 중 팬들의 반가톨릭 및 반아일랜드 구호로 인해 15만 파운드의 FA 벌금 및 행동 계획 부과"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc3hZYk1HbUZmUWFNdHdaQzd1NzBHcWx0eVJKVnVPMWZ0S0lDRFNKTFRBeXlvUGNwSDRDVUlRYnVScERFMXVuVm5wekRoMkVOeG1wTWhOc0JNLXozbnZrelFKQnZoOUI5WHN6THB6YkNvWEJ6bzhfTmdKMVkyNzlGZmFaOGlvUmdLY1BZaXJ4ZHRMWGJZY05HMDZWQkFpWGtqQjdqb0loNWs1U0dseEdCN3RodHozejdsU3p5VUExU0hsUWY3RTN4bHdHejJaZi11MnZaOUJpSlVMWUU?oc=5",
-   "title": "Liverpool vs. Chelsea, Women’s Super League: Preview, team news, how to watch",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc3hZYk1HbUZmUWFNdHdaQzd1NzBHcWx0eVJKVnVPMWZ0S0lDRFNKTFRBeXlvUGNwSDRDVUlRYnVScERFMXVuVm5wekRoMkVOeG1wTWhOc0JNLXozbnZrelFKQnZoOUI5WHN6THB6YkNvWEJ6bzhfTmdKMVkyNzlGZmFaOGlvUmdLY1BZaXJ4ZHRMWGJZY05HMDZWQkFpWGtqQjdqb0loNWs1U0dseEdCN3RodHozejdsU3p5VUExU0hsUWY3RTN4bHdHejJaZi11MnZaOUJpSlVMWUU?oc=5",
-   "source": "We Ain't Got No History",
-   "group": "영국 언론",
-   "date": 1795206242000,
-   "cat": "프리뷰",
-   "titleKo": "리버풀 vs. 첼시, 여자 슈퍼리그: 경기 전, 팀 소식, 시청 방법"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdENWT1VwS01LdG01Y2dWU0x2LThLbHBwM0JLZnlvb2gyQUlSSmE0d1NHVmVfaW91SVRvd0x6NUpNTzUtMG1ISDVZYnZvakhzbzdDTG9aYkZIcXBIYXhiV29vU0JOT09RUFl1eE5EazZJR2ZEcjAxZzR6UkhQa3NucWVMSVM?oc=5",
-   "title": "Hull - Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdENWT1VwS01LdG01Y2dWU0x2LThLbHBwM0JLZnlvb2gyQUlSSmE0d1NHVmVfaW91SVRvd0x6NUpNTzUtMG1ISDVZYnZvakhzbzdDTG9aYkZIcXBIYXhiV29vU0JOT09RUFl1eE5EazZJR2ZEcjAxZzR6UkhQa3NucWVMSVM?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795206183000,
-   "added": 1795238124192,
-   "cat": null,
-   "titleKo": "헐 - 첼시"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0JocTNGSXFyd2ZIS3UzaVo4c1ZKVlVUUW9PTkx3VGkzY21GUzZXV09vakNVZDVHRzZoVzI2VTRfTU14ZWNEVWdwS1NDaUtnVS02UlhYcFEwbUFIN05YcjJueFNnNUl2Y01lZzFUTnBLOWN6NW9ja0ZIeWtjSVFJRXFLdGVCYjVz?oc=5",
-   "title": "Tom Brady Trades Birmingham City Stake for Premier League Giants Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0JocTNGSXFyd2ZIS3UzaVo4c1ZKVlVUUW9PTkx3VGkzY21GUzZXV09vakNVZDVHRzZoVzI2VTRfTU14ZWNEVWdwS1NDaUtnVS02UlhYcFEwbUFIN05YcjJueFNnNUl2Y01lZzFUTnBLOWN6NW9ja0ZIeWtjSVFJRXFLdGVCYjVz?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795205820000,
-   "cat": null,
-   "titleKo": "톰 브래디, 버밍엄 시티 지분을 프리미어리그 거함 첼시에 매각"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/tom-brady-chelsea-fc-minority-stake-clearlake-b1305787.html",
-   "title": "NFL legend Tom Brady in talks to buy minority Chelsea stake",
-   "link": "https://www.standard.co.uk/sport/football/tom-brady-chelsea-fc-minority-stake-clearlake-b1305787.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795205250000,
-   "cat": "이적",
-   "titleKo": "NFL의 전설 톰 브래디, 첼시 지분 인수 협상 중",
-   "imgTried": true,
-   "image": "https://static.standard.co.uk/2026/11/20/19/2304965749..?trim=109,382,428,179&auto=webp&quality=75&width=1200"
-  },
-  {
-   "id": "https://www.caughtoffside.com/2026/11/20/man-united-consider-surprise-move-for-former-chelsea-star-ahead-of-2027/",
-   "title": "Man United consider surprise move for former Chelsea star ahead of 2027",
-   "link": "https://www.caughtoffside.com/2026/11/20/man-united-consider-surprise-move-for-former-chelsea-star-ahead-of-2027/",
-   "source": "CaughtOffside",
-   "group": "영국 언론",
-   "date": 1795204800000,
-   "cat": null,
-   "titleKo": "맨유, 2027년 전 첼시 스타 영입을 위한 깜짝 행보를 고려 중",
-   "imgTried": true,
-   "image": "https://icdn.caughtoffside.com/2025/04/COS-FeaturedHero-Image-Templates-2025-04-25T105316.504.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUpjRUtvUXBWaEQyTHJmX05Kc1FBRDZxR1FWY0dsRlBzSFRnUzJyaFNROVlxbDRPM19BdzRYYlJtTmlXVGVmVkJzdjl6TkdRdDlQNVNtbGdzOFpXTFFNN0VDRUtyemtzWEZVa2NWelVXaWZBRXdSUFRXNXRTZHJaOVNPSnV2dEkzNTY4TFp5OHNPZw?oc=5",
-   "title": "Chelsea fined £150k and warned over future conduct for sectarian chants in FA Cup tie",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUpjRUtvUXBWaEQyTHJmX05Kc1FBRDZxR1FWY0dsRlBzSFRnUzJyaFNROVlxbDRPM19BdzRYYlJtTmlXVGVmVkJzdjl6TkdRdDlQNVNtbGdzOFpXTFFNN0VDRUtyemtzWEZVa2NWelVXaWZBRXdSUFRXNXRTZHJaOVNPSnV2dEkzNTY4TFp5OHNPZw?oc=5",
-   "source": "The New York Times",
-   "group": "영국 언론",
-   "date": 1795203840000,
-   "cat": null,
-   "titleKo": "첼시, FA컵 경기에서 종파적 구호로 인해 15만 파운드의 벌금과 향후 행동에 대한 경고를 받음"
   }
  ]
 }
