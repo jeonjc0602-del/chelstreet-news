@@ -1,5 +1,5 @@
 {
- "updated": 1795469009859,
+ "updated": 1795472127693,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -7,28 +7,28 @@
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 7,
-  "The Sun": 5,
+  "The Sun": 4,
   "Mirror": 2,
   "Daily Mail": 5,
   "Telegraph": 6,
   "Independent": 2,
   "Express": 0,
   "Sports Mole": 4,
-  "CaughtOffside": 2,
+  "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 22,
+  "구글뉴스(한국어)": 21,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 32건"
+  "이번 상대": "Nottingham Forest · 새 기사 40건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -844,6 +844,65 @@
  },
  "items": [
   {
+   "id": "https://www.caughtoffside.com/2026/11/23/chelsea-and-tottenham-join-european-race-for-e45m-rated-attacker/",
+   "title": "Chelsea and Tottenham join European race for €45m-rated attacker",
+   "link": "https://www.caughtoffside.com/2026/11/23/chelsea-and-tottenham-join-european-race-for-e45m-rated-attacker/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795471200000,
+   "image": "https://icdn.caughtoffside.com/2025/07/COS-FeaturedHero-Image-Templates-142.jpg",
+   "added": 1795472118072,
+   "cat": null,
+   "titleKo": "첼시와 토트넘, 4,500만 유로(약 675억 원) 가치의 공격수를 영입하기 위한 유럽 내 경쟁에 합류"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news-now/atrocious-chelsea-perfect-setup/",
+   "title": "(Video): “Atrocious” Chelsea unable to win without this perfect setup claims pundit",
+   "link": "https://www.talkchelsea.net/news-now/atrocious-chelsea-perfect-setup/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795471200000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/Working-copy-of-CNFeatured_Hero-Image-Templates-1-2-414x233.jpg",
+   "added": 1795472118073,
+   "cat": null,
+   "titleKo": "(동영상): 전문가가 주장하는 \"끔찍한\" 첼시, 이 완벽한 조합 없이는 승리할 수 없다"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41120587/xabi-alonso-must-fix-chelsea/",
+   "title": "Xabi Alonso needs to turn Chelsea around before things snowball out of control – just ask Potter, Lampard and Rosenior",
+   "link": "https://www.thesun.co.uk/sport/41120587/xabi-alonso-must-fix-chelsea/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795469677000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FJW-MARTIN-LIPTON-ALONSO.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795472118072,
+   "cat": null,
+   "titleKo": "사비 알론소는 상황이 통제 불능 상태가 되기 전에 첼시를 구해내야 합니다. 포터, 램퍼드, 로제니오르에게 물어보세요."
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/23/chelsea-and-newcastle-prepare-january-battle-for-highly-rated-scottish-teenage-sensation/",
+   "title": "Chelsea and Newcastle prepare January battle for highly-rated Scottish teenage sensation",
+   "link": "https://www.caughtoffside.com/2026/11/23/chelsea-and-newcastle-prepare-january-battle-for-highly-rated-scottish-teenage-sensation/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795469400000,
+   "image": "https://icdn.caughtoffside.com/2026/09/arsenal-fc-v-chelsea-fc-premier-league-2026-27-10.jpg",
+   "added": 1795472118072,
+   "cat": null,
+   "titleKo": "첼시와 뉴캐슬, 촉망받는 스코틀랜드 청소년 스타를 놓고 1월 이적 시장에서 경쟁 준비"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZm9pOXJFeFZwVno3SGh5bVBOOTdkNGx2cmlWTzBkRkQwLTBmd3FWSnZuenRhWHhCQU1LcEhYMngwcW9BU1hsUXo5Y2xMOTBEcTJsQzlQNjhtOG8tekU4SU1rVkpRWXpkejlrVUpvWVlReDR6Ym54ci1fcVNkcDRoMmFYVnNfblNzZkl5RE9sOU91T2pRQTB0enNXZ0M?oc=5",
+   "title": "PSG force Chelsea into making crucial January transfer decision",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZm9pOXJFeFZwVno3SGh5bVBOOTdkNGx2cmlWTzBkRkQwLTBmd3FWSnZuenRhWHhCQU1LcEhYMngwcW9BU1hsUXo5Y2xMOTBEcTJsQzlQNjhtOG8tekU4SU1rVkpRWXpkejlrVUpvWVlReDR6Ym54ci1fcVNkcDRoMmFYVnNfblNzZkl5RE9sOU91T2pRQTB0enNXZ0M?oc=5",
+   "source": "EPL Index",
+   "group": "영국 언론",
+   "date": 1795468847000,
+   "added": 1795472118072,
+   "cat": "이적",
+   "titleKo": "PSG, 첼시에게 1월 이적에 대한 중요한 결정을 내리도록 압박"
+  },
+  {
    "id": "https://www.standard.co.uk/sport/football/chelsea-fc-liverpool-alonso-rosenior-merson-b1306099.html",
    "title": "‘If this was Liam Rosenior’: Xabi Alonso’s Chelsea future questioned amid Liverpool ‘snub’",
    "link": "https://www.standard.co.uk/sport/football/chelsea-fc-liverpool-alonso-rosenior-merson-b1306099.html",
@@ -924,6 +983,17 @@
    "added": 1795465812948,
    "cat": null,
    "titleKo": "첼시 최신 소식: 카라가 포파나-콜윌 파트너십이 '절대 성공하지 못할 것'이라고 설명한 이유"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR3V2Q2E4a2p4SDZDcDlwcFQ1TjJibnFRNjdVOGlBMTl3RkpTOFUzVHpqTGQzaXoxbVQzRTJONmZscjdWRGlYSmJYcDhtZDRfM3BZVnY5am1OSUNDRHZhY1ZneHVtWjNTWjRLMWNNcHp5Wm9OQ1ZiSGh3cENfUFg5bEFPMlRRc1dOSmxNQWc5VWs2cUpiNFJidERaeHVaSUxfSkQzOUt0WGN4dkpaLXVNa3F4X2RKUGlzbk1qX2pmTFpYbWVOdnk4M2diRjU5VTB6czB4OGRIOFJiSThUMDRxUW01SF9XTU0wWEdsRTdpWHU?oc=5",
+   "title": "Chelsea must sign centre-back or will achieve nothing with Levi Colwill and Wesley Fofana, says Jamie Carragher",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR3V2Q2E4a2p4SDZDcDlwcFQ1TjJibnFRNjdVOGlBMTl3RkpTOFUzVHpqTGQzaXoxbVQzRTJONmZscjdWRGlYSmJYcDhtZDRfM3BZVnY5am1OSUNDRHZhY1ZneHVtWjNTWjRLMWNNcHp5Wm9OQ1ZiSGh3cENfUFg5bEFPMlRRc1dOSmxNQWc5VWs2cUpiNFJidERaeHVaSUxfSkQzOUt0WGN4dkpaLXVNa3F4X2RKUGlzbk1qX2pmTFpYbWVOdnk4M2diRjU5VTB6czB4OGRIOFJiSThUMDRxUW01SF9XTU0wWEdsRTdpWHU?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795464718000,
+   "added": 1795472118072,
+   "cat": "인터뷰",
+   "titleKo": "제이미 캐러거, \"첼시는 센터백을 영입해야 한다. 그렇지 않으면 레비 콜윌과 웨슬리 포파나로는 아무것도 이룰 수 없다\"고 말함"
   },
   {
    "id": "https://www.talkchelsea.net/news/soulless-chelsea-ebbing-away-after-another-spineless-defeat/",
@@ -1167,6 +1237,17 @@
    "added": 1795465812948,
    "cat": null,
    "titleKo": "폴 머슨, 첼시의 부진이 계속되는 가운데 리버풀의 알론소 영입 결정에 의문을 제기"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5QSWRuMzZxVzhPQlJMSExXWkZjYzVSV0picDRFX1JPeDZCb2h4UExjS1UxYWVzb1Y3eEdjaGRPYmZoQUx6Qm54TzBlY1pxLTFWWXVGU0ZQa25UNEVaWVdUNWNzdWxSc1F0eGFIU0ZDZGswcXV1Z1E2clJyNnllLWtyLUxuYWsxTmVvZGNzQmR4SWlzS3VHUjBpZE1mOENQUTRwd1hPd3FJc3ZY?oc=5",
+   "title": "PGA Division 1 report: Chelsea Women Under-18s 10-2 Birmingham City | News | Official Site",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5QSWRuMzZxVzhPQlJMSExXWkZjYzVSV0picDRFX1JPeDZCb2h4UExjS1UxYWVzb1Y3eEdjaGRPYmZoQUx6Qm54TzBlY1pxLTFWWXVGU0ZQa25UNEVaWVdUNWNzdWxSc1F0eGFIU0ZDZGswcXV1Z1E2clJyNnllLWtyLUxuYWsxTmVvZGNzQmR4SWlzS3VHUjBpZE1mOENQUTRwd1hPd3FJc3ZY?oc=5",
+   "source": "Chelsea Football Club",
+   "group": "영국 언론",
+   "date": 1795453200000,
+   "added": 1795472118072,
+   "cat": "오피셜",
+   "titleKo": "PGA 디비전 1 경기 결과: 첼시 여자 U-18 10-2 버밍엄 시티 | 뉴스 | 공식 사이트"
   },
   {
    "id": "https://www.caughtoffside.com/2026/11/23/merson-shares-xabi-alonso-theory-which-should-worry-chelsea/",
@@ -2000,6 +2081,17 @@
    "added": 1795437075035,
    "cat": null,
    "titleKo": "- 첼시 축구 클럽"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczVlU2RUMXZGWHJuQk1HTlFoR0xnc2VuZU1zSS10aHVGaWlXQy1WakRmTFVOSlhjTTJBbFZZV05QNjU3UDJQbUpmZnMwSEpSa3EyV2lSMFFYV3RKSnZab05RY1djVDdjVndHTDZySDcyZUJLMEFObGxvZkI0YUFCTktPem9jMWJhMzBzOEllZmFUNFNaUFJtMk84NGV0ZnBHWFE?oc=5",
+   "title": "Who is Olutayo Subuloye? Chelsea youngster on bench for Leeds clash",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczVlU2RUMXZGWHJuQk1HTlFoR0xnc2VuZU1zSS10aHVGaWlXQy1WakRmTFVOSlhjTTJBbFZZV05QNjU3UDJQbUpmZnMwSEpSa3EyV2lSMFFYV3RKSnZab05RY1djVDdjVndHTDZySDcyZUJLMEFObGxvZkI0YUFCTktPem9jMWJhMzBzOEllZmFUNFNaUFJtMk84NGV0ZnBHWFE?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795377604000,
+   "added": 1795472118072,
+   "cat": null,
+   "titleKo": "올루타요 수불로예는 누구인가요? 리즈와의 경기를 앞두고 벤치에 앉은 첼시 유망주"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNZHVXT05oLThrRHlISGNqempPTWg4M0Z1UFM0QVlCTGJCSm5LMW13cnpxMWdfdmpEODFR?oc=5",
@@ -4171,95 +4263,6 @@
    "added": 1795370321736,
    "cat": null,
    "titleKo": "톰 브래디, 첼시 지분 인수 및 소유주 그룹 합류: 보도"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc2JNTGFnTWNUcTQtZUNKYXhQbndMdXIwUm9QR29hNC1HeGItM05Mejk3NVNlamFxVkYzTk9LV2VmUXB2Ty1rYm5ZamI4VE9jM0pEYzVWT2IxQ1FWdzBkRlI5WGpRZjRnSjdqY29EdWVScUg2ZkFJOEJIRkdxb0hXZVg2RDFkYmVyZ3UwLVJkOA?oc=5",
-   "title": "Liverpool 0-0 Chelsea - WSL highlights",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc2JNTGFnTWNUcTQtZUNKYXhQbndMdXIwUm9QR29hNC1HeGItM05Mejk3NVNlamFxVkYzTk9LV2VmUXB2Ty1rYm5ZamI4VE9jM0pEYzVWT2IxQ1FWdzBkRlI5WGpRZjRnSjdqY29EdWVScUg2ZkFJOEJIRkdxb0hXZVg2RDFkYmVyZ3UwLVJkOA?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795273316000,
-   "added": 1795280705675,
-   "cat": null,
-   "titleKo": "리버풀 0-0 첼시 - WSL 하이라이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbmZaTkpiMVg2aFVaTTZ0TnZUNDNwVHNCM28tNk1KbXl5QlhFTnpPYlgtYnRhTWhOUnN6RTBQc3J4Z2pvNkNuY0NtMllkWGlNTnlyMzZLdE1ucDlIek1zM2RUWmlrOFRMbnVGbnc0bw?oc=5",
-   "title": "Chelsea Overview",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbmZaTkpiMVg2aFVaTTZ0TnZUNDNwVHNCM28tNk1KbXl5QlhFTnpPYlgtYnRhTWhOUnN6RTBQc3J4Z2pvNkNuY0NtMllkWGlNTnlyMzZLdE1ucDlIek1zM2RUWmlrOFRMbnVGbnc0bw?oc=5",
-   "source": "Goal.com",
-   "group": "영국 언론",
-   "date": 1795273200000,
-   "added": 1795437075034,
-   "cat": null,
-   "titleKo": "첼시 개요"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFJHMDNGNkVQRndYaWhQS0ZUbzk4Y3M0Z0doTWhpdjlVZnl3YzFQclhsRTI3WEYtalZZNmJYbGNYNVkwMjdyemtvS0dvY25nM21iQjBBZ2RlU3V4d1VDdDdqWEJCNklTSzJqa2hLZzd1OGhqaFZqOWJxZTV6Q2RUUnVXN1o?oc=5",
-   "title": "Can You Name All These Chelsea Players in 30 Seconds?",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFJHMDNGNkVQRndYaWhQS0ZUbzk4Y3M0Z0doTWhpdjlVZnl3YzFQclhsRTI3WEYtalZZNmJYbGNYNVkwMjdyemtvS0dvY25nM21iQjBBZ2RlU3V4d1VDdDdqWEJCNklTSzJqa2hLZzd1OGhqaFZqOWJxZTV6Q2RUUnVXN1o?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795273200000,
-   "added": 1795280705676,
-   "cat": null,
-   "titleKo": "30초 안에 이 모든 첼시 선수들의 이름을 맞힐 수 있나요?"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUVNVGxxanBiM1NFVnI1VV9MNHhROVJjUTlXMExLTGRrNWY3Wi1uUnI2YTl6UzBVdFpobGNFVVIxMWdqVXg3WTJEM2xUZWlFOGpaNFdyaFpTOV82Z2xZM2ktWmVQN3BrMGVFWW9UeV9qY3FuU0pRY1FxWm1GSjRpbTFyMUd2QkhtSHlqM2lmWjY3UXVzQ0FJVzZqajdGQjVRcUtyMHljRHBaV1hu?oc=5",
-   "title": "Chelsea vs Leeds United: TV channel, live stream and kick-off time",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUVNVGxxanBiM1NFVnI1VV9MNHhROVJjUTlXMExLTGRrNWY3Wi1uUnI2YTl6UzBVdFpobGNFVVIxMWdqVXg3WTJEM2xUZWlFOGpaNFdyaFpTOV82Z2xZM2ktWmVQN3BrMGVFWW9UeV9qY3FuU0pRY1FxWm1GSjRpbTFyMUd2QkhtSHlqM2lmWjY3UXVzQ0FJVzZqajdGQjVRcUtyMHljRHBaV1hu?oc=5",
-   "source": "Goal.com",
-   "group": "영국 언론",
-   "date": 1795273200000,
-   "added": 1795277862288,
-   "cat": null,
-   "titleKo": "첼시 대 리즈 유나이티드: TV 채널, 라이브 스트리밍 및 킥오프 시간"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTR2S3JKZUJJUmh4TE9aUk4ydFJQbVV2NEthRm5Fa3R6U1NPLVNpR01SeWhJZGZ1RGhsMjUzMnNTWm9STDd2bFdfdDZlc0pOblFXUThESG9zRzZ5dllNZVBkVU1WZGE1ZUQ3R2xYY2FsR1BUVG45ZkNFbVQxSTFwUThn?oc=5",
-   "title": "Match report: Liverpool 0-0 Chelsea | News | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTR2S3JKZUJJUmh4TE9aUk4ydFJQbVV2NEthRm5Fa3R6U1NPLVNpR01SeWhJZGZ1RGhsMjUzMnNTWm9STDd2bFdfdDZlc0pOblFXUThESG9zRzZ5dllNZVBkVU1WZGE1ZUQ3R2xYY2FsR1BUVG45ZkNFbVQxSTFwUThn?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795272600000,
-   "added": 1795275031137,
-   "cat": "오피셜",
-   "titleKo": "경기 결과: 리버풀 0-0 첼시 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmMtaW4zbEFqaGR4QTRLNThXb1VkcVlMZ2pGNHNyc1FKWlpLT0VoeUV6bkdEMjBpa1lEN0FuXzExZzBPWVdBNTRoY2FyX2RZcmF0TDY1WWFpU010MmZRYnkzRVFMT19PQTBuWTlIcFVwOHNYZnRSNm1TNlNsWk9NWVhXeGExdmhTLXlsRnhXNWtVOWlmaG5ndFkzT0xwUG9HY2NDNG1HNGFCbUVsRVpwN0lqZ1FjbDBxbzh0MUxpbGljTEt0STN0Q3FSUC1ZUQ?oc=5",
-   "title": "Liverpool FCW 0-0 Chelsea FCW, Women’s Super League: Post-match reaction",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmMtaW4zbEFqaGR4QTRLNThXb1VkcVlMZ2pGNHNyc1FKWlpLT0VoeUV6bkdEMjBpa1lEN0FuXzExZzBPWVdBNTRoY2FyX2RZcmF0TDY1WWFpU010MmZRYnkzRVFMT19PQTBuWTlIcFVwOHNYZnRSNm1TNlNsWk9NWVhXeGExdmhTLXlsRnhXNWtVOWlmaG5ndFkzT0xwUG9HY2NDNG1HNGFCbUVsRVpwN0lqZ1FjbDBxbzh0MUxpbGljTEt0STN0Q3FSUC1ZUQ?oc=5",
-   "source": "We Ain't Got No History",
-   "group": "영국 언론",
-   "date": 1795271992000,
-   "added": 1795272695718,
-   "cat": null,
-   "titleKo": "리버풀 FCW 0-0 첼시 FCW, 여자 슈퍼리그: 경기 후 반응"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOekJzZjZoQW5oeTNUS2JMcUVNejJoN2xLVHA4NWphbjAtNWxqWUhMOTZYMDRCRldTMVZSd3lHOFBWcmMxUzBXOTdvR2o3bzNYcVQxenpvdzNGVTk5a2NzblhmWVBkNWticXB1OXlvcVJBVzU2SmU0UFZ6SXJuZzVkSlN5blBjdm9pdTR6ajBORk5VYndXWlpHQjJJZldJTGc?oc=5",
-   "title": "Xabi Alonso on Emmanuel Emegha selection for Leeds clash",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOekJzZjZoQW5oeTNUS2JMcUVNejJoN2xLVHA4NWphbjAtNWxqWUhMOTZYMDRCRldTMVZSd3lHOFBWcmMxUzBXOTdvR2o3bzNYcVQxenpvdzNGVTk5a2NzblhmWVBkNWticXB1OXlvcVJBVzU2SmU0UFZ6SXJuZzVkSlN5blBjdm9pdTR6ajBORk5VYndXWlpHQjJJZldJTGc?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795271400000,
-   "added": 1795275031138,
-   "cat": null,
-   "titleKo": "리즈와의 경기를 앞두고 에마뉘엘 에메가를 선발한 샤비 알론소 감독"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
-   "title": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
-   "link": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
-   "source": "The Guardian",
-   "group": "영국 언론",
-   "date": 1795270805000,
-   "image": "https://i.guim.co.uk/img/media/4a6d9a0c629b1a654f5e4b5d8f3b83c83a8c2a6c/0_524_3849_3080/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=c572c6036af1847cc71c360ff8879e5c",
-   "added": 1795272695717,
-   "cat": null,
-   "titleKo": "일론 머스크의 변호사가 톰 브래디와 함께 첼시 지분 매수에 참여"
   }
  ]
 }
