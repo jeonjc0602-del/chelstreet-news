@@ -1,34 +1,34 @@
 {
- "updated": 1795425897906,
+ "updated": 1795430119495,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
   "talkSPORT": 6,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 3,
+  "Evening Standard": 4,
   "The Sun": 1,
   "Mirror": 1,
-  "Daily Mail": 8,
+  "Daily Mail": 7,
   "Telegraph": 6,
   "Independent": 1,
   "Express": 0,
-  "Sports Mole": 5,
-  "CaughtOffside": 1,
+  "Sports Mole": 4,
+  "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 71,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 32,
+  "구글뉴스(한국어)": 31,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": "실패: 403",
-  "이번 상대": "Nottingham Forest · 새 기사 34건"
+  "FotMob": 10,
+  "이번 상대": "Nottingham Forest · 새 기사 36건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEhxU1ctVG1kdjBsdW1wQUlHMGMzbjBXaXk5dmpIM096cUFsVjZMR0NMNTRibEQyV19XTWJ1My1LY19haWU5cHYxNUwzWWt3d3pSdlA1YXk1c2dKVkVaVkE4ZzFMX2Nvb2ZZVTVCbVIySzhVUW9NdFVwWS1vVnhXNkZuSS1RMjIyLUxfZ0otU1hqaDFaYTNfMFVBU1psbmY0M2dqSTVnQQ?oc=5",
+    "title": "5 Things Xabi Alonso Must Fix Before Chelsea Face Nottingham Forest",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEhxU1ctVG1kdjBsdW1wQUlHMGMzbjBXaXk5dmpIM096cUFsVjZMR0NMNTRibEQyV19XTWJ1My1LY19haWU5cHYxNUwzWWt3d3pSdlA1YXk1c2dKVkVaVkE4ZzFMX2Nvb2ZZVTVCbVIySzhVUW9NdFVwWS1vVnhXNkZuSS1RMjIyLUxfZ0otU1hqaDFaYTNfMFVBU1psbmY0M2dqSTVnQQ?oc=5",
+    "source": "Chelsea FC Online",
+    "date": 1795428374000,
+    "added": 1795430113308,
+    "tag": "상대 소식",
+    "titleKo": "샤비 알론소가 첼시와 노팅엄 포레스트의 경기를 앞두고 해결해야 할 5가지 사항"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejh4OXN5VmFFeVRLUzFjT00yRi1LTGJ6NTRfb1BReTR1Qk1wbE0wd08yOU1xQkNNb1M0eS1HNzZsMFlhUGZxYXdjb1JnMDV4bGNPQ1NkOXFfX1F6RloxcmpjSldTZUdhQUxKekNLQkwyNm5yLUUtRDRaNmIwVGo1NmxVZ044NDBIcmM0cFJCRkZ1ckZyVUVEWG9kb3ItS20yVXNVSw?oc=5",
     "title": "Nottingham Forest are stuck in a familiar rut. Glasner has to wrest them free",
@@ -829,16 +839,6 @@
     "added": 1795308264714,
     "tag": "라인업·팀뉴스",
     "titleKo": "서튼의 예측: 본머스 vs 노팅엄 포레스트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icmg1cGpDdG5XZ1VWOXNTOERZV05QMEpjZkxqYk9kS3JSZmpZTTBqdUFYbXAtaGRmb1FEWnVDWXBKc2Q0SDMtbEtMV1RIWDBLQnY4SmlESUg1Uk5EMUtSMGFPOW5SV0x3?oc=5",
-    "title": "Bournemouth v Nottingham Forest: Key stats and talking points",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icmg1cGpDdG5XZ1VWOXNTOERZV05QMEpjZkxqYk9kS3JSZmpZTTBqdUFYbXAtaGRmb1FEWnVDWXBKc2Q0SDMtbEtMV1RIWDBLQnY4SmlESUg1Uk5EMUtSMGFPOW5SV0x3?oc=5",
-    "source": "BBC",
-    "date": 1795200246000,
-    "added": 1795308264714,
-    "tag": "상대 소식",
-    "titleKo": "본머스 vs 노팅엄 포레스트: 주요 통계 및 화제"
    }
   ]
  },
@@ -855,6 +855,41 @@
    "titleKo": "[PL POINT] 19위 맨유 수준 수비력...'4경기 3패' 첼시, 20득점 20실점→최악의 수비력에 순위 상승 실패",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699083_833122_1044_v150.jpg"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/emmanuel-emegha-robbed-chelsea-fc-leeds-police-b1305971.html",
+   "title": "Emmanuel Emegha: Police launch investigation as Chelsea striker ‘robbed’ after Leeds game",
+   "link": "https://www.standard.co.uk/sport/football/emmanuel-emegha-robbed-chelsea-fc-leeds-police-b1305971.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795428979000,
+   "image": "https://static.standard.co.uk/2026/11/23/10/2306317103..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795430111843,
+   "cat": null,
+   "titleKo": "에마뉘엘 에메가: 첼시 공격수가 리즈전 후 '강도'를 당하자 경찰이 수사에 착수"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHpxci1rdmNlUXh6RjZ3V0Z6VkpfNDNuZlVTSDR3UFZBRzVCTUlIa2VRdDhLcUVXdUlpN0RLeF85WDQ0SGVjaE5uazRDRkJTaGdLVXRvVlZuU1pJX0R3MHRLc0I2dDdsSGhwVTlOQldZXzQtLUNtTHV6eXRMeHAwWmlkN1hfa0tYbEsxY09UeERxNG1fWDZkWWxaWVdtaHpMcnlSZg?oc=5",
+   "title": "Police launch investigation as Chelsea star ‘robbed’ after Leeds game",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHpxci1rdmNlUXh6RjZ3V0Z6VkpfNDNuZlVTSDR3UFZBRzVCTUlIa2VRdDhLcUVXdUlpN0RLeF85WDQ0SGVjaE5uazRDRkJTaGdLVXRvVlZuU1pJX0R3MHRLc0I2dDdsSGhwVTlOQldZXzQtLUNtTHV6eXRMeHAwWmlkN1hfa0tYbEsxY09UeERxNG1fWDZkWWxaWVdtaHpMcnlSZg?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795428979000,
+   "added": 1795430111843,
+   "cat": null,
+   "titleKo": "첼시의 스타 선수가 리즈와의 경기 후 '강도'를 당하자 경찰이 수사에 착수했습니다."
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/chelsea-player-emegha-completed-two-passes/",
+   "title": "Chelsea player completed two passes in an hour – Alonso’s tactical challenge clear",
+   "link": "https://www.talkchelsea.net/news/chelsea-player-emegha-completed-two-passes/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795428000000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Emmanuel-Emegha-heatmap-414x275.jpg",
+   "added": 1795430111844,
+   "cat": "오피셜",
+   "titleKo": "첼시 선수, 1시간 동안 패스 2회 성공 – 알론소의 전술적 도전 과제 명확"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGxUaVIyVEd3S09ObjhjRGg1cEpRRG5HdXFRRnA3dkdWcVZuU1Roek5YNjJfdTNLa1JsWkRILTN2MGVzaUpJdFBmaGx6VkoyeGRPcUJEdV9zZmtrRXBqN3BzY1N6cVFxZDZ6VFRnN3NBRHB2em5mMGhCeTByNG9aVnMzR21nazU2TFhKS2FIek4xQ0hCZ1V1bTFXQmJIQndJekJkeTNJOE1TVnIwOVdtaVVGcw?oc=5",
@@ -1107,6 +1142,17 @@
    "added": 1795381807778,
    "cat": null,
    "titleKo": "콜 파머, 첼시의 장기 계약이 선수들에게 너무 많은 권한을 부여한다는 것을 증명하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNZHVXT05oLThrRHlISGNqempPTWg4M0Z1UFM0QVlCTGJCSm5LMW13cnpxMWdfdmpEODFR?oc=5",
+   "title": "Can Xabi Alonso Actually Survive At Chelsea? - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNZHVXT05oLThrRHlISGNqempPTWg4M0Z1UFM0QVlCTGJCSm5LMW13cnpxMWdfdmpEODFR?oc=5",
+   "source": "Howl.Link",
+   "group": "영국 언론",
+   "date": 1795371761000,
+   "added": 1795430111843,
+   "cat": null,
+   "titleKo": "샤비 알론소가 실제로 첼시에서 살아남을 수 있을까요? - YouTube"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzd2bDZ5cUs3c3FWLUdUbHg3TlNrTGRBbGp0cVRzdEgyXzdJcDJDLXM4Zm5fY0VVWkVLRHpMRHpRa3d5SGgyWnN1V3k1UVVfTnkyRm15dWNvOFZ6eXFITEtIUXhncFVCVE1DYkdVd2s5RGVFQzBLeWFmQnVoM0I1T2lCV3BVVVdfZ2Q0WDBJZFU3cUJvR3Y3TTNUUjRBTnRzT3hZYjkySnpPcS1RM2hHcHhHM3FYWHc?oc=5",
@@ -3794,6 +3840,18 @@
    "titleKo": "첼시 XI vs 리즈: 예상 선발 명단 및 확정된 팀 소식"
   },
   {
+   "id": "https://www.dailymail.com/sport/football/article-16309805/tom-brady-buys-chelsea-stake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Tom Brady 'buys stake in Premier League giants Chelsea'... just days after his shock exit from Birmingham City",
+   "link": "https://www.dailymail.com/sport/football/article-16309805/tom-brady-buys-chelsea-stake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795250556000,
+   "image": "https://i.dailymail.com/1s/2026/11/20/19/112641771-0-image-a-273_1795203731590.jpg",
+   "added": 1795430111843,
+   "cat": null,
+   "titleKo": "톰 브래디, 버밍엄 시티에서 충격적인 퇴장 후 불과 며칠 만에 '프리미어리그 거함 첼시의 지분을 매입'"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZmNhak10VVk0b1VLaW5uQXR1eE1CaXBvRW9TcXN0YkpCR3EwZW5iVUlMTENaZGRsaU1RWFlBd3htM1hLRHU2TERza01xdHNFR2d3a2xEZG1kanZXeHV6Q0FYREZQRWxEUl9idW5OMUNFMmpGRjRYeDFzdzJIYjJ0aWtjMEJGQlBoYjZBZXBJQ0JIOVQ1QUMycElWNk0tR1hmeUpldnY1MmJIeXd4R2NPNng3N0stZDRYcFRqZkNxaGw5Y1FmN2g1dXppem95LTQ?oc=5",
    "title": "Xabi Alonso should finally unleash 100% Chelsea player vs Leeds, he has the blueprint for win",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZmNhak10VVk0b1VLaW5uQXR1eE1CaXBvRW9TcXN0YkpCR3EwZW5iVUlMTENaZGRsaU1RWFlBd3htM1hLRHU2TERza01xdHNFR2d3a2xEZG1kanZXeHV6Q0FYREZQRWxEUl9idW5OMUNFMmpGRjRYeDFzdzJIYjJ0aWtjMEJGQlBoYjZBZXBJQ0JIOVQ1QUMycElWNk0tR1hmeUpldnY1MmJIeXd4R2NPNng3N0stZDRYcFRqZkNxaGw5Y1FmN2g1dXppem95LTQ?oc=5",
@@ -4197,61 +4255,6 @@
    "added": 1795221030969,
    "cat": null,
    "titleKo": "코브햄 출신: 앤드루 페니"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEl1OTNGbXhIZzdBS2owMjhUVkpnY1EtTFJfT3JVd3U5QmJ1Nkp4SzgxY1NJUzJ2WGhiWkt4dDdnUTRtR2FuQ2VhLWFrN0lvVGhlZUt1U2tNb0pldWFTZS1Gb0dLdFVORUxkeWYyeG5PT1ZxOVMybFViY2s4Q0JHUDFlRUtpS3NHakU0OXBIbnJzSGNq?oc=5",
-   "title": "Xabi Alonso confirms Chelsea team news for Leeds | News | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEl1OTNGbXhIZzdBS2owMjhUVkpnY1EtTFJfT3JVd3U5QmJ1Nkp4SzgxY1NJUzJ2WGhiWkt4dDdnUTRtR2FuQ2VhLWFrN0lvVGhlZUt1U2tNb0pldWFTZS1Gb0dLdFVORUxkeWYyeG5PT1ZxOVMybFViY2s4Q0JHUDFlRUtpS3NHakU0OXBIbnJzSGNq?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795214115000,
-   "cat": "오피셜",
-   "titleKo": "사비 알론소, 첼시의 리즈전 팀 소식 확인 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOVplellaVGNLY29UUldDMk4yZDU3VzhUMEowZExCeVM4LU81Ny1uTVVKb0VvQV9ZdVkwMklLVDB0M056OW91bTRPcTI4WlJjaTVXNHE3dUJxaXBRTUlHSFFSSlZkNkxaYXFCNmZuWkg4dHVEMTdrTXNMcDd1aVJZNjJaZzNHVnFiUzVKUHpkVnQwT2xoaEo0ay1TNUNjZ3ZDVE1wQmpEMTRnVWVKdEZGeHJlTy05LXBHMzllZUVvXzA3QlVzSHp3YVlyN2RMUGxvMUNxc3hMOE4wa2lFZHlsS21GN3ZXSm1pQjhB?oc=5",
-   "title": "Chelsea XI vs Leeds: Confirmed team news and predicted lineup",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOVplellaVGNLY29UUldDMk4yZDU3VzhUMEowZExCeVM4LU81Ny1uTVVKb0VvQV9ZdVkwMklLVDB0M056OW91bTRPcTI4WlJjaTVXNHE3dUJxaXBRTUlHSFFSSlZkNkxaYXFCNmZuWkg4dHVEMTdrTXNMcDd1aVJZNjJaZzNHVnFiUzVKUHpkVnQwT2xoaEo0ay1TNUNjZ3ZDVE1wQmpEMTRnVWVKdEZGeHJlTy05LXBHMzllZUVvXzA3QlVzSHp3YVlyN2RMUGxvMUNxc3hMOE4wa2lFZHlsS21GN3ZXSm1pQjhB?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795213873000,
-   "cat": "오피셜",
-   "titleKo": "첼시 XI vs 리즈: 확정된 팀 소식 및 예상 선발 명단"
-  },
-  {
-   "id": "https://www.independent.co.uk/sport/football/chelsea-leeds-preview-prediction-xabi-alonso-calvert-lewin-b3088906.html",
-   "title": "Chelsea must toughen up against Leeds – or risk being ‘bullied’ again",
-   "link": "https://www.independent.co.uk/sport/football/chelsea-leeds-preview-prediction-xabi-alonso-calvert-lewin-b3088906.html",
-   "source": "Independent",
-   "group": "영국 언론",
-   "date": 1795213859000,
-   "cat": null,
-   "titleKo": "첼시는 리즈를 상대로 강해져야 합니다. 그렇지 않으면 다시 '괴롭힘'을 당할 위험이 있습니다.",
-   "imgTried": true,
-   "image": "https://static.independent.co.uk/2026/11/08/15/2304125295..?trim=1,0,1,0&width=1200&height=800&crop=1200:800"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-transfer-hint-injuries-b1305749.html",
-   "title": "Xabi Alonso drops new Chelsea transfer hint amid injury crisis",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-transfer-hint-injuries-b1305749.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795213855000,
-   "cat": "부상",
-   "titleKo": "샤비 알론소, 부상 위기 속에서 첼시 이적에 대한 새로운 힌트 제시",
-   "imgTried": true,
-   "image": "https://static.standard.co.uk/2026/11/20/15/2305475076..?trim=166,0,166,0&auto=webp&quality=75&width=1200"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWl3NzZFSURxLVB0THhEeFdwYzc4QlVjV0FtY3NueHZySzQtYmRxZWRVeGUyRldYQkc5NHFPbHA1LW9HWVFITExiVWNBaE1JWFlrRVlIUUI0UURNQXFmZV9GNFNkUlNfYnJJdU84X3JoSy16eHpZc0dXeGpSQjZWdTZVWUhHX3dVVURxdGlhSHZHQmNta1ZOUS1Gc2o?oc=5",
-   "title": "Latest update on James and Lacroix returns from Alonso",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWl3NzZFSURxLVB0THhEeFdwYzc4QlVjV0FtY3NueHZySzQtYmRxZWRVeGUyRldYQkc5NHFPbHA1LW9HWVFITExiVWNBaE1JWFlrRVlIUUI0UURNQXFmZV9GNFNkUlNfYnJJdU84X3JoSy16eHpZc0dXeGpSQjZWdTZVWUhHX3dVVURxdGlhSHZHQmNta1ZOUS1Gc2o?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795213800000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "제임스 및 라크루아의 복귀에 대한 알론소의 최근 업데이트"
   }
  ]
 }
