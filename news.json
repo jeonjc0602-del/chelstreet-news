@@ -1,5 +1,5 @@
 {
- "updated": 1795395256312,
+ "updated": 1795399596099,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -12,23 +12,23 @@
   "Daily Mail": 8,
   "Telegraph": 6,
   "Independent": 1,
-  "Express": 0,
-  "Sports Mole": 6,
+  "Express": "실패: 403",
+  "Sports Mole": 5,
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 71,
-  "인터풋볼": 1,
+  "인터풋볼": 0,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 32,
+  "구글뉴스(한국어)": 34,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 31건"
+  "이번 상대": "Nottingham Forest · 새 기사 33건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
+    "title": "첼시는 불안정한 상태입니다",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
+    "source": "Laodong.vn",
+    "date": 1795398375000,
+    "added": 1795399596098,
+    "tag": "상대 소식",
+    "titleKo": "첼시는 불안정한 상태입니다"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVh0MXo2eEJINzg1SDVpM0dYdXpxM1hpQjF1dGpULWR1d1dDcVBzaWxvOC1Mdng1c1FHRjBMVzBISUpLN3JUYV9TbXctLUxORnpzYkwyclI3X3V5dXB3c19saTJ5TjZwMzJ2dURlbFhXX3d6Um8wZE1oLVVXc21neXBSQWU3ajFCZEhSN0tXRVQ4Uk1NdWhfN0JNSVV3RDIxa284di1rUFhJa2U2dEFNWWdHQ21MeDVSOHBv?oc=5",
     "title": "Liverpool and Chelsea now want £20m star being eyed by Forest boss Glasner",
@@ -829,20 +839,21 @@
     "added": 1795308264714,
     "tag": "라인업·팀뉴스",
     "titleKo": "AFC 본머스 vs 노팅엄 포레스트 | LJP의 경기 프리뷰 | 프리미어리그"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVkwUDNsb2YwQVRRRVRvX2liSjRycktsd3dVUmhnV08zTkd6a29GNFdhYXNEc0R0OTd1XzQ4eno5V012Rl9BNV9aM2xXUi1KeUJBVk9IWW1NelZOLVhpckRKck85ODJUYnNjUU4zYTdrMDJKcnNieGlTdEo3TWpPV2N0Zk1kdTliUzFSSGJzeHljYnY1TllUSGZDcnNieEFvdEpQQlhZQUxoZlRVZ3o4RDJOMkdEcm8?oc=5",
-    "title": "Bournemouth v Nottingham Forest Prediction: Evanilson 6/5 to continue scoring run",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVkwUDNsb2YwQVRRRVRvX2liSjRycktsd3dVUmhnV08zTkd6a29GNFdhYXNEc0R0OTd1XzQ4eno5V012Rl9BNV9aM2xXUi1KeUJBVk9IWW1NelZOLVhpckRKck85ODJUYnNjUU4zYTdrMDJKcnNieGlTdEo3TWpPV2N0Zk1kdTliUzFSSGJzeHljYnY1TllUSGZDcnNieEFvdEpQQlhZQUxoZlRVZ3o4RDJOMkdEcm8?oc=5",
-    "source": "news.bet365.com",
-    "date": 1795194395000,
-    "added": 1795275032052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "본머스 대 노팅엄 포레스트 경기 예측: 에바닐송 6/5, 득점 행진 이어갈 듯"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
+   "title": "첼시는 불안정한 상태입니다",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
+   "source": "Laodong.vn",
+   "group": "한국 언론",
+   "date": 1795398375000,
+   "added": 1795399594388,
+   "cat": null,
+   "titleKo": "첼시는 불안정한 상태입니다"
+  },
   {
    "id": "https://www.dailymail.com/sport/football/article-16313915/Emmanuel-Emegha-ROBBED-Chelsea-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
    "title": "Chelsea star Emmanuel Emegha was ROBBED in the aftermath of his side's 4-1 defeat by Leeds - as striker confirms 'no one was hurt'",
@@ -854,6 +865,17 @@
    "added": 1795391868855,
    "cat": "오피셜",
    "titleKo": "첼시의 스타 선수 에마뉘엘 에메가가 팀이 리즈에게 4-1로 패한 후 강도를 당했습니다. 스트라이커는 '아무도 다치지 않았다'고 확인했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtQQy1uaEdHN1pRSEtldWVQVkwxQlV3b3IwdkpjeWpiZ0hCWEVBNnhPWTNuVUQxMUxrcnVPTXhZazN0X3dBTVRGVEl2aERjMkJ4STRKSlloUUNJNmJfclB0aXRnY1M3UW1fVkFLdGltdlcyTHl3TXotbDEtbktMV05melVVSTFrS2tqZVZYd0ViYzFybWhPY2hSWHpocGFxS1o5Nmh0N0k?oc=5",
+   "title": "첼시를 떠나라고 말한 엔조 페르난데스는 2026년 월드컵을 기다리고 싶어한다.",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtQQy1uaEdHN1pRSEtldWVQVkwxQlV3b3IwdkpjeWpiZ0hCWEVBNnhPWTNuVUQxMUxrcnVPTXhZazN0X3dBTVRGVEl2aERjMkJ4STRKSlloUUNJNmJfclB0aXRnY1M3UW1fVkFLdGltdlcyTHl3TXotbDEtbktMV05melVVSTFrS2tqZVZYd0ViYzFybWhPY2hSWHpocGFxS1o5Nmh0N0k?oc=5",
+   "source": "VOI.ID",
+   "group": "한국 언론",
+   "date": 1795390349000,
+   "added": 1795399594388,
+   "cat": null,
+   "titleKo": "첼시를 떠나라고 말한 엔조 페르난데스는 2026년 월드컵을 기다리고 싶어한다."
   },
   {
    "id": "https://talksport.com/football/4724970/chelsea-emmanuel-emegha-victim-robbery/",
@@ -4215,28 +4237,6 @@
    "titleKo": "첼시, 반(反)가톨릭 및 반(反)아일랜드 구호로 FA로부터 15만 파운드의 벌금 부과",
    "imgTried": true,
    "image": "https://i2-prod.mirror.co.uk/article37900812.ece/ALTERNATES/s1200d/0_GettyImages-2305077847.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUpHWnBWOC1XU2dFYmVtRFI3WTNNWXBRQ0ZTRGx2c2EtVHVaWklMdmV3RmF3ZnJIejFFcXRzV1VRbnlQSWJmWUVEeHlSMHlzMGV5akNtUms5NEpxZlUzWm80S1VDSmstVmc5NW1XOXpWUXM0bFd0N0p1ZjhkWEZMMTBWN3NHZmUzZ1FueXlZUGU0SXJHUlR0QW1MNTliMUcxSVNnZ05mSzVUNTJRZ24waVFXQURid3ZxaUhsSVVn?oc=5",
-   "title": "Tom Brady Reportedly Buys Chelsea Ownership Stake After Birmingham City Exit",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUpHWnBWOC1XU2dFYmVtRFI3WTNNWXBRQ0ZTRGx2c2EtVHVaWklMdmV3RmF3ZnJIejFFcXRzV1VRbnlQSWJmWUVEeHlSMHlzMGV5akNtUms5NEpxZlUzWm80S1VDSmstVmc5NW1XOXpWUXM0bFd0N0p1ZjhkWEZMMTBWN3NHZmUzZ1FueXlZUGU0SXJHUlR0QW1MNTliMUcxSVNnZ05mSzVUNTJRZ24waVFXQURid3ZxaUhsSVVn?oc=5",
-   "source": "Bleacher Report",
-   "group": "영국 언론",
-   "date": 1795200734000,
-   "cat": null,
-   "titleKo": "톰 브래디, 버밍엄 시티 매각 후 첼시 지분 인수 보도"
-  },
-  {
-   "id": "https://www.caughtoffside.com/2026/11/20/man-united-and-chelsea-monitor-potential-premier-league-return-for-29-year-old-midfielder/",
-   "title": "Man United and Chelsea monitor potential Premier League return for 29-year-old midfielder",
-   "link": "https://www.caughtoffside.com/2026/11/20/man-united-and-chelsea-monitor-potential-premier-league-return-for-29-year-old-midfielder/",
-   "source": "CaughtOffside",
-   "group": "영국 언론",
-   "date": 1795199400000,
-   "cat": null,
-   "titleKo": "맨유와 첼시, 29세 미드필더의 프리미어리그 복귀 가능성 주시",
-   "imgTried": true,
-   "image": "https://icdn.caughtoffside.com/2024/12/Chelsea-and-Manchester-United.jpg"
   }
  ]
 }
