@@ -1,5 +1,5 @@
 {
- "updated": 1795420947377,
+ "updated": 1795425897906,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -14,21 +14,21 @@
   "Independent": 1,
   "Express": 0,
   "Sports Mole": 5,
-  "CaughtOffside": 2,
+  "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 71,
-  "인터풋볼": 0,
+  "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 31,
+  "구글뉴스(한국어)": 32,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 1건"
+  "FotMob": "실패: 403",
+  "이번 상대": "Nottingham Forest · 새 기사 34건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -843,6 +843,41 @@
   ]
  },
  "items": [
+  {
+   "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699083",
+   "title": "[PL POINT] 19위 맨유 수준 수비력...'4경기 3패' 첼시, 20득점 20실점→최악의 수비력에 순위 상승 실패",
+   "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699083",
+   "source": "인터풋볼",
+   "group": "한국 언론",
+   "date": 1795456800000,
+   "added": 1795425892614,
+   "cat": null,
+   "titleKo": "[PL POINT] 19위 맨유 수준 수비력...'4경기 3패' 첼시, 20득점 20실점→최악의 수비력에 순위 상승 실패",
+   "imgTried": true,
+   "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699083_833122_1044_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGxUaVIyVEd3S09ObjhjRGg1cEpRRG5HdXFRRnA3dkdWcVZuU1Roek5YNjJfdTNLa1JsWkRILTN2MGVzaUpJdFBmaGx6VkoyeGRPcUJEdV9zZmtrRXBqN3BzY1N6cVFxZDZ6VFRnN3NBRHB2em5mMGhCeTByNG9aVnMzR21nazU2TFhKS2FIek4xQ0hCZ1V1bTFXQmJIQndJekJkeTNJOE1TVnIwOVdtaVVGcw?oc=5",
+   "title": "사비 알론소, 첼시 문제에 대한 해결책 아직 찾지 못해",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGxUaVIyVEd3S09ObjhjRGg1cEpRRG5HdXFRRnA3dkdWcVZuU1Roek5YNjJfdTNLa1JsWkRILTN2MGVzaUpJdFBmaGx6VkoyeGRPcUJEdV9zZmtrRXBqN3BzY1N6cVFxZDZ6VFRnN3NBRHB2em5mMGhCeTByNG9aVnMzR21nazU2TFhKS2FIek4xQ0hCZ1V1bTFXQmJIQndJekJkeTNJOE1TVnIwOVdtaVVGcw?oc=5",
+   "source": "Laodong.vn",
+   "group": "한국 언론",
+   "date": 1795424723000,
+   "added": 1795425892614,
+   "cat": null,
+   "titleKo": "사비 알론소, 첼시 문제에 대한 해결책 아직 찾지 못해"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcDhxcmxReUtFWmRRR3hzRWNQZ3lNOEpRaW5GdVVGelpMM21WaTQtRFlRRDcycjVqMk8zM2s4NFN1TXdhQXFHZTJBc2RiejQwX1VQSzEtWVJmYTFrX3p0bEFaMFdxSUppZEFabFRBeGU2QjRESHNKTERCQW50YnVibUtUMDBmWVl3MGhzLXV4UUpqaHVEZmRQWFJmOFNwWl9Fcmp1UWQwc2Fva3hkMzhyNERsZkhLVG1OMU5wRFYzSXp4SlgzRlVEWUpILTkzSl9qRTh3SmlsV0N6VVNQZGNmQzV1U3FCSlZQOFRNZ1dzUmZDQ3lmcnVfSUxURF8?oc=5",
+   "title": "Chelsea FC, all the broadcast information at a glance: Who is showing the Blues’ matches live on TV and via live stream?",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcDhxcmxReUtFWmRRR3hzRWNQZ3lNOEpRaW5GdVVGelpMM21WaTQtRFlRRDcycjVqMk8zM2s4NFN1TXdhQXFHZTJBc2RiejQwX1VQSzEtWVJmYTFrX3p0bEFaMFdxSUppZEFabFRBeGU2QjRESHNKTERCQW50YnVibUtUMDBmWVl3MGhzLXV4UUpqaHVEZmRQWFJmOFNwWl9Fcmp1UWQwc2Fva3hkMzhyNERsZkhLVG1OMU5wRFYzSXp4SlgzRlVEWUpILTkzSl9qRTh3SmlsV0N6VVNQZGNmQzV1U3FCSlZQOFRNZ1dzUmZDQ3lmcnVfSUxURF8?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795423103000,
+   "added": 1795425892614,
+   "cat": null,
+   "titleKo": "첼시 FC, 한눈에 보는 모든 중계 정보: TV와 라이브 스트리밍을 통해 '블루스'의 경기를 생중계하는 곳은 어디인가요?"
+  },
   {
    "id": "https://www.mirror.co.uk/sport/football/news/chelsea-star-robbed-leeds-statement-37904928",
    "title": "Chelsea star reveals he was 'robbed' after Leeds thrashing as statement released",
@@ -1722,6 +1757,17 @@
    "added": 1795406398676,
    "cat": null,
    "titleKo": "첼시 - 풀럼"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNamR3THMxN1hUU3RHc2tZSTQzTDVoU0p1eWdBVXJxZTFpRThjZTVITWF3UEE5OTNWX2t2MW9FVnZZMG1iNk9nRG5GSVR3QXVFTDluenM3V24ybGZHajY3c0ZidWNlRm1hbjFDbmRIRWUybjZ6LTVRaXFaV0lGZnpZOFlaZnZOcWRvSFNTWC1yZzNFYUpKTkV1UGk5QktuZnNDZ0paVXd4b1g3VnlkVU9zS3gxSkczWlRHMmtHeVo5d3NGR1JiYkpOcDNYWXZ5dUg1dVZ1a0dtZU5NQQ?oc=5",
+   "title": "Transfer news LIVE: ‘Serious’ Arsenal move; Chelsea told Scott fee",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNamR3THMxN1hUU3RHc2tZSTQzTDVoU0p1eWdBVXJxZTFpRThjZTVITWF3UEE5OTNWX2t2MW9FVnZZMG1iNk9nRG5GSVR3QXVFTDluenM3V24ybGZHajY3c0ZidWNlRm1hbjFDbmRIRWUybjZ6LTVRaXFaV0lGZnpZOFlaZnZOcWRvSFNTWC1yZzNFYUpKTkV1UGk5QktuZnNDZ0paVXd4b1g3VnlkVU9zS3gxSkczWlRHMmtHeVo5d3NGR1JiYkpOcDNYWXZ5dUg1dVZ1a0dtZU5NQQ?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795315710000,
+   "added": 1795425892614,
+   "cat": "이적",
+   "titleKo": "이적 시장 뉴스 라이브: '진지한' 아스널의 움직임, 첼시가 스콧의 이적료를 통보받음"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGFBa29PcHNRa1hTMURsejVlcmlObEVDZkRwUzFibGpXXzA5ck9KMGxWTUhPMk5XaGRBTnlrTmVvdWlSLVh3QVRmTzZBMFgwZUxmZEsyYnpQVGpCSVNaR21FLXBJTlZjYmVwbFJCX3NtbFBoOXgwN21xREVJcThGS2xGQ3ozcFVqMnpwTXhhMXNMUQ?oc=5",
@@ -4206,49 +4252,6 @@
    "added": 1795221030969,
    "cat": null,
    "titleKo": "제임스 및 라크루아의 복귀에 대한 알론소의 최근 업데이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTB4TWtLa3d6bUNJMUJDTTBDTXh2VDg0R1B1d1JISUtwYlQwaXVKRXdobTREZGpxLTJLRjZMMElZemNIdnJSUGcxZHgzbGdfdi11eVc2M1B4dTluM0g4NEFsaTJjVXFXcHk5Q0NDek9PNlJhbzdwSjhLNmNqT2lsV3EwLW1ZVWJITDlmbEpyOE5NNEtYZGZGRVJadXBOdw?oc=5",
-   "title": "Tom Brady in talks to buy Chelsea stake after Birmingham City exit",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTB4TWtLa3d6bUNJMUJDTTBDTXh2VDg0R1B1d1JISUtwYlQwaXVKRXdobTREZGpxLTJLRjZMMElZemNIdnJSUGcxZHgzbGdfdi11eVc2M1B4dTluM0g4NEFsaTJjVXFXcHk5Q0NDek9PNlJhbzdwSjhLNmNqT2lsV3EwLW1ZVWJITDlmbEpyOE5NNEtYZGZGRVJadXBOdw?oc=5",
-   "source": "The Times",
-   "group": "영국 언론",
-   "date": 1795213800000,
-   "cat": "이적",
-   "titleKo": "톰 브래디, 버밍엄 시티 매각 후 첼시 지분 인수 협상 중"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVRhbzBwOFR6UlFhN1hCSlUyZjZzLTBVa1p5NWlKMGI4NVpHclhqc1BwUXdoRHR4eUc3ZjNSLWpuMWNUTnVweFdqNnJ3WGhOQ1g3RGJkY0hSdDE4VmJFZlhiTHBKc1FISUl0UGxZMXhYSjVzc0RvOEhvTk9na3RXbjlSWlFPc09vMU1tTQ?oc=5",
-   "title": "Aston Villa Told Chelsea Midfielder Won’t Budge: Who Replaces Onana?",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVRhbzBwOFR6UlFhN1hCSlUyZjZzLTBVa1p5NWlKMGI4NVpHclhqc1BwUXdoRHR4eUc3ZjNSLWpuMWNUTnVweFdqNnJ3WGhOQ1g3RGJkY0hSdDE4VmJFZlhiTHBKc1FISUl0UGxZMXhYSjVzc0RvOEhvTk9na3RXbjlSWlFPc09vMU1tTQ?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795211100000,
-   "added": 1795241442950,
-   "cat": null,
-   "titleKo": "애스턴 빌라, 첼시 미드필더가 이적하지 않을 것이라고 밝혔다. 오나나의 대체 선수는 누구인가?"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFV5OGlOV0JhTDZLVmVUNmMxdmxlQ3I5VmJGNDlPOWtCTzZNMTlIekZZdXJfSWhUVFliUG1tT1RfUHAwS3FERVA2VG9vTnVNWXFnRElSdU55dlZpSllZZmlrOW1JN3VfVW5sQVFESExmcFhXc2ZqbVBiZ3c5UFB0MWMyNTV1a0ttNVNBUmFISzNOYUpBci1GZlRYQQ?oc=5",
-   "title": "Tom Brady buys stake in Chelsea FC after Birmingham City exit",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFV5OGlOV0JhTDZLVmVUNmMxdmxlQ3I5VmJGNDlPOWtCTzZNMTlIekZZdXJfSWhUVFliUG1tT1RfUHAwS3FERVA2VG9vTnVNWXFnRElSdU55dlZpSllZZmlrOW1JN3VfVW5sQVFESExmcFhXc2ZqbVBiZ3c5UFB0MWMyNTV1a0ttNVNBUmFISzNOYUpBci1GZlRYQQ?oc=5",
-   "source": "Dealroom",
-   "group": "영국 언론",
-   "date": 1795210830000,
-   "cat": null,
-   "titleKo": "톰 브래디, 버밍엄 시티 매각 후 첼시 FC 지분 인수"
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16309805/tom-brady-buys-chelsea-stake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "Tom Brady 'buys stake in Premier League giants Chelsea'... just days after his shock exit from Birmingham City",
-   "link": "https://www.dailymail.com/sport/football/article-16309805/tom-brady-buys-chelsea-stake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795209860000,
-   "cat": null,
-   "titleKo": "톰 브래디, 버밍엄 시티에서 충격적인 퇴출을 당한 지 불과 며칠 만에 '프리미어리그 거함 첼시의 지분을 매입'",
-   "imgTried": true,
-   "image": "https://i.dailymail.com/1s/2026/11/20/19/112641771-0-image-a-273_1795203731590.jpg"
   }
  ]
 }
