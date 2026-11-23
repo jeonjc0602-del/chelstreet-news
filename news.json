@@ -1,5 +1,5 @@
 {
- "updated": 1795430119495,
+ "updated": 1795433350556,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -12,7 +12,7 @@
   "Daily Mail": 7,
   "Telegraph": 6,
   "Independent": 1,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 4,
   "CaughtOffside": 0,
   "90min": 1,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 31,
+  "구글뉴스(한국어)": 30,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 36건"
+  "이번 상대": "Nottingham Forest · 새 기사 26건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -857,6 +857,40 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699083_833122_1044_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGRoYnlCajN5X1BIdWg0QUItamJ2YlY4el90dnBEczItUXJrV2xCa1Vlb2hPei1HbzhkOVhBMDJwWElnTkhIVUdkT0Z6UHExbk1VaFc5OERtdjVURDYyc1J4MnQyYklEMHBpOFFPSFNmU0NXdFpQNGxEcUxqeDVyNnkzWng5OHBZSC1VNW81UGJLcWJn?oc=5",
+   "title": "Chelsea offer support after Emegha 'robbed' following Leeds defeat",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGRoYnlCajN5X1BIdWg0QUItamJ2YlY4el90dnBEczItUXJrV2xCa1Vlb2hPei1HbzhkOVhBMDJwWElnTkhIVUdkT0Z6UHExbk1VaFc5OERtdjVURDYyc1J4MnQyYklEMHBpOFFPSFNmU0NXdFpQNGxEcUxqeDVyNnkzWng5OHBZSC1VNW81UGJLcWJn?oc=5",
+   "source": "Football London",
+   "group": "영국 언론",
+   "date": 1795432377000,
+   "added": 1795433343970,
+   "cat": null,
+   "titleKo": "첼시, 리즈전 패배 후 에메가가 '강도'를 당한 데 대해 지원 제공"
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/chelsea-respond-after-emmanuel-emegha-34952428",
+   "title": "Chelsea respond after Emmanuel Emegha 'robbed' following Leeds United defeat",
+   "link": "https://www.football.london/chelsea-fc/news/chelsea-respond-after-emmanuel-emegha-34952428",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795432305000,
+   "image": "https://i2-prod.football.london/incoming/article34952609.ece/ALTERNATES/s615/0_GettyImages-2306210999.jpg",
+   "added": 1795433343969,
+   "cat": null,
+   "titleKo": "첼시, 리즈 유나이티드전 패배 후 에마뉘엘 에메가가 '강탈'당한 데 대해 대응"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0RrR3phZEp5MGp0TDlmN3FSSGYycmY4cnNGZFJmLWgxcDJUZG96TUNwNXFUOTJEcXpaUkZrcDBXOXR2RWs0aXk1ZGF4dUhKeEFlcU9WWUp6cGkxU3dHNjdiSTRSdG1LR1dyd2VscFZzSU9oUURmSTNvUkZhSnlfeFB3T3RyMldQSFEzcEpMQloybFBKV1FMYkY2Z2lTU1RsM0huMklkS0tsN1RlSHlWLWw5cTF2ZUM1eWJoS1Naci1VVE16TjVJ?oc=5",
+   "title": "Alonso and Lavia urge Chelsea calm after Leeds woe",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0RrR3phZEp5MGp0TDlmN3FSSGYycmY4cnNGZFJmLWgxcDJUZG96TUNwNXFUOTJEcXpaUkZrcDBXOXR2RWs0aXk1ZGF4dUhKeEFlcU9WWUp6cGkxU3dHNjdiSTRSdG1LR1dyd2VscFZzSU9oUURmSTNvUkZhSnlfeFB3T3RyMldQSFEzcEpMQloybFBKV1FMYkY2Z2lTU1RsM0huMklkS0tsN1RlSHlWLWw5cTF2ZUM1eWJoS1Naci1VVE16TjVJ?oc=5",
+   "source": "DAZN",
+   "group": "영국 언론",
+   "date": 1795429800000,
+   "added": 1795433343970,
+   "cat": null,
+   "titleKo": "알론소와 라비아가 리즈전 패배 후 첼시 팬들에게 침착함을 당부했습니다."
+  },
+  {
    "id": "https://www.standard.co.uk/sport/football/emmanuel-emegha-robbed-chelsea-fc-leeds-police-b1305971.html",
    "title": "Emmanuel Emegha: Police launch investigation as Chelsea striker ‘robbed’ after Leeds game",
    "link": "https://www.standard.co.uk/sport/football/emmanuel-emegha-robbed-chelsea-fc-leeds-police-b1305971.html",
@@ -958,6 +992,17 @@
    "added": 1795420936987,
    "cat": "이적",
    "titleKo": "이적 시장 뉴스 라이브: 아스널의 충격적인 행보, 크루피 관련 반전; 맨유, 토니 영입 원해; 첼시, 두 건의 이적 협상 진행 중; 리버풀 관련 최신 소식"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZm53ZTlsVkZnWEljZXNWUzViSy1OMUxCWDAzNUNsbGxzSDk2U1BDeFB2T3hsamRjbzUzNzJrN1FtWDZ6S2x5MTFoRDQ5MWI5dXZnT0R5cVp0YXl6U2tRaFRlWVFmNmhTUVZHNjdwT01ILWVVMXUtb1dCRlhDMDlZaHdqNlBoekIxLWpKUzM1QTA0Q3NSZm9MRkcwVjRsN0ZfQjdPbm5YTHJIdjJqQXM0?oc=5",
+   "title": "Alonso: ‘Fragile’ Chelsea not ‘at the level required’",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZm53ZTlsVkZnWEljZXNWUzViSy1OMUxCWDAzNUNsbGxzSDk2U1BDeFB2T3hsamRjbzUzNzJrN1FtWDZ6S2x5MTFoRDQ5MWI5dXZnT0R5cVp0YXl6U2tRaFRlWVFmNmhTUVZHNjdwT01ILWVVMXUtb1dCRlhDMDlZaHdqNlBoekIxLWpKUzM1QTA0Q3NSZm9MRkcwVjRsN0ZfQjdPbm5YTHJIdjJqQXM0?oc=5",
+   "source": "We Ain't Got No History",
+   "group": "영국 언론",
+   "date": 1795417860000,
+   "added": 1795433343970,
+   "cat": null,
+   "titleKo": "알론소: '취약한' 첼시는 '필요한 수준에 미치지 못함'"
   },
   {
    "id": "https://www.caughtoffside.com/2026/11/23/liverpool-face-fresh-chelsea-competition-ligue-1-star/",
@@ -3112,6 +3157,17 @@
    "titleKo": "리버풀 vs 첼시 | BWSL"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWl9UNTlJa3I4Y05oVGxqMGpNOHZrSm1OY1J0WHNIbnJWZURoSFpwNnFpUnR4cVkyQXJ2LWs3X3o5VTl4WDVuX09wTjNoZXFtUDVIOWlJMk1iMzEzSnJOSHlXby0wZzhSWEJ5RzRpUkZHNjBiZzZ6a3luaEJ6OTZyeVlZMVpNZw?oc=5",
+   "title": "Live Commentary - Liverpool Women vs Chelsea Women | 21.11.2026",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWl9UNTlJa3I4Y05oVGxqMGpNOHZrSm1OY1J0WHNIbnJWZURoSFpwNnFpUnR4cVkyQXJ2LWs3X3o5VTl4WDVuX09wTjNoZXFtUDVIOWlJMk1iMzEzSnJOSHlXby0wZzhSWEJ5RzRpUkZHNjBiZzZ6a3luaEJ6OTZyeVlZMVpNZw?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795275255000,
+   "added": 1795433343970,
+   "cat": null,
+   "titleKo": "실시간 중계 - 리버풀 여자팀 vs 첼시 여자팀 | 2026년 11월 21일"
+  },
+  {
    "id": "https://www.thesun.co.uk/sport/41095418/moises-caicedo-injury-chelsea-clash-vs-leeds-updates/",
    "title": "Moises Caicedo limps off injured after sickening fall in Chelsea’s clash vs Leeds as fans say ‘this is scary to watch’",
    "link": "https://www.thesun.co.uk/sport/41095418/moises-caicedo-injury-chelsea-clash-vs-leeds-updates/",
@@ -4199,62 +4255,6 @@
    "titleKo": "카드를 수집하는 것을 좋아하는 축구 선수! 토트넘의 스타 토신 아다라비오요가 첼시의 리스 제임스와 레비 콜윌과 함께 런던에 트레이딩 카드 매장을 열면서 수집에 대한 열정을 털어놓았습니다.",
    "imgTried": true,
    "image": "https://i.dailymail.com/1s/2026/11/20/18/112640591-0-image-a-9_1795199491297.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXUzbzY0N1lQT0k2SHVYQVpjbFRHMTFMT2kyeVpTTFZXZnBKNUprNVBJdE1veURkdlduQXlrS0FZZGE3ajJNbnlTWTV2SWZxejNqRkx3cXBwakFvSGlBTUxQQnFWS0dxcFFfLVJ4eEgyamp2RnN6RXAtZjNuWmpzNEhzeGZ3cXhpVVNKWUhuMXlaR2RPanFockNVai1pc2pxcm9fQVNpTnZkbDhHVm9UMzJtN1pGdUE?oc=5",
-   "title": "Chelsea lose appeal against £150,000 fan misconduct fine",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXUzbzY0N1lQT0k2SHVYQVpjbFRHMTFMT2kyeVpTTFZXZnBKNUprNVBJdE1veURkdlduQXlrS0FZZGE3ajJNbnlTWTV2SWZxejNqRkx3cXBwakFvSGlBTUxQQnFWS0dxcFFfLVJ4eEgyamp2RnN6RXAtZjNuWmpzNEhzeGZ3cXhpVVNKWUhuMXlaR2RPanFockNVai1pc2pxcm9fQVNpTnZkbDhHVm9UMzJtN1pGdUE?oc=5",
-   "source": "KarloBag.eu",
-   "group": "영국 언론",
-   "date": 1795215705000,
-   "added": 1795266377391,
-   "cat": null,
-   "titleKo": "첼시, 팬들의 부적절한 행동에 대한 15만 파운드 벌금 부과에 대한 항소 기각"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CUXJLeVByQVVTeHpKOHFwcVJ4djg2aTNXekx3ZVlMZ1BRdGRaRHl1WjJfQ2RKZVIxSW53QVBDeENDZjJqR2ZMR2hBWjlTYzlpTkV0SmZ4Q3M4LVhxM2IzUFNTemxDc0o1MjJzZW5ycTFzNUVxdmt2ejR3?oc=5",
-   "title": "- Chelsea Football Club",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CUXJLeVByQVVTeHpKOHFwcVJ4djg2aTNXekx3ZVlMZ1BRdGRaRHl1WjJfQ2RKZVIxSW53QVBDeENDZjJqR2ZMR2hBWjlTYzlpTkV0SmZ4Q3M4LVhxM2IzUFNTemxDc0o1MjJzZW5ycTFzNUVxdmt2ejR3?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795215154000,
-   "added": 1795238124193,
-   "cat": null,
-   "titleKo": "- 첼시 축구 클럽"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-   "title": "NFL great Brady could buy Chelsea stake",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "date": 1795214195000,
-   "cat": null,
-   "titleKo": "NFL의 전설 브래디, 첼시 지분 인수 가능성",
-   "group": "영국 언론",
-   "imgTried": true,
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE82N0U1a2R3d0RpWV8yc1NzRU5mSEVZYWY1WWZvRUN4OTNmanByeDQ5X1RlOGloUHZ4cEx5aU0xZTBuV2hmMHh6V2phQ3dwdXVvREFTWk15N0xENVhGOVhrUFRGYUc3eFo1NlBqZFdOek50QQ?oc=5",
-   "title": "'韓 국가대표' 백승호 소속팀 버린 지 얼마나 됐다고...3년 만에 떠난 NFL 전설, 돌연 첼시 지분 깜짝 매입",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82N0U1a2R3d0RpWV8yc1NzRU5mSEVZYWY1WWZvRUN4OTNmanByeDQ5X1RlOGloUHZ4cEx5aU0xZTBuV2hmMHh6V2phQ3dwdXVvREFTWk15N0xENVhGOVhrUFRGYUc3eFo1NlBqZFdOek50QQ?oc=5",
-   "source": "포포투",
-   "group": "한국 언론",
-   "date": 1795214184000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "'韓 국가대표' 백승호 소속팀 버린 지 얼마나 됐다고...3년 만에 떠난 NFL 전설, 돌연 첼시 지분 깜짝 매입"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYaTBUM291NXZmTzZmZENVbnZTQ095bTBSZUs1WFAxRVozOEVaN3ZkZ0VkLVg5VEp4OGhJZWRsNEdmVEhTRnVrdXRFMF9aX2xDaUVxcUw1ZjBEQ3E3U1JpaFR1Z3l0YjBLRnBUdnV3aW5PQlo3R19uMTln?oc=5",
-   "title": "Made in Cobham: Andrew Pennie",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYaTBUM291NXZmTzZmZENVbnZTQ095bTBSZUs1WFAxRVozOEVaN3ZkZ0VkLVg5VEp4OGhJZWRsNEdmVEhTRnVrdXRFMF9aX2xDaUVxcUw1ZjBEQ3E3U1JpaFR1Z3l0YjBLRnBUdnV3aW5PQlo3R19uMTln?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795214115000,
-   "added": 1795221030969,
-   "cat": null,
-   "titleKo": "코브햄 출신: 앤드루 페니"
   }
  ]
 }
