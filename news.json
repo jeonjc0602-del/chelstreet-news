@@ -1,5 +1,5 @@
 {
- "updated": 1795472127693,
+ "updated": 1795475444060,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,23 +12,23 @@
   "Daily Mail": 5,
   "Telegraph": 6,
   "Independent": 2,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 4,
-  "CaughtOffside": 3,
+  "CaughtOffside": 4,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 1,
-  "베스트일레븐": 0,
-  "구글뉴스(한국어)": 21,
+  "베스트일레븐": 1,
+  "구글뉴스(한국어)": 19,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 40건"
+  "이번 상대": "Nottingham Forest · 새 기사 33건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -119,6 +119,16 @@
     "added": 1795430113308,
     "tag": "상대 소식",
     "titleKo": "샤비 알론소가 첼시와 노팅엄 포레스트의 경기를 앞두고 해결해야 할 5가지 사항"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFhIYnJoQlZaMDRyZWo5anpwWG5iZVpxSjhCdHJNNVVwNmtlbnZ3Mml3NHlpNWJCcHZRXzRjWlpXZWNfMWdJU1RzQlU3THFTMTFjWC1IaW1qR1VzYWZxY3RLaUtfYmwyNkRVNTF6UFJqVlo4dVViZW9wdml3YzI0ang0RC1tVUVzaHV1b3AzeFNmOUd5Q08zeWhDSzBKVE90QXBnc2dhOXZ5SkJBd2d6RFdhUGNNSnd3SGNmY19XdU5kbTlmT0xSZTVn?oc=5",
+    "title": "Evangelos Marinakis is to blame for Nottingham Forest's biggest summer blunder",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFhIYnJoQlZaMDRyZWo5anpwWG5iZVpxSjhCdHJNNVVwNmtlbnZ3Mml3NHlpNWJCcHZRXzRjWlpXZWNfMWdJU1RzQlU3THFTMTFjWC1IaW1qR1VzYWZxY3RLaUtfYmwyNkRVNTF6UFJqVlo4dVViZW9wdml3YzI0ang0RC1tVUVzaHV1b3AzeFNmOUd5Q08zeWhDSzBKVE90QXBnc2dhOXZ5SkJBd2d6RFdhUGNNSnd3SGNmY19XdU5kbTlmT0xSZTVn?oc=5",
+    "source": "Football Insider",
+    "date": 1795420080000,
+    "added": 1795475435466,
+    "tag": "상대 소식",
+    "titleKo": "에반겔로스 마리나키스는 노팅엄 포레스트의 이번 여름 최대 실수의 원인입니다."
    },
    {
     "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejh4OXN5VmFFeVRLUzFjT00yRi1LTGJ6NTRfb1BReTR1Qk1wbE0wd08yOU1xQkNNb1M0eS1HNzZsMFlhUGZxYXdjb1JnMDV4bGNPQ1NkOXFfX1F6RloxcmpjSldTZUdhQUxKekNLQkwyNm5yLUUtRDRaNmIwVGo1NmxVZ044NDBIcmM0cFJCRkZ1ckZyVUVEWG9kb3ItS20yVXNVSw?oc=5",
@@ -449,6 +459,16 @@
     "added": 1795288589742,
     "tag": "상대 소식",
     "titleKo": "본머스 2-0 노팅엄 포레스트: 에바닐송과 클라위베르트의 득점"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOW1RTHN4aUxuaU1sRFhHdDRaSUxIV0VmZVd5YV9fc04zRUVFa0s2S2RvbU50UHVMZl9nclBqbmNRSXFtdDB4N2E1WGpOMHB4amlqd0d2Z3VRS19BcFZaLTVuOW9ZTUJReWhnR1dMZS1SZFF3dUNXczZXRDctSjY1UkVtZjlTbmlGdWlvc2VJenZJWVgzcFlaQm9HcUpOeGJkcG1OWFdDVV9BOFlXd2s5Vm1OTE1NN3kzekxQc3JjWlVJQUVvcmRaS3dnR2FLS1VGeTQ1WmJiYw?oc=5",
+    "title": "Bournemouth vs. Nottingham Forest: Head-to-head record and past meetings",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOW1RTHN4aUxuaU1sRFhHdDRaSUxIV0VmZVd5YV9fc04zRUVFa0s2S2RvbU50UHVMZl9nclBqbmNRSXFtdDB4N2E1WGpOMHB4amlqd0d2Z3VRS19BcFZaLTVuOW9ZTUJReWhnR1dMZS1SZFF3dUNXczZXRDctSjY1UkVtZjlTbmlGdWlvc2VJenZJWVgzcFlaQm9HcUpOeGJkcG1OWFdDVV9BOFlXd2s5Vm1OTE1NN3kzekxQc3JjWlVJQUVvcmRaS3dnR2FLS1VGeTQ1WmJiYw?oc=5",
+    "source": "Sports Mole",
+    "date": 1795285558000,
+    "added": 1795475435466,
+    "tag": "상대 소식",
+    "titleKo": "본머스 vs 노팅엄 포레스트: 상대 전적 및 과거 맞대결"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MMG1WNGRkQi1UTGVFY0QwRkVtdUt2NmJhVmpzRXVqRVJFZFpmQkpkN2hyNGQwZzh5Qmo3Z3IxWmE0YWliemc5SHVOQ0ZRMkVzT3gwSHpYbWZXZm1LVEpB?oc=5",
@@ -819,30 +839,58 @@
     "added": 1795315408448,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 대 첼시 라이브 2026/11/27 | 축구"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDdSdExPd1RPeE5FejhZVWNqbHZTRWhqRlhoOUJiMVJQSkRRY1Nod29adkNvTEhVRmswVGFiUGNiTVREOE15LWZxdHRUdUxpcjJOcmw1R2NDZm1rb0RiVVE0dTVkb2VoYXJWSHBaVjFqTlNvdHlvaVl4cWFCU3ZPdzdCLXk5ck9RNmdxeURCRWlNVDQxOVd1NEZ3SzFtRFVaT0Q0ZVlaeWRwY3lSZERIY210MWxPZURqX0JGWi1rNzNiZHZOcGtYTDZVb3JfZEgxLVRxWkFkVmpFNWhjNHB0OHRtaldoRjZ3R1pGUDQ4ekxldTQ?oc=5",
-    "title": "Transfer Rumours: Kvaratskhelia deal close as Chelsea 'hold meetings' over €100m signing",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDdSdExPd1RPeE5FejhZVWNqbHZTRWhqRlhoOUJiMVJQSkRRY1Nod29adkNvTEhVRmswVGFiUGNiTVREOE15LWZxdHRUdUxpcjJOcmw1R2NDZm1rb0RiVVE0dTVkb2VoYXJWSHBaVjFqTlNvdHlvaVl4cWFCU3ZPdzdCLXk5ck9RNmdxeURCRWlNVDQxOVd1NEZ3SzFtRFVaT0Q0ZVlaeWRwY3lSZERIY210MWxPZURqX0JGWi1rNzNiZHZOcGtYTDZVb3JfZEgxLVRxWkFkVmpFNWhjNHB0OHRtaldoRjZ3R1pGUDQ4ekxldTQ?oc=5",
-    "source": "LiveScore",
-    "date": 1795250254000,
-    "added": 1795277863027,
-    "tag": "상대 소식",
-    "titleKo": "이적설: 첼시가 1억 유로 이상의 이적료를 놓고 '협상'을 진행하며 크바라츠헬리아 영입이 임박"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtQmNJY0JPYjNPNEFKeUNsWmR3R3FoOUgtbEkxd09OS29sTF9FQTJSbl9JNTFwZ1dVektySjZPVFYyX2stbWVDNF9lTVdFQjZVT19XazlGeTlpSUEtSEhv?oc=5",
-    "title": "Watch Chelsea FC vs Leeds United",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtQmNJY0JPYjNPNEFKeUNsWmR3R3FoOUgtbEkxd09OS29sTF9FQTJSbl9JNTFwZ1dVektySjZPVFYyX2stbWVDNF9lTVdFQjZVT19XazlGeTlpSUEtSEhv?oc=5",
-    "source": "Fubo",
-    "date": 1795248000000,
-    "added": 1795449218913,
-    "tag": "상대 소식",
-    "titleKo": "첼시 FC 대 리즈 유나이티드 경기 시청하기"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.besteleven.com/news/articleView.html?idxno=314276",
+   "title": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
+   "link": "https://www.besteleven.com/news/articleView.html?idxno=314276",
+   "source": "베스트일레븐",
+   "group": "한국 언론",
+   "date": 1795506687000,
+   "added": 1795475434620,
+   "cat": "이적",
+   "titleKo": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
+   "imgTried": true,
+   "image": "https://cdn.besteleven.com/news/photo/202611/314276_245206_4959.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDZ3R0QzQkJlR19JZE1OcDkzb0Jyelp4S3lueHJKWUUtSjFudmxiVVR0eFM5LWxKYktYeC03ODRUbFZnSE00eVp2YzZKSTVtWUNMQk1mVkRYV1UzRkFBWERScDlIMHJ1OWl1X3kxT183cjJqdFItVnJ1Q0Q2SWFZclNMRV8xeWhiQTYzV084SEE?oc=5",
+   "title": "Frozen funds from Roman Abramovich’s Chelsea sale earn £104m interest in a year",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDZ3R0QzQkJlR19JZE1OcDkzb0Jyelp4S3lueHJKWUUtSjFudmxiVVR0eFM5LWxKYktYeC03ODRUbFZnSE00eVp2YzZKSTVtWUNMQk1mVkRYV1UzRkFBWERScDlIMHJ1OWl1X3kxT183cjJqdFItVnJ1Q0Q2SWFZclNMRV8xeWhiQTYzV084SEE?oc=5",
+   "source": "The Irish Sun",
+   "group": "영국 언론",
+   "date": 1795473835000,
+   "added": 1795475434620,
+   "cat": "이적",
+   "titleKo": "로만 아브라모비치의 첼시 매각 대금 동결로 1년 만에 1억 400만 파운드의 이자 수익 발생"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41121880/roman-abramovich-chelsea-sale-funds-earn-interest/",
+   "title": "Frozen assets from sale of Chelsea earned over £100million in interest last year",
+   "link": "https://www.thesun.co.uk/sport/41121880/roman-abramovich-chelsea-sale-funds-earn-interest/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795473635000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41121923.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795475434619,
+   "cat": null,
+   "titleKo": "첼시 매각으로 인한 동결 자산은 지난해 이자 수익만 1억 파운드(약 1,660억원)를 초과했습니다."
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/23/chelsea-join-arsenal-and-man-city-in-race-for-e70m-rated-premier-league-youngster/",
+   "title": "Chelsea join Arsenal and Man City in race for €70m-rated Premier League youngster",
+   "link": "https://www.caughtoffside.com/2026/11/23/chelsea-join-arsenal-and-man-city-in-race-for-e70m-rated-premier-league-youngster/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795473000000,
+   "image": "https://icdn.caughtoffside.com/2026/08/COS-FeaturedHero-Image-Templates-41-2.jpg",
+   "added": 1795475434619,
+   "cat": null,
+   "titleKo": "첼시, 아스널과 맨체스터 시티와 함께 프리미어리그 유망주 영입 경쟁에 합류. 이 선수의 가치는 7천만 유로로 평가됨"
+  },
   {
    "id": "https://www.caughtoffside.com/2026/11/23/chelsea-and-tottenham-join-european-race-for-e45m-rated-attacker/",
    "title": "Chelsea and Tottenham join European race for €45m-rated attacker",
@@ -1008,6 +1056,17 @@
    "titleKo": "첼시의 '기운이 빠지는' 경기력에 대해 전문가가 지적한 바에 따르면, 블루스는 또 한 번의 비겁한 패배를 당했습니다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzZYWWR6TG1sYXphTU84OTRlRVFRc0dSVnNPSmd3bjhjYkZiSkFGWEdTdWRnT2hqcjEtdnRBVE9TekhJeHZlRHNxNHlTRjd3TXNvam9USVBpT250dzhMVTF0bGRUazRQQ1Vpc3BJTjg0M052TkMzZElTTWRuSkdIcVhDVFNLWHhLeEFIQjJsRXN6bHRDWjRDd2g2OWotN21ielB0cmxCRmUybloydkdnRGphVXpmZzI0WmphYdIBwgFBVV95cUxOTGhzNlRJaFJBRDFTZmNNa1NES0pvNG80V3M4dENXcWdkaFRsbmxHX0RDOGVDVWJZQ0pWT2dXeG9nelUwN0EtdTFkR1BhdFF1SHVhaHIwTnFPTjFRX09tRFZINkhRd2tsRnA3Sm01NElfV3BuSmphVi1UdHp6NjRZeldFU1BQakNXT1ZESTJmRTItckhxZHdBcTBIS1ZZRUE1VEVmNTZ1aHJTVTZkRmNVM2dqOTlnU2ZfVTV3WVdoVEliQQ?oc=5",
+   "title": "Merson questions whether Alonso’s Leverkusen success is protecting him at Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzZYWWR6TG1sYXphTU84OTRlRVFRc0dSVnNPSmd3bjhjYkZiSkFGWEdTdWRnT2hqcjEtdnRBVE9TekhJeHZlRHNxNHlTRjd3TXNvam9USVBpT250dzhMVTF0bGRUazRQQ1Vpc3BJTjg0M052TkMzZElTTWRuSkdIcVhDVFNLWHhLeEFIQjJsRXN6bHRDWjRDd2g2OWotN21ielB0cmxCRmUybloydkdnRGphVXpmZzI0WmphYdIBwgFBVV95cUxOTGhzNlRJaFJBRDFTZmNNa1NES0pvNG80V3M4dENXcWdkaFRsbmxHX0RDOGVDVWJZQ0pWT2dXeG9nelUwN0EtdTFkR1BhdFF1SHVhaHIwTnFPTjFRX09tRFZINkhRd2tsRnA3Sm01NElfV3BuSmphVi1UdHp6NjRZeldFU1BQakNXT1ZESTJmRTItckhxZHdBcTBIS1ZZRUE1VEVmNTZ1aHJTVTZkRmNVM2dqOTlnU2ZfVTV3WVdoVEliQQ?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795463637000,
+   "added": 1795475434620,
+   "cat": null,
+   "titleKo": "머슨, 알론소의 레버쿠젠 성공이 첼시에서 그를 보호하고 있는지 의문 제기"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVFlejNMYktsU1JQT2VSbXIwOHM5ekVTcG1vTDhZWGREcXJUb2RHOGtKQmRVekduTUkyY3BJLVJTSjBJZVZLdElBNEFxX1kxYmlRV2wzYnRaN1QwdHVwMVY1VHpVbUFSYjV3YXdQNTdQOGxPMHRCS2k4OWVDdXM1eHVocTRoY1hISHprNjRFVXAzRllkYnlzUC1jS0lDLWlZLUFFMVREc2jSAa4BQVVfeXFMTlVDY0VpV05lMUV3SWlnSHZxaEVMNF9TeTNvVjRaM3RpZUJieE9lUmxWS3VObm5FMXQ3c3dqZG5nTTVRU2Y3R0NKZUVrWXkydlNDaUU3TkxmdVhtQWlfMXd4Q1JpaTYtS1FCcE5iWWktYUpNZHIwSml1aUxjLThfZl9tcW41WkhtS25pS3hOMjFDMDZtMEV4SnJfWlBkbVFPX2RVMUlaSmNqWWh6MGFR?oc=5",
    "title": "Chelsea open door for Malo Gusto exit as January decision emerges",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVFlejNMYktsU1JQT2VSbXIwOHM5ekVTcG1vTDhZWGREcXJUb2RHOGtKQmRVekduTUkyY3BJLVJTSjBJZVZLdElBNEFxX1kxYmlRV2wzYnRaN1QwdHVwMVY1VHpVbUFSYjV3YXdQNTdQOGxPMHRCS2k4OWVDdXM1eHVocTRoY1hISHprNjRFVXAzRllkYnlzUC1jS0lDLWlZLUFFMVREc2jSAa4BQVVfeXFMTlVDY0VpV05lMUV3SWlnSHZxaEVMNF9TeTNvVjRaM3RpZUJieE9lUmxWS3VObm5FMXQ3c3dqZG5nTTVRU2Y3R0NKZUVrWXkydlNDaUU3TkxmdVhtQWlfMXd4Q1JpaTYtS1FCcE5iWWktYUpNZHIwSml1aUxjLThfZl9tcW41WkhtS25pS3hOMjFDMDZtMEV4SnJfWlBkbVFPX2RVMUlaSmNqWWh6MGFR?oc=5",
@@ -1029,6 +1088,17 @@
    "added": 1795465812948,
    "cat": null,
    "titleKo": "캐러거: 첼시는 센터백을 영입해야 한다. 그렇지 않으면 아무것도 이룰 수 없다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXZTTHBxTmtkdHVoQ2Nkblo5QkY2MWNmY04tNUNfWnpmRm9FN0syT1B1TmlXd013VmQtTGs3RGpyc1JEbElCU2I2QmwzakZlakQyMUFRN1loa2VCTm1iSml3QUtzbTROU1l5eVBiWGRLTmFqVEQ4OGh4dDBqZFlsRWk5alNsT1NZczNxREpwOG1ZbTlkMjVtX2o2NC04SkNNQVB3RnpiMFlSaVFWSmlGazRlZldGdEZEQ0Nmdjln?oc=5",
+   "title": "Palmer and João Pedro rift? Chelsea legend responds and reveals the truth",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXZTTHBxTmtkdHVoQ2Nkblo5QkY2MWNmY04tNUNfWnpmRm9FN0syT1B1TmlXd013VmQtTGs3RGpyc1JEbElCU2I2QmwzakZlakQyMUFRN1loa2VCTm1iSml3QUtzbTROU1l5eVBiWGRLTmFqVEQ4OGh4dDBqZFlsRWk5alNsT1NZczNxREpwOG1ZbTlkMjVtX2o2NC04SkNNQVB3RnpiMFlSaVFWSmlGazRlZldGdEZEQ0Nmdjln?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795460779000,
+   "added": 1795475434619,
+   "cat": "인터뷰",
+   "titleKo": "팔머와 주앙 페드로 사이의 불화? 첼시의 전설이 이에 대해 답변하고 진실을 밝힙니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0JQeXc0Y09hVUp6MWNUWXpYNXlBN2lyeXFsMzVja0VXQ0NBcXdlTlIySnJlWm5kUTdxS3M2XzVhNkxNRmkycnN4MkFSNE1GbjJxSTY3RjVBZGk4Tlc1RkVfTHZFYjRiRDhtRkZqNGVqZkhLT1dxenhQTnJoSUx6ME9RbTJVSlk0OE5JX09BOUlWbG9mMGJOaDFIeFFHM182UUVTWXNyaHBrajlFcjFsWDZYVnZLME8yODcwMnNzb0Y?oc=5",
@@ -1248,6 +1318,17 @@
    "added": 1795472118072,
    "cat": "오피셜",
    "titleKo": "PGA 디비전 1 경기 결과: 첼시 여자 U-18 10-2 버밍엄 시티 | 뉴스 | 공식 사이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTNsZnk5YmhTZ2xHeEhzQlNUQ0FmSmVLZ25GV3NDRnAwQ0VXRVk1YjFObWtnQ0c1bmZVTXBYWVVXMWVHdkJ2VjZQV0M3Znc3M01XOWVmUmRfRy1lUFpLQ2RGdlNuSzVIREFMUkd0SmZuV3g5c1RFcDVNd2NCNG12cWljakZHdzZjbTBZb180Qnh3TV9HZTFxaDczVHotM0ZYdFNkR0w1SmlaOWp4a2M2X1lNNkZfNGd0dmpPY1czcw?oc=5",
+   "title": "Chelsea and Man Utd 'pushing hard' for €20m January signing",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTNsZnk5YmhTZ2xHeEhzQlNUQ0FmSmVLZ25GV3NDRnAwQ0VXRVk1YjFObWtnQ0c1bmZVTXBYWVVXMWVHdkJ2VjZQV0M3Znc3M01XOWVmUmRfRy1lUFpLQ2RGdlNuSzVIREFMUkd0SmZuV3g5c1RFcDVNd2NCNG12cWljakZHdzZjbTBZb180Qnh3TV9HZTFxaDczVHotM0ZYdFNkR0w1SmlaOWp4a2M2X1lNNkZfNGd0dmpPY1czcw?oc=5",
+   "source": "FootballTransfers.com",
+   "group": "영국 언론",
+   "date": 1795453080000,
+   "added": 1795475434620,
+   "cat": null,
+   "titleKo": "첼시와 맨유, 1월 이적 시장에서 2천만 유로의 이적료를 제시하며 '적극적으로 영입을 추진'"
   },
   {
    "id": "https://www.caughtoffside.com/2026/11/23/merson-shares-xabi-alonso-theory-which-should-worry-chelsea/",
@@ -4182,87 +4263,6 @@
    "added": 1795433343970,
    "cat": null,
    "titleKo": "실시간 중계 - 리버풀 여자팀 vs 첼시 여자팀 | 2026년 11월 21일"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41095418/moises-caicedo-injury-chelsea-clash-vs-leeds-updates/",
-   "title": "Moises Caicedo limps off injured after sickening fall in Chelsea’s clash vs Leeds as fans say ‘this is scary to watch’",
-   "link": "https://www.thesun.co.uk/sport/41095418/moises-caicedo-injury-chelsea-clash-vs-leeds-updates/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795274874000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fmoises-caicedo-chelsea-warms-premier-1124663191.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795275031137,
-   "cat": "부상",
-   "titleKo": "모이세스 카이세도가 첼시와 리즈의 경기에서 끔찍한 낙상으로 부상을 입고 절뚝거리며 퇴장하자, 팬들은 '이 장면을 보는 것이 무섭다'고 말했습니다."
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16308753/Manchester-City-vs-Fulham-Premier-League-Live-scores-team-news-updates-Enzo-Marescas-look-end-losing-streak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "Chelsea vs Leeds - Premier League: Latest scores and updates as the Chelsea vs Leeds - Premier League: Emmanuel Emegha bags his first goal in blue for the hosts, and Thomas Frank makes his top-flight return, plus all the action from the 3pm kick-offs",
-   "link": "https://www.dailymail.com/sport/football/article-16308753/Manchester-City-vs-Fulham-Premier-League-Live-scores-team-news-updates-Enzo-Marescas-look-end-losing-streak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795274856000,
-   "image": "https://i.dailymail.com/1s/2026/11/21/15/112650429-0-image-a-186_1795274033112.jpg",
-   "added": 1795275031137,
-   "cat": null,
-   "titleKo": "첼시 대 리즈 - 프리미어리그: 첼시 대 리즈 - 프리미어리그의 최신 스코어와 업데이트: 홈팀의 에마뉘엘 에메가가 첼시 유니폼을 입고 첫 골을 넣었고, 토마스 프랑크가 프리미어리그에 복귀했습니다. 또한 오후 3시 킥오프 경기의 모든 소식을 전해드립니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1ZBRDg2a0hEVnR4bEZjOW92Y3N6MHpERkhsRXB4SXNRRGFiUW9YMDhxY1RLWWZHenloRUtFazdzNUlfbm5KN1hJVTd0N0JySWM1OFkzVkgtRERROWJTa0k1Wi1VSzVVT0RlN2pFUnNSdGtGRk5CUjZKelFkTU5oU0JPRVNfWTJjZG04c2hlMFZEQQ?oc=5",
-   "title": "Chelsea handed fresh injury blow as Caicedo forced off against Leeds",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1ZBRDg2a0hEVnR4bEZjOW92Y3N6MHpERkhsRXB4SXNRRGFiUW9YMDhxY1RLWWZHenloRUtFazdzNUlfbm5KN1hJVTd0N0JySWM1OFkzVkgtRERROWJTa0k1Wi1VSzVVT0RlN2pFUnNSdGtGRk5CUjZKelFkTU5oU0JPRVNfWTJjZG04c2hlMFZEQQ?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795274846000,
-   "added": 1795277862288,
-   "cat": "부상",
-   "titleKo": "첼시, 카이세도가 리즈와의 경기에서 부상으로 교체 아웃되면서 또다시 부상 악재에 직면"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/caicedo-injury-latest-chelsea-fc-b1305828.html",
-   "title": "Chelsea handed fresh injury blow as Moises Caicedo forced off against Leeds",
-   "link": "https://www.standard.co.uk/sport/football/caicedo-injury-latest-chelsea-fc-b1305828.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795274695000,
-   "image": "https://static.standard.co.uk/2026/11/21/15/2306204420..?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795275031137,
-   "cat": "부상",
-   "titleKo": "첼시, 모이세스 카이세도가 리즈와의 경기에서 부상으로 교체되어 또다시 타격을 입었습니다."
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/moises-misery-chelseas-caicedo-suffers-new-injury-vs-leeds_609578.html",
-   "title": "Chelsea suffer new Moises Caicedo injury blow as Xabi Alonso forced into early Leeds change",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/moises-misery-chelseas-caicedo-suffers-new-injury-vs-leeds_609578.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795274640000,
-   "image": "https://www.sportsmole.co.uk/thumbor/Rh6ALqEz5oCJVZiTqY0S4FxLrU4=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsport-379985-0045-1-1-6b01b9a14982c230400155.jpg",
-   "added": 1795277862288,
-   "cat": "부상",
-   "titleKo": "샤비 알론소가 모이세스 카이세도를 일찍 교체할 수밖에 없었던 상황에서 첼시가 카이세도의 새로운 부상으로 타격을 입었습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORktUNHltVEY5UkVWdWNlT0JCdHYzS0NxT29qdnI5RlV0UFB3UzRqZlBiTjlzQVhyVnJJVG9wZ0t4UUdMVXhzMTdZVlNHV1lHazVtYnpGU0J0bVdmSGRzazVXX3E2Rk1OWWNJUk5UMmVWNHVvSjFkdFRBZFN1aE1jYVI2OGtXLUY4MEl6SXVTajAyelZjT0lN?oc=5",
-   "title": "Chelsea v Leeds United | Match",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORktUNHltVEY5UkVWdWNlT0JCdHYzS0NxT29qdnI5RlV0UFB3UzRqZlBiTjlzQVhyVnJJVG9wZ0t4UUdMVXhzMTdZVlNHV1lHazVtYnpGU0J0bVdmSGRzazVXX3E2Rk1OWWNJUk5UMmVWNHVvSjFkdFRBZFN1aE1jYVI2OGtXLUY4MEl6SXVTajAyelZjT0lN?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795274477000,
-   "added": 1795275031138,
-   "cat": null,
-   "titleKo": "첼시 vs 리즈 유나이티드 | 경기"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUpOQXFGb0ZOZzA4UGI4U2dtTW1sa20zd3JseEJ1dHJOU2l0bkJGLXpLTWxENEtWb3hVRzJNQ0plVnBMUmJIYVQwUC1pdlEwZEYzTmRxZzU4TkRuTkVkQko3VVdjbmt4anE0ZlB0VjJTbTVmR0dBS1RxazlSV3FrQkIySVNHdFZXdG1YaktURkhycVVheVV5OXQ3bnFfZw?oc=5",
-   "title": "Tom Brady Buys Stake in Chelsea, Joins Ownership Group: Report",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUpOQXFGb0ZOZzA4UGI4U2dtTW1sa20zd3JseEJ1dHJOU2l0bkJGLXpLTWxENEtWb3hVRzJNQ0plVnBMUmJIYVQwUC1pdlEwZEYzTmRxZzU4TkRuTkVkQko3VVdjbmt4anE0ZlB0VjJTbTVmR0dBS1RxazlSV3FrQkIySVNHdFZXdG1YaktURkhycVVheVV5OXQ3bnFfZw?oc=5",
-   "source": "Chelsea FC Online",
-   "group": "영국 언론",
-   "date": 1795273646000,
-   "added": 1795370321736,
-   "cat": null,
-   "titleKo": "톰 브래디, 첼시 지분 인수 및 소유주 그룹 합류: 보도"
   }
  ]
 }
