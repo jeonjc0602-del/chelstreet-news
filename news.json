@@ -1,18 +1,18 @@
 {
- "updated": 1795452465351,
+ "updated": 1795455878691,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
   "talkSPORT": 5,
-  "The Guardian": 20,
+  "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 4,
+  "Evening Standard": 5,
   "The Sun": 4,
   "Mirror": 1,
-  "Daily Mail": 5,
+  "Daily Mail": 6,
   "Telegraph": 6,
   "Independent": 1,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 3,
   "CaughtOffside": 1,
   "90min": 1,
@@ -21,7 +21,7 @@
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 31,
+  "구글뉴스(한국어)": 28,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnBJRXlzQjJWUlVDbV9GOGdESEJleGdJVFh5WUpDTTZNY2lKX1ZpaXVBTG50SVROak9ncTNSc2x1T0VKU1gxNUctN25LMEVNVndtU3k0bE9oTXdyQm9rbUdiMFNmc1BTYi1lSnlTR0NRS1c2dkN5eHkzajZzQ3EySVlHQ0pubTNWbUR2MlR0V0dSdUtfMzU0WnR3SF9pU1I4OFlpY1BfQkNiRUlsMDdYTU91bzJsaTF1?oc=5",
+    "title": "Who is Gabriel Bontempo? Meet Nottingham Forest’s January transfer target",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnBJRXlzQjJWUlVDbV9GOGdESEJleGdJVFh5WUpDTTZNY2lKX1ZpaXVBTG50SVROak9ncTNSc2x1T0VKU1gxNUctN25LMEVNVndtU3k0bE9oTXdyQm9rbUdiMFNmc1BTYi1lSnlTR0NRS1c2dkN5eHkzajZzQ3EySVlHQ0pubTNWbUR2MlR0V0dSdUtfMzU0WnR3SF9pU1I4OFlpY1BfQkNiRUlsMDdYTU91bzJsaTF1?oc=5",
+    "source": "Nottingham Forest News",
+    "date": 1795453200000,
+    "added": 1795455874597,
+    "tag": "상대 소식",
+    "titleKo": "가브리엘 본템포는 누구인가요? 노팅엄 포레스트의 1월 이적 타깃을 만나보세요"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObE1CeXVGUDE5REo4ZlMtbUx5WlpscDJOUF9paFhXV1F6Y0FZWEJGWVJDc1B6T0tKQm42ejlmc2JfYTVORmxNOHQ4MWNWc25yTTJsUVlRVkZZS1ZGVTBkRkROa3duMGI2bVZHWUFBWFBleEZxU2FpT3paMXBCZlV3X3UzZw?oc=5",
     "title": "Bournemouth 2-0 Nottingham Forest - fan views",
@@ -829,16 +839,6 @@
     "added": 1795280706241,
     "tag": "상대 소식",
     "titleKo": "본머스 vs 노팅엄 포레스트 – 체리스, 2개의 새로운 기록에 도전"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkNtc29QSzV5UFo1RUxIajVMYUltWlJVVnlYc3EtbDF4REQ3X0RsbGZsb3NOZTE3UDFqVGdHeUZRWEYxUm15NHpMalV4aTd2UElnRkJwbmxjUEFIMDdrMEpWR2hqNkptNmM1UlZQRjhNNU1ZWF9rcFFOUGI5d0lRSmNR?oc=5",
-    "title": "Detailed Prediction — Nottingham Forest vs Chelsea | 27/11/2026",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkNtc29QSzV5UFo1RUxIajVMYUltWlJVVnlYc3EtbDF4REQ3X0RsbGZsb3NOZTE3UDFqVGdHeUZRWEYxUm15NHpMalV4aTd2UElnRkJwbmxjUEFIMDdrMEpWR2hqNkptNmM1UlZQRjhNNU1ZWF9rcFFOUGI5d0lRSmNR?oc=5",
-    "source": "The Daily Star Lebanon",
-    "date": 1795243356000,
-    "added": 1795275032052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "상세한 경기 예측 — 노팅엄 포레스트 vs 첼시 | 2026년 11월 27일"
    }
   ]
  },
@@ -855,6 +855,41 @@
    "titleKo": "[PL POINT] 19위 맨유 수준 수비력...'4경기 3패' 첼시, 20득점 20실점→최악의 수비력에 순위 상승 실패",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699083_833122_1044_v150.jpg"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-xabi-alonso-problem-b1306064.html",
+   "title": "The Chelsea problem Xabi Alonso cannot ignore - and who is really to blame",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-xabi-alonso-problem-b1306064.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795454279000,
+   "image": "https://static.standard.co.uk/2026/11/23/16/2304145601..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795455872424,
+   "cat": null,
+   "titleKo": "샤비 알론소가 무시할 수 없는 첼시의 문제 - 그리고 진정한 책임은 누구에게 있는가"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc01KWDNuYm9FSzRBeV84VFhBUzU2ZS1USmRUdnpabFNpUDJ6TEQ3RTgyTHgwZjVVSGFUc1B5OHowdXZGTTVpMnFmMjdGWWkxb2MzcVV0MF9hMlM2Q2pSdmlhQzdmMm1weEs3R0tIQlRUb3daOC1LcDRadUpURlBBbk05QmtDaFlTV3ZyS1d3bw?oc=5",
+   "title": "The Chelsea problem Alonso cannot ignore - and who is really to blame",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc01KWDNuYm9FSzRBeV84VFhBUzU2ZS1USmRUdnpabFNpUDJ6TEQ3RTgyTHgwZjVVSGFUc1B5OHowdXZGTTVpMnFmMjdGWWkxb2MzcVV0MF9hMlM2Q2pSdmlhQzdmMm1weEs3R0tIQlRUb3daOC1LcDRadUpURlBBbk05QmtDaFlTV3ZyS1d3bw?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795454279000,
+   "added": 1795455872425,
+   "cat": null,
+   "titleKo": "알론소가 외면할 수 없는 첼시의 문제 - 그리고 진정한 책임은 누구에게 있는가"
+  },
+  {
+   "id": "https://www.dailymail.com/sport/football/article-16314949/chelsea-form-slump-xabi-alonso.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Chelsea's slump in form unpacked: The stars who badly need to step up from Emi Martinez to Cole Palmer, what defensive horror shows mean for Xabi Alonso's job security - and the players in line to leave in January",
+   "link": "https://www.dailymail.com/sport/football/article-16314949/chelsea-form-slump-xabi-alonso.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795453371000,
+   "image": "https://i.dailymail.com/1s/2026/11/23/15/112678269-0-image-a-10_1795447104933.jpg",
+   "added": 1795455872424,
+   "cat": null,
+   "titleKo": "첼시의 부진 원인 분석: 에미 마르티네스부터 콜 파머까지, 경기력을 끌어올려야 할 선수들, 수비진의 형편없는 경기력이 사비 알론소의 입지에 미치는 영향, 그리고 1월 이적 시장에서 팀을 떠날 가능성이 있는 선수들"
   },
   {
    "id": "https://www.caughtoffside.com/2026/11/23/merson-shares-xabi-alonso-theory-which-should-worry-chelsea/",
@@ -4224,40 +4259,6 @@
    "added": 1795263074949,
    "cat": null,
    "titleKo": "클럽 축구가 돌아옵니다! 첼시 대 리즈 유나이티드 경기를 시청하는 방법"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjQxTmo0dHZ1eGtKc1pyajdjc1hCTWxUMWYtYm9ZR3ZIZ3REMGpaM3JNOGdVdElIVnZPTVBaU05sTE5IQmlLRWdyakdWQkozdTJLWlNzZUxuQlA3WjVSLWp0SXkzY3JfT3ZxakF1NHVjZW5PMWV3bFJxd1FDOHRUalV0cUZ1SThEQ0R5OVExcHJOVzRJYkpMOWt3RTlLZEdp?oc=5",
-   "title": "Chelsea U18 v Arsenal U18 | Match | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjQxTmo0dHZ1eGtKc1pyajdjc1hCTWxUMWYtYm9ZR3ZIZ3REMGpaM3JNOGdVdElIVnZPTVBaU05sTE5IQmlLRWdyakdWQkozdTJLWlNzZUxuQlA3WjVSLWp0SXkzY3JfT3ZxakF1NHVjZW5PMWV3bFJxd1FDOHRUalV0cUZ1SThEQ0R5OVExcHJOVzRJYkpMOWt3RTlLZEdp?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795258507000,
-   "added": 1795269738976,
-   "cat": "오피셜",
-   "titleKo": "첼시 U18 vs 아스널 U18 | 경기 | 공식 사이트"
-  },
-  {
-   "id": "https://www.mirror.co.uk/sport/football/news/nfl-tom-brady-chelsea-birmingham-37901566",
-   "title": "NFL legend Tom Brady in talks to buy Chelsea stake after Birmingham City exit",
-   "link": "https://www.mirror.co.uk/sport/football/news/nfl-tom-brady-chelsea-birmingham-37901566",
-   "source": "Mirror",
-   "group": "영국 언론",
-   "date": 1795258357000,
-   "image": "https://i2-prod.mirror.co.uk/incoming/article37901630.ece/ALTERNATES/s615/0_GettyImages-2304304889.jpg",
-   "added": 1795260411403,
-   "cat": "이적",
-   "titleKo": "NFL의 전설 톰 브래디, 버밍엄 시티 인수 포기 후 첼시 지분 인수 협상 중"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUpPM1VaWUxTcFdrdTUxS29WZFh1Z2lWdlh2R3FYRWw5UkZPcUkwLVdmVmZKOUNRcEVOYVExR2xSTlg5TGc3bEVRbEdESUIxYno1V0xmVERQV3JLd1NDdkMzRmJVd2gydGV0TjNlNjQ4amhEZnplc0NJWDYwRzNIamliYU9qV2dXalBQeU5XYWhuLTRWaThKMTcwZHhFMU4xU2RZ?oc=5",
-   "title": "11월 21일 22시, 프리미어 리그 11라운드 첼시 대 리즈 경기 생중계 링크입니다.",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUpPM1VaWUxTcFdrdTUxS29WZFh1Z2lWdlh2R3FYRWw5UkZPcUkwLVdmVmZKOUNRcEVOYVExR2xSTlg5TGc3bEVRbEdESUIxYno1V0xmVERQV3JLd1NDdkMzRmJVd2gydGV0TjNlNjQ4amhEZnplc0NJWDYwRzNIamliYU9qV2dXalBQeU5XYWhuLTRWaThKMTcwZHhFMU4xU2RZ?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795257445000,
-   "added": 1795257605202,
-   "cat": null,
-   "titleKo": "11월 21일 22시, 프리미어 리그 11라운드 첼시 대 리즈 경기 생중계 링크입니다."
   }
  ]
 }
