@@ -1,5 +1,5 @@
 {
- "updated": 1795402779395,
+ "updated": 1795406402880,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -12,7 +12,7 @@
   "Daily Mail": 8,
   "Telegraph": 6,
   "Independent": 1,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 5,
   "CaughtOffside": 2,
   "90min": 1,
@@ -21,7 +21,7 @@
   "인터풋볼": 0,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 31,
+  "구글뉴스(한국어)": 32,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -1531,6 +1531,17 @@
    "titleKo": "리즈에 1-4 패한 첼시, 알론소 감독 체제서 8위 하락 : EPL"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWJpcVNVSHoyY09BMlVuck9aZEhITjdmamtJMEZCcTMzNlBwSGF0NWQ4RFdNcGZ1VG12djZWQTJFN3pjUXhQdlFqV2J4YnRldS1YYTc4emFzS0RsdlhOVFdvcTg5eTZja1ZTNDhxVzY0U1JtcDdTZTlNWjM0RGlxRA?oc=5",
+   "title": "Chelsea - Fulham",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWJpcVNVSHoyY09BMlVuck9aZEhITjdmamtJMEZCcTMzNlBwSGF0NWQ4RFdNcGZ1VG12djZWQTJFN3pjUXhQdlFqV2J4YnRldS1YYTc4emFzS0RsdlhOVFdvcTg5eTZja1ZTNDhxVzY0U1JtcDdTZTlNWjM0RGlxRA?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795316538000,
+   "added": 1795406398676,
+   "cat": null,
+   "titleKo": "첼시 - 풀럼"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGFBa29PcHNRa1hTMURsejVlcmlObEVDZkRwUzFibGpXXzA5ck9KMGxWTUhPMk5XaGRBTnlrTmVvdWlSLVh3QVRmTzZBMFgwZUxmZEsyYnpQVGpCSVNaR21FLXBJTlZjYmVwbFJCX3NtbFBoOXgwN21xREVJcThGS2xGQ3ozcFVqMnpwTXhhMXNMUQ?oc=5",
    "title": "첼시가 가장 원치 않는 일이 일어났습니다",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGFBa29PcHNRa1hTMURsejVlcmlObEVDZkRwUzFibGpXXzA5ck9KMGxWTUhPMk5XaGRBTnlrTmVvdWlSLVh3QVRmTzZBMFgwZUxmZEsyYnpQVGpCSVNaR21FLXBJTlZjYmVwbFJCX3NtbFBoOXgwN21xREVJcThGS2xGQ3ozcFVqMnpwTXhhMXNMUQ?oc=5",
@@ -2016,6 +2027,17 @@
    "added": 1795288588300,
    "cat": "오피셜",
    "titleKo": "프리미어리그 하이라이트: 첼시 1-4 리즈 유나이티드 | 동영상 | 공식 사이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb0N1WmxzSUVEbjZtN3pNeHB1WE14blc3WktESWRKRVNQdlAzaEJVbXNKX19ZY3YzU2s2VGt2RC1qWXdDVXFWVUV1UzU3QTVULUFRZkVwUHNSV0ZwTGhuY2hZNFZuaU5ENVBQY1N0YWxtNGUyMVRrdmt1N1NvdGp5TS1vTWtvQVM2TUxNYXQxQ2IzbndkQzJBb3FHZmp1Sm1FdGl3dENhNEI2T282SUdCYy1CZVhWNHAyTGQxbF9zSV9sakFNaWJlVkN3Zzk4ZXhubFRndW1n?oc=5",
+   "title": "Xabi Alonso must be in serious danger of dismissal, he's just made Chelsea history for second time",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb0N1WmxzSUVEbjZtN3pNeHB1WE14blc3WktESWRKRVNQdlAzaEJVbXNKX19ZY3YzU2s2VGt2RC1qWXdDVXFWVUV1UzU3QTVULUFRZkVwUHNSV0ZwTGhuY2hZNFZuaU5ENVBQY1N0YWxtNGUyMVRrdmt1N1NvdGp5TS1vTWtvQVM2TUxNYXQxQ2IzbndkQzJBb3FHZmp1Sm1FdGl3dENhNEI2T282SUdCYy1CZVhWNHAyTGQxbF9zSV9sakFNaWJlVkN3Zzk4ZXhubFRndW1n?oc=5",
+   "source": "Football Insider",
+   "group": "영국 언론",
+   "date": 1795287900000,
+   "added": 1795406398677,
+   "cat": null,
+   "titleKo": "샤비 알론소는 경질 위기에 처해 있을 겁니다. 그는 방금 첼시 역사상 두 번째로 경질 위기에 처했습니다."
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/c6gregxpj9vlo?at_medium=RSS&at_campaign=rss",
@@ -2643,6 +2665,17 @@
    "added": 1795283105237,
    "cat": null,
    "titleKo": "리즈, 첼시를 완파하며 알론소 감독에 대한 압박이 가중되다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRqNWRmNTdoT2k3clJzRzdDOUhmbHVJWjU2NENNSk40cE5GYWRHeUdWbFNnUzl5NzU2Ni0taEY2aDlaU3M0MXlCSlJEbVVHSGhvX3U2eFBDQXNZRGVMVjRWamdpQ29ORFJUOFEyeUJZUlZaQUg0akM5a2w0bEhhQzZfZG1mcHFBSG9IU0NhZTh0TkRHUlRn0gGcAUFVX3lxTFB1OS1iUUJLQjVFVDZSdWhzZGpudjhEYXozQURFN1lCN2JpYWs5bmQ5a2dZTi1GcGFjdXhjNHlkbkRUMGF6Q2t5aW5yMWpaci1fVjk3b3MySlV6TG94cTNDLXNCMVNzRmlrcVFNcVppTmZ0c1FKakh6TS1WWHQyT2hxMXdoRlU3TURWWFFxWVUxY19pMkZ3bGtYYU90Rw?oc=5",
+   "title": "Chelsea player ratings vs Leeds: Cole Palmer anonymous as six 4/10s struggle in loss",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRqNWRmNTdoT2k3clJzRzdDOUhmbHVJWjU2NENNSk40cE5GYWRHeUdWbFNnUzl5NzU2Ni0taEY2aDlaU3M0MXlCSlJEbVVHSGhvX3U2eFBDQXNZRGVMVjRWamdpQ29ORFJUOFEyeUJZUlZaQUg0akM5a2w0bEhhQzZfZG1mcHFBSG9IU0NhZTh0TkRHUlRn0gGcAUFVX3lxTFB1OS1iUUJLQjVFVDZSdWhzZGpudjhEYXozQURFN1lCN2JpYWs5bmQ5a2dZTi1GcGFjdXhjNHlkbkRUMGF6Q2t5aW5yMWpaci1fVjk3b3MySlV6TG94cTNDLXNCMVNzRmlrcVFNcVppTmZ0c1FKakh6TS1WWHQyT2hxMXdoRlU3TURWWFFxWVUxY19pMkZ3bGtYYU90Rw?oc=5",
+   "source": "Daily Express",
+   "group": "영국 언론",
+   "date": 1795280340000,
+   "added": 1795406398677,
+   "cat": "프리뷰",
+   "titleKo": "첼시 선수 평점(리즈전): 4/10점을 받은 6명의 선수가 부진한 가운데 콜 파머는 존재감이 없었음"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEhWUXRTU1R1M3A3aDJWd05WNUxyd2hxelZGQkVjNE1Wc1VDRUNYTHVyUlRVUld6VHVUdnBWcVYwVWZsbDhiQ0FLbkZIRl9qYUZsV3NIU2xXNURrVm00MXFnZURCTmRKSU51a250T0RtTkNUNTFaRjZjVXZaM3F5OXdzV0VtcUdtbi1BTDhtamtuRUdJeFo1dkxGOTN6RFd4QnBvWlZ2MmxJdEhEaXJuanNkQkdYbTZwb2lQZmRmcy11c3VpMzJDQQ?oc=5",
@@ -4205,38 +4238,6 @@
    "date": 1795202708000,
    "cat": null,
    "titleKo": "첼시 vs. 리즈: 프리미어리그 경기 예측, 날짜, 장소 및 시청 방법"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMGJRRWhIWVFSN0RUSkZIV1RVbTY3MFBBY2ZfNkFKV3VlQktnR05FQ0d1bjJXVm1nMjFRZjI3QUhvem1ZVEV2VWtudkFZYlF0eHNCOVUxemE2cVJGLWdDSUhJZ01rSFBwWDRVSjE5TWJBSkFHMUlsQdIBfkFVX3lxTFBDNFRrcnBrbWhVVW45YjA0ejBQN2g1WUdmR3lqdHpoVWkxaUpvUTdTQjc1M1FXRGJDNDZqYmNpVTRJOE1wOHNQdXJycW9Wb1RhWlBQaF9SMkVWSl8xX0pfelFZNkg2bnFlT3ZHRUtVeUxQVW1LQXJDc0RVRDgzQQ?oc=5",
-   "title": "Chelsea forward set for return against Liverpool",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMGJRRWhIWVFSN0RUSkZIV1RVbTY3MFBBY2ZfNkFKV3VlQktnR05FQ0d1bjJXVm1nMjFRZjI3QUhvem1ZVEV2VWtudkFZYlF0eHNCOVUxemE2cVJGLWdDSUhJZ01rSFBwWDRVSjE5TWJBSkFHMUlsQdIBfkFVX3lxTFBDNFRrcnBrbWhVVW45YjA0ejBQN2g1WUdmR3lqdHpoVWkxaUpvUTdTQjc1M1FXRGJDNDZqYmNpVTRJOE1wOHNQdXJycW9Wb1RhWlBQaF9SMkVWSl8xX0pfelFZNkg2bnFlT3ZHRUtVeUxQVW1LQXJDc0RVRDgzQQ?oc=5",
-   "source": "Hayters",
-   "group": "영국 언론",
-   "date": 1795202419000,
-   "cat": null,
-   "titleKo": "첼시의 공격수, 리버풀과의 경기에서 복귀 예정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1RLOGcydlZaZldwMF9yMnBaZnd5VFYyOFpuTHp2V2xOZ01tUG5mWUUxWmNkM3VHcDJ3MFZ2Tk5RNEZLM1VUU3U1RFdhMk0tNlZ5SGduVWUwUFRoQkNyM1pXTi1kNkJsNTVxZFRXQTNmU08ycENOZXlDelpfc0JMemZ0SktWa29qYnl6ZEhpSQ?oc=5",
-   "title": "Katie McCabe Pictured In Chelsea Training After Major Ireland Playoff Injury Scare",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1RLOGcydlZaZldwMF9yMnBaZnd5VFYyOFpuTHp2V2xOZ01tUG5mWUUxWmNkM3VHcDJ3MFZ2Tk5RNEZLM1VUU3U1RFdhMk0tNlZ5SGduVWUwUFRoQkNyM1pXTi1kNkJsNTVxZFRXQTNmU08ycENOZXlDelpfc0JMemZ0SktWa29qYnl6ZEhpSQ?oc=5",
-   "source": "Balls.ie",
-   "group": "영국 언론",
-   "date": 1795201842000,
-   "cat": "부상",
-   "titleKo": "케이티 맥케이프, 아일랜드 대표팀 플레이오프 경기에서 입은 심각한 부상에 대한 우려 속에서 첼시 훈련 모습 포착"
-  },
-  {
-   "id": "https://www.mirror.co.uk/sport/football/news/chelsea-fined-chanting-catholic-irish-37900807",
-   "title": "Chelsea fined £150,000 by FA for anti-Catholic and anti-Irish chants as statement issued",
-   "link": "https://www.mirror.co.uk/sport/football/news/chelsea-fined-chanting-catholic-irish-37900807",
-   "source": "Mirror",
-   "group": "영국 언론",
-   "date": 1795200881000,
-   "cat": null,
-   "titleKo": "첼시, 반(反)가톨릭 및 반(反)아일랜드 구호로 FA로부터 15만 파운드의 벌금 부과",
-   "imgTried": true,
-   "image": "https://i2-prod.mirror.co.uk/article37900812.ece/ALTERNATES/s1200d/0_GettyImages-2305077847.jpg"
   }
  ]
 }
