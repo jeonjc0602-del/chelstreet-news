@@ -1,23 +1,23 @@
 {
- "updated": 1795433350556,
+ "updated": 1795437089120,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 0,
+  "Sky Sports": 1,
   "talkSPORT": 6,
   "The Guardian": 20,
   "football.london": 25,
   "Evening Standard": 4,
-  "The Sun": 1,
+  "The Sun": 2,
   "Mirror": 1,
   "Daily Mail": 7,
   "Telegraph": 6,
-  "Independent": 1,
+  "Independent": 2,
   "Express": "실패: 403",
-  "Sports Mole": 4,
+  "Sports Mole": 3,
   "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 26건"
+  "이번 상대": "Nottingham Forest · 새 기사 27건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,36 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTE3ZEJPUVJXV0lHVTJkaGpPNWpUVEZlS2tTZmplZmpldDBsNjA4WkthbnZ1c09ZcGwxUUJzMnhkemxTN1laQWU2eVozLVdYanc2eFVwem5EMVhtamM0eWtjeGd4NjhHX2F4QkUzdTFpeUZqQ3dsUzYxdW1vMHFJTVNSUWJ6ZFM4SmxkTHF5NmFadW45Z1Z2WGxjMktiS09yVkY0T0VR0gGrAUFVX3lxTE45OWhvM0JGZzBwb3VqaV9YdzU5dWR6V3FfMEpCbjBYcEpMUGRQQUwtcnRMZ2FxekE2Z2hYYUd4UmxFY2xKU0xTNkRLZW1rV3lSVEtJOGZ1WnlVN244RWNNeW43V1cwLVpBYnljMG5PMG5nT3JvekxkMnNXRkRvRllzMGZwWGV6MS1jTm8zbDJSYUo0dm5ScXJsNjB2eTRHV3AyQWluM2s4VWctVQ?oc=5",
+    "title": "Nottingham Forest star Morgan Gibbs-White tipped for huge Bayern Munich transfer",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTE3ZEJPUVJXV0lHVTJkaGpPNWpUVEZlS2tTZmplZmpldDBsNjA4WkthbnZ1c09ZcGwxUUJzMnhkemxTN1laQWU2eVozLVdYanc2eFVwem5EMVhtamM0eWtjeGd4NjhHX2F4QkUzdTFpeUZqQ3dsUzYxdW1vMHFJTVNSUWJ6ZFM4SmxkTHF5NmFadW45Z1Z2WGxjMktiS09yVkY0T0VR0gGrAUFVX3lxTE45OWhvM0JGZzBwb3VqaV9YdzU5dWR6V3FfMEpCbjBYcEpMUGRQQUwtcnRMZ2FxekE2Z2hYYUd4UmxFY2xKU0xTNkRLZW1rV3lSVEtJOGZ1WnlVN244RWNNeW43V1cwLVpBYnljMG5PMG5nT3JvekxkMnNXRkRvRllzMGZwWGV6MS1jTm8zbDJSYUo0dm5ScXJsNjB2eTRHV3AyQWluM2s4VWctVQ?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795434478000,
+    "added": 1795437077165,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트의 스타 모건 깁스-화이트, 바이에른 뮌헨으로의 대형 이적 가능성 제기"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFNReGhNMjFYUE4yc2NtaDJ0ZzBKM0dia2JyN1FzcHVhRnIxVTNMaUEyNmxreFJvRlphdVhTTDg4SU9lT0NfQ2ppbVNSMnRzQW9uM2h0dFBOY2hjbThiZ21qLVBJQjFWeUYzUkVhTUxEVkVGaG1fY1JEbkF1a2dLTUQ1cnByOXVrVkFJWWstUFpXUTZmUTBCcHNVZXQxaUFZQVQ1X2xTbC1HWVdNVm5HWWtRbmt0aktwd2QzTjJxYVJxYVhiNl9oV3JKUGNyS1hkTEFUTVZrdHY5OXB2WXBJQ19TdFBSMHhwZllCZEE0QkRaWWpW?oc=5",
+    "title": "Romeo Lavia could look foolish after what he's just said about his Chelsea teammates",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFNReGhNMjFYUE4yc2NtaDJ0ZzBKM0dia2JyN1FzcHVhRnIxVTNMaUEyNmxreFJvRlphdVhTTDg4SU9lT0NfQ2ppbVNSMnRzQW9uM2h0dFBOY2hjbThiZ21qLVBJQjFWeUYzUkVhTUxEVkVGaG1fY1JEbkF1a2dLTUQ1cnByOXVrVkFJWWstUFpXUTZmUTBCcHNVZXQxaUFZQVQ1X2xTbC1HWVdNVm5HWWtRbmt0aktwd2QzTjJxYVJxYVhiNl9oV3JKUGNyS1hkTEFUTVZrdHY5OXB2WXBJQ19TdFBSMHhwZllCZEE0QkRaWWpW?oc=5",
+    "source": "LiveScore",
+    "date": 1795433762000,
+    "added": 1795437077165,
+    "tag": "상대 소식",
+    "titleKo": "로메오 라비아는 첼시 팀 동료들에 대해 방금 한 말 때문에 바보처럼 보일 수 있습니다."
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGU2YkpKVHYzcjJnajdBcm1zZE9xVjR5dlRGMnZJT05aMWc2dEM2QmhNYVh6UURLUGRxREVJZ2VleXd4MHdsZlRnYk5NSk04a2t1UG5lU3MwX0p1dnhzRXlsZGhSMDlYRFhkYUVMVDFTUE0zR1pTX1AyZXo0VjBnWjBxeXRMSHBaY0ZFNkRLYV9vVlROaFU4?oc=5",
+    "title": "Nottingham Forest defender Mustaki sustains ACL injury",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGU2YkpKVHYzcjJnajdBcm1zZE9xVjR5dlRGMnZJT05aMWc2dEM2QmhNYVh6UURLUGRxREVJZ2VleXd4MHdsZlRnYk5NSk04a2t1UG5lU3MwX0p1dnhzRXlsZGhSMDlYRFhkYUVMVDFTUE0zR1pTX1AyZXo0VjBnWjBxeXRMSHBaY0ZFNkRLYV9vVlROaFU4?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795432560000,
+    "added": 1795437077165,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 수비수 무스타키, 전방 십자 인대 부상"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEhxU1ctVG1kdjBsdW1wQUlHMGMzbjBXaXk5dmpIM096cUFsVjZMR0NMNTRibEQyV19XTWJ1My1LY19haWU5cHYxNUwzWWt3d3pSdlA1YXk1c2dKVkVaVkE4ZzFMX2Nvb2ZZVTVCbVIySzhVUW9NdFVwWS1vVnhXNkZuSS1RMjIyLUxfZ0otU1hqaDFaYTNfMFVBU1psbmY0M2dqSTVnQQ?oc=5",
     "title": "5 Things Xabi Alonso Must Fix Before Chelsea Face Nottingham Forest",
@@ -809,36 +839,6 @@
     "added": 1795275032052,
     "tag": "라인업·팀뉴스",
     "titleKo": "본머스 vs 노팅엄 포레스트 – 경기 프리뷰 및 팀 소식"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDN2Xy1DSFZBVVBZSUFWR3JkWXJTSVd0cEhUa1MyQW1IR3RiczVONUNCUnVta0JnWGFaSTZ6dFhvdW9Da2U5dlUxYTJnM0MtNEJSNWZVZXdtSXplMWNFVTdxUWpXTmhsWVh4NlEyUC1FTks3LUxMVEk1eWJzbmQ2Ry1Tc05MckVTeEhZR2c2b2pmQ3NVZS1lSFVJTldtSjFHUzFqWUJB?oc=5",
-    "title": "Bournemouth vs Nottingham Forest team news and prediction",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDN2Xy1DSFZBVVBZSUFWR3JkWXJTSVd0cEhUa1MyQW1IR3RiczVONUNCUnVta0JnWGFaSTZ6dFhvdW9Da2U5dlUxYTJnM0MtNEJSNWZVZXdtSXplMWNFVTdxUWpXTmhsWVh4NlEyUC1FTks3LUxMVEk1eWJzbmQ2Ry1Tc05MckVTeEhZR2c2b2pmQ3NVZS1lSFVJTldtSjFHUzFqWUJB?oc=5",
-    "source": "premierleaguenewsnow.com",
-    "date": 1795221912000,
-    "added": 1795329127342,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "본머스 vs 노팅엄 포레스트 팀 소식 및 예상 결과"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkVDNlJaaHVGbXJTbThreGJCRTlkaEJsZWJob2tiakpUdTYzUGg4YnJna05reDV4LVpIU2ROYVlHNDhzZXlQV1BfTXhob1hiLWlPMGFRLUNsSUdtQldrc0ZLN2I3c2tEc2lXdm9HcU5oMlpKbkl6SUlGeFA5TmZpOUpZTFgwZk0zcEFkZkJlUXVVYl9FakI3WUdTZ010UGpfVnJkSQ?oc=5",
-    "title": "Bournemouth vs Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkVDNlJaaHVGbXJTbThreGJCRTlkaEJsZWJob2tiakpUdTYzUGg4YnJna05reDV4LVpIU2ROYVlHNDhzZXlQV1BfTXhob1hiLWlPMGFRLUNsSUdtQldrc0ZLN2I3c2tEc2lXdm9HcU5oMlpKbkl6SUlGeFA5TmZpOUpZTFgwZk0zcEFkZkJlUXVVYl9FakI3WUdTZ010UGpfVnJkSQ?oc=5",
-    "source": "beIN SPORTS",
-    "date": 1795217283000,
-    "added": 1795277863027,
-    "tag": "상대 소식",
-    "titleKo": "본머스 vs 노팅엄 포레스트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZLS0l1cWhvSFNaY2VSU3dLajdkOGdvMU1iN21NY3NsM29DX29JRzdEdmQ1dVpnaWNCb2d2U1V4OG9OWnVVak5qQVZQN29TRVdDTEx4aWZJY1A4WVFXRkJZMUh0elQxd05oMnFsSkVOWVdKTGRwMWR5ejExejJmZHYwaFRKMjBSRUFhakxqOFhrdzNSZFFycg?oc=5",
-    "title": "Sutton's predictions: Bournemouth v Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZLS0l1cWhvSFNaY2VSU3dLajdkOGdvMU1iN21NY3NsM29DX29JRzdEdmQ1dVpnaWNCb2d2U1V4OG9OWnVVak5qQVZQN29TRVdDTEx4aWZJY1A4WVFXRkJZMUh0elQxd05oMnFsSkVOWVdKTGRwMWR5ejExejJmZHYwaFRKMjBSRUFhakxqOFhrdzNSZFFycg?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795201488000,
-    "added": 1795308264714,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "서튼의 예측: 본머스 vs 노팅엄 포레스트"
    }
   ]
  },
@@ -855,6 +855,77 @@
    "titleKo": "[PL POINT] 19위 맨유 수준 수비력...'4경기 3패' 첼시, 20득점 20실점→최악의 수비력에 순위 상승 실패",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699083_833122_1044_v150.jpg"
+  },
+  {
+   "id": "https://www.independent.co.uk/sport/football/emmanuel-emegha-robbery-chelsea-leeds-b3089845.html",
+   "title": "Chelsea striker Emmanuel Emegha robbed after Leeds thrashing",
+   "link": "https://www.independent.co.uk/sport/football/emmanuel-emegha-robbery-chelsea-leeds-b3089845.html",
+   "source": "Independent",
+   "group": "영국 언론",
+   "date": 1795436759000,
+   "image": "https://static.independent.co.uk/2026/11/23/12/2306317101..?width=1200&auto=webp&trim=95%2C0%2C2540%2C0",
+   "added": 1795437075033,
+   "cat": null,
+   "titleKo": "첼시의 스트라이커 에마뉘엘 에메가, 리즈전 대패 후 강도 피해"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41114505/chelsea-joao-pedro-injured-moises-caicedo-leeds/",
+   "title": "Chelsea ‘fear Joao Pedro out injured for rest of YEAR’ with Moises Caicedo future uncertain after limping off vs Leeds",
+   "link": "https://www.thesun.co.uk/sport/41114505/chelsea-joao-pedro-injured-moises-caicedo-leeds/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795436120000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2F2026-27-match-arsenal-fc-1125087068_41acc1.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795437075033,
+   "cat": "부상",
+   "titleKo": "첼시, '주앙 페드로가 올해 남은 기간 동안 부상으로 결장할까 봐 두려워' 모이세스 카이세도 역시 리즈와의 경기에서 절뚝거리며 경기장을 떠나며 향후 일정 불투명"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/11095/13615585/paul-merson-believes-liverpool-knew-xabi-alonso-wasnt-good-enough-and-were-seeing-it-play-out-as-chelsea-manager",
+   "title": "Merson on Chelsea: My biggest worry is Liverpool knew Alonso wasn't good enough",
+   "link": "https://www.skysports.com/football/news/11095/13615585/paul-merson-believes-liverpool-knew-xabi-alonso-wasnt-good-enough-and-were-seeing-it-play-out-as-chelsea-manager",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795435680000,
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-merson-says-premier-league_7414330.jpg?20261123112357",
+   "added": 1795437075032,
+   "cat": null,
+   "titleKo": "머슨, 첼시에 대해: 제 가장 큰 걱정은 리버풀이 알론소가 충분히 좋지 않다는 것을 알고 있었다는 것입니다."
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-rogers-penalty-handball-leeds-b1305993.html",
+   "title": "Chelsea get new Morgan Rogers penalty review after Leeds handball controversy",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-rogers-penalty-handball-leeds-b1305993.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795434223000,
+   "image": "https://static.standard.co.uk/2026/11/23/11/2306217656..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795437075033,
+   "cat": null,
+   "titleKo": "첼시, 리즈와의 경기에서 발생한 핸드볼 반칙 논란 후 모건 로저스의 페널티킥 판정에 대한 새로운 검토를 받다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRjh5blc4UEd3elZSTWNvV2Q1eFYyVDNWVDR4N3R4VVZldnY4dE1HQS1tWm1mUWQ2ckwtUzNaTXd0b045R2dDYlBBUkZPNDZBdzVSVGpxNWtjSmxoTGxrSEJVYnNjVnF6NzlJSmprRVRyVERnYmZVQk1TX29kbllFSGhRajN6Ml9Xb0dQMUR6eEdDOFoyUC1kem9UbGE?oc=5",
+   "title": "Chelsea get new Rogers penalty review after Leeds handball controversy",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRjh5blc4UEd3elZSTWNvV2Q1eFYyVDNWVDR4N3R4VVZldnY4dE1HQS1tWm1mUWQ2ckwtUzNaTXd0b045R2dDYlBBUkZPNDZBdzVSVGpxNWtjSmxoTGxrSEJVYnNjVnF6NzlJSmprRVRyVERnYmZVQk1TX29kbllFSGhRajN6Ml9Xb0dQMUR6eEdDOFoyUC1kem9UbGE?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795434223000,
+   "added": 1795437075034,
+   "cat": null,
+   "titleKo": "첼시, 리즈와의 경기에서 발생한 핸드볼 반칙 논란 후 로저스 심판의 페널티 판정에 대한 새로운 검토를 받다"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/cwm2m66e8rmzo?at_medium=RSS&at_campaign=rss",
+   "title": "Chelsea striker Emegha has car broken into after first goal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwm2m66e8rmzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "group": "영국 언론",
+   "date": 1795433876000,
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/248a/live/811b1270-e724-11f1-914b-6d226d813a52.jpg",
+   "added": 1795437075032,
+   "cat": null,
+   "titleKo": "첼시의 스트라이커 에메가, 첫 골 이후 차량 파손 피해"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGRoYnlCajN5X1BIdWg0QUItamJ2YlY4el90dnBEczItUXJrV2xCa1Vlb2hPei1HbzhkOVhBMDJwWElnTkhIVUdkT0Z6UHExbk1VaFc5OERtdjVURDYyc1J4MnQyYklEMHBpOFFPSFNmU0NXdFpQNGxEcUxqeDVyNnkzWng5OHBZSC1VNW81UGJLcWJn?oc=5",
@@ -924,6 +995,17 @@
    "added": 1795430111844,
    "cat": "오피셜",
    "titleKo": "첼시 선수, 1시간 동안 패스 2회 성공 – 알론소의 전술적 도전 과제 명확"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFFsaG05SGtnM05ISmlETmxFYnpGWS16U0hBR1RnMm5Ub2NKaWpfcTZYRGlsZ25zbkhmSlFfaWEwZy1fcEQ1anhYUUlWS2o3UzdqVFhlZW9yVjZCSGxiVmp2UG9LR3NETm5yMExoaHZPWGQwM1hPeHZKZ1ZZVEhoVDF4RWVlTXZhSnZ5eHdFV0dLNGpNOUR2Qi1pUVEwTUE?oc=5",
+   "title": "Pressure grows on Xabi Alonso after Chelsea’s collapse against Leeds",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFFsaG05SGtnM05ISmlETmxFYnpGWS16U0hBR1RnMm5Ub2NKaWpfcTZYRGlsZ25zbkhmSlFfaWEwZy1fcEQ1anhYUUlWS2o3UzdqVFhlZW9yVjZCSGxiVmp2UG9LR3NETm5yMExoaHZPWGQwM1hPeHZKZ1ZZVEhoVDF4RWVlTXZhSnZ5eHdFV0dLNGpNOUR2Qi1pUVEwTUE?oc=5",
+   "source": "Footie Central",
+   "group": "영국 언론",
+   "date": 1795426065000,
+   "added": 1795437075034,
+   "cat": null,
+   "titleKo": "첼시의 리즈전 대패 후 사비 알론소 감독에 대한 압박이 커지고 있습니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGxUaVIyVEd3S09ObjhjRGg1cEpRRG5HdXFRRnA3dkdWcVZuU1Roek5YNjJfdTNLa1JsWkRILTN2MGVzaUpJdFBmaGx6VkoyeGRPcUJEdV9zZmtrRXBqN3BzY1N6cVFxZDZ6VFRnN3NBRHB2em5mMGhCeTByNG9aVnMzR21nazU2TFhKS2FIek4xQ0hCZ1V1bTFXQmJIQndJekJkeTNJOE1TVnIwOVdtaVVGcw?oc=5",
@@ -1063,6 +1145,17 @@
    "titleKo": "첼시 부상자 업데이트: 모이세스 카이세도, 주앙 페드로, 조렐 하토 최근 소식 및 복귀일"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0F5SERDSnJ3N0wzTlN2dWhjM1JhVmhzU2EtZFY2XzJTLTJuZ21ydzlwbVFEcVpiLTIySk84X1hha1Q4VU5CZE1ERlY4U3FJZS1ubjhObVhCQTVLa2VCd1ExX1JGc09DQlVsS1BYTEFBaW5PU3JlTGlqamVHcWNpSEZyWXE5ZG5Lb3NYMGl6aU9feFk0bWtubm1jM2NkUllrN0x4R1J5QWpPaW1YelI1dTR3WQ?oc=5",
+   "title": "Chelsea vs Leeds stat attack: Ethan Ampadu a menace as teammate’s numbers tell a lie",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0F5SERDSnJ3N0wzTlN2dWhjM1JhVmhzU2EtZFY2XzJTLTJuZ21ydzlwbVFEcVpiLTIySk84X1hha1Q4VU5CZE1ERlY4U3FJZS1ubjhObVhCQTVLa2VCd1ExX1JGc09DQlVsS1BYTEFBaW5PU3JlTGlqamVHcWNpSEZyWXE5ZG5Lb3NYMGl6aU9feFk0bWtubm1jM2NkUllrN0x4R1J5QWpPaW1YelI1dTR3WQ?oc=5",
+   "source": "MOT Leeds News",
+   "group": "영국 언론",
+   "date": 1795413600000,
+   "added": 1795437075034,
+   "cat": null,
+   "titleKo": "첼시 대 리즈 경기 통계 분석: 동료 선수들의 수치가 거짓말을 하는 가운데, 에단 암파두가 위협적 존재로 부상"
+  },
+  {
    "id": "https://www.football.london/chelsea-fc/news/brutally-honest-chelsea-assessment-xabi-34941299",
    "title": "The brutally honest Chelsea assessment Xabi Alonso will agree with as £342m decision questioned",
    "link": "https://www.football.london/chelsea-fc/news/brutally-honest-chelsea-assessment-xabi-34941299",
@@ -1187,6 +1280,17 @@
    "added": 1795381807778,
    "cat": null,
    "titleKo": "콜 파머, 첼시의 장기 계약이 선수들에게 너무 많은 권한을 부여한다는 것을 증명하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dlBFYUR2aWg4bU9SYThvc1cwR0tJaHFvR2VUX1FuZ1IwZDJIWHNuLXU0bkYxQXVRNXNnVm8zOE9vYXgxUXc0bXU4MjlybENaQlV1Z3dnVHlWZU82OHhoaFVnS2JtQ296YURxXzVEUXJQSTVxdGxjQUxn?oc=5",
+   "title": "- Chelsea Football Club",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dlBFYUR2aWg4bU9SYThvc1cwR0tJaHFvR2VUX1FuZ1IwZDJIWHNuLXU0bkYxQXVRNXNnVm8zOE9vYXgxUXc0bXU4MjlybENaQlV1Z3dnVHlWZU82OHhoaFVnS2JtQ296YURxXzVEUXJQSTVxdGxjQUxn?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795377846000,
+   "added": 1795437075035,
+   "cat": null,
+   "titleKo": "- 첼시 축구 클럽"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNZHVXT05oLThrRHlISGNqempPTWg4M0Z1UFM0QVlCTGJCSm5LMW13cnpxMWdfdmpEODFR?oc=5",
@@ -3260,6 +3364,17 @@
    "titleKo": "리버풀 0-0 첼시 - WSL 하이라이트"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbmZaTkpiMVg2aFVaTTZ0TnZUNDNwVHNCM28tNk1KbXl5QlhFTnpPYlgtYnRhTWhOUnN6RTBQc3J4Z2pvNkNuY0NtMllkWGlNTnlyMzZLdE1ucDlIek1zM2RUWmlrOFRMbnVGbnc0bw?oc=5",
+   "title": "Chelsea Overview",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbmZaTkpiMVg2aFVaTTZ0TnZUNDNwVHNCM28tNk1KbXl5QlhFTnpPYlgtYnRhTWhOUnN6RTBQc3J4Z2pvNkNuY0NtMllkWGlNTnlyMzZLdE1ucDlIek1zM2RUWmlrOFRMbnVGbnc0bw?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795273200000,
+   "added": 1795437075034,
+   "cat": null,
+   "titleKo": "첼시 개요"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFJHMDNGNkVQRndYaWhQS0ZUbzk4Y3M0Z0doTWhpdjlVZnl3YzFQclhsRTI3WEYtalZZNmJYbGNYNVkwMjdyemtvS0dvY25nM21iQjBBZ2RlU3V4d1VDdDdqWEJCNklTSzJqa2hLZzd1OGhqaFZqOWJxZTV6Q2RUUnVXN1o?oc=5",
    "title": "Can You Name All These Chelsea Players in 30 Seconds?",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFJHMDNGNkVQRndYaWhQS0ZUbzk4Y3M0Z0doTWhpdjlVZnl3YzFQclhsRTI3WEYtalZZNmJYbGNYNVkwMjdyemtvS0dvY25nM21iQjBBZ2RlU3V4d1VDdDdqWEJCNklTSzJqa2hLZzd1OGhqaFZqOWJxZTV6Q2RUUnVXN1o?oc=5",
@@ -4141,120 +4256,6 @@
    "added": 1795263074949,
    "cat": null,
    "titleKo": "첼시 - 유벤투스 0-1"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnhhTVJXUTBtNUU5eDV4RE5ic1lGYVVjMmx6c1hkM1VlaksySmVNUTRYUk1Pd2tSNzlHQXVEenJvRlpMZW1VMjJraXpnakplRGJSSUhWUlFuVm1lbzVMTFlEMTBPcWlobGk3WWZDdWdQdmlDNE1manNjbkJEMThoM0JZWXR1bFRRbzJRSndGS0luM0pFZGs1czFn?oc=5",
-   "title": "첼시 대 리즈 경기 프리뷰 및 예측: 마지막 순간까지 긴장감 넘치는 경기가 될 것 같습니다.",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnhhTVJXUTBtNUU5eDV4RE5ic1lGYVVjMmx6c1hkM1VlaksySmVNUTRYUk1Pd2tSNzlHQXVEenJvRlpMZW1VMjJraXpnakplRGJSSUhWUlFuVm1lbzVMTFlEMTBPcWlobGk3WWZDdWdQdmlDNE1manNjbkJEMThoM0JZWXR1bFRRbzJRSndGS0luM0pFZGs1czFn?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795231722000,
-   "added": 1795234598956,
-   "cat": "프리뷰",
-   "titleKo": "첼시 대 리즈 경기 프리뷰 및 예측: 마지막 순간까지 긴장감 넘치는 경기가 될 것 같습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
-   "title": "Tottenham Hotspur - Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795228719000,
-   "added": 1795260411404,
-   "cat": null,
-   "titleKo": "토트넘 홋스퍼 - 첼시"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
-   "title": "Bournemouth - Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795223816000,
-   "added": 1795354079202,
-   "cat": null,
-   "titleKo": "본머스 - 첼시"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1pYS3VQU2xhbDR4YmRiQ3E1cUh3T2ZXa1E3aHVJVjBmeFV3SHlaSmg0djl3VmtVZ1lDRnlPNTg1ZHYtcjlvTkZOUG9xRmpoXzg5R0I1bXlWdlZibUptV001QWcyVUFjOVFTdnV3T25YX2oxLWhmbVV3OXg4TXVWT1FGY25XUQ?oc=5",
-   "title": "Chelsea - Sunderland",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1pYS3VQU2xhbDR4YmRiQ3E1cUh3T2ZXa1E3aHVJVjBmeFV3SHlaSmg0djl3VmtVZ1lDRnlPNTg1ZHYtcjlvTkZOUG9xRmpoXzg5R0I1bXlWdlZibUptV001QWcyVUFjOVFTdnV3T25YX2oxLWhmbVV3OXg4TXVWT1FGY25XUQ?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795223510000,
-   "added": 1795254947264,
-   "cat": null,
-   "titleKo": "첼시 - 선덜랜드"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlndUY2bEFPdnQzNTVybnhZdEhFdklUM0VnVUEwMElSb0cweDNqZUJNTHY2NkNCa3VUazJsQkp6cHI5NjB5QzhwSlcxeWg4VFg0TUVsaXd3M2MtRE0xNU9DaUN3Zy01bVRjZFpNX0twZWlBcGN0Sno5QXFIQmE0a1ZJY25SU3BWXzlldTkySHhRdTJjVlRuemZwQ2xEUHBUYlNuSmpHcjE?oc=5",
-   "title": "Chelsea - Leeds United Live - Premier League: Football Scores & Highlights - 21/11/2026",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVlndUY2bEFPdnQzNTVybnhZdEhFdklUM0VnVUEwMElSb0cweDNqZUJNTHY2NkNCa3VUazJsQkp6cHI5NjB5QzhwSlcxeWg4VFg0TUVsaXd3M2MtRE0xNU9DaUN3Zy01bVRjZFpNX0twZWlBcGN0Sno5QXFIQmE0a1ZJY25SU3BWXzlldTkySHhRdTJjVlRuemZwQ2xEUHBUYlNuSmpHcjE?oc=5",
-   "source": "TNT Sports",
-   "group": "영국 언론",
-   "date": 1795221850000,
-   "added": 1795230706372,
-   "cat": null,
-   "titleKo": "첼시 - 리즈 유나이티드 실시간 - 프리미어리그: 축구 스코어 및 하이라이트 - 2026년 11월 21일"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/arsenal/premier-league-predictions/feature/wins-for-arsenal-man-city-saturdays-premier-league-predictions_609468.html",
-   "title": "Saturday's Premier League predictions including Newcastle United vs. Arsenal, Man City vs. Fulham",
-   "link": "https://www.sportsmole.co.uk/football/arsenal/premier-league-predictions/feature/wins-for-arsenal-man-city-saturdays-premier-league-predictions_609468.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795219500000,
-   "added": 1795228189345,
-   "cat": null,
-   "titleKo": "뉴캐슬 유나이티드 vs 아스널, 맨체스터 시티 vs 풀럼을 포함한 토요일 프리미어리그 예측",
-   "imgTried": true,
-   "image": "https://www.sportsmole.co.uk/thumbor/ndwbNx-K2EyFmjGBAZOvy8WbQ3Y=/1200x630/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fmikel-arteta-28-6af7b59d1419f940353994.jpg"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41087895/chelsea-team-news-xabi-alonso-maxence-lacroix-reece-james/",
-   "title": "Chelsea could get double injury boost as Xabi Alonso backs two key men to return early",
-   "link": "https://www.thesun.co.uk/sport/41087895/chelsea-team-news-xabi-alonso-maxence-lacroix-reece-james/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795217340000,
-   "cat": "부상",
-   "titleKo": "샤비 알론소가 두 명의 핵심 선수의 조기 복귀를 예상하면서 첼시가 부상 악재를 극복할 수 있을 것으로 보입니다.",
-   "imgTried": true,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fchelsea-manager-xabi-alonso-chelsea-1124442741.jpg?quality%3D90%26strip%3Dall"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGpON2IxeEVlczd6Zmd2SHpMd0dERGN2dW9xMFdKWG9XaFpqRFdzSUFtcFBSX0V6clhyQWVBMWw1T2t1cndickVuQ0p1eGxlNjN1TURveXZkcVJ1eTBfOUdIVTJkZGd6MEN3b3FLR2JGY2hING15MWZhZTdCdTRwUmwyUGc5VjVXZWRDQ2Q4VWQ0YjVrVWlBS0hCYXY1MEk?oc=5",
-   "title": "Chelsea could get double injury boost with two key men returning early",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGpON2IxeEVlczd6Zmd2SHpMd0dERGN2dW9xMFdKWG9XaFpqRFdzSUFtcFBSX0V6clhyQWVBMWw1T2t1cndickVuQ0p1eGxlNjN1TURveXZkcVJ1eTBfOUdIVTJkZGd6MEN3b3FLR2JGY2hING15MWZhZTdCdTRwUmwyUGc5VjVXZWRDQ2Q4VWQ0YjVrVWlBS0hCYXY1MEk?oc=5",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795217340000,
-   "cat": "부상",
-   "titleKo": "첼시, 두 명의 핵심 선수가 조기에 복귀하며 부상 악재를 두 배로 극복할 수 있을 전망"
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16309385/Chelsea-huge-150-000-fine-f-Pope-IRA-chants-FA-Cup-tie-Charlton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "Chelsea slapped with huge £150,000 fine after 'f*** the Pope and the IRA' fan chants in last season's FA Cup tie at Charlton",
-   "link": "https://www.dailymail.com/sport/football/article-16309385/Chelsea-huge-150-000-fine-f-Pope-IRA-chants-FA-Cup-tie-Charlton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795216884000,
-   "cat": null,
-   "titleKo": "첼시, 지난 시즌 FA컵 찰턴과의 경기에서 팬들이 '교황과 IRA(아일랜드 공화국군)는 엿이나 먹어라'라고 외친 후 15만 파운드의 거액의 벌금을 부과받음",
-   "imgTried": true,
-   "image": "https://i.dailymail.com/1s/2026/11/20/19/112638053-0-image-a-251_1795201885656.jpg"
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16309679/A-footballer-loves-getting-cards-Tottenham-star-Tosin-Adarabioyo-opens-passion-collecting-launches-trading-card-shop-London-Chelseas-Reece-James-Levi-Colwill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "A footballer who loves getting cards! Tottenham star Tosin Adarabioyo opens up on his passion for collecting as he launches trading card shop in London with Chelsea's Reece James and Levi Colwill",
-   "link": "https://www.dailymail.com/sport/football/article-16309679/A-footballer-loves-getting-cards-Tottenham-star-Tosin-Adarabioyo-opens-passion-collecting-launches-trading-card-shop-London-Chelseas-Reece-James-Levi-Colwill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795215984000,
-   "cat": null,
-   "titleKo": "카드를 수집하는 것을 좋아하는 축구 선수! 토트넘의 스타 토신 아다라비오요가 첼시의 리스 제임스와 레비 콜윌과 함께 런던에 트레이딩 카드 매장을 열면서 수집에 대한 열정을 털어놓았습니다.",
-   "imgTried": true,
-   "image": "https://i.dailymail.com/1s/2026/11/20/18/112640591-0-image-a-9_1795199491297.jpg"
   }
  ]
 }
