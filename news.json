@@ -1,34 +1,34 @@
 {
- "updated": 1795465824054,
+ "updated": 1795469009859,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 2,
+  "Sky Sports": 1,
   "talkSPORT": 5,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 5,
+  "Evening Standard": 7,
   "The Sun": 5,
   "Mirror": 2,
   "Daily Mail": 5,
   "Telegraph": 6,
-  "Independent": 1,
+  "Independent": 2,
   "Express": 0,
   "Sports Mole": 4,
-  "CaughtOffside": 1,
+  "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 68,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 0,
-  "구글뉴스(한국어)": 23,
+  "구글뉴스(한국어)": 22,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 30건"
+  "이번 상대": "Nottingham Forest · 새 기사 32건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -844,6 +844,76 @@
  },
  "items": [
   {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-liverpool-alonso-rosenior-merson-b1306099.html",
+   "title": "‘If this was Liam Rosenior’: Xabi Alonso’s Chelsea future questioned amid Liverpool ‘snub’",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-liverpool-alonso-rosenior-merson-b1306099.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795467888000,
+   "image": "https://static.standard.co.uk/2026/11/21/17/01M7ZGCB5B4W7TJ498Y0BKRBGF.jpg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795469001126,
+   "cat": null,
+   "titleKo": "‘이게 리암 로저니어였다면’: 리버풀의 ‘거절’ 속에서 샤비 알론소의 첼시 미래에 대한 의문 제기"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTJmQ1pDbGJiNnZFUlJBc0FjWlgxVl9kbGNZcHA5dUMxX0FlMkRTNzJqUDg0V0Q3MjgyRzloVm5VVHpxZExlWHpGNm5BYnRFLWowcHRwYk5tNEdGZE1WTWVIVF95TDVZSk56dnBmV0J2UjVMN0pxQmVja1ZhcXFiR1FOM1k2Z1I4dXlZRG9EMGpzaVpCb1pIZEE1S20td0R0?oc=5",
+   "title": "‘Major trouble’: Alonso’s Chelsea future doubted amid Liverpool ‘snub’",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTJmQ1pDbGJiNnZFUlJBc0FjWlgxVl9kbGNZcHA5dUMxX0FlMkRTNzJqUDg0V0Q3MjgyRzloVm5VVHpxZExlWHpGNm5BYnRFLWowcHRwYk5tNEdGZE1WTWVIVF95TDVZSk56dnBmV0J2UjVMN0pxQmVja1ZhcXFiR1FOM1k2Z1I4dXlZRG9EMGpzaVpCb1pIZEE1S20td0R0?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795467888000,
+   "added": 1795469001126,
+   "cat": null,
+   "titleKo": "'큰 문제': 리버풀 '거절' 속 알론소의 첼시 미래에 의구심"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/23/alarming-report-claims-why-chelsea-players-are-reportedly-unhappy-with-xabi-alonso/",
+   "title": "Alarming report claims why Chelsea players are reportedly unhappy with Xabi Alonso",
+   "link": "https://www.caughtoffside.com/2026/11/23/alarming-report-claims-why-chelsea-players-are-reportedly-unhappy-with-xabi-alonso/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795467600000,
+   "image": "https://icdn.caughtoffside.com/2026/10/COS-FeaturedHero-Image-Templates-4-1792751585.jpg",
+   "added": 1795469001126,
+   "cat": null,
+   "titleKo": "첼시 선수들이 사비 알론소 감독을 탐탁지 않게 여기는 이유를 밝힌 충격적인 보도"
+  },
+  {
+   "id": "https://www.independent.co.uk/sport/football/cole-palmer-chelsea-leeds-hasselbaink-b3090227.html",
+   "title": "Ex-Chelsea star defends Cole Palmer after criticism over reaction to Leeds loss",
+   "link": "https://www.independent.co.uk/sport/football/cole-palmer-chelsea-leeds-hasselbaink-b3090227.html",
+   "source": "Independent",
+   "group": "영국 언론",
+   "date": 1795467163000,
+   "image": "https://static.independent.co.uk/2026/11/23/20/2306316452..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+   "added": 1795469001126,
+   "cat": null,
+   "titleKo": "첼시의 전 스타 선수, 리즈전 패배에 대한 반응으로 비판받은 콜 파머를 옹호하다"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-carragher-verdict-fofana-colwill-b1306098.html",
+   "title": "Jamie Carragher delivers damning Chelsea transfer verdict as £75m signing slammed",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-carragher-verdict-fofana-colwill-b1306098.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795467111000,
+   "image": "https://static.standard.co.uk/2026/11/23/16/2306316624..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795469001126,
+   "cat": "이적",
+   "titleKo": "제이미 캐러거, 7,500만 파운드(약 1,250억 원)의 이적료를 주고 영입한 선수가 혹평을 받자 첼시의 이적 정책에 대해 혹독한 비판을 가했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQl82b3FhMGxvTnVHNEhrMTVWbVRneElYS3FYcWhCZHpUQnc0Tzhjc1lTZjNBemZvZWk0bUROVlJoVmQ4LXN0b3BSMG9qbUlUd0FJci1aZkNKcXlXMk9HY0ZDWlU0Rjh2S0Z4Y1Zma2YyTFluckJvMkk0VUJEaTZlZGRVMVcyMVBXTnBPcEZRbWxldUFzcldObkpNUkp2UHc2?oc=5",
+   "title": "Carragher delivers damning Chelsea verdict as £75m signing slammed",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQl82b3FhMGxvTnVHNEhrMTVWbVRneElYS3FYcWhCZHpUQnc0Tzhjc1lTZjNBemZvZWk0bUROVlJoVmQ4LXN0b3BSMG9qbUlUd0FJci1aZkNKcXlXMk9HY0ZDWlU0Rjh2S0Z4Y1Zma2YyTFluckJvMkk0VUJEaTZlZGRVMVcyMVBXTnBPcEZRbWxldUFzcldObkpNUkp2UHc2?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795467111000,
+   "added": 1795469001126,
+   "cat": null,
+   "titleKo": "캐러거, 7,500만 파운드 이적에 대해 비판하며 첼시에 대한 혹독한 평가를 내리다"
+  },
+  {
    "id": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "title": "Chelsea latest: Carra explains why Fofana-Colwill partnership 'will never work'",
    "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -866,6 +936,17 @@
    "added": 1795465812948,
    "cat": null,
    "titleKo": "첼시의 '기운이 빠지는' 경기력에 대해 전문가가 지적한 바에 따르면, 블루스는 또 한 번의 비겁한 패배를 당했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVFlejNMYktsU1JQT2VSbXIwOHM5ekVTcG1vTDhZWGREcXJUb2RHOGtKQmRVekduTUkyY3BJLVJTSjBJZVZLdElBNEFxX1kxYmlRV2wzYnRaN1QwdHVwMVY1VHpVbUFSYjV3YXdQNTdQOGxPMHRCS2k4OWVDdXM1eHVocTRoY1hISHprNjRFVXAzRllkYnlzUC1jS0lDLWlZLUFFMVREc2jSAa4BQVVfeXFMTlVDY0VpV05lMUV3SWlnSHZxaEVMNF9TeTNvVjRaM3RpZUJieE9lUmxWS3VObm5FMXQ3c3dqZG5nTTVRU2Y3R0NKZUVrWXkydlNDaUU3TkxmdVhtQWlfMXd4Q1JpaTYtS1FCcE5iWWktYUpNZHIwSml1aUxjLThfZl9tcW41WkhtS25pS3hOMjFDMDZtMEV4SnJfWlBkbVFPX2RVMUlaSmNqWWh6MGFR?oc=5",
+   "title": "Chelsea open door for Malo Gusto exit as January decision emerges",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVFlejNMYktsU1JQT2VSbXIwOHM5ekVTcG1vTDhZWGREcXJUb2RHOGtKQmRVekduTUkyY3BJLVJTSjBJZVZLdElBNEFxX1kxYmlRV2wzYnRaN1QwdHVwMVY1VHpVbUFSYjV3YXdQNTdQOGxPMHRCS2k4OWVDdXM1eHVocTRoY1hISHprNjRFVXAzRllkYnlzUC1jS0lDLWlZLUFFMVREc2jSAa4BQVVfeXFMTlVDY0VpV05lMUV3SWlnSHZxaEVMNF9TeTNvVjRaM3RpZUJieE9lUmxWS3VObm5FMXQ3c3dqZG5nTTVRU2Y3R0NKZUVrWXkydlNDaUU3TkxmdVhtQWlfMXd4Q1JpaTYtS1FCcE5iWWktYUpNZHIwSml1aUxjLThfZl9tcW41WkhtS25pS3hOMjFDMDZtMEV4SnJfWlBkbVFPX2RVMUlaSmNqWWh6MGFR?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795463637000,
+   "added": 1795469001127,
+   "cat": null,
+   "titleKo": "첼시, 1월 이적 결정에 따라 말로 귀스토의 이적 가능성 열어"
   },
   {
    "id": "https://www.skysports.com/football/news/11095/13615767/chelsea-must-sign-centre-back-or-will-achieve-nothing-with-levi-colwill-and-wesley-fofana-says-jamie-carragher",
@@ -923,6 +1004,17 @@
    "added": 1795459135779,
    "cat": null,
    "titleKo": "첼시, 리즈 유나이티드에 실망스러운 패배를 당한 후 사비 알론소의 미래를 결정하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZUaXBzdEN4MTQ3OHVMaXJqSks4Ulp1cVBPODYyRUtmd2FTQ1FqMld6TkxKZmpvdVE2TGZJaEoxcnNoSTg1OVRTaGtJQUFpeW56X0VadVZZOGxSX2gwXzJqZFdrODJZck45TDZVSngyaXluX2ltQzJOdnlVYVM3UFM4aWlTZ3pzWGZhTHdtZWZJTER4MU5KaHItTDhsUENtVm8wR3BpclhxMzRKWXVJ0gG0AUFVX3lxTE5KRXllTVhKenhsLXF5TnBHOTQxLWNsUkpfMnFUVEUxY2JhWGN4WXFLcm1CQmJTVWxNcjV2eW5ibzM4YkFCa09IY3R3S0N6eXhDa3puRTVSenV1SXhKT0E2c3FuX3E0QXZtREh4RjJzOEN4TXBTeTNxWlZvOFFQSmt6akRrOG92bERBQjB5OEJGR0Q4cVc1dUUyLXBVOTV1dVdEakg1MmxHSVdENlBEbjJRSnJvQw?oc=5",
+   "title": "Chelsea owners make decision on Alonso’s future after Leeds humiliation",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZUaXBzdEN4MTQ3OHVMaXJqSks4Ulp1cVBPODYyRUtmd2FTQ1FqMld6TkxKZmpvdVE2TGZJaEoxcnNoSTg1OVRTaGtJQUFpeW56X0VadVZZOGxSX2gwXzJqZFdrODJZck45TDZVSngyaXluX2ltQzJOdnlVYVM3UFM4aWlTZ3pzWGZhTHdtZWZJTER4MU5KaHItTDhsUENtVm8wR3BpclhxMzRKWXVJ0gG0AUFVX3lxTE5KRXllTVhKenhsLXF5TnBHOTQxLWNsUkpfMnFUVEUxY2JhWGN4WXFLcm1CQmJTVWxNcjV2eW5ibzM4YkFCa09IY3R3S0N6eXhDa3puRTVSenV1SXhKT0E2c3FuX3E0QXZtREh4RjJzOEN4TXBTeTNxWlZvOFFQSmt6akRrOG92bERBQjB5OEJGR0Q4cVc1dUUyLXBVOTV1dVdEakg1MmxHSVdENlBEbjJRSnJvQw?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795458249000,
+   "added": 1795469001126,
+   "cat": null,
+   "titleKo": "첼시 구단주, 리즈전 대패 후 알론소 감독의 거취 결정"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1pzdVdieUx3aEM5d3dVVlhkQlFtbTNudkpreVBCR3NFcFpWdmRvN2RVb3otWU1GVjNQUW82WFl3MGcxU1hHY2J3WHhubllQZEYwNEhUaWw4cGpqamNkNTlsMzF2bE9mSjZrSG16X04yQl95bUh5OVo4aVJMY2hhUDVlc2lJWWQ1VWY3a0h6MjFEYTZZbmlOYTJkZzRNa2Nnc0VTWDJwY1FJMzZ1SU9nMU93aw?oc=5",
@@ -4168,97 +4260,6 @@
    "added": 1795272695717,
    "cat": null,
    "titleKo": "일론 머스크의 변호사가 톰 브래디와 함께 첼시 지분 매수에 참여"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3ZPSUZFM3pDZTd2cmdiMEZiWkpCVS1xQjJCSVI2V1VsQ0pEdWlGMzN6NlNHYVB1dFFabGx1MjczM2hfVmFZaTgwU2o2SXBJZjEyZG0yUkR4aDBqc1ZjaGRHQVAxMmlaT3BqYzlvY0IzZjhvd1Z4aGxXNExjOVhWdWJJOFZtTzFpeXlHN1BXdjVsRlhXNnE0VU1yeTZTOW5TdmF6NHF4N2FNMkE3MTFr?oc=5",
-   "title": "U18 PL Highlights: Chelsea U18 vs Arsenal U18 | Video",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3ZPSUZFM3pDZTd2cmdiMEZiWkpCVS1xQjJCSVI2V1VsQ0pEdWlGMzN6NlNHYVB1dFFabGx1MjczM2hfVmFZaTgwU2o2SXBJZjEyZG0yUkR4aDBqc1ZjaGRHQVAxMmlaT3BqYzlvY0IzZjhvd1Z4aGxXNExjOVhWdWJJOFZtTzFpeXlHN1BXdjVsRlhXNnE0VU1yeTZTOW5TdmF6NHF4N2FNMkE3MTFr?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795269904000,
-   "added": 1795272695719,
-   "cat": null,
-   "titleKo": "U18 PL 하이라이트: 첼시 U18 vs 아스널 U18 | 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR1k2UFJlYk1XUjc1SUxic0RnWmJXYWpnUVZDNmI5UGhkbFhBN2k4MUdTUDN3TzVGME55ZEFsMWs0M2t3UE5xQllQUlA4WVZrMGVGcEx2SGgzVEd3c0ZZSWhHWVpzYU9jOFZNaFgyYnlqSzVqSFVPSGtxM29HOURJcnhRWjdhQ3JtbFJKdWJKakJ5UEswVUw4VjN2dHlpNWRodjBFQWQ5RWZGdEdiNlVEUEhDTzY4dGl6N29FR05RVlRFRE9BYm5Od1BBclJmVDVKSXFMTzRFTUNTQzlaRUFvcnFHaUgyTUVpYnc?oc=5",
-   "title": "Chelsea XI vs Leeds: Starting lineup and confirmed team news",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR1k2UFJlYk1XUjc1SUxic0RnWmJXYWpnUVZDNmI5UGhkbFhBN2k4MUdTUDN3TzVGME55ZEFsMWs0M2t3UE5xQllQUlA4WVZrMGVGcEx2SGgzVEd3c0ZZSWhHWVpzYU9jOFZNaFgyYnlqSzVqSFVPSGtxM29HOURJcnhRWjdhQ3JtbFJKdWJKakJ5UEswVUw4VjN2dHlpNWRodjBFQWQ5RWZGdEdiNlVEUEhDTzY4dGl6N29FR05RVlRFRE9BYm5Od1BBclJmVDVKSXFMTzRFTUNTQzlaRUFvcnFHaUgyTUVpYnc?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795269525000,
-   "added": 1795269738976,
-   "cat": "오피셜",
-   "titleKo": "첼시 XI vs 리즈: 선발 명단 및 확정된 팀 소식"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-liverpool-olutayo-subuloye-emegha-b1302685.html",
-   "title": "Who is Olutayo Subuloye? Chelsea youngster on bench for Leeds clash",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-liverpool-olutayo-subuloye-emegha-b1302685.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795269440000,
-   "image": "https://static.standard.co.uk/2026/10/28/16/2292887203..?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795272695718,
-   "cat": null,
-   "titleKo": "올루타요 수불로예는 누구인가요? 리즈와의 경기를 앞두고 벤치에 앉은 첼시의 유망주"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2lIV2tmZmhUeG12TWtfUFctQ3pKNVZOQXNDTml6cnZkdjgtTlVQWkNfUWhkQlVRRF9ac01FeEgwMmhCX2NQNkM4bm5JbmtPS3FjeGJrWFJSdk1GWHQ5TU9kUENPTG9pWThuN2Q1QXp0U3VBLTN1a2x4NzM2X3c2VXctQUQtQVBfc3gxYmVoS3dvaTNaUnFlb2dSTW0tTW5DaUloYkRTbGJnZ2VMNHNkWFFPbkQ2bllKMnV3?oc=5",
-   "title": "Chelsea vs Leeds Confirmed Lineups",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2lIV2tmZmhUeG12TWtfUFctQ3pKNVZOQXNDTml6cnZkdjgtTlVQWkNfUWhkQlVRRF9ac01FeEgwMmhCX2NQNkM4bm5JbmtPS3FjeGJrWFJSdk1GWHQ5TU9kUENPTG9pWThuN2Q1QXp0U3VBLTN1a2x4NzM2X3c2VXctQUQtQVBfc3gxYmVoS3dvaTNaUnFlb2dSTW0tTW5DaUloYkRTbGJnZ2VMNHNkWFFPbkQ2bllKMnV3?oc=5",
-   "source": "WhoScored.com",
-   "group": "영국 언론",
-   "date": 1795269360000,
-   "added": 1795272695718,
-   "cat": "오피셜",
-   "titleKo": "첼시 vs 리즈 유나이티드 확정 선발 명단"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwSWE0UXFQSXVvZjYwdGpVemdUQ2o5ZlotSG8wTlRvRmc0a0JfbXdpUC0yaXIxWFhXek5iMGVtV0x5S2tpbVA0XzQ3M2IyUElQZ1dheWNNcG54MGNYUW5ueA?oc=5",
-   "title": "Chelsea vs Leeds team news: Caicedo available as Chelsea weigh attacking options",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwSWE0UXFQSXVvZjYwdGpVemdUQ2o5ZlotSG8wTlRvRmc0a0JfbXdpUC0yaXIxWFhXek5iMGVtV0x5S2tpbVA0XzQ3M2IyUElQZ1dheWNNcG54MGNYUW5ueA?oc=5",
-   "source": "Dave.Sport",
-   "group": "영국 언론",
-   "date": 1795269189000,
-   "added": 1795291206288,
-   "cat": null,
-   "titleKo": "첼시 vs 리즈 유나이티드 팀 소식: 첼시가 공격 옵션을 저울질하는 가운데 카이세도가 출전 가능"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkRIMFpFdnhNVjNVdGwyYU1aZTMxSEdRU3RYbmNHNTBBUWdOMEctckpSaG1WNy1SQm95Q2ZHV3FhR0FKRDhfNlJQbC05Y21RUndILTRRaHotcnpjRFk2d1lvTGZLOWtTLWFDQ0dPZEZaRW8zdFVhQkRRVUExSWhtMmxQRzlJSUtWaWtiRlRKcVVDc3BBdVlHcHBLc2I4cVViU01PUGpnVXVraTh1cGlDdlBTaW9TaXJrTWh6ZC1vYjVHMlZwcVlOdHFCRQ?oc=5",
-   "title": "Chelsea vs. Leeds United, Premier League: Confirmed lineups; how to watch",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkRIMFpFdnhNVjNVdGwyYU1aZTMxSEdRU3RYbmNHNTBBUWdOMEctckpSaG1WNy1SQm95Q2ZHV3FhR0FKRDhfNlJQbC05Y21RUndILTRRaHotcnpjRFk2d1lvTGZLOWtTLWFDQ0dPZEZaRW8zdFVhQkRRVUExSWhtMmxQRzlJSUtWaWtiRlRKcVVDc3BBdVlHcHBLc2I4cVViU01PUGpnVXVraTh1cGlDdlBTaW9TaXJrTWh6ZC1vYjVHMlZwcVlOdHFCRQ?oc=5",
-   "source": "We Ain't Got No History",
-   "group": "영국 언론",
-   "date": 1795269147000,
-   "added": 1795272695718,
-   "cat": "오피셜",
-   "titleKo": "첼시 vs. 리즈 유나이티드, 프리미어리그: 확정된 선발 명단, 시청 방법"
-  },
-  {
-   "id": "https://www.talkchelsea.net/team-news-line-ups/team-news-signing-debut-alonso-attacking-team/",
-   "title": "Team News: Summer signing gets debut as Alonso picks attacking team to face Leeds",
-   "link": "https://www.talkchelsea.net/team-news-line-ups/team-news-signing-debut-alonso-attacking-team/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795269146000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/Working-copy-of-CNFeatured_Hero-Image-Templates-2-2-414x233.jpg",
-   "added": 1795269738977,
-   "cat": null,
-   "titleKo": "팀 소식: 알론소 감독이 리즈와의 경기를 앞두고 공격적인 팀을 구성하면서 여름 이적 시장에서 영입한 선수가 데뷔전을 치릅니다."
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-leeds-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1305661.html",
-   "title": "Chelsea XI vs Leeds: Starting lineup, confirmed team news, injury latest for Premier League today",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-leeds-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1305661.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795268963000,
-   "image": "https://static.standard.co.uk/2026/10/27/16/27/ChelseapredictedXI2627.png?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795269738976,
-   "cat": "오피셜",
-   "titleKo": "첼시 XI vs 리즈: 선발 명단, 확정된 팀 소식, 오늘 프리미어리그 부상 소식"
   }
  ]
 }
