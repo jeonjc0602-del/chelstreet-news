@@ -1,20 +1,20 @@
 {
- "updated": 1795415193601,
+ "updated": 1795420947377,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
   "talkSPORT": 6,
   "The Guardian": 20,
   "football.london": 25,
-  "Evening Standard": 2,
+  "Evening Standard": 3,
   "The Sun": 1,
-  "Mirror": 0,
+  "Mirror": 1,
   "Daily Mail": 8,
   "Telegraph": 6,
   "Independent": 1,
   "Express": 0,
   "Sports Mole": 5,
-  "CaughtOffside": 3,
+  "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 71,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 33건"
+  "이번 상대": "Nottingham Forest · 새 기사 1건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -844,6 +844,75 @@
  },
  "items": [
   {
+   "id": "https://www.mirror.co.uk/sport/football/news/chelsea-star-robbed-leeds-statement-37904928",
+   "title": "Chelsea star reveals he was 'robbed' after Leeds thrashing as statement released",
+   "link": "https://www.mirror.co.uk/sport/football/news/chelsea-star-robbed-leeds-statement-37904928",
+   "source": "Mirror",
+   "group": "영국 언론",
+   "date": 1795420310000,
+   "image": "https://i2-prod.mirror.co.uk/incoming/article37904933.ece/ALTERNATES/s615/0_GettyImages-2305629962.jpg",
+   "added": 1795420936987,
+   "cat": "인터뷰",
+   "titleKo": "첼시의 스타 선수가 리즈전 대패 후 '강도'를 당했다고 밝히며 성명 발표"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2xjaUg5RGhlMkh2bnF5c0xQQVZaVXFxdGpORlgteXB4ZTZRUFRjQzQ2cXE5ZzQ3SkhnUklmMzI5eG9QdDRLQVhvSTlRbTNkOGtoVXZvXzAxUFFUaEJEVlJ3WjQtQm4wTGxlRjQ3SnZqeW9LOXhMQU1GNm1MX2hFQ0dQMHRiZkVNWUZYRw?oc=5",
+   "title": "Emmanuel Emegha reveals he was robbed hours after scoring his first Chelsea goal in 4-1 Stamford Bridge humiliation against Leeds United",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2xjaUg5RGhlMkh2bnF5c0xQQVZaVXFxdGpORlgteXB4ZTZRUFRjQzQ2cXE5ZzQ3SkhnUklmMzI5eG9QdDRLQVhvSTlRbTNkOGtoVXZvXzAxUFFUaEJEVlJ3WjQtQm4wTGxlRjQ3SnZqeW9LOXhMQU1GNm1MX2hFQ0dQMHRiZkVNWUZYRw?oc=5",
+   "source": "Yahoo",
+   "group": "영국 언론",
+   "date": 1795420200000,
+   "added": 1795420936988,
+   "cat": "인터뷰",
+   "titleKo": "에마뉘엘 에메가가 첼시에서 첫 골을 넣은 지 몇 시간 만에 강도를 당했다고 밝혔습니다. 당시 첼시는 스탬퍼드 브리지에서 리즈 유나이티드를 상대로 4-1로 대승을 거뒀습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUlLWmk4M0NzcmR5Z0hHeE1CeGZmVnpneTdFVDFXUFpCc0Q4OWRBRWdTWFRaUXRUNG1qRk5Ld0hZZWUwUlVqOEpIeWVOa2JINzh1X1ItWDVtNjBjVnNXRHZid2l4OFdTX3NvMmZJaUI0RjFNVUt5N2s3VFpoNnpyUXc3N3o0a2dt?oc=5",
+   "title": "Tom Brady buys into Clearlake's Chelsea vehicle",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUlLWmk4M0NzcmR5Z0hHeE1CeGZmVnpneTdFVDFXUFpCc0Q4OWRBRWdTWFRaUXRUNG1qRk5Ld0hZZWUwUlVqOEpIeWVOa2JINzh1X1ItWDVtNjBjVnNXRHZid2l4OFdTX3NvMmZJaUI0RjFNVUt5N2s3VFpoNnpyUXc3N3o0a2dt?oc=5",
+   "source": "The Esk",
+   "group": "영국 언론",
+   "date": 1795419881000,
+   "added": 1795420936988,
+   "cat": null,
+   "titleKo": "톰 브래디, 클리어레이크의 첼시 지분 인수"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-musiala-kroupi-toney-b1303142.html",
+   "title": "Transfer news LIVE: Shock Arsenal move, Kroupi twist; Man Utd want Toney; Chelsea double deal; Liverpool latest",
+   "link": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-musiala-kroupi-toney-b1303142.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795419814000,
+   "image": "https://static.standard.co.uk/2026/11/23/7/06/jamalmusialaelijuniorkroupiivantoney.jpeg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795420936987,
+   "cat": "이적",
+   "titleKo": "이적 시장 뉴스 라이브: 아스널의 충격적인 행보, 크루피 관련 반전; 맨유, 토니 영입 원해; 첼시, 두 건의 이적 협상 진행 중; 리버풀 관련 최신 소식"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/23/liverpool-face-fresh-chelsea-competition-ligue-1-star/",
+   "title": "Liverpool face fresh Chelsea competition for £58m-rated Ligue 1 star",
+   "link": "https://www.caughtoffside.com/2026/11/23/liverpool-face-fresh-chelsea-competition-ligue-1-star/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795417344000,
+   "image": "https://icdn.caughtoffside.com/2026/10/COS-FeaturedHero-Image-Templates-4-4.jpg",
+   "added": 1795420936988,
+   "cat": null,
+   "titleKo": "리버풀, 5,800만 파운드(약 966억 원) 가치의 리그 1 스타를 두고 첼시와 새로운 경쟁에 직면"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42amM2NjE5V1JDaTI1a2RUWDVieFVtekhMc1hIdXp6RFZLSWk3Z0ZWWW1uNDhSOUFPZ193ajYxLWRjbE5zeUo3cWQxNlQzNjFwUzl5Ni1GWDNEM2otdVVJdC1hd2hBdERJd29DOUtzSVc?oc=5",
+   "title": "\"패배하자마자 팬들 무시하고 사라졌다\" 충격적인 행보 보이는 첼시 에이스...\"어려울수록 책임감 보여야\" 비판 쏟아져",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42amM2NjE5V1JDaTI1a2RUWDVieFVtekhMc1hIdXp6RFZLSWk3Z0ZWWW1uNDhSOUFPZ193ajYxLWRjbE5zeUo3cWQxNlQzNjFwUzl5Ni1GWDNEM2otdVVJdC1hd2hBdERJd29DOUtzSVc?oc=5",
+   "source": "SPOTV NEWS",
+   "group": "한국 언론",
+   "date": 1795416600000,
+   "added": 1795420936988,
+   "cat": null,
+   "titleKo": "\"패배하자마자 팬들 무시하고 사라졌다\" 충격적인 행보 보이는 첼시 에이스...\"어려울수록 책임감 보여야\" 비판 쏟아져"
+  },
+  {
    "id": "https://www.caughtoffside.com/2026/11/23/arsenal-chelsea-monitor-europes-fastest-rising-managers/",
    "title": "Arsenal and Chelsea monitor one of Europe’s fastest-rising young managers",
    "link": "https://www.caughtoffside.com/2026/11/23/arsenal-chelsea-monitor-europes-fastest-rising-managers/",
@@ -854,6 +923,17 @@
    "added": 1795415186794,
    "cat": null,
    "titleKo": "아스널과 첼시, 유럽에서 가장 빠르게 성장하는 젊은 감독 중 한 명을 주시하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDVBdllTSC1PTUVhNGZDVDNJRnBGb2t0U2xYeDNoY1dkUWlSaWNlTm45M3NTR2tHUmluSWJsNmJUWEJ0SHNUcWdqTnRMRWZKbDZHUldEaUFCb0t2LUF6d3hoanpIa2MyY052YTc0S0lISE9MVnkwQ1IzSXc1TlRRWFI2aUthRUZzcmxITjZMV09MRnZJRmdfZWpZejZrMjFwTmVSZlZwMXR2QVZjY3ROTUgxS3ZvR1JNU3hYdG8xRTNiMWdrdC1fdQ?oc=5",
+   "title": "Chelsea injury update: Caicedo, Joao Pedro, Hato latest return dates",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDVBdllTSC1PTUVhNGZDVDNJRnBGb2t0U2xYeDNoY1dkUWlSaWNlTm45M3NTR2tHUmluSWJsNmJUWEJ0SHNUcWdqTnRMRWZKbDZHUldEaUFCb0t2LUF6d3hoanpIa2MyY052YTc0S0lISE9MVnkwQ1IzSXc1TlRRWFI2aUthRUZzcmxITjZMV09MRnZJRmdfZWpZejZrMjFwTmVSZlZwMXR2QVZjY3ROTUgxS3ZvR1JNU3hYdG8xRTNiMWdrdC1fdQ?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795414655000,
+   "added": 1795420936988,
+   "cat": "부상",
+   "titleKo": "첼시 부상자 소식: 카이세도, 주앙 페드로, 하토의 최근 복귀 일정"
   },
   {
    "id": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-update-caicedo-joao-pedro-hato-latest-news-return-dates-b1305824.html",
@@ -970,6 +1050,17 @@
    "added": 1795389386654,
    "cat": "인터뷰",
    "titleKo": "첼시의 스타 선수 에마뉘엘 에메가가 리즈전에서 첫 프리미어리그 골을 넣은 후 강도를 당했다고 밝힘"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWxMcjFkN0NWVFdMVzRPVzFxTGxUZWU0T1ZGa2x5YXVCeFpCTUV2b3BsOGtNcEJsNVpkRW1lWFVNLTBCRVpqRDg1aFRRamNxbHpLZG1aSUVBQlNFZEg3dzFCQ3FESFlwWWJxbGpULXhZMW1QTHJjcWctYjZSSFZ1a1N4bkk5NjhyRHhkVG83QzNZUEhDZVlhcml4dGdxdUE0c0lWUTVqQ2ZVakZ0eXhxUl9PbDV4NmZjbjZNX3dBaw?oc=5",
+   "title": "How Sean Longstaff may have quietly secured Daniel Farke's favour after Leeds win vs Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWxMcjFkN0NWVFdMVzRPVzFxTGxUZWU0T1ZGa2x5YXVCeFpCTUV2b3BsOGtNcEJsNVpkRW1lWFVNLTBCRVpqRDg1aFRRamNxbHpLZG1aSUVBQlNFZEg3dzFCQ3FESFlwWWJxbGpULXhZMW1QTHJjcWctYjZSSFZ1a1N4bkk5NjhyRHhkVG83QzNZUEhDZVlhcml4dGdxdUE0c0lWUTVqQ2ZVakZ0eXhxUl9PbDV4NmZjbjZNX3dBaw?oc=5",
+   "source": "MOT Leeds News",
+   "group": "영국 언론",
+   "date": 1795381200000,
+   "added": 1795420936988,
+   "cat": null,
+   "titleKo": "숀 롱스태프가 첼시와의 경기에서 리즈 유나이티드가 승리한 후 어떻게 조용히 다니엘 파르케 감독의 신임을 얻었을지"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVV9DaEMzN0wwNkowUk5NOFdCcTN4QWhKdVJkamJzNHhkeXg5UXFLMVdyUDBxb29BUXZhMW10Y1pnZXl5TTVqSzYwQjJBZHBGTjhzWDVLQWRZb1oyYkhzbE4zVkMxVUZ0aTZsSWdPR3U0RGRydDNoQVFucng3TDRGNGhPY0dFdHRCZXFKX3MtRmpmRmJTZUFJRWpOTk9sSHI5Z3JzSEhn?oc=5",
@@ -1131,6 +1222,17 @@
    "added": 1795357254472,
    "cat": null,
    "titleKo": "첼시, 6천만 파운드의 문제가 드러나면서 챔피언스리그 목표를 명확히 설정"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlPbTJRVzFTQjRsdG9uTTVoNmozLTZxLTRtZ0Z0N2o4MVlEb19NbWhfTlo2UE9LZTB0cTNwaFYyWDJ2ZllLQVdvc0dmN2ZHNGZ1a0dtTGZFelE0d0JBQU9hNmhUOUZtc3VtUHVLZXh4eVVqYTdGUUVQUEs2RW5TUFhIVGozZ080SVJTcU1Za2p6bVVlTm85R2hMb3B0c3fSAaQBQVVfeXFMTUlLcnIxUkRyZWoyTTBTMXlUbVhBNmROdFcxSU5EMzBoVGRJTGx3VkNRQ3pOZTU5X1B3TldBVUhDX19XYWZYaFN1NzB6bHVLVTZRMUhYTkM5UUpPR1dydUd1SEZHWmxIZE5qdV91WlZmOGJtTlY0MTdsTkZEaE1EUG1kR3BteS1xS2hkaS1HUGhsam1jSjZIYzYyZVNrYzM3ek1iTHQ?oc=5",
+   "title": "Xabi Alonso makes worrying comment as 'fragile' Chelsea hit new low",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlPbTJRVzFTQjRsdG9uTTVoNmozLTZxLTRtZ0Z0N2o4MVlEb19NbWhfTlo2UE9LZTB0cTNwaFYyWDJ2ZllLQVdvc0dmN2ZHNGZ1a0dtTGZFelE0d0JBQU9hNmhUOUZtc3VtUHVLZXh4eVVqYTdGUUVQUEs2RW5TUFhIVGozZ080SVJTcU1Za2p6bVVlTm85R2hMb3B0c3fSAaQBQVVfeXFMTUlLcnIxUkRyZWoyTTBTMXlUbVhBNmROdFcxSU5EMzBoVGRJTGx3VkNRQ3pOZTU5X1B3TldBVUhDX19XYWZYaFN1NzB6bHVLVTZRMUhYTkM5UUpPR1dydUd1SEZHWmxIZE5qdV91WlZmOGJtTlY0MTdsTkZEaE1EUG1kR3BteS1xS2hkaS1HUGhsam1jSjZIYzYyZVNrYzM3ek1iTHQ?oc=5",
+   "source": "Daily Express",
+   "group": "영국 언론",
+   "date": 1795355700000,
+   "added": 1795420936988,
+   "cat": null,
+   "titleKo": "샤비 알론소, '취약한' 첼시가 새로운 최저점을 찍자 우려스러운 발언을 하다"
   },
   {
    "id": "https://www.thesun.co.uk/sport/41106646/xabi-alonso-must-get-angry-chelsea/",
@@ -1381,6 +1483,17 @@
    "added": 1795354079201,
    "cat": null,
    "titleKo": "첼시: 사비 알론소가 감독직을 맡은 이후 클럽이 발전했나요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllyZExlcnFuNzhUWllsdEhlRkFLT3FhUXo2Qi1FUGRVU1EtRUtTVk1ENmFxZ1JCZVFWV2gyNk5ySjBNNy1OVHRUUnUtbnBKSEx2RWVKbkM3UnhuZXhxNm5ieEU0Wmh2RnY5SlJzZDFIWDZkT0hKdDFjVGtUdENXQW51aDRZVFc4N2dYY0l0NjFrTVlrMU1nZ1p2LU0?oc=5",
+   "title": "Alonso addresses Palmer touchline row with Pedro moments after Chelsea defeat",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllyZExlcnFuNzhUWllsdEhlRkFLT3FhUXo2Qi1FUGRVU1EtRUtTVk1ENmFxZ1JCZVFWV2gyNk5ySjBNNy1OVHRUUnUtbnBKSEx2RWVKbkM3UnhuZXhxNm5ieEU0Wmh2RnY5SlJzZDFIWDZkT0hKdDFjVGtUdENXQW51aDRZVFc4N2dYY0l0NjFrTVlrMU1nZ1p2LU0?oc=5",
+   "source": "talkSPORT",
+   "group": "영국 언론",
+   "date": 1795343874000,
+   "added": 1795420936988,
+   "cat": null,
+   "titleKo": "알론소, 첼시 패배 직후 페드로와의 팔머 터치라인 논쟁에 대해 언급"
   },
   {
    "id": "https://talksport.com/football/4724409/xabi-alonso-cole-palmer-touchline-row-joao-pedro-chelsea/",
@@ -4136,113 +4249,6 @@
    "titleKo": "톰 브래디, 버밍엄 시티에서 충격적인 퇴출을 당한 지 불과 며칠 만에 '프리미어리그 거함 첼시의 지분을 매입'",
    "imgTried": true,
    "image": "https://i.dailymail.com/1s/2026/11/20/19/112641771-0-image-a-273_1795203731590.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclBqSkVQd01zbTJPSzllOHl0cmw3ckVfQy1aTVFsWkVYMVVRcTV1aVBhWkNHWDNXUXZlZml0UnJ0Sm5pYzYzYWtLUVYwdExPRXFFeTlFZHlaVXdKZTdsN2xFaEFRSlAtUGx2cThmb3Z4a011WlJBb1ZTdXEzdVFaR2cwSzBZZ0s0SEdxWlhTd1F5eDNGV01UdXNEWEJNWlBwbDFOODczbTU?oc=5",
-   "title": "Tom Brady reportedly buys stake in Chelsea FC",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclBqSkVQd01zbTJPSzllOHl0cmw3ckVfQy1aTVFsWkVYMVVRcTV1aVBhWkNHWDNXUXZlZml0UnJ0Sm5pYzYzYWtLUVYwdExPRXFFeTlFZHlaVXdKZTdsN2xFaEFRSlAtUGx2cThmb3Z4a011WlJBb1ZTdXEzdVFaR2cwSzBZZ0s0SEdxWlhTd1F5eDNGV01UdXNEWEJNWlBwbDFOODczbTU?oc=5",
-   "source": "USA Today",
-   "group": "영국 언론",
-   "date": 1795209780000,
-   "cat": null,
-   "titleKo": "톰 브래디, 첼시 FC 지분 인수 보도"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpKWkFkTjZ5S0xubVN4ejJNTEtlaVhsNkdJOHJ3eUpGLWNLcHM5OVpqWURHZ0toRzZBU0RYN0tHdVVOVkR0dFFzVUFFRVNaZGxIVy1QX1U1YUxXU2dhM201aVQxVVRBdTVMNEEyNDRpcndkd0RiNU1tZFVuQ2x3SA?oc=5",
-   "title": "Penders reflects on PL Save of the Month | Video",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpKWkFkTjZ5S0xubVN4ejJNTEtlaVhsNkdJOHJ3eUpGLWNLcHM5OVpqWURHZ0toRzZBU0RYN0tHdVVOVkR0dFFzVUFFRVNaZGxIVy1QX1U1YUxXU2dhM201aVQxVVRBdTVMNEEyNDRpcndkd0RiNU1tZFVuQ2x3SA?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795209486000,
-   "added": 1795415186795,
-   "cat": null,
-   "titleKo": "펜더스, 이달의 PL 세이브에 대해 이야기하다 | 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWZMNmZfQWtvbDI5YzBFNXZVTTdOcUlQOUFyQnpxWkVyRnJ3VDhfTWcydU5vemNtQ0d3NkVJUC1MVHl0TmFrWlpHeHB6aGRYQlpfYXZVZVRJYlo1NzZoUnpFaXVBcld1YUdnOE1KN09iWU1rMHowTTBrd1FEMTY3UDhTcEhRb1NO?oc=5",
-   "title": "Chelsea respond after being handed $196,000 fine by FA for anti-Catholic and anti-Irish chants",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWZMNmZfQWtvbDI5YzBFNXZVTTdOcUlQOUFyQnpxWkVyRnJ3VDhfTWcydU5vemNtQ0d3NkVJUC1MVHl0TmFrWlpHeHB6aGRYQlpfYXZVZVRJYlo1NzZoUnpFaXVBcld1YUdnOE1KN09iWU1rMHowTTBrd1FEMTY3UDhTcEhRb1NO?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795208267000,
-   "added": 1795230706372,
-   "cat": null,
-   "titleKo": "첼시, 반가톨릭 및 반아일랜드 구호로 FA로부터 196,000달러의 벌금을 부과받은 후 대응"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZElNU1BlQzNfcjk1NTJIeURCT3Q2eldQcUFNa0pTQ2NzcHU4Q0JFSnBianFFQW1LZ0x0YnlacmVPaWlwTV9tLTBjd3UzVE1NcV9hTHdPMkpsdGVVUkdRZDlfRFI0a0Jib3JGeGxEY2dXWHdIMHRSeVNuaTk1dmFwVXA1bFNDenJ0a0RUbko0REFyelM2dUNySTJQeVUxWVZ1d3RRMGhxdVVDazVPTUl0X0ROeXZOcUJsZTJTZkNHaHN6WDJGdlJzNEI3SlI1ZWJNYXd1alRDNDBLeWo2NlhoUDRVVW01UHA3WmJGU2pFbTVFd0ZS?oc=5",
-   "title": "Chelsea Transfer News Today: Scott McTominay bombshell as Romano provides major update",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZElNU1BlQzNfcjk1NTJIeURCT3Q2eldQcUFNa0pTQ2NzcHU4Q0JFSnBianFFQW1LZ0x0YnlacmVPaWlwTV9tLTBjd3UzVE1NcV9hTHdPMkpsdGVVUkdRZDlfRFI0a0Jib3JGeGxEY2dXWHdIMHRSeVNuaTk1dmFwVXA1bFNDenJ0a0RUbko0REFyelM2dUNySTJQeVUxWVZ1d3RRMGhxdVVDazVPTUl0X0ROeXZOcUJsZTJTZkNHaHN6WDJGdlJzNEI3SlI1ZWJNYXd1alRDNDBLeWo2NlhoUDRVVW01UHA3WmJGU2pFbTVFd0ZS?oc=5",
-   "source": "LiveScore",
-   "group": "영국 언론",
-   "date": 1795208236000,
-   "cat": "이적",
-   "titleKo": "첼시 이적 소식 오늘: 로마노가 스콧 맥토미니 관련 중대 소식을 전하며 파장을 일으킴"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82YnQzeDBFVFlHcHhNQzIxamNSc2lkYlM0b0tZbHRpTVdTbFJUb3VOMGJIdWNSWHJNcGFEd20xT2VkcDEzckR2ZVBfYlBjV0NySEFSdHo5X29HN0dxa19IZFZIS0lMNnZNY1ptckNTY3RCblZocTBmMQ?oc=5",
-   "title": "Tom Brady Buys Stake In Chelsea F.C., New Minority Owner",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82YnQzeDBFVFlHcHhNQzIxamNSc2lkYlM0b0tZbHRpTVdTbFJUb3VOMGJIdWNSWHJNcGFEd20xT2VkcDEzckR2ZVBfYlBjV0NySEFSdHo5X29HN0dxa19IZFZIS0lMNnZNY1ptckNTY3RCblZocTBmMQ?oc=5",
-   "source": "TMZ",
-   "group": "영국 언론",
-   "date": 1795208080000,
-   "added": 1795362666643,
-   "cat": null,
-   "titleKo": "톰 브래디, 첼시 FC 지분 인수. 새로운 소수 지분 소유주로 등극"
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16309997/Antonio-Conte-Man-United-clubs-frightened-winning-cryptic-interview-Mauricio-Pochettino-landed-Old-Trafford-gig.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "Antonio Conte hits back after missing out on Man United job: Ex-Chelsea boss warns clubs they are 'frightened of winning' if they don't hire him in cryptic interview after Mauricio Pochettino landed Old Trafford gig",
-   "link": "https://www.dailymail.com/sport/football/article-16309997/Antonio-Conte-Man-United-clubs-frightened-winning-cryptic-interview-Mauricio-Pochettino-landed-Old-Trafford-gig.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795207820000,
-   "cat": "인터뷰",
-   "titleKo": "안토니오 콘테, 맨유 감독직을 놓친 후 반격: 첼시 전 감독, 마우리시오 포체티노가 올드 트래포드 감독직을 맡은 후 진행된 인터뷰에서 그를 고용하지 않는 구단은 '우승을 두려워하는 것'이라고 경고",
-   "imgTried": true,
-   "image": "https://i.dailymail.com/1s/2026/11/20/20/112642749-0-image-a-286_1795207805139.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOU9UMktnQ3dfS2NINEdoaDk3VHBya3lKQUd2Z2kxTWtJRnZqSU1DN1JoT1dDYS0xZTl6ekpheFMtaWR0Q2RVWVRjWng0NVBvMlowUWJFTzFnRDBhMXE1QVA5ZlVVbzhlZnNlajIzLVFBQ2xpREFpaUlrSFBBY2dCODk5OTVRNDBMZVNTX216Yw?oc=5",
-   "title": "Tom Brady reportedly purchases ownership stake in Chelsea after sudden exit from Birmingham City",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOU9UMktnQ3dfS2NINEdoaDk3VHBya3lKQUd2Z2kxTWtJRnZqSU1DN1JoT1dDYS0xZTl6ekpheFMtaWR0Q2RVWVRjWng0NVBvMlowUWJFTzFnRDBhMXE1QVA5ZlVVbzhlZnNlajIzLVFBQ2xpREFpaUlrSFBBY2dCODk5OTVRNDBMZVNTX216Yw?oc=5",
-   "source": "AOL.co.uk",
-   "group": "영국 언론",
-   "date": 1795207773000,
-   "cat": null,
-   "titleKo": "톰 브래디, 버밍엄 시티에서 갑작스럽게 떠난 후 첼시 지분 인수 보도"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU41RlN4UWNXaURZUzBtYnVKNWVZTFlyVW5UZmJMWXFRVVhhNGlfbFpJYnk2cUkwc0tPeTZxZWpLQ1liMzF1cGFBRFJlbWRPdDVnSE1fbEMta215MDNHU1NPNVo1bHpoVFByMDdFa2RqSmhDWWI1YkI0bzhzNkFxSGVWcTM2SkxucGhPanhYZjJDN3hwVkd3RWJkUERoQUUzYTgyM210OHpuV1JhMHc?oc=5",
-   "title": "How should Chelsea line up against Leeds United?",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU41RlN4UWNXaURZUzBtYnVKNWVZTFlyVW5UZmJMWXFRVVhhNGlfbFpJYnk2cUkwc0tPeTZxZWpLQ1liMzF1cGFBRFJlbWRPdDVnSE1fbEMta215MDNHU1NPNVo1bHpoVFByMDdFa2RqSmhDWWI1YkI0bzhzNkFxSGVWcTM2SkxucGhPanhYZjJDN3hwVkd3RWJkUERoQUUzYTgyM210OHpuV1JhMHc?oc=5",
-   "source": "We Ain't Got No History",
-   "group": "영국 언론",
-   "date": 1795207622000,
-   "cat": null,
-   "titleKo": "첼시는 리즈 유나이티드와의 경기에 어떤 선발 명단을 내세워야 할까요?"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/will-joao-pedro-play-chelsea-fc-vs-leeds-b1305788.html",
-   "title": "Will Joao Pedro play for Chelsea vs Leeds? Xabi Alonso’s latest injury update on star striker",
-   "link": "https://www.standard.co.uk/sport/football/will-joao-pedro-play-chelsea-fc-vs-leeds-b1305788.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795206322000,
-   "cat": "부상",
-   "titleKo": "주앙 페드로는 첼시와 리즈의 경기에서 뛸 수 있을까요? 하비 알론소 감독이 전하는 스타 스트라이커의 최신 부상 소식",
-   "imgTried": true,
-   "image": "https://static.standard.co.uk/2026/09/22/18/35/GettyImages-2292735567.jpg?trim=0,0,334,0&auto=webp&quality=75&width=1200"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOazRQOThvaEpLVHppZXlBanFnUnA0UENlaDF5XzFFbTZHZGZPdEdNa0ZlV2U0Z1ViWVVkNHdBbXhKRURYcHd4SVRONmZIWkUzYW5UUEtTUzFFeTJtOHhILWlBbVY5QzVYRVNvb25WWUQtM3FuX1BzUXdFWHlfZGZ3VjdGOExhV0trMnlnSWl3eWNYZFB5bDVjM0xkLTJwdjNZY0NkMW1LYzdKR3hVM3BEU09TVmRPN3JNdks5cDlZSjRIUEZlOE9CZ3BkOEJhTFA5YlJTQ1pRMmdfRWdHdFBlajh6SVRmYWVIUTJNOWY3ME5qSG82RFJKczEyUmZBNWhSNUowdFpjZ0pBREVBcURrQ1ZuNTJDWW8?oc=5",
-   "title": "Chelsea hit with £150,000 FA fine and action plan after anti-Catholic and anti-Irish chants by fans during Charlton FA Cup tie",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOazRQOThvaEpLVHppZXlBanFnUnA0UENlaDF5XzFFbTZHZGZPdEdNa0ZlV2U0Z1ViWVVkNHdBbXhKRURYcHd4SVRONmZIWkUzYW5UUEtTUzFFeTJtOHhILWlBbVY5QzVYRVNvb25WWUQtM3FuX1BzUXdFWHlfZGZ3VjdGOExhV0trMnlnSWl3eWNYZFB5bDVjM0xkLTJwdjNZY0NkMW1LYzdKR3hVM3BEU09TVmRPN3JNdks5cDlZSjRIUEZlOE9CZ3BkOEJhTFA5YlJTQ1pRMmdfRWdHdFBlajh6SVRmYWVIUTJNOWY3ME5qSG82RFJKczEyUmZBNWhSNUowdFpjZ0pBREVBcURrQ1ZuNTJDWW8?oc=5",
-   "source": "LiveScore",
-   "group": "영국 언론",
-   "date": 1795206280000,
-   "cat": null,
-   "titleKo": "첼시, 찰튼과의 FA컵 경기 중 팬들의 반가톨릭 및 반아일랜드 구호로 인해 15만 파운드의 FA 벌금 및 행동 계획 부과"
   }
  ]
 }
