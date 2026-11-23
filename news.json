@@ -1,5 +1,5 @@
 {
- "updated": 1795406402880,
+ "updated": 1795410962823,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 32건"
+  "이번 상대": "Nottingham Forest · 새 기사 33건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -843,6 +843,17 @@
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE1NRVB2Y0RMSS00Y1drY243YzBJZUhOTVZIQjNQU2NDSlpqQjRnZ3RYaWdPTElQY01aRVB5YlZjdm1rODJkazFud3BpZXRfT0RHTG95X1dNVmt4NVY2Q2dSVG9va2lxR3NTaWhlSEl3elJVVXhuX0JjTzFOaGtuRGJieDd0UEJOZ1hlcTdVTWxPMVVGZ1NfWmdxSGhIOXpqbWk4YTRBejdjNmRqdjI3Y2JtQ0l1d0RBeE1ZemhxaDJjUQ?oc=5",
+   "title": "톰 브래디, 버밍엄 시티 떠나 첼시 FC 소수 지분 인수",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE1NRVB2Y0RMSS00Y1drY243YzBJZUhOTVZIQjNQU2NDSlpqQjRnZ3RYaWdPTElQY01aRVB5YlZjdm1rODJkazFud3BpZXRfT0RHTG95X1dNVmt4NVY2Q2dSVG9va2lxR3NTaWhlSEl3elJVVXhuX0JjTzFOaGtuRGJieDd0UEJOZ1hlcTdVTWxPMVVGZ1NfWmdxSGhIOXpqbWk4YTRBejdjNmRqdjI3Y2JtQ0l1d0RBeE1ZemhxaDJjUQ?oc=5",
+   "source": "Hypebeast.KR",
+   "group": "한국 언론",
+   "date": 1795407875000,
+   "added": 1795410959600,
+   "cat": null,
+   "titleKo": "톰 브래디, 버밍엄 시티 떠나 첼시 FC 소수 지분 인수"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
    "title": "첼시는 불안정한 상태입니다",
@@ -3088,6 +3099,17 @@
    "titleKo": "첼시 XI vs 리즈: 선발 명단, 확정된 팀 소식, 오늘 프리미어리그 부상 소식"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUd1MTB1QVU0cXEwZEl4REE5a1BSTW5pbmwyN0tpaE9FTG1BQzNZZmVNQ1FibndZd29IOUM5NG9NdThsMjJPWm8zVS1OM3F3dFdBNkJncTh3c01yaXVSNEFTNExadDNaajlHU1VKYzZMYURYYzhUTGZKdDVWd1J3VEt1SG1uZlBvMDBZQXFudzQ5YjBrRG92RnFoNFBDWkRLNDBfNG4yemU4bWRJVlh2V0JRaldYOW5uSVFjQk1EaXZvSy1BU0pzcg?oc=5",
+   "title": "Chelsea FC vs Leeds United Live Stream: How to Watch English Premier League in Canada (Nov. 21, 2026)",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUd1MTB1QVU0cXEwZEl4REE5a1BSTW5pbmwyN0tpaE9FTG1BQzNZZmVNQ1FibndZd29IOUM5NG9NdThsMjJPWm8zVS1OM3F3dFdBNkJncTh3c01yaXVSNEFTNExadDNaajlHU1VKYzZMYURYYzhUTGZKdDVWd1J3VEt1SG1uZlBvMDBZQXFudzQ5YjBrRG92RnFoNFBDWkRLNDBfNG4yemU4bWRJVlh2V0JRaldYOW5uSVFjQk1EaXZvSy1BU0pzcg?oc=5",
+   "source": "Fubo",
+   "group": "영국 언론",
+   "date": 1795268866000,
+   "added": 1795410959600,
+   "cat": null,
+   "titleKo": "첼시 FC 대 리즈 유나이티드 실시간 스트리밍: 캐나다에서 잉글리시 프리미어리그 시청 방법(2026년 11월 21일)"
+  },
+  {
    "id": "https://www.sportsmole.co.uk/football/chelsea/news/chelsea-leeds-starting-lineups-confirmed-alonso-makes-penders-martinez-decision_609572.html",
    "title": "Chelsea vs. Leeds team news: Mike Penders, Emiliano Martinez decision made for Stamford Bridge showdown",
    "link": "https://www.sportsmole.co.uk/football/chelsea/news/chelsea-leeds-starting-lineups-confirmed-alonso-makes-penders-martinez-decision_609572.html",
@@ -4217,27 +4239,6 @@
    "date": 1795203840000,
    "cat": null,
    "titleKo": "첼시, FA컵 경기에서 종파적 구호로 인해 15만 파운드의 벌금과 향후 행동에 대한 경고를 받음"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpKWkFkTjZ5S0xubVN4ejJNTEtlaVhsNkdJOHJ3eUpGLWNLcHM5OVpqWURHZ0toRzZBU0RYN0tHdVVOVkR0dFFzVUFFRVNaZGxIVy1QX1U1YUxXU2dhM201aVQxVVRBdTVMNEEyNDRpcndkd0RiNU1tZFVuQ2x3SA?oc=5",
-   "title": "Penders reflects on PL Save of the Month | Video",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpKWkFkTjZ5S0xubVN4ejJNTEtlaVhsNkdJOHJ3eUpGLWNLcHM5OVpqWURHZ0toRzZBU0RYN0tHdVVOVkR0dFFzVUFFRVNaZGxIVy1QX1U1YUxXU2dhM201aVQxVVRBdTVMNEEyNDRpcndkd0RiNU1tZFVuQ2x3SA?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795202768000,
-   "added": 1795221030970,
-   "cat": null,
-   "titleKo": "펜더스, 이달의 PL 세이브에 대해 이야기하다 | 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeXdOSF9sNWtGQzU1OV91SEZZdkFiX3luV2ktVkt3MjR5am5LQjg5S185Umt1ZzR5NDQ0M19JV0RjV3JTdmVxLUdkdkZNTWR3cHNaS3AzRTgyVE8wVlQ0a2tMckhfUUVlS3k0X2JPMXg5RlZYcndpUlJBLV9scFN1ODhCVTRwaVZvbzBIRlI0LTQ0eWcwNExYcEdyd1k2TEtjRXowUUJuc0U2RWtQTXVEWHlBeHM4Y3RDeGhXYl9DQXNLeXY5RjJZVmh4TV80UTJRX25IdEtIYy14SkU?oc=5",
-   "title": "Chelsea vs. Leeds: Prediction, date, venue, and how to watch Premier League match",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeXdOSF9sNWtGQzU1OV91SEZZdkFiX3luV2ktVkt3MjR5am5LQjg5S185Umt1ZzR5NDQ0M19JV0RjV3JTdmVxLUdkdkZNTWR3cHNaS3AzRTgyVE8wVlQ0a2tMckhfUUVlS3k0X2JPMXg5RlZYcndpUlJBLV9scFN1ODhCVTRwaVZvbzBIRlI0LTQ0eWcwNExYcEdyd1k2TEtjRXowUUJuc0U2RWtQTXVEWHlBeHM4Y3RDeGhXYl9DQXNLeXY5RjJZVmh4TV80UTJRX25IdEtIYy14SkU?oc=5",
-   "source": "DAZN",
-   "group": "영국 언론",
-   "date": 1795202708000,
-   "cat": null,
-   "titleKo": "첼시 vs. 리즈: 프리미어리그 경기 예측, 날짜, 장소 및 시청 방법"
   }
  ]
 }
