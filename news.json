@@ -1,5 +1,5 @@
 {
- "updated": 1795478275407,
+ "updated": 1795481802234,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 20,
+  "구글뉴스(한국어)": 16,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 47건"
+  "이번 상대": "Nottingham Forest · 새 기사 44건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -868,6 +868,17 @@
    "titleKo": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314276_245206_4959.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZlVOWnZjQWIzSnNhS0V2N1g0Y2VaUnlXTFYwLS15R0pGWmF1by1kNllfb1lYSUI4bmI4blUwVmsza0FJMjNjLVhBYV9ibFIyMmtPTklzN3FFV2hDYkM1bHg3RVZldmhhVXfSAW9BVV95cUxNOXlDQ1dGc2R2Nzk1UW5WTHlPVE1jb3hPNUlGdXBEbTNpM1VDTGpwM0JCeWtKOFpTS09TT2pGWnhjbEZ5emNTYVFSQjk0Yjh6NkNqajdHUUxjMEtmQ3IwZzJNT3BPNXhFWnJZbmdscnM?oc=5",
+   "title": "\"허니문 기간 끝났다\" 리즈전 충격의 1-4 패배에 냉정한 진단...\"알론소의 첼시, 수준 한참 미달\" - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZlVOWnZjQWIzSnNhS0V2N1g0Y2VaUnlXTFYwLS15R0pGWmF1by1kNllfb1lYSUI4bmI4blUwVmsza0FJMjNjLVhBYV9ibFIyMmtPTklzN3FFV2hDYkM1bHg3RVZldmhhVXfSAW9BVV95cUxNOXlDQ1dGc2R2Nzk1UW5WTHlPVE1jb3hPNUlGdXBEbTNpM1VDTGpwM0JCeWtKOFpTS09TT2pGWnhjbEZ5emNTYVFSQjk0Yjh6NkNqajdHUUxjMEtmQ3IwZzJNT3BPNXhFWnJZbmdscnM?oc=5",
+   "source": "머니투데이",
+   "group": "한국 언론",
+   "date": 1795477920000,
+   "added": 1795481800318,
+   "cat": null,
+   "titleKo": "\"허니문 기간 끝났다\" 리즈전 충격의 1-4 패배에 냉정한 진단...\"알론소의 첼시, 수준 한참 미달\" - 머니투데이"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UaWQwWUJCelFEMm1HS3Q0RUtWX0JhbXBCckl5ZXlmZGoyZnJqZG5IR2h4Yk1wenhPZlJvWEFsVFE5YVdQTjhSRWMxRTBfNVAybDV3?oc=5",
@@ -4254,18 +4265,6 @@
    "added": 1795277862288,
    "cat": "부상",
    "titleKo": "첼시의 부상 위기가 심화되면서 모이세스 카이세도가 눈물을 흘리며 경기를 중단했습니다."
-  },
-  {
-   "id": "https://www.independent.co.uk/sport/football/liverpool-chelsea-wsl-score-result-b3089192.html",
-   "title": "Liverpool frustrate WSL league leaders Chelsea to grind out point",
-   "link": "https://www.independent.co.uk/sport/football/liverpool-chelsea-wsl-score-result-b3089192.html",
-   "source": "Independent",
-   "group": "영국 언론",
-   "date": 1795276720000,
-   "image": "https://static.independent.co.uk/2026/11/21/15/2305630326..?width=1200&auto=webp&trim=1%2C0%2C1%2C0",
-   "added": 1795277862288,
-   "cat": null,
-   "titleKo": "리버풀, WSL 리그 선두 첼시를 상대로 승점 1점을 획득하며 실망을 안겨주다"
   }
  ]
 }
