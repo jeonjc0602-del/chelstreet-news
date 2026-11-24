@@ -1,5 +1,5 @@
 {
- "updated": 1795559244047,
+ "updated": 1795562436514,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -10,25 +10,25 @@
   "The Sun": 1,
   "Mirror": 1,
   "Daily Mail": 5,
-  "Telegraph": 5,
+  "Telegraph": 4,
   "Independent": 1,
-  "Express": 0,
-  "Sports Mole": 9,
-  "CaughtOffside": 0,
+  "Express": "실패: 403",
+  "Sports Mole": 10,
+  "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": "실패: 503",
+  "구글뉴스(영어)": 71,
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": "실패: 503",
+  "구글뉴스(한국어)": 15,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
-  "첼시 공식": "실패: 503",
+  "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 0건"
+  "이번 상대": "Nottingham Forest · 새 기사 35건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGlDZlZlcE5BMzNfNFBQUTduZEtNeE5kSk9weTloTEg3akYzRXZaSlRSb2ZiekE1VGRGcWpma3hHSXliS19BTTJIMm5TYTZzTkRLbU4xd0xwVXpKOF9CN08wbWJDLXhTVkszUTBIeW5ZNnJpcnFuS3Y4SGYyZEdGNFNLS1JuZ1BmbmdFTW9oVmZyaG1iQVNPVV9PaTl6bnJlcHZ6RTVTSl9OQ2Z6VWNwbEFFUDlYWXZ6b3dPMFdiX3NrbE9UT1lJN0syRmpWOGc0aDhTa3ZPb0twSExHVUNj?oc=5",
+    "title": "'Going To Help Us': Midfielder Issues Chelsea Promise Ahead Of Nottingham Forest Trip",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGlDZlZlcE5BMzNfNFBQUTduZEtNeE5kSk9weTloTEg3akYzRXZaSlRSb2ZiekE1VGRGcWpma3hHSXliS19BTTJIMm5TYTZzTkRLbU4xd0xwVXpKOF9CN08wbWJDLXhTVkszUTBIeW5ZNnJpcnFuS3Y4SGYyZEdGNFNLS1JuZ1BmbmdFTW9oVmZyaG1iQVNPVV9PaTl6bnJlcHZ6RTVTSl9OQ2Z6VWNwbEFFUDlYWXZ6b3dPMFdiX3NrbE9UT1lJN0syRmpWOGc0aDhTa3ZPb0twSExHVUNj?oc=5",
+    "source": "roundtable.io",
+    "date": 1795558917000,
+    "added": 1795562432500,
+    "tag": "상대 소식",
+    "titleKo": "'우리를 도울 것': 노팅엄 포레스트 원정 경기를 앞두고 미드필더가 첼시에 대한 약속을 전함"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVF0MGpFY3lpdjFzdTFPTk4wODBTYnNmS2NlWmdRTzZqQWhtNkVva1V2SVZiYVlJQmNWdEZSQzFXcFloUWZ2WThGNFlDekppZFF1dFJ5V3RiUEtNbFJSTnJVYWItV2VBLTdDNUxhdEdDdkVvUWlrNjBpTHdJTWtjeEhRX0FXcXJ4cmVrREFOWHNBVlV2NndiZHFuMjZZamJjNVQ4M2lfNF81TTJUNE1hZVpETmhQQlU?oc=5",
     "title": "Chelsea vs Nottingham Forest Picks and Prediction for Friday November 27 2026",
@@ -829,20 +839,22 @@
     "added": 1795318573455,
     "tag": "상대 소식",
     "titleKo": "첼시 FC 대 리버풀 경기 시청하기"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlRNc0pPREF3SkN6S0NhQ184SWJ0TGkyRDZHOEc2dXh3Um0xNU5WOTdBR0Rfc0l3U0hqcDhNUnlkY1I4d2ZncmllVHlycDl1cWFoNW1YeWpKTFBHbGtOUk01VHd5Y0ljWm5ybGN4VVIzdGo2aUpoNUVMQWlFZXFRWGpCUEhRSjJOaXNZMHpXMUVGZ0FNSnRoUDQzb2tZZDBjdy14dnctNlNBaW9tZHdZeEUwUQ?oc=5",
-    "title": "Oliver Glasner makes telling Nottingham Forest transfer admission after Bournemouth defeat",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlRNc0pPREF3SkN6S0NhQ184SWJ0TGkyRDZHOEc2dXh3Um0xNU5WOTdBR0Rfc0l3U0hqcDhNUnlkY1I4d2ZncmllVHlycDl1cWFoNW1YeWpKTFBHbGtOUk01VHd5Y0ljWm5ybGN4VVIzdGo2aUpoNUVMQWlFZXFRWGpCUEhRSjJOaXNZMHpXMUVGZ0FNSnRoUDQzb2tZZDBjdy14dnctNlNBaW9tZHdZeEUwUQ?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795284615000,
-    "added": 1795285403095,
-    "tag": "상대 소식",
-    "titleKo": "올리버 글라스너 감독, 본머스전 패배 후 노팅엄 포레스트 이적 관련 발언"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/news/emery-issues-frank-response-over-garnacho-absence-in-aston-villa-cl-defeat_609789.html",
+   "title": "Aston Villa news: Unai Emery issues frank Alejandro Garnacho response after Galatasaray defeat",
+   "link": "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/news/emery-issues-frank-response-over-garnacho-absence-in-aston-villa-cl-defeat_609789.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795560942000,
+   "image": "https://www.sportsmole.co.uk/thumbor/OM91i6dyOXp8a2XFJKeWWC3FhMs=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F10%2Femery-injury-update-email-sportmole-6adb09e57c2b5351380453.png",
+   "added": 1795562430894,
+   "cat": null,
+   "titleKo": "애스턴 빌라 뉴스: 우나이 에메리 감독, 갈라타사라이전 패배 후 알레한드로 가르나초에 대한 솔직한 답변 내놔"
+  },
   {
    "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699175",
    "title": "토트넘 손흥민 기습 숭배!...8년전, 첼시 상대로 50m 질주 원더골 조명→\"센세이셔널 SONNY\"",
@@ -855,6 +867,18 @@
    "titleKo": "토트넘 손흥민 기습 숭배!...8년전, 첼시 상대로 50m 질주 원더골 조명→\"센세이셔널 SONNY\"",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699175_833332_5757_v150.jpg"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/24/alonso-faces-crucial-five-game-test-as-chelsea-keep-39-year-old-alternative-in-mind/",
+   "title": "Alonso faces crucial five-game test as Chelsea keep 39-year-old alternative in mind",
+   "link": "https://www.caughtoffside.com/2026/11/24/alonso-faces-crucial-five-game-test-as-chelsea-keep-39-year-old-alternative-in-mind/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795552219000,
+   "image": "https://icdn.caughtoffside.com/2026/10/COS-Featured_Hero-Image-Templates-1793254025.jpg",
+   "added": 1795562430894,
+   "cat": null,
+   "titleKo": "알론소 감독, 첼시가 39세의 대체자를 염두에 두고 있는 가운데 중요한 5경기 시험대에 직면"
   },
   {
    "id": "https://www.thesun.co.uk/sport/41131620/chelsea-maxence-lacroix-hamstring-new-year-leeds-united/",
@@ -1257,6 +1281,17 @@
    "added": 1795528490589,
    "cat": null,
    "titleKo": "첼시 뉴스: 엔조 마레스카 감독 체제에서 은퇴를 심각하게 고려했던 이적료 7,500만 파운드의 선수"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0ZudVNBZ3E2dW5QMlB4eHBwZDJWM3VtUWNQUmxWMzhGeHRtWi1GZ0V6SGhBUUVCQS1MaEJpOGRONnRfbndqYXZENW1ZbGp2aUVkaUY1TGhjbE02SjR6akZwOFB3bnF5RnNTaDQ0YWxXU0ZOaHlseUs4c3dNQk5KVERaVUN4UE5XUEp6ajZpYzVnWE1PSmc?oc=5",
+   "title": "Why VAR was 'scared' after Leeds United controversy vs Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0ZudVNBZ3E2dW5QMlB4eHBwZDJWM3VtUWNQUmxWMzhGeHRtWi1GZ0V6SGhBUUVCQS1MaEJpOGRONnRfbndqYXZENW1ZbGp2aUVkaUY1TGhjbE02SjR6akZwOFB3bnF5RnNTaDQ0YWxXU0ZOaHlseUs4c3dNQk5KVERaVUN4UE5XUEp6ajZpYzVnWE1PSmc?oc=5",
+   "source": "MOT Leeds News",
+   "group": "영국 언론",
+   "date": 1795523400000,
+   "added": 1795562430894,
+   "cat": null,
+   "titleKo": "리즈 유나이티드와 첼시의 경기에서 VAR이 '겁을 먹은' 이유"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZExDeGc2MjlveWlyUHdOcVM5ZHEtdk9iUzQ3TUVzazFfeG1ITVBsbGZUOVd3MC1SbExFV0Q4bnQ1UkpQRWxncG9tdnh3azVLN1phSTN0ZWNLd3BGcW1XcDFHN1pMeE5XMFoxcWMzX1JWQUVUVlFRbFhFNzZ3clg0OXBqMDM0WEswdEZzZU9DQ0xNUktIVmdUbg?oc=5",
@@ -4234,40 +4269,6 @@
    "added": 1795308262995,
    "cat": null,
    "titleKo": "첼시 전문가, 자말 무시알라의 복귀 가능성을 언급"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTEVWcEVRelNvQXRRd210N2tXRnhIVURRRFpxZzBCUHRxa0xOeFZXQ1BoVWtTM3hNd2hMQzNNSGR0M1BWbXJ4SjVEemFCZmpVR0d4ZFRlVUk4ZVplVTRKT0pyMERFSVNhZF94ODgySDRsSkJlOEgxcmlWcnZWcVlvS2lZWVZwQ29VVXNwS1N5NS1YdmtzWmdmRGdfNmJkVXU1NHZGRFdaNFpnLU5BbXdpd3BMdV9OLVlEUTByaGpRZGF1dnlMRUdKZmFsV09mTmpudUZxSDBVMHlMel9BU0RNQ3NUaE01ZUgx?oc=5",
-   "title": "‘Fragile’ Chelsea embarrassed by Leeds as fans turn on team",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTEVWcEVRelNvQXRRd210N2tXRnhIVURRRFpxZzBCUHRxa0xOeFZXQ1BoVWtTM3hNd2hMQzNNSGR0M1BWbXJ4SjVEemFCZmpVR0d4ZFRlVUk4ZVplVTRKT0pyMERFSVNhZF94ODgySDRsSkJlOEgxcmlWcnZWcVlvS2lZWVZwQ29VVXNwS1N5NS1YdmtzWmdmRGdfNmJkVXU1NHZGRFdaNFpnLU5BbXdpd3BMdV9OLVlEUTByaGpRZGF1dnlMRUdKZmFsV09mTmpudUZxSDBVMHlMel9BU0RNQ3NUaE01ZUgx?oc=5",
-   "source": "Nine.com.au",
-   "group": "영국 언론",
-   "date": 1795306338000,
-   "added": 1795308262996,
-   "cat": null,
-   "titleKo": "팬들이 팀을 비난하는 가운데, '허약한' 첼시가 리즈에게 굴욕을 당했습니다."
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
-   "title": "I wish referee had opportunity to see 'handball' again - Hart",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "group": "영국 언론",
-   "date": 1795306093000,
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg",
-   "added": 1795308262994,
-   "cat": null,
-   "titleKo": "심판이 '핸드볼'을 다시 볼 기회가 있었으면 좋겠습니다 - 하트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkxxTjR2WXl4THhLZFdINWRYRHlTTHpFSVRwaFR1U2lOMGlWUUl6SXM1TEpWRGNRY2VkVUc2NkVscm90RHo4VzdkWWpyMmRtNkc4UFY0LTVldUtvc2swaUo3TEdYUkR2TlA2RXBfUXNYUURLUW5ka1hDSHdqU1RCc0lRWkwyY1BOYUttZFlPOFVjSjVnMFlGYUNPalZORnFJcU52cDd1cHJHLXRC?oc=5",
-   "title": "PL Extended: Chelsea 1-4 Leeds United | Video | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkxxTjR2WXl4THhLZFdINWRYRHlTTHpFSVRwaFR1U2lOMGlWUUl6SXM1TEpWRGNRY2VkVUc2NkVscm90RHo4VzdkWWpyMmRtNkc4UFY0LTVldUtvc2swaUo3TEdYUkR2TlA2RXBfUXNYUURLUW5ka1hDSHdqU1RCc0lRWkwyY1BOYUttZFlPOFVjSjVnMFlGYUNPalZORnFJcU52cDd1cHJHLXRC?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795305913000,
-   "added": 1795308262995,
-   "cat": "오피셜",
-   "titleKo": "프리미어리그 연장: 첼시 1-4 리즈 유나이티드 | 동영상 | 공식 사이트"
   }
  ]
 }
