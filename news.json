@@ -1,34 +1,34 @@
 {
- "updated": 1795499781173,
+ "updated": 1795503589158,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
   "talkSPORT": 5,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 7,
+  "Evening Standard": 6,
   "The Sun": 4,
   "Mirror": 2,
   "Daily Mail": 5,
   "Telegraph": 6,
   "Independent": 2,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 4,
   "CaughtOffside": 4,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 68,
-  "인터풋볼": 1,
+  "구글뉴스(영어)": 70,
+  "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 14,
+  "구글뉴스(한국어)": 13,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": "실패: 403",
-  "이번 상대": "Nottingham Forest · 새 기사 35건"
+  "FotMob": 10,
+  "이번 상대": "Nottingham Forest · 새 기사 39건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -868,6 +868,17 @@
    "titleKo": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314276_245206_4959.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZ1hKSmRhVkx1R2hxNmdMbVNzbVBaN2RRZFhVMFcxYWJrajFEdXpKaGRmVWlTSnFySVBWS18yLW9JVnctbmt1U2NXeU5VUVo0NkE0ak56d0NmMHp5SXJpNm9KTG94MHRnTXJ5czJOTzIyRzhYOWc?oc=5",
+   "title": "Chelsea Face Leeds Defeat as Alonso Targets Two Young Talents",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZ1hKSmRhVkx1R2hxNmdMbVNzbVBaN2RRZFhVMFcxYWJrajFEdXpKaGRmVWlTSnFySVBWS18yLW9JVnctbmt1U2NXeU5VUVo0NkE0ak56d0NmMHp5SXJpNm9KTG94MHRnTXJ5czJOTzIyRzhYOWc?oc=5",
+   "source": "cwibc.co.id",
+   "group": "영국 언론",
+   "date": 1795501805000,
+   "added": 1795503586261,
+   "cat": "이적",
+   "titleKo": "알론소 감독이 두 명의 유망주를 영입 대상으로 삼은 가운데, 첼시가 리즈에 패배"
   },
   {
    "id": "https://www.nytimes.com/athletic/7806570/2026/11/24/chelsea-xabi-alonso-defence-weak-analysis/",
@@ -4251,18 +4262,6 @@
    "added": 1795283105238,
    "cat": "프리뷰",
    "titleKo": "첼시 1-4 리즈 유나이티드, 프리미어리그: 경기 후 반응, 평점"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/chelsea-player-ratings-vs-leeds-34947377",
-   "title": "Chelsea player ratings vs Leeds United as Estevao quiet, Cole Palmer poor and 4/10s abysmal",
-   "link": "https://www.football.london/chelsea-fc/news/chelsea-player-ratings-vs-leeds-34947377",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795280327000,
-   "image": "https://i2-prod.football.london/incoming/article34948173.ece/ALTERNATES/s615/0_GettyImages-2305624630.jpg",
-   "added": 1795280705675,
-   "cat": "프리뷰",
-   "titleKo": "첼시 선수 평점(리즈 유나이티드전): 에스테바우 침묵, 콜 파머 부진, 4/10점 받은 선수들 형편없음"
   }
  ]
 }
