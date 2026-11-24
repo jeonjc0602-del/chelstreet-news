@@ -1,5 +1,5 @@
 {
- "updated": 1795489194129,
+ "updated": 1795492629045,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -13,13 +13,13 @@
   "Telegraph": 6,
   "Independent": 2,
   "Express": 0,
-  "Sports Mole": 5,
+  "Sports Mole": 4,
   "CaughtOffside": 4,
   "90min": 1,
   "The Athletic": 2,
   "구글뉴스(영어)": 68,
   "인터풋볼": 1,
-  "풋볼리스트": 1,
+  "풋볼리스트": 0,
   "베스트일레븐": 2,
   "구글뉴스(한국어)": 15,
   "Talk Chelsea": 10,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 37건"
+  "이번 상대": "Nottingham Forest · 새 기사 41건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUtZZE1aODJvV0tyZWxnRHFMYVNMQWtacTJBOVZwRnNwTDVHbUcwOFVDUlYzSzh1b1N0QnZvWlN4WWtLTGtqWEVYYUR6WFM4ZmRNdTBXNE1UenUteThsUERIa1ZFNWdINm1SSFFpRldtc29hYTE0UGVEYnNhQV9VY3paendSZUxkNDZFcDhkSXM?oc=5",
+    "title": "Xabi Alonso Keeps Chelsea Backing After Leeds Defeat, Forest Next (24 November)",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUtZZE1aODJvV0tyZWxnRHFMYVNMQWtacTJBOVZwRnNwTDVHbUcwOFVDUlYzSzh1b1N0QnZvWlN4WWtLTGtqWEVYYUR6WFM4ZmRNdTBXNE1UenUteThsUERIa1ZFNWdINm1SSFFpRldtc29hYTE0UGVEYnNhQV9VY3paendSZUxkNDZFcDhkSXM?oc=5",
+    "source": "The False 9",
+    "date": 1795489637000,
+    "added": 1795492626634,
+    "tag": "상대 소식",
+    "titleKo": "사비 알론소, 리즈전 패배 후에도 첼시를 지지하며 다음 상대는 노팅엄 포레스트(11월 24일)"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkplTWMzaUZSakpfN3pFTTZwelFLT0NiaGR1Q285OUhmbUZrb3pIay1iVWY4VndacFRKX2VqcUREMTNjQUVSMjBxcDVGeThqNmlNakFPOFVUTXplMFJQMGhwdDlJWlE1V2dWd2lLYlBxWGhHcHNmNUxBY0VfYWtEa044VEdzRUZERE9JU3lSWFpqc2JyWEEyWUlhb1Vtd3NPZWxUeEJKS3hmWHJRRDBoZm5kb1Y?oc=5",
     "title": "Rarely seen Forest loanee ‘gutted’ after 6/10 performance in EFL clash",
@@ -59,6 +69,16 @@
     "added": 1795455874597,
     "tag": "상대 소식",
     "titleKo": "가브리엘 본템포는 누구인가요? 노팅엄 포레스트의 1월 이적 타깃을 만나보세요"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVI3OFcxUzFWT01SS3Y1Q0swakg2N1h2ZTVYWlcwS1paWmd6WkEydk5oQWQ4Q3Z0OFBWLWRHbjRzQldWQVVuQTR1RW8xb1JPV3RGRzNlYTVRNENLTE9RYnp6bWY3MGJVZ1JvbThjdUQ2b2diLVpwTzFPZThtTEE0bWhmaw?oc=5",
+    "title": "Leeds - Nottingham Forest",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVI3OFcxUzFWT01SS3Y1Q0swakg2N1h2ZTVYWlcwS1paWmd6WkEydk5oQWQ4Q3Z0OFBWLWRHbjRzQldWQVVuQTR1RW8xb1JPV3RGRzNlYTVRNENLTE9RYnp6bWY3MGJVZ1JvbThjdUQ2b2diLVpwTzFPZThtTEE0bWhmaw?oc=5",
+    "source": "Flashscore.com",
+    "date": 1795442039000,
+    "added": 1795492626634,
+    "tag": "상대 소식",
+    "titleKo": "리즈 - 노팅엄 포레스트"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObE1CeXVGUDE5REo4ZlMtbUx5WlpscDJOUF9paFhXV1F6Y0FZWEJGWVJDc1B6T0tKQm42ejlmc2JfYTVORmxNOHQ4MWNWc25yTTJsUVlRVkZZS1ZGVTBkRkROa3duMGI2bVZHWUFBWFBleEZxU2FpT3paMXBCZlV3X3UzZw?oc=5",
@@ -819,26 +839,6 @@
     "added": 1795275032052,
     "tag": "상대 소식",
     "titleKo": "본머스 vs 노팅엄 포레스트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb19mQ1lUb1B5WUt6cnc3cGlEZ2lwelZqcjBKTElTVUFRZVZHNWZ3bTlNQ0oxSWN2ZzZxMDYyMmotdmFrclFmNktvMjNHcnlfbS1oMTlnWjc3YndRT2dsNUpMMzJLUXRjbFpyMXZNWHJNX00tQnhHVHN4SGhubXJVSVpuc2VDQnRPYWJscENmMUliYXNmcS1nYzZIS0tEUkxU?oc=5",
-    "title": "본머스 vs 노팅엄 포레스트 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까요?",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb19mQ1lUb1B5WUt6cnc3cGlEZ2lwelZqcjBKTElTVUFRZVZHNWZ3bTlNQ0oxSWN2ZzZxMDYyMmotdmFrclFmNktvMjNHcnlfbS1oMTlnWjc3YndRT2dsNUpMMzJLUXRjbFpyMXZNWHJNX00tQnhHVHN4SGhubXJVSVpuc2VDQnRPYWJscENmMUliYXNmcS1nYzZIS0tEUkxU?oc=5",
-    "source": "Vietnam.vn",
-    "date": 1795257439000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "본머스 vs 노팅엄 포레스트 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까요?"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3FmdlVtNWlZbWpJd2NRc05hc0Q1SVhOVGVCcWl3WHRBNkFJdmRWaVhMdWtZblpBQ0dtb1FNYV9NY3FfSkV4TzBKWC1IaHhGREplMm5jYkZ3SGJmWGd1VFBvVVRwcUJ4UGRlS2RURWEtc0lnbFZuTk1YUTFrTXpJd1BzaGMweHByNU5XOVk3QTE1SVJlTWp6T0ItUkEyd2h4b3M3ME0yaXVpTzhzS3VVYlRURXlwWWs0RjdDNTJfMjhPQVRXaGNUUWNORFJzVjdY?oc=5",
-    "title": "AS Roma target out-of-favour Nottingham Forest winger in £10m January deal as alternative to Chelsea's Jamie Gittens",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3FmdlVtNWlZbWpJd2NRc05hc0Q1SVhOVGVCcWl3WHRBNkFJdmRWaVhMdWtZblpBQ0dtb1FNYV9NY3FfSkV4TzBKWC1IaHhGREplMm5jYkZ3SGJmWGd1VFBvVVRwcUJ4UGRlS2RURWEtc0lnbFZuTk1YUTFrTXpJd1BzaGMweHByNU5XOVk3QTE1SVJlTWp6T0ItUkEyd2h4b3M3ME0yaXVpTzhzS3VVYlRURXlwWWs0RjdDNTJfMjhPQVRXaGNUUWNORFJzVjdY?oc=5",
-    "source": "Goal.com",
-    "date": 1795255814000,
-    "added": 1795275032052,
-    "tag": "상대 소식",
-    "titleKo": "AS 로마, 첼시의 제이미 기텐스에 대한 대안으로 1월 이적 시장에서 1,000만 파운드에 노팅엄 포레스트의 입지가 불안한 윙어를 영입 목표로 삼다"
    }
   ]
  },
@@ -868,6 +868,17 @@
    "titleKo": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314276_245206_4959.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZnJCcFNMQ20tQWNvM3ZBb0JpNkpTUzMwZVlMelY0bHEtSW9FUjNNNjN0cm4tWjNIUVF5a2toY2w5NmVuSkYyZ0dLSQ?oc=5",
+   "title": "첼시, 수비진 보강 과제 안아… 사비 알론소 감독 입지 주목 : EPL",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZnJCcFNMQ20tQWNvM3ZBb0JpNkpTUzMwZVlMelY0bHEtSW9FUjNNNjN0cm4tWjNIUVF5a2toY2w5NmVuSkYyZ0dLSQ?oc=5",
+   "source": "재경일보",
+   "group": "한국 언론",
+   "date": 1795490770000,
+   "added": 1795492625962,
+   "cat": null,
+   "titleKo": "첼시, 수비진 보강 과제 안아… 사비 알론소 감독 입지 주목 : EPL"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWDFLZFRaeGV6N3RKZUNybDQ5dFBnWFBoZzRzRUhyZmlYVU1HV0NiMFEybVhneWw3WGU1N2M4VVJzNjgyRlpkZEpYcnhZWngtdUxyYTlMcGFNazBkZUNLMmRfQmRjdldzSWVabUhTc2xzUklwazBWMmU0enFhbGZmQmZRNnpCYkE4RWNkd2hldnY5TnY0ejVkOGQ2M21kNjNINWx2N3o5aDY2YjZFc01KcWRXdDYyUWlOa0ttQy1Fdm9nNlB0MVVrazhGQlpseTJLNHpxTndBQXJKdw?oc=5",
@@ -4253,17 +4264,6 @@
    "added": 1795280705676,
    "cat": null,
    "titleKo": "실시간 축구 경기: 첼시 vs 리즈: 프리미어 리그 11라운드"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zNnFjZVliYmYyM2djd3NhZVE1Q3RGNGdkWF94VWJRSkcyUDh6OWFycDg3UXdqYWxLQ2tjYVFReTc1bVA0WlhEcGZyeXhVOGtMZkZyNlZGeFlkY1pnaXlWUnQ2TXB4ZUxteEpUcW91NmI?oc=5",
-   "title": "리즈 유나이티드에 1-4로 패한 첼시, 4실점 경기는 지난 3월 파리 생제르맹 FC전 2-5 패배 이후 처음",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zNnFjZVliYmYyM2djd3NhZVE1Q3RGNGdkWF94VWJRSkcyUDh6OWFycDg3UXdqYWxLQ2tjYVFReTc1bVA0WlhEcGZyeXhVOGtMZkZyNlZGeFlkY1pnaXlWUnQ2TXB4ZUxteEpUcW91NmI?oc=5",
-   "source": "AllFootball",
-   "group": "한국 언론",
-   "date": 1795279518000,
-   "added": 1795308262996,
-   "cat": null,
-   "titleKo": "리즈 유나이티드에 1-4로 패한 첼시, 4실점 경기는 지난 3월 파리 생제르맹 FC전 2-5 패배 이후 처음"
   }
  ]
 }
