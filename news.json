@@ -1,5 +1,5 @@
 {
- "updated": 1795486256391,
+ "updated": 1795489194129,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -17,18 +17,18 @@
   "CaughtOffside": 4,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 69,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 1,
   "풋볼리스트": 1,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 16,
+  "구글뉴스(한국어)": 15,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 39건"
+  "이번 상대": "Nottingham Forest · 새 기사 37건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -868,6 +868,17 @@
    "titleKo": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314276_245206_4959.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWDFLZFRaeGV6N3RKZUNybDQ5dFBnWFBoZzRzRUhyZmlYVU1HV0NiMFEybVhneWw3WGU1N2M4VVJzNjgyRlpkZEpYcnhZWngtdUxyYTlMcGFNazBkZUNLMmRfQmRjdldzSWVabUhTc2xzUklwazBWMmU0enFhbGZmQmZRNnpCYkE4RWNkd2hldnY5TnY0ejVkOGQ2M21kNjNINWx2N3o5aDY2YjZFc01KcWRXdDYyUWlOa0ttQy1Fdm9nNlB0MVVrazhGQlpseTJLNHpxTndBQXJKdw?oc=5",
+   "title": "Chelsea have no doubts over Xabi Alonso as club maintain full confidence in manager",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWDFLZFRaeGV6N3RKZUNybDQ5dFBnWFBoZzRzRUhyZmlYVU1HV0NiMFEybVhneWw3WGU1N2M4VVJzNjgyRlpkZEpYcnhZWngtdUxyYTlMcGFNazBkZUNLMmRfQmRjdldzSWVabUhTc2xzUklwazBWMmU0enFhbGZmQmZRNnpCYkE4RWNkd2hldnY5TnY0ejVkOGQ2M21kNjNINWx2N3o5aDY2YjZFc01KcWRXdDYyUWlOa0ttQy1Fdm9nNlB0MVVrazhGQlpseTJLNHpxTndBQXJKdw?oc=5",
+   "source": "Business Upturn",
+   "group": "영국 언론",
+   "date": 1795487361000,
+   "added": 1795489191274,
+   "cat": null,
+   "titleKo": "첼시, 사비 알론소에 대한 의구심 없어... 구단은 감독에 대한 전적인 신뢰 유지"
   },
   {
    "id": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/carragher-claims-chelsea-have-no-chance-of-success-unless-they-strengthen-key-position_609720.html",
@@ -4253,17 +4264,6 @@
    "added": 1795308262996,
    "cat": null,
    "titleKo": "리즈 유나이티드에 1-4로 패한 첼시, 4실점 경기는 지난 3월 파리 생제르맹 FC전 2-5 패배 이후 처음"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUlFVUtHTjNGaFFMVHlVM0kyRXdoMmhsRDhiZk1COUdHM19vMEh2NGxDT1Q3R0ttbldRS2VZVTZvOUNLVWtXWE5YQ2t6Q0dReGQ3b28wenlpdVdQR09KZnBFNmZoZm8wX3JWMzUtbnlyZ2hqNU5HVGFOWGtoeldYOEpweGI1Snc2RWxmWF9YeEVEazhuTHMtNURlOXVPeXhqSGwwaHhPVQ?oc=5",
-   "title": "Mike Dean instantly reacts to Chelsea vs Leeds United penalty controversy",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUlFVUtHTjNGaFFMVHlVM0kyRXdoMmhsRDhiZk1COUdHM19vMEh2NGxDT1Q3R0ttbldRS2VZVTZvOUNLVWtXWE5YQ2t6Q0dReGQ3b28wenlpdVdQR09KZnBFNmZoZm8wX3JWMzUtbnlyZ2hqNU5HVGFOWGtoeldYOEpweGI1Snc2RWxmWF9YeEVEazhuTHMtNURlOXVPeXhqSGwwaHhPVQ?oc=5",
-   "source": "MOT Leeds News",
-   "group": "영국 언론",
-   "date": 1795278724000,
-   "added": 1795384287190,
-   "cat": "인터뷰",
-   "titleKo": "마이크 딘, 첼시와 리즈 유나이티드의 페널티킥 논란에 즉각 반응"
   }
  ]
 }
