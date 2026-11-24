@@ -1,5 +1,5 @@
 {
- "updated": 1795481802234,
+ "updated": 1795486256391,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -13,7 +13,7 @@
   "Telegraph": 6,
   "Independent": 2,
   "Express": 0,
-  "Sports Mole": 4,
+  "Sports Mole": 5,
   "CaughtOffside": 4,
   "90min": 1,
   "The Athletic": 2,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 44건"
+  "이번 상대": "Nottingham Forest · 새 기사 39건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -870,6 +870,18 @@
    "image": "https://cdn.besteleven.com/news/photo/202611/314276_245206_4959.jpg"
   },
   {
+   "id": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/carragher-claims-chelsea-have-no-chance-of-success-unless-they-strengthen-key-position_609720.html",
+   "title": "Chelsea latest: Jamie Carragher claims Xabi Alonso's side have \"no chance of achieving anything\" unless they strengthen key position",
+   "link": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/carragher-claims-chelsea-have-no-chance-of-success-unless-they-strengthen-key-position_609720.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795481220000,
+   "image": "https://www.sportsmole.co.uk/thumbor/vCS5coyeeiyzyUlr3f9MO_Ft918=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fcarragher-alonso-6b04dc42ed2b5475178569.png",
+   "added": 1795486250083,
+   "cat": null,
+   "titleKo": "첼시 최신 소식: 제이미 캐러거, 사비 알론소 감독이 이끄는 팀이 핵심 포지션을 보강하지 않는 한 \"아무런 성과도 거둘 수 없을 것\"이라고 주장"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZlVOWnZjQWIzSnNhS0V2N1g0Y2VaUnlXTFYwLS15R0pGWmF1by1kNllfb1lYSUI4bmI4blUwVmsza0FJMjNjLVhBYV9ibFIyMmtPTklzN3FFV2hDYkM1bHg3RVZldmhhVXfSAW9BVV95cUxNOXlDQ1dGc2R2Nzk1UW5WTHlPVE1jb3hPNUlGdXBEbTNpM1VDTGpwM0JCeWtKOFpTS09TT2pGWnhjbEZ5emNTYVFSQjk0Yjh6NkNqajdHUUxjMEtmQ3IwZzJNT3BPNXhFWnJZbmdscnM?oc=5",
    "title": "\"허니문 기간 끝났다\" 리즈전 충격의 1-4 패배에 냉정한 진단...\"알론소의 첼시, 수준 한참 미달\" - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZlVOWnZjQWIzSnNhS0V2N1g0Y2VaUnlXTFYwLS15R0pGWmF1by1kNllfb1lYSUI4bmI4blUwVmsza0FJMjNjLVhBYV9ibFIyMmtPTklzN3FFV2hDYkM1bHg3RVZldmhhVXfSAW9BVV95cUxNOXlDQ1dGc2R2Nzk1UW5WTHlPVE1jb3hPNUlGdXBEbTNpM1VDTGpwM0JCeWtKOFpTS09TT2pGWnhjbEZ5emNTYVFSQjk0Yjh6NkNqajdHUUxjMEtmQ3IwZzJNT3BPNXhFWnJZbmdscnM?oc=5",
@@ -1630,6 +1642,17 @@
    "added": 1795437075033,
    "cat": "부상",
    "titleKo": "첼시, '주앙 페드로가 올해 남은 기간 동안 부상으로 결장할까 봐 두려워' 모이세스 카이세도 역시 리즈와의 경기에서 절뚝거리며 경기장을 떠나며 향후 일정 불투명"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0k1VjZGdUhfd1pQR2RiTkhqQWhab2JVdE1VSjk3emF3SFJNYzQzcnhiNTAwdUFMZnI4V3lQS1lHbk1xVGtFVUh3S3p2emlSdGxnZTdnTUN3aDB5ajZZeFFlM2ZvdWNrQmhOTXE2OWZaRUh3UGdWSWNGakJmd2NJSDBDMFp0Snl0NXd2YUJia2ZoZjkyV0pleFBPa0dMb0NGWHROcVNmVlM2MEI0OThlZzVIRlo4QzJlMm1QTW5mWEFLRnNIUkhV?oc=5",
+   "title": "Chelsea striker Emmanuel Emegha robbed after scoring on Premier League debut against Leeds",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0k1VjZGdUhfd1pQR2RiTkhqQWhab2JVdE1VSjk3emF3SFJNYzQzcnhiNTAwdUFMZnI4V3lQS1lHbk1xVGtFVUh3S3p2emlSdGxnZTdnTUN3aDB5ajZZeFFlM2ZvdWNrQmhOTXE2OWZaRUh3UGdWSWNGakJmd2NJSDBDMFp0Snl0NXd2YUJia2ZoZjkyV0pleFBPa0dMb0NGWHROcVNmVlM2MEI0OThlZzVIRlo4QzJlMm1QTW5mWEFLRnNIUkhV?oc=5",
+   "source": "Football Today",
+   "group": "영국 언론",
+   "date": 1795435859000,
+   "added": 1795486250083,
+   "cat": null,
+   "titleKo": "첼시의 스트라이커 에마뉘엘 에메가, 리즈와의 프리미어리그 데뷔전에서 득점한 후 강도 피해"
   },
   {
    "id": "https://www.skysports.com/football/news/11095/13615585/paul-merson-believes-liverpool-knew-xabi-alonso-wasnt-good-enough-and-were-seeing-it-play-out-as-chelsea-manager",
@@ -2914,6 +2937,17 @@
    "added": 1795350347191,
    "cat": null,
    "titleKo": "'그들은 그 사실을 받아들일 수 없었습니다!- 도미닉 칼버트-르윈, 첼시가 리즈 유나이티드에 패배하며 스탬퍼드 브리지에서 대승을 거둔 것을 기뻐함"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdG9ncy0yOEFvLURURWp3NnN2UmhVYl8wOGJadVltSnllM0l2RTYzVVBYNW0wWUl6VzhJRkU5XzF2THdVWjBETHkzeEFhZWVaTTBnQl9HRGNKSXhWSjJGckFDZlVLUEVLblU2TlUzclB5dEg3ZFl6QktpY0QzT291TzFEN0ltX0tIVEFlTUVMTkYySGg2UmdWWUtZMTFPVWxQWlRRUWEzdw?oc=5",
+   "title": "Chelsea 2027 A3 Calendar",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdG9ncy0yOEFvLURURWp3NnN2UmhVYl8wOGJadVltSnllM0l2RTYzVVBYNW0wWUl6VzhJRkU5XzF2THdVWjBETHkzeEFhZWVaTTBnQl9HRGNKSXhWSjJGckFDZlVLUEVLblU2TlUzclB5dEg3ZFl6QktpY0QzT291TzFEN0ltX0tIVEFlTUVMTkYySGg2UmdWWUtZMTFPVWxQWlRRUWEzdw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795325390000,
+   "added": 1795486250085,
+   "cat": null,
+   "titleKo": "첼시 2027 A3 캘린더"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
@@ -4230,41 +4264,6 @@
    "added": 1795384287190,
    "cat": "인터뷰",
    "titleKo": "마이크 딘, 첼시와 리즈 유나이티드의 페널티킥 논란에 즉각 반응"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqUlBpZkkwbWktRWNIcUJGU1BsSThmM2E3Y0JkVGJpR1NIc2xMQzBuX3F0OFFTY0pSYTJEN1I5RTF0U3lGcWRXcFJsak00RFZScTI4LW9FTFNKSFhJRXBnTk9yVHNVUjJjMWJlYVJ4QTZBSTlJQ1pSR3dseEo?oc=5",
-   "title": "Match report: Chelsea 1-4 Leeds | News | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqUlBpZkkwbWktRWNIcUJGU1BsSThmM2E3Y0JkVGJpR1NIc2xMQzBuX3F0OFFTY0pSYTJEN1I5RTF0U3lGcWRXcFJsak00RFZScTI4LW9FTFNKSFhJRXBnTk9yVHNVUjJjMWJlYVJ4QTZBSTlJQ1pSR3dseEo?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795278600000,
-   "added": 1795283105238,
-   "cat": "오피셜",
-   "titleKo": "경기 보고서: 첼시 1-4 리즈 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/chelsea-leeds-morgan-rogers-handball-34948156",
-   "title": "Mike Dean speaks mind on Chelsea penalty controversy as Xabi Alonso fumes at VAR decision",
-   "link": "https://www.football.london/chelsea-fc/news/chelsea-leeds-morgan-rogers-handball-34948156",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795278441000,
-   "image": "https://i2-prod.football.london/incoming/article34948193.ece/ALTERNATES/s615/0_image-10.png",
-   "added": 1795280705675,
-   "cat": "인터뷰",
-   "titleKo": "마이크 딘, 자비 알론소가 VAR 판정에 분노한 첼시 페널티 논란에 대해 소신 발언"
-  },
-  {
-   "id": "https://www.independent.co.uk/sport/football/moises-caicedo-chelsea-injury-latest-leeds-b3089185.html",
-   "title": "Moises Caicedo forced off in tears as Chelsea injury crisis worsens",
-   "link": "https://www.independent.co.uk/sport/football/moises-caicedo-chelsea-injury-latest-leeds-b3089185.html",
-   "source": "Independent",
-   "group": "영국 언론",
-   "date": 1795277803000,
-   "image": "https://static.independent.co.uk/2026/11/21/15/01M7ZBCZM0NKZF1D2ZQ554TEXT.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-   "added": 1795277862288,
-   "cat": "부상",
-   "titleKo": "첼시의 부상 위기가 심화되면서 모이세스 카이세도가 눈물을 흘리며 경기를 중단했습니다."
   }
  ]
 }
