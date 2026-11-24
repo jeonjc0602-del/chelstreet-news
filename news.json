@@ -1,15 +1,15 @@
 {
- "updated": 1795539197631,
+ "updated": 1795542081104,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 2,
+  "Sky Sports": 1,
   "talkSPORT": 5,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 9,
-  "The Sun": 5,
-  "Mirror": 3,
-  "Daily Mail": 7,
+  "The Sun": 3,
+  "Mirror": 2,
+  "Daily Mail": 5,
   "Telegraph": 6,
   "Independent": 2,
   "Express": 0,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 14,
+  "구글뉴스(한국어)": 16,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 46건"
+  "이번 상대": "Nottingham Forest · 새 기사 43건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -857,6 +857,62 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699175_833332_5757_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzVHZ0NqYlhwYVNFRHVxaldVNlJQNXlrVUVOTGdkeHI2NHNuY3VXMmxiU3phaDh0SzRrUjZtc0dtRE5DelNYcGRDSFNWM01pOGFrbktLT2Vxbm9jOEZHb09Hbi1sN3pqd1diLU1iZHFTUWNuNmpvM29FS2xBYU5aUU5LbXR5R3Q5Vjd0aDhTdWozZHZiWHZSX1BIODN6R2x6TkNzQTA5MnQ4S0I0bXBBblMyNA?oc=5",
+   "title": "Cole Palmer is 'Chelsea's worst enemy' after what expert spotted vs Leeds",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzVHZ0NqYlhwYVNFRHVxaldVNlJQNXlrVUVOTGdkeHI2NHNuY3VXMmxiU3phaDh0SzRrUjZtc0dtRE5DelNYcGRDSFNWM01pOGFrbktLT2Vxbm9jOEZHb09Hbi1sN3pqd1diLU1iZHFTUWNuNmpvM29FS2xBYU5aUU5LbXR5R3Q5Vjd0aDhTdWozZHZiWHZSX1BIODN6R2x6TkNzQTA5MnQ4S0I0bXBBblMyNA?oc=5",
+   "source": "Football Insider",
+   "group": "영국 언론",
+   "date": 1795539600000,
+   "added": 1795542073438,
+   "cat": null,
+   "titleKo": "전문가가 리즈전에서 발견한 내용에 따르면, 콜 파머는 '첼시의 최악의 적'입니다."
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/fofana-laughs-about-missed-penalty-makes-contract-claim/",
+   "title": "Chelsea player laughs about missed penalty and makes contract claim in another unauthorised interview",
+   "link": "https://www.talkchelsea.net/news/fofana-laughs-about-missed-penalty-makes-contract-claim/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795539600000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Wesley-Fofana-speaks-on-a-podcast-414x233.jpg",
+   "added": 1795542073438,
+   "cat": "인터뷰",
+   "titleKo": "첼시 선수가 실축한 페널티킥을 두고 웃으며, 또 다른 무단 인터뷰에서 계약 관련 주장을 펼쳤습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84X2l2bHZiUDhvcGVtb1FpM0tMWlJUNU9TZVlZRHcwVlRrR1lDTTMtcEZnaUpUWmxDSjdsVXlxWmdMaWRRVWhkSjVRTWc1bTlEdmJPcGcwcUtnTlo2TDc0RXJsb29KOWxYcmfSAW9BVV95cUxObVNRS0VWaTQzb2tWR040M2FOUndDOFc1QnJEb2FqU0c0RnBHcWpJT2Fqd0VmUEZQdjRIMTJ4NWY4NzRlUGJHQXhhWHp4UkZwdEw1RDh6UElHWUtnUTlLMHBhdFRwUHFTNnFyVVQ0OTQ?oc=5",
+   "title": "\"센세이셔널 쏘니!\" 토트넘, 아직도 손흥민 못 잊었다...첼시 농락한 '8년 전 원더골' 재소환→팬들도 \"구단 역사상 최고의 선수\" - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84X2l2bHZiUDhvcGVtb1FpM0tMWlJUNU9TZVlZRHcwVlRrR1lDTTMtcEZnaUpUWmxDSjdsVXlxWmdMaWRRVWhkSjVRTWc1bTlEdmJPcGcwcUtnTlo2TDc0RXJsb29KOWxYcmfSAW9BVV95cUxObVNRS0VWaTQzb2tWR040M2FOUndDOFc1QnJEb2FqU0c0RnBHcWpJT2Fqd0VmUEZQdjRIMTJ4NWY4NzRlUGJHQXhhWHp4UkZwdEw1RDh6UElHWUtnUTlLMHBhdFRwUHFTNnFyVVQ0OTQ?oc=5",
+   "source": "머니투데이",
+   "group": "한국 언론",
+   "date": 1795539540000,
+   "added": 1795542073438,
+   "cat": null,
+   "titleKo": "\"센세이셔널 쏘니!\" 토트넘, 아직도 손흥민 못 잊었다...첼시 농락한 '8년 전 원더골' 재소환→팬들도 \"구단 역사상 최고의 선수\" - 머니투데이"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsLXV3TVhscG0tVXRhRW5fSW53YmRjQWZqQ0oycms1cXRhcUYzLWpVZWtFdnBEWFY3NTJocUtXNFFJX0Fza1duUFREZWNBVUpYSGhZeg?oc=5",
+   "title": "\"센세이셔널 쏘니!\" 토트넘, 아직도 손흥민 못 잊었다...첼시 농락한 '8년 전 원더골' 재소환→팬들도 \"구단 역사상 최고의 선수\"",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsLXV3TVhscG0tVXRhRW5fSW53YmRjQWZqQ0oycms1cXRhcUYzLWpVZWtFdnBEWFY3NTJocUtXNFFJX0Fza1duUFREZWNBVUpYSGhZeg?oc=5",
+   "source": "OSEN",
+   "group": "한국 언론",
+   "date": 1795539540000,
+   "added": 1795542073438,
+   "cat": null,
+   "titleKo": "\"센세이셔널 쏘니!\" 토트넘, 아직도 손흥민 못 잊었다...첼시 농락한 '8년 전 원더골' 재소환→팬들도 \"구단 역사상 최고의 선수\""
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kc215OTlKN3FZM2JJSkItMGxwd0psQ3c2ekY4MTN4WGpTOTdFZ0c3dFh5UXViLWpNdFNsVk5wSkVmTHFuN2oxeExMd0RDajBoT2Z5ajllSndYWFdYSVZ2VjhsMzFEdw?oc=5",
+   "title": "Wesley Fofana Reveals He Nearly Quit Football at Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kc215OTlKN3FZM2JJSkItMGxwd0psQ3c2ekY4MTN4WGpTOTdFZ0c3dFh5UXViLWpNdFNsVk5wSkVmTHFuN2oxeExMd0RDajBoT2Z5ajllSndYWFdYSVZ2VjhsMzFEdw?oc=5",
+   "source": "Demokratis.co.id",
+   "group": "영국 언론",
+   "date": 1795539362000,
+   "added": 1795542073438,
+   "cat": "인터뷰",
+   "titleKo": "웨슬리 포파나, 첼시에서 축구를 거의 그만둘 뻔했다고 밝혀"
+  },
+  {
    "id": "https://talksport.com/football/4728857/wesley-fofana-bombshell-chelsea-revelations/",
    "title": "Wesley Fofana picks worst possible time to deliver two bombshell Chelsea revelations",
    "link": "https://talksport.com/football/4728857/wesley-fofana-bombshell-chelsea-revelations/",
@@ -1249,6 +1305,17 @@
    "titleKo": "제이미 캐러거, 첼시에 거물급 센터백 영입을 권고하며 레비 콜윌과 웨슬리 포파나를 '초보자 같다'고 평가"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkR6TFkyYVpwcGZVdVVSVU9sVHg5VkNlYm1iZDdCMHVxeDhNMHdqQWx2MnhJYWpIUThUU3lOM0RvS0xUVlZVbGVJYjVLNnhpazJMYkxXUUI4ZnBNMVhQNW84anlVT3VINS1ib294U0dTX0pMVml4SVlJZWYwNUF2MWNnd29HZmtPZXVMUS1oVDZ3RGtxbmt0VU5MTWJzRE1Zenl1dnEwVQ?oc=5",
+   "title": "Carragher tells Chelsea to sign giant centre-back to replace Colwill and Fofana",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkR6TFkyYVpwcGZVdVVSVU9sVHg5VkNlYm1iZDdCMHVxeDhNMHdqQWx2MnhJYWpIUThUU3lOM0RvS0xUVlZVbGVJYjVLNnhpazJMYkxXUUI4ZnBNMVhQNW84anlVT3VINS1ib294U0dTX0pMVml4SVlJZWYwNUF2MWNnd29HZmtPZXVMUS1oVDZ3RGtxbmt0VU5MTWJzRE1Zenl1dnEwVQ?oc=5",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795517760000,
+   "added": 1795542073438,
+   "cat": null,
+   "titleKo": "캐러거, 첼시에 콜윌과 포파나를 대체할 거물급 센터백 영입을 권고"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnpXcmlPVmJhOVZjM1c1Z1BmY1Exa3h4NWs4cUhQM2swcVdhcHVMLTdVRUNuLUdQUEFDNmZkanVwSlRzT2FLdVY4X2NoMkZzZW0yYW0tTzEzVkN5ZllGNHlBQ0FZaE1BYmlvemZKamZrWThXb1VrMjdBcWE5REMzbFNUcXlsS05yQ2xwRWZTQ0RRbkRYUmRybGs0N3dTQ3p1c0FOR0FTSDdLazZTZVV5S201bXZqV09JRUd6R2VBcEtQZ1B1RFFhUg?oc=5",
    "title": "Cesc Fabregas' stance on Chelsea move amid Xabi Alonso sack latest - Sources",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnpXcmlPVmJhOVZjM1c1Z1BmY1Exa3h4NWs4cUhQM2swcVdhcHVMLTdVRUNuLUdQUEFDNmZkanVwSlRzT2FLdVY4X2NoMkZzZW0yYW0tTzEzVkN5ZllGNHlBQ0FZaE1BYmlvemZKamZrWThXb1VrMjdBcWE5REMzbFNUcXlsS05yQ2xwRWZTQ0RRbkRYUmRybGs0N3dTQ3p1c0FOR0FTSDdLazZTZVV5S201bXZqV09JRUd6R2VBcEtQZ1B1RFFhUg?oc=5",
@@ -1269,6 +1336,17 @@
    "added": 1795523743592,
    "cat": "인터뷰",
    "titleKo": "\"축구를 그만두고 싶었다\" - 첼시의 스타 선수가 마레스카 감독 체제에서 은퇴를 고려했다고 밝혔다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRjV1Y2c3Z3dTTzM0THhJT1dZRXBESEc5ZUtFaDk3VDRlNXBMMjdZZ2lfa2ttUEd0RFF4cFBwazU1cmkwWGNWeFhGNlhvdGthbHdkYnVjSFJtZGV2R1ZWbHFfNjUxVFRhaHk0V3pWbkJmUTRDMEZCX1lhZ2k0QmtDMEtwVzl0SmI4QWJpRndqRmJOU3hjSG5LMlNnQVJOaF96Q1pXSW5RMDR3Z1RkZUFKTzJsbENPM3RHQXJjRTR2eW01RmYwUTlBSGktTjZ6OFhNa29Ed2dQSkJSbGlOR3RiX29sUncxOGlQNzQyUTVycWliWE5LVGF3?oc=5",
+   "title": "Chelsea have 'no chance of achieving anything' with Colwill and Fofana, claims Carragher",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRjV1Y2c3Z3dTTzM0THhJT1dZRXBESEc5ZUtFaDk3VDRlNXBMMjdZZ2lfa2ttUEd0RFF4cFBwazU1cmkwWGNWeFhGNlhvdGthbHdkYnVjSFJtZGV2R1ZWbHFfNjUxVFRhaHk0V3pWbkJmUTRDMEZCX1lhZ2k0QmtDMEtwVzl0SmI4QWJpRndqRmJOU3hjSG5LMlNnQVJOaF96Q1pXSW5RMDR3Z1RkZUFKTzJsbENPM3RHQXJjRTR2eW01RmYwUTlBSGktTjZ6OFhNa29Ed2dQSkJSbGlOR3RiX29sUncxOGlQNzQyUTVycWliWE5LVGF3?oc=5",
+   "source": "beIN SPORTS",
+   "group": "영국 언론",
+   "date": 1795516278000,
+   "added": 1795542073438,
+   "cat": null,
+   "titleKo": "캐러거, \"첼시는 콜윌과 포파나로는 '아무것도 이룰 수 없다'\"고 주장"
   },
   {
    "id": "https://www.sportsmole.co.uk/football/chelsea/injury-news/injuries-and-suspensions/caicedo-pedro-latest-chelsea-injury-suspension-list-vs-nottingham-forest_609743.html",
@@ -4190,85 +4268,6 @@
    "added": 1795312467104,
    "cat": null,
    "titleKo": "톰 브래디, 버밍엄 시티 매각 후 첼시 FC 지분 인수 보도"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news-now/cole-palmer-ignores-joao-pero-culture-coach/",
-   "title": "(Video): Cole Palmer ignores Joao Pedro and “culture coach” and declines to salute fans",
-   "link": "https://www.talkchelsea.net/news-now/cole-palmer-ignores-joao-pero-culture-coach/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795296900000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Cole-Palmer-walks-off-the-pitch-414x233.jpg",
-   "added": 1795298432109,
-   "cat": null,
-   "titleKo": "(동영상): 콜 파머, 주앙 페드로와 '문화 코치'를 무시하고 팬들에게 인사하지 않음"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFZNakVMbkRNNGJGSEdiMFRGaGZOYTFaQzFRZC1VMWtxbzJLQ0JVb1FBLVFlaDRZeW9MV0VycDNaWHoyb3JqNEF5NUpTUGZwMHZ0WUJWa19pVkJGQ3pWcm9icUFHazFBemRXWmxBem5WRWZjRklMcG1MN2t6Y1JObi1BRVVHdF9yajd1Rk9LX2toMmg3WGV5Qm1tMDdyRzZHZ3F3WFJ0MV84VWxNZVE?oc=5",
-   "title": "PHOTOS: Harper Woods defeats Chelsea 42-15 in D3 semifinal",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFZNakVMbkRNNGJGSEdiMFRGaGZOYTFaQzFRZC1VMWtxbzJLQ0JVb1FBLVFlaDRZeW9MV0VycDNaWHoyb3JqNEF5NUpTUGZwMHZ0WUJWa19pVkJGQ3pWcm9icUFHazFBemRXWmxBem5WRWZjRklMcG1MN2t6Y1JObi1BRVVHdF9yajd1Rk9LX2toMmg3WGV5Qm1tMDdyRzZHZ3F3WFJ0MV84VWxNZVE?oc=5",
-   "source": "MLive.com",
-   "group": "영국 언론",
-   "date": 1795295880000,
-   "added": 1795305392364,
-   "cat": null,
-   "titleKo": "사진: 하퍼 우즈가 D3 준결승전에서 첼시를 42-15로 이겼습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE80enk5MEtxN2FvVmRvUWtkSS1mcUdQX2VpdW43al8wRWFGN0RxRjdSMWxmY0dvNzg2ZzY1NlZ2RTFOWlJSZkFQVXdJVnVpaDAtbFdDeHktX25abk9RNi1pcTRkVGRVMjREYmI1RTBiTVBIdw?oc=5",
-   "title": "\"첼시, 27년 만에 안방에서 굴욕 당했다!\"…리즈에 1-4 대참사! 알론소 감독도 인정 \"우리 선수들 정신적으로 취약했다\"",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80enk5MEtxN2FvVmRvUWtkSS1mcUdQX2VpdW43al8wRWFGN0RxRjdSMWxmY0dvNzg2ZzY1NlZ2RTFOWlJSZkFQVXdJVnVpaDAtbFdDeHktX25abk9RNi1pcTRkVGRVMjREYmI1RTBiTVBIdw?oc=5",
-   "source": "포포투",
-   "group": "한국 언론",
-   "date": 1795295700000,
-   "added": 1795298432109,
-   "cat": null,
-   "titleKo": "\"첼시, 27년 만에 안방에서 굴욕 당했다!\"…리즈에 1-4 대참사! 알론소 감독도 인정 \"우리 선수들 정신적으로 취약했다\""
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16311993/Cole-Palmer-frosty-exchange-Joao-Pedro-Chelsea-4-1-humiliation-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "Frustrated Cole Palmer shares frosty exchange with Joao Pedro after upsetting Chelsea staff member before walking off down the tunnel after Chelsea's 4-1 drubbing by Leeds",
-   "link": "https://www.dailymail.com/sport/football/article-16311993/Cole-Palmer-frosty-exchange-Joao-Pedro-Chelsea-4-1-humiliation-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795295609000,
-   "image": "https://i.dailymail.com/1s/2026/11/21/20/112653879-0-image-a-42_1795291709384.jpg",
-   "added": 1795296004046,
-   "cat": null,
-   "titleKo": "콜 파머, 첼시가 리즈에 4-1로 패한 후 첼시 직원에게 불쾌감을 준 뒤 터널로 내려가기 전 주앙 페드로와 냉담한 대화를 나눔"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lZWFIY0h1RjJLbm1Zb3BqWUxnVGs0c05jLUxGX05lQjdCYmVFVkZZeG05enhmOEZyb3FwSndyTU9tOEFBWERBRVp2eHlXZ3JzeTl3RkJKa1NLYjc2VG5lQ2RxR29XR1M1TTZINXVEOUw?oc=5",
-   "title": "우승 트로피 들고도 \"수원은 14위일 뿐\"...이정효, 유럽 전술 공부 착착 → 맨시티·첼시·아스널 경기 직접 본다",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lZWFIY0h1RjJLbm1Zb3BqWUxnVGs0c05jLUxGX05lQjdCYmVFVkZZeG05enhmOEZyb3FwSndyTU9tOEFBWERBRVp2eHlXZ3JzeTl3RkJKa1NLYjc2VG5lQ2RxR29XR1M1TTZINXVEOUw?oc=5",
-   "source": "SPOTV NEWS",
-   "group": "한국 언론",
-   "date": 1795295100000,
-   "added": 1795296004047,
-   "cat": null,
-   "titleKo": "우승 트로피 들고도 \"수원은 14위일 뿐\"...이정효, 유럽 전술 공부 착착 → 맨시티·첼시·아스널 경기 직접 본다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGFqMmc1cWVSR01ncG52aklNclBteGpkR0NWVklhZ1Vjay1VMFFjY2Y5R3FQcVVhOFVoZjgySmEtcFpxTjNONWVXSlp4bVVnU1hKWE9NOHBHRVBnb2ZhX2NEOEpXVFUxWTJZZTdVR2JzcVllcjkyTHVNWmhMTlNEV0k3VTNjUXpvR2ZYVlNQcDluNE85UjFuODVaaGlRWjh2alFjN2FlNUpyYTQxdi1BaHNVbVVUR1gzWjlXWXljRUxXbHFqZ1loUEFrRS1ROVVmVkE3eVNKdl9Xd2FZX280aUExbDF0ZDZ3SmZ6Ug?oc=5",
-   "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGFqMmc1cWVSR01ncG52aklNclBteGpkR0NWVklhZ1Vjay1VMFFjY2Y5R3FQcVVhOFVoZjgySmEtcFpxTjNONWVXSlp4bVVnU1hKWE9NOHBHRVBnb2ZhX2NEOEpXVFUxWTJZZTdVR2JzcVllcjkyTHVNWmhMTlNEV0k3VTNjUXpvR2ZYVlNQcDluNE85UjFuODVaaGlRWjh2alFjN2FlNUpyYTQxdi1BaHNVbVVUR1gzWjlXWXljRUxXbHFqZ1loUEFrRS1ROVVmVkE3eVNKdl9Xd2FZX280aUExbDF0ZDZ3SmZ6Ug?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795294443000,
-   "added": 1795365031981,
-   "cat": "이적",
-   "titleKo": "첼시 이적 소식, 루머 및 가십: 이적, 영입, 임대 및 계약에 대한 실시간 업데이트 및 최신 소식"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZDBNU2hOb3JERjBKNWFaM2FkZlF6dmJGNU1sd05IRHBTZ1NZbktlNjZvQVBMc1hSSjcxcjIzVng2VkJ5ZjVlcm5yZFdtbzd1cWpIOVFtalBzbHBLX1pCd1g5Q0xfdmg4TElFQU1wdmpMYTE0dWNTUjNMVmhtRllfQ0tuQm1WeENkZmRfdHNzb0dLV0t1WlhMTzhOTmJaN2lCOUhDLWdIc0NOOG5JbWJxdThaNmhYeGhERDduWGVpbUZSc09wTTZnZ0g3c2dDRGlsVzA2UG9IQWdtRTlZd000T0ZsNjRMUkJ3bU9hNzZB?oc=5",
-   "title": "Chelsea are fragile and need to toughen up says manager Xabi Alonso after humiliating defeat to Leeds United",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZDBNU2hOb3JERjBKNWFaM2FkZlF6dmJGNU1sd05IRHBTZ1NZbktlNjZvQVBMc1hSSjcxcjIzVng2VkJ5ZjVlcm5yZFdtbzd1cWpIOVFtalBzbHBLX1pCd1g5Q0xfdmg4TElFQU1wdmpMYTE0dWNTUjNMVmhtRllfQ0tuQm1WeENkZmRfdHNzb0dLV0t1WlhMTzhOTmJaN2lCOUhDLWdIc0NOOG5JbWJxdThaNmhYeGhERDduWGVpbUZSc09wTTZnZ0g3c2dDRGlsVzA2UG9IQWdtRTlZd000T0ZsNjRMUkJ3bU9hNzZB?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795294359000,
-   "added": 1795333592857,
-   "cat": "인터뷰",
-   "titleKo": "첼시 감독 사비 알론소, 리즈 유나이티드에 굴욕적인 패배를 당한 후 첼시가 약하고 강해져야 한다고 말함"
   }
  ]
 }
