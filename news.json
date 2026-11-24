@@ -1,5 +1,5 @@
 {
- "updated": 1795549176923,
+ "updated": 1795552222826,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
@@ -10,9 +10,9 @@
   "The Sun": 1,
   "Mirror": 2,
   "Daily Mail": 5,
-  "Telegraph": 6,
+  "Telegraph": 5,
   "Independent": 2,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 9,
   "CaughtOffside": 0,
   "90min": 1,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 16,
+  "구글뉴스(한국어)": 17,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 38건"
+  "이번 상대": "Nottingham Forest · 새 기사 35건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3d3SzJLRFBuNklhOXRSdzZXRUdXaElCUWw3aW1DWWF3SEhBQzFtZUE3U0swX1p6TktvTTB4UU9neG5TMWtieEhnY2RBRHJuNkJjYjBIcFhud196Tll0UExmQnlXRGRXMWtVdlJjVWdWWTlUeDY1djVTZXJpN1EtX2JpQTdvd2ZvQVdWSmQ1NkJDMERmaEc4YXR0aXRjVG5kZHNRcDRsQW80aTNjMVR6cTB3QjdNTzQ4a0Y3N3FydWtoMHEyY3U5SVZVZw?oc=5",
+    "title": "Referee named for Nottingham Forest vs Chelsea and it’s a good omen for Oliver Glasner",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3d3SzJLRFBuNklhOXRSdzZXRUdXaElCUWw3aW1DWWF3SEhBQzFtZUE3U0swX1p6TktvTTB4UU9neG5TMWtieEhnY2RBRHJuNkJjYjBIcFhud196Tll0UExmQnlXRGRXMWtVdlJjVWdWWTlUeDY1djVTZXJpN1EtX2JpQTdvd2ZvQVdWSmQ1NkJDMERmaEc4YXR0aXRjVG5kZHNRcDRsQW80aTNjMVR6cTB3QjdNTzQ4a0Y3N3FydWtoMHEyY3U5SVZVZw?oc=5",
+    "source": "Nottingham Forest News",
+    "date": 1795550400000,
+    "added": 1795552220660,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 대 첼시 경기의 심판이 발표되었으며, 이는 올리버 글라스너 감독에게 좋은 징조입니다."
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS1h6RmJZZGFoWE1IOGsxdkNHVTZRSXZOU3FaNGVoSW82RmZBLTg1Y21GV1BINkZlMnZjc2s2dUNUamFvQzBraEZiQ2tUOFVJeUsxalVZZE9xOE9idjExN2EzZ05QdDBpUzFac3pGNUNMMEk2UkJEai1mN2RVbFgtOGxET0tIUWVrWXhvQnBiQ0g1bkx6NkZRd212bWdPb2pVdjJJQU8zWnZOc0t5UjBRVUp3SDdkdXRWOUJMVElocF93MnRNOG9uTTE4blRsUklEal9EUHo4elduaGlpNGh2ZTlnTDI0OEZYSzlTdkNPdklucDF6NGNISWdFR3I?oc=5",
     "title": "Chelsea Receive Training Injury Boost, But Some Key Players Still Missing Ahead Of Nottingham Forest Trip",
@@ -829,16 +839,6 @@
     "added": 1795308264714,
     "tag": "상대 소식",
     "titleKo": "세리에 A 구단, 노팅엄 포레스트 윙어에 관심"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEo4cnU5STJfcWJudDcyYkxzU1pyUDBLUWFuckcwWFBWVTZMakJDMFRJTlJ5YWYweUZkRDZPay1acDVjNHBfSTZzZ1Q0T1JqOVpjYV9LZEV0eS0zbXVNUGlCZ1lXUVVKY0I2OGZURkJiQnd1NS1YY2JqTjFyX2Z0X1FzTmRZX1NtY19pTjZVY2F1Um5QZjJUd3JhczRhT3J6V0M4ei1ZWWpobnhUOWRKSHcyUdIBuAFBVV95cUxNY2xKbnk5bVo4Zi1nN0Z6QncyOHAzMWJZQk9kNHR0VGhaTkhCbmdpRXdJZ2I5WXo0V0Q0RFZkRXVFLXQ0d0pZVk5LaEI3YlJjNlg1Q0c1eDV5NWE1bXFMODh3cUJOcEU4enRLSjZSMUFCdm9mQXJlQ3lzNTY3Y3Y4U3ZJMUJvaHcyakVOd1o2ZjBCVGpTSFpqTVFKQTlydTNYSkxPTk9FT1dNRGlPVU5RWUtmYUpQME1N?oc=5",
-    "title": "Brutal chant summed up miserable Nottingham Forest afternoon as Bournemouth loss a step back",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEo4cnU5STJfcWJudDcyYkxzU1pyUDBLUWFuckcwWFBWVTZMakJDMFRJTlJ5YWYweUZkRDZPay1acDVjNHBfSTZzZ1Q0T1JqOVpjYV9LZEV0eS0zbXVNUGlCZ1lXUVVKY0I2OGZURkJiQnd1NS1YY2JqTjFyX2Z0X1FzTmRZX1NtY19pTjZVY2F1Um5QZjJUd3JhczRhT3J6V0M4ei1ZWWpobnhUOWRKSHcyUdIBuAFBVV95cUxNY2xKbnk5bVo4Zi1nN0Z6QncyOHAzMWJZQk9kNHR0VGhaTkhCbmdpRXdJZ2I5WXo0V0Q0RFZkRXVFLXQ0d0pZVk5LaEI3YlJjNlg1Q0c1eDV5NWE1bXFMODh3cUJOcEU4enRLSjZSMUFCdm9mQXJlQ3lzNTY3Y3Y4U3ZJMUJvaHcyakVOd1o2ZjBCVGpTSFpqTVFKQTlydTNYSkxPTk9FT1dNRGlPVU5RWUtmYUpQME1N?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795283391000,
-    "added": 1795285403095,
-    "tag": "상대 소식",
-    "titleKo": "브루탈 찬트가 보르넘우스의 패배로 한 걸음 뒤로 물러난 비참한 노팅엄 포레스트의 오후를 요약했습니다."
    }
   ]
  },
@@ -902,6 +902,17 @@
    "added": 1795545296059,
    "cat": "인터뷰",
    "titleKo": "설문조사: 첼시는 웨슬리 포파나에게 폭탄 발언이 담긴 인터뷰와 금전적 요구에 대해 벌금을 부과하거나 그를 방출해야 할까요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWJGbHM2RUxGc01YRU1iTlBYMzhselp1aUZkMXpzbDR6M3dUN05aOUI1UzNrajFDZTB3RTRCYllJTlMwRjVkS0RHNnVndVF5SnBhd2lTeEhFYm5wOFJxUHp6aTZERUd0OVhqYzZ5SVVSQ1paV3lpSjFUeE5yMG1EellRYTM3VTlmZWc?oc=5",
+   "title": "Training gallery: Building to bounce back",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWJGbHM2RUxGc01YRU1iTlBYMzhselp1aUZkMXpzbDR6M3dUN05aOUI1UzNrajFDZTB3RTRCYllJTlMwRjVkS0RHNnVndVF5SnBhd2lTeEhFYm5wOFJxUHp6aTZERUd0OVhqYzZ5SVVSQ1paV3lpSjFUeE5yMG1EellRYTM3VTlmZWc?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795541400000,
+   "added": 1795552218760,
+   "cat": null,
+   "titleKo": "교육 갤러리: 회복력을 키우기"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzVHZ0NqYlhwYVNFRHVxaldVNlJQNXlrVUVOTGdkeHI2NHNuY3VXMmxiU3phaDh0SzRrUjZtc0dtRE5DelNYcGRDSFNWM01pOGFrbktLT2Vxbm9jOEZHb09Hbi1sN3pqd1diLU1iZHFTUWNuNmpvM29FS2xBYU5aUU5LbXR5R3Q5Vjd0aDhTdWozZHZiWHZSX1BIODN6R2x6TkNzQTA5MnQ4S0I0bXBBblMyNA?oc=5",
@@ -3229,6 +3240,17 @@
    "titleKo": "첼시 다이어리: 원정 경기와 아카데미 더비가 예정되어 있습니다 | 뉴스 | 공식 사이트"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUs0SGhzXzJwX3dxZlpiZzJlNUpqa0l1VkpVdUlMTVNMTnlQbV9UdHlfaS15bEFaRDhib2lWY2JrcGRyOUhQWXhuSnVoNDZJeGlUOWtxbzVYNHNKdERQRXR3cGo3MkNmRTBYSk9uZE9vWGc1cGQ5dTljcTZFS1NYc2l1U2xZSms?oc=5",
+   "title": "리즈에게 참패를 당한 후, 첼시는 그 어느 때보다 취약한 상태에 놓였다.",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUs0SGhzXzJwX3dxZlpiZzJlNUpqa0l1VkpVdUlMTVNMTnlQbV9UdHlfaS15bEFaRDhib2lWY2JrcGRyOUhQWXhuSnVoNDZJeGlUOWtxbzVYNHNKdERQRXR3cGo3MkNmRTBYSk9uZE9vWGc1cGQ5dTljcTZFS1NYc2l1U2xZSms?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795413070000,
+   "added": 1795552218759,
+   "cat": null,
+   "titleKo": "리즈에게 참패를 당한 후, 첼시는 그 어느 때보다 취약한 상태에 놓였다."
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGdYMWFiNlRqdk12TnVUUDJ3RGdDeGUtVlRiSFpEVF9UNUtRRXJiZkJXbmZ1T2V1RWZYYTlkNEZZM1pZdnVyX0I2RGJlT0lKN3ZQVWhQWGU4VWEzRDBSZjV0ak1TYkpQZkJpdnVER2k3clFXNjVJT200TTd5Tm4wS0kybmJ1VEV4VUE?oc=5",
    "title": "Chelsea make Xabi Alonso sack decision after Leeds United humiliation at Stamford Bridge",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGdYMWFiNlRqdk12TnVUUDJ3RGdDeGUtVlRiSFpEVF9UNUtRRXJiZkJXbmZ1T2V1RWZYYTlkNEZZM1pZdnVyX0I2RGJlT0lKN3ZQVWhQWGU4VWEzRDBSZjV0ak1TYkpQZkJpdnVER2k3clFXNjVJT200TTd5Tm4wS0kybmJ1VEV4VUE?oc=5",
@@ -4246,28 +4268,6 @@
    "added": 1795308262995,
    "cat": "오피셜",
    "titleKo": "전체 경기: 첼시 vs 리즈 유나이티드 | 동영상 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1dZTEpLd05aLXAzZlplSzdaZjZpdDk3OENVQXlzVmtmQ1IxQnlTYVJGckR1UGwtb3dSNW1STFlWRHVYbDJick1RX2JOM09haW8yN0pRRE5fenZzMVhJUEZQUzk2anhvT3kwNXZLUU5PbDcyMm5jbjJ3dkdUVG83X0ZJTVc0SFpSSWVFd1RGYw?oc=5",
-   "title": "리즈가 첼시를 꺾고 스탬퍼드 브리지에서 27년 만에 징크스를 깼다.",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1dZTEpLd05aLXAzZlplSzdaZjZpdDk3OENVQXlzVmtmQ1IxQnlTYVJGckR1UGwtb3dSNW1STFlWRHVYbDJick1RX2JOM09haW8yN0pRRE5fenZzMVhJUEZQUzk2anhvT3kwNXZLUU5PbDcyMm5jbjJ3dkdUVG83X0ZJTVc0SFpSSWVFd1RGYw?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795305152000,
-   "added": 1795305392364,
-   "cat": null,
-   "titleKo": "리즈가 첼시를 꺾고 스탬퍼드 브리지에서 27년 만에 징크스를 깼다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekZhc3U1VFVBdVNudGVsM0I5dWkzSEwwSWZoQmZPalN5RHF1eUpVQ3YyTnZHbkpRb1hZY3N4N3RlZWhHTWFSUmt4eWhoV2xUck81Wi1fWXBqZXY3WC1GbVdLcnJSRldwdlZhLXNaZGhwdFFSUGlmOVdWZFJ4aFN5cUJncncyU05KMjV0bW1seEVDdjZLRHVfTGp1cUdQWlVycWk3cmVR?oc=5",
-   "title": "첼시, 홈에서 리즈 유나이티드에 1-4 역전패",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekZhc3U1VFVBdVNudGVsM0I5dWkzSEwwSWZoQmZPalN5RHF1eUpVQ3YyTnZHbkpRb1hZY3N4N3RlZWhHTWFSUmt4eWhoV2xUck81Wi1fWXBqZXY3WC1GbVdLcnJSRldwdlZhLXNaZGhwdFFSUGlmOVdWZFJ4aFN5cUJncncyU05KMjV0bW1seEVDdjZLRHVfTGp1cUdQWlVycWk3cmVR?oc=5",
-   "source": "Laodong.vn",
-   "group": "한국 언론",
-   "date": 1795304669000,
-   "added": 1795315407943,
-   "cat": null,
-   "titleKo": "첼시, 홈에서 리즈 유나이티드에 1-4 역전패"
   }
  ]
 }
