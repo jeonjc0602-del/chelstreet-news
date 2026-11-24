@@ -1,9 +1,9 @@
 {
- "updated": 1795528507535,
+ "updated": 1795531785077,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 2,
-  "talkSPORT": 5,
+  "Sky Sports": 1,
+  "talkSPORT": 4,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 8,
@@ -12,23 +12,23 @@
   "Daily Mail": 7,
   "Telegraph": 6,
   "Independent": 2,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 9,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 72,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 13,
+  "구글뉴스(한국어)": 14,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 34건"
+  "이번 상대": "Nottingham Forest · 새 기사 45건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlRGU0pDaFNVdHpBTnhMWVZtMnRrX0NBbEZSbUtDcVpJQnU3QUw0QW1pYUNPc1hnQ0xsT1docXJQRURHeWVSRHpPNUtZNmkxRHZ4bTYxbWp2N2JWTDlmZnRvb1ZncmNHTXp4ZEVzZUJTSU5RZXJGRzBGZXdHNmRLZ2dENDRPU0ZSY1JIUndiV0N1Vnd0dXhISWI3SUJ3ZW5VcHExNkdrNUpyNlZXb2k0?oc=5",
+    "title": "Scathing Chelsea verdict delivered in boost for Nottingham Forest",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlRGU0pDaFNVdHpBTnhMWVZtMnRrX0NBbEZSbUtDcVpJQnU3QUw0QW1pYUNPc1hnQ0xsT1docXJQRURHeWVSRHpPNUtZNmkxRHZ4bTYxbWp2N2JWTDlmZnRvb1ZncmNHTXp4ZEVzZUJTSU5RZXJGRzBGZXdHNmRLZ2dENDRPU0ZSY1JIUndiV0N1Vnd0dXhISWI3SUJ3ZW5VcHExNkdrNUpyNlZXb2k0?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795531613000,
+    "added": 1795531781749,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트에 유리한 첼시 판결 선고"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVk5fMHVLeFFPbU9uY1phZHI4bWp0SXBhamdQMmFyYm1scEdEWkd3dllnUFYxZ0xJaDNkZFpzNzJmeHJOUUI2N2E5YXVCTXN4ajBNTzhabE1hY0hDNl9fSFZfME5LWUs3VzNSLW5BNWVCOGJIWkZkS2tLbUcxaS13Y3ZnNWNZX2ZDRldWeXBOU0ZURm45RmpUOHBlbV9xTnhLUlRLOTNSZTBVbHBKMnRZVWdCSXhZSlgyZWhWdzFGYjRvSmV6TnNXMG5rRlBpQWpjRlYtRjFzNnpjMW80Nzl0b2NMcGJvQmNwMDRZ?oc=5",
     "title": "Sources: Roma outline structure of Callum Hudson-Odoi deal amid Nottingham Forest exit update",
@@ -829,16 +839,6 @@
     "added": 1795285403094,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 - 첼시"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRqNWRmNTdoT2k3clJzRzdDOUhmbHVJWjU2NENNSk40cE5GYWRHeUdWbFNnUzl5NzU2Ni0taEY2aDlaU3M0MXlCSlJEbVVHSGhvX3U2eFBDQXNZRGVMVjRWamdpQ29ORFJUOFEyeUJZUlZaQUg0akM5a2w0bEhhQzZfZG1mcHFBSG9IU0NhZTh0TkRHUlRn0gGcAUFVX3lxTFB1OS1iUUJLQjVFVDZSdWhzZGpudjhEYXozQURFN1lCN2JpYWs5bmQ5a2dZTi1GcGFjdXhjNHlkbkRUMGF6Q2t5aW5yMWpaci1fVjk3b3MySlV6TG94cTNDLXNCMVNzRmlrcVFNcVppTmZ0c1FKakh6TS1WWHQyT2hxMXdoRlU3TURWWFFxWVUxY19pMkZ3bGtYYU90Rw?oc=5",
-    "title": "Chelsea player ratings vs Leeds: Cole Palmer anonymous as six 4/10s struggle in loss",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRqNWRmNTdoT2k3clJzRzdDOUhmbHVJWjU2NENNSk40cE5GYWRHeUdWbFNnUzl5NzU2Ni0taEY2aDlaU3M0MXlCSlJEbVVHSGhvX3U2eFBDQXNZRGVMVjRWamdpQ29ORFJUOFEyeUJZUlZaQUg0akM5a2w0bEhhQzZfZG1mcHFBSG9IU0NhZTh0TkRHUlRn0gGcAUFVX3lxTFB1OS1iUUJLQjVFVDZSdWhzZGpudjhEYXozQURFN1lCN2JpYWs5bmQ5a2dZTi1GcGFjdXhjNHlkbkRUMGF6Q2t5aW5yMWpaci1fVjk3b3MySlV6TG94cTNDLXNCMVNzRmlrcVFNcVppTmZ0c1FKakh6TS1WWHQyT2hxMXdoRlU3TURWWFFxWVUxY19pMkZ3bGtYYU90Rw?oc=5",
-    "source": "Daily Express",
-    "date": 1795280340000,
-    "added": 1795318573455,
-    "tag": "상대 소식",
-    "titleKo": "첼시 선수 평점(리즈전): 4/10점을 받은 6명의 선수가 부진한 가운데, 콜 파머는 존재감이 없었음"
    }
   ]
  },
@@ -855,6 +855,29 @@
    "titleKo": "토트넘 손흥민 기습 숭배!...8년전, 첼시 상대로 50m 질주 원더골 조명→\"센세이셔널 SONNY\"",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699175_833332_5757_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HUmpELUJBOVNBQW1IOHBVMVE1eEN3aEhGNHEyeHRmMkxTWkhlNmx6VEtVenRGR0VuYmNrOEN6bnVOanJmaWt0UVBLSXdMaFItUDNQajRGYndoV2dSQ0M4NWViWGFYVUdaMlh5cEx4blJTUQ?oc=5",
+   "title": "'알론소 결국 경질 엔딩?'…'HERE WE GO' 로마노 직접 컨펌! 최근 5경기 단 1승에도 첼시의 선택은 달랐다 \"여전히 감독을 신뢰하고 있다\"",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HUmpELUJBOVNBQW1IOHBVMVE1eEN3aEhGNHEyeHRmMkxTWkhlNmx6VEtVenRGR0VuYmNrOEN6bnVOanJmaWt0UVBLSXdMaFItUDNQajRGYndoV2dSQ0M4NWViWGFYVUdaMlh5cEx4blJTUQ?oc=5",
+   "source": "포포투",
+   "group": "한국 언론",
+   "date": 1795530300000,
+   "added": 1795531779908,
+   "cat": "이적",
+   "titleKo": "'알론소 결국 경질 엔딩?'…'HERE WE GO' 로마노 직접 컨펌! 최근 5경기 단 1승에도 첼시의 선택은 달랐다 \"여전히 감독을 신뢰하고 있다\""
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41124940/cole-palmer-struggles-xabi-alonso-chelsea/",
+   "title": "Cole Palmer is worse under Xabi Alonso than any other Chelsea boss – but stats offer hope he can return to top form",
+   "link": "https://www.thesun.co.uk/sport/41124940/cole-palmer-struggles-xabi-alonso-chelsea/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795530176000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcole-palmer-chelsea-receives-pressure-1124749601.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795531779908,
+   "cat": "프리뷰",
+   "titleKo": "콜 파머는 사비 알론소 감독 아래에서 다른 어떤 첼시 감독보다도 부진했지만, 통계 수치는 그가 최고의 기량을 되찾을 수 있다는 희망을 보여줍니다."
   },
   {
    "id": "https://www.thesun.co.uk/sport/41127223/luca-williams-barnett-snubs-chelsea-man-utd-tottenham-deal/",
@@ -1167,6 +1190,17 @@
    "added": 1795516692044,
    "cat": null,
    "titleKo": "7,500만 파운드(약 1,300억 원)의 첼시 스타, 마레스카 감독 아래에서 '은퇴를 고려'"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDVTMTJNZEVGVnFZVGk4MThPQUttekNqb0o2MklsQ3dYcjQyU1loY0ZhMEExWU5XRzdweXh0enNYcHVXNFAxZG1aU1NPZEZmQy15N09tTy1NZkluUUdRX01CM3BQd09CQkpFeHF3SlNSN1lITTB6SzR3TnJ1THFjWktBcFNQQ2JBYi15ekJadzBpSXVJbC1VQTBORHpnWi1ETTZBV0FaYUtmcnI0eE1CRlBDdm9kT3BVTDFrTWUzNGtJc1Rja3pLcA?oc=5",
+   "title": "Jamie Carragher issues stark Chelsea January transfer warning",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDVTMTJNZEVGVnFZVGk4MThPQUttekNqb0o2MklsQ3dYcjQyU1loY0ZhMEExWU5XRzdweXh0enNYcHVXNFAxZG1aU1NPZEZmQy15N09tTy1NZkluUUdRX01CM3BQd09CQkpFeHF3SlNSN1lITTB6SzR3TnJ1THFjWktBcFNQQ2JBYi15ekJadzBpSXVJbC1VQTBORHpnWi1ETTZBV0FaYUtmcnI0eE1CRlBDdm9kT3BVTDFrTWUzNGtJc1Rja3pLcA?oc=5",
+   "source": "DAZN",
+   "group": "영국 언론",
+   "date": 1795514400000,
+   "added": 1795531779908,
+   "cat": "이적",
+   "titleKo": "제이미 캐러거, 첼시에 1월 이적 시장 관련 엄중한 경고 발령"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd05pZHZVTWt3cGVMYnhSNnpQYi11MndINzFseTFLYnR3czRaZHVTUzFGNlRSVE9TNmZVSXJHYndVa3o1TnNIZ3o1dVI2MkVRNy1mTkx3QUMyamlCa2N3QnhCVFY1a3R5WWFKRHF1WW5jRG5nN1k4STJKUWRUdTdTTXBWbklNVU1WQ0JtOUZWRkRNdjdQbHd4X1VGV1A5VDlCWVZxX0otSzBiT05PYXdTZHFjc2xYM2lhSmpFc3I0VW1WWXdMaExVcw?oc=5",
@@ -4235,41 +4269,6 @@
    "added": 1795291206288,
    "cat": "인터뷰",
    "titleKo": "“필요한 수준에서 경쟁하지 못하고 있다” – 알론소가 마침내 팀의 치명적인 결함을 인정하다"
-  },
-  {
-   "id": "https://www.caughtoffside.com/2026/11/21/chelseas-cole-palmer-told-off-by-joao-pedro/",
-   "title": "Video: Chelsea star spotted telling off Cole Palmer after Leeds defeat",
-   "link": "https://www.caughtoffside.com/2026/11/21/chelseas-cole-palmer-told-off-by-joao-pedro/",
-   "source": "CaughtOffside",
-   "group": "영국 언론",
-   "date": 1795289448000,
-   "image": "https://icdn.caughtoffside.com/2026/11/COS-Featured_Hero-Image-Templates-11.jpg",
-   "added": 1795291206287,
-   "cat": null,
-   "titleKo": "동영상: 리즈전 패배 후 콜 파머에게 화를 내는 첼시 스타의 모습이 포착됨"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12X3FkTUZSYV9IWUhFOVRPZGtsVzA4NDk4RmV1TEt5clk0XzhVUWFacnhQcXlsclVEZjczNjJYZEJtV0xzWHZDNVhfdkU4MzhIUE1hUW56UXh0OGhkSTFqdA?oc=5",
-   "title": "Chelsea News, Scores, Highlights and More",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12X3FkTUZSYV9IWUhFOVRPZGtsVzA4NDk4RmV1TEt5clk0XzhVUWFacnhQcXlsclVEZjczNjJYZEJtV0xzWHZDNVhfdkU4MzhIUE1hUW56UXh0OGhkSTFqdA?oc=5",
-   "source": "GiveMeSport",
-   "group": "영국 언론",
-   "date": 1795289170000,
-   "added": 1795362666643,
-   "cat": null,
-   "titleKo": "첼시 뉴스, 득점, 하이라이트 등"
-  },
-  {
-   "id": "https://www.skysports.com/football/news/11095/13614992/chelsea-are-fragile-and-need-to-toughen-up-says-manager-xabi-alonso-after-humiliating-defeat-to-leeds-united",
-   "title": "Alonso: Chelsea are fragile and need to be tougher",
-   "link": "https://www.skysports.com/football/news/11095/13614992/chelsea-are-fragile-and-need-to-toughen-up-says-manager-xabi-alonso-after-humiliating-defeat-to-leeds-united",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795288380000,
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-cole-palmer-chelsea_7412951.jpg?20261121201852",
-   "added": 1795296004046,
-   "cat": null,
-   "titleKo": "알론소: 첼시는 약한 팀이며 더 강해져야 합니다"
   }
  ]
 }
