@@ -1,5 +1,5 @@
 {
- "updated": 1795496303957,
+ "updated": 1795499781173,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -16,8 +16,8 @@
   "Sports Mole": 4,
   "CaughtOffside": 4,
   "90min": 1,
-  "The Athletic": 2,
-  "구글뉴스(영어)": 69,
+  "The Athletic": 3,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
@@ -27,8 +27,8 @@
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 40건"
+  "FotMob": "실패: 403",
+  "이번 상대": "Nottingham Forest · 새 기사 35건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -868,6 +868,18 @@
    "titleKo": "770억 원이나 줬는데 EPL에서 고작 180분?… 팔레스트라 방출 검토하는 첼시, 노리는 대체자는 바르사 쿤데",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314276_245206_4959.jpg"
+  },
+  {
+   "id": "https://www.nytimes.com/athletic/7806570/2026/11/24/chelsea-xabi-alonso-defence-weak-analysis/",
+   "title": "Chelsea under Xabi Alonso have been bad for three months. They are not improving",
+   "link": "https://www.nytimes.com/athletic/7806570/2026/11/24/chelsea-xabi-alonso-defence-weak-analysis/",
+   "source": "The Athletic",
+   "group": "영국 언론",
+   "date": 1795497012000,
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/23123857/GettyImages-2291876138.jpg",
+   "added": 1795499777356,
+   "cat": null,
+   "titleKo": "샤비 알론소 감독이 이끄는 첼시는 3개월 동안 부진했습니다. 팀은 나아지지 않고 있습니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZnJCcFNMQ20tQWNvM3ZBb0JpNkpTUzMwZVlMelY0bHEtSW9FUjNNNjN0cm4tWjNIUVF5a2toY2w5NmVuSkYyZ0dLSQ?oc=5",
@@ -1891,6 +1903,17 @@
    "added": 1795430111843,
    "cat": null,
    "titleKo": "첼시의 스타 선수가 리즈와의 경기 후 '강도'를 당하자 경찰이 수사에 착수했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQU9qUE02bWI5VjBuOEROT1FPV0VIQmRuLU1LcWpka2kyWWFxMEVuSDdYQ19Yb1VBM2lCUFoyWURqMFdPczhMR2RsUXpRa2ZKMi1wTDZnY2FaTXFGUFFKcDY4UzN3T0x5Rnh6dWc4UFhia0VDb0JGWXJhUzNtYUxfMEg3Yw?oc=5",
+   "title": "Johor DT - Chelsea 3-3",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQU9qUE02bWI5VjBuOEROT1FPV0VIQmRuLU1LcWpka2kyWWFxMEVuSDdYQ19Yb1VBM2lCUFoyWURqMFdPczhMR2RsUXpRa2ZKMi1wTDZnY2FaTXFGUFFKcDY4UzN3T0x5Rnh6dWc4UFhia0VDb0JGWXJhUzNtYUxfMEg3Yw?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795428690000,
+   "added": 1795499777357,
+   "cat": null,
+   "titleKo": "조호르 DT - 첼시 3-3"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDI5LVdub0ZjM0NMeDEzTU1xUXRGZlV4ZmEwb3ZhOE9NTlk3dmZHeTdFMkp4UVZiZFZmb2dwcXBFU2N2R0oxZmk3RTJfRlpEV3FKclZvdEJjUEhNczVHVWIxX3NsZkcxQUpFMFZ1bjM1UHd5eDBQbjhIUE51R1B0WDZiaG1rbEVxZHoyM1lkRFNINkNDWDhuYWtvcmF6UGNYWG1CNHBheDM?oc=5",
@@ -4240,29 +4263,6 @@
    "added": 1795280705675,
    "cat": "프리뷰",
    "titleKo": "첼시 선수 평점(리즈 유나이티드전): 에스테바우 침묵, 콜 파머 부진, 4/10점 받은 선수들 형편없음"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmd3OHBPNFAwMDhibGtxd3IyeHdIc2ktbllnVmRfY0ZsNUxtVk9zRy02OWN4bDRDVzJnNXJVLUlaWV9lZm1VeFU3LXNBVUVOYlZUMmtVMUcwWjNDTFFnRkhBc2xuNjhPanlUNjZIMEY3Z0tYYnVyVlBEbUVBTmV1bmxyM2ZXenFpOVF2WEc0M1lBRi1MdlEwRVpSaw?oc=5",
-   "title": "Dismal Chelsea well beaten by Leeds as scrutiny on Alonso grows",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmd3OHBPNFAwMDhibGtxd3IyeHdIc2ktbllnVmRfY0ZsNUxtVk9zRy02OWN4bDRDVzJnNXJVLUlaWV9lZm1VeFU3LXNBVUVOYlZUMmtVMUcwWjNDTFFnRkhBc2xuNjhPanlUNjZIMEY3Z0tYYnVyVlBEbUVBTmV1bmxyM2ZXenFpOVF2WEc0M1lBRi1MdlEwRVpSaw?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795280312000,
-   "added": 1795280705675,
-   "cat": null,
-   "titleKo": "알론소 감독에 대한 비판이 커지는 가운데, 첼시가 리즈에게 완패했습니다."
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41098432/chelsea-1-leeds-4-noah-okafor-dominic-calvert-lewin/",
-   "title": "Chelsea 1 Leeds 4: Pressure piles on Xabi Alonso as furious Blues fans storm out early during Stamford Bridge mauling",
-   "link": "https://www.thesun.co.uk/sport/41098432/chelsea-1-leeds-4-noah-okafor-dominic-calvert-lewin/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795280285000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41100340.jpg?quality%3D90%26strip%3Dall%261795279674%261795279674",
-   "added": 1795283105237,
-   "cat": null,
-   "titleKo": "첼시 1-4 리즈: 스탬퍼드 브리지에서 대패하며 분노한 첼시 팬들이 경기 종료 전에 경기장을 떠나면서 사비 알론소 감독에게 가해지는 압박이 가중되고 있습니다."
   }
  ]
 }
