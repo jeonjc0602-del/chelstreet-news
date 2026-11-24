@@ -1,23 +1,23 @@
 {
- "updated": 1795545305297,
+ "updated": 1795549176923,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 0,
   "talkSPORT": 5,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 9,
-  "The Sun": 3,
+  "Evening Standard": 7,
+  "The Sun": 1,
   "Mirror": 2,
   "Daily Mail": 5,
   "Telegraph": 6,
   "Independent": 2,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 9,
-  "CaughtOffside": 1,
+  "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 72,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 43건"
+  "이번 상대": "Nottingham Forest · 새 기사 38건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,36 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS1h6RmJZZGFoWE1IOGsxdkNHVTZRSXZOU3FaNGVoSW82RmZBLTg1Y21GV1BINkZlMnZjc2s2dUNUamFvQzBraEZiQ2tUOFVJeUsxalVZZE9xOE9idjExN2EzZ05QdDBpUzFac3pGNUNMMEk2UkJEai1mN2RVbFgtOGxET0tIUWVrWXhvQnBiQ0g1bkx6NkZRd212bWdPb2pVdjJJQU8zWnZOc0t5UjBRVUp3SDdkdXRWOUJMVElocF93MnRNOG9uTTE4blRsUklEal9EUHo4elduaGlpNGh2ZTlnTDI0OEZYSzlTdkNPdklucDF6NGNISWdFR3I?oc=5",
+    "title": "Chelsea Receive Training Injury Boost, But Some Key Players Still Missing Ahead Of Nottingham Forest Trip",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS1h6RmJZZGFoWE1IOGsxdkNHVTZRSXZOU3FaNGVoSW82RmZBLTg1Y21GV1BINkZlMnZjc2s2dUNUamFvQzBraEZiQ2tUOFVJeUsxalVZZE9xOE9idjExN2EzZ05QdDBpUzFac3pGNUNMMEk2UkJEai1mN2RVbFgtOGxET0tIUWVrWXhvQnBiQ0g1bkx6NkZRd212bWdPb2pVdjJJQU8zWnZOc0t5UjBRVUp3SDdkdXRWOUJMVElocF93MnRNOG9uTTE4blRsUklEal9EUHo4elduaGlpNGh2ZTlnTDI0OEZYSzlTdkNPdklucDF6NGNISWdFR3I?oc=5",
+    "source": "roundtable.io",
+    "date": 1795548185000,
+    "added": 1795549170671,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "첼시, 훈련 중 부상자 발생으로 전력 강화, 하지만 노팅엄 포레스트 원정 경기를 앞두고 여전히 일부 핵심 선수들이 결장 예정"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXd1TFNfalZ5UnZoR19rbnpyQmhpYmdjb3NkS05BaTNOSkNyWTR4WEdNODRtYkVaNV91VHNMS3RCZTlVN2YzV1FFaEs3Ql9HSGNlejJoRnZWYjZzRFRfSHE4SXpUQUE1WjZfUjVIZERqRDJKNlBhSFdSLWRDS21sSGJNZWllZ3kzTFN5d2RlQzZZLVlDbTRmd0wxaVlwbmJ2TUd4dUlITQ?oc=5",
+    "title": "Chelsea Weigh January Swoop for Everton’s Harrison Armstrong: Reports",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXd1TFNfalZ5UnZoR19rbnpyQmhpYmdjb3NkS05BaTNOSkNyWTR4WEdNODRtYkVaNV91VHNMS3RCZTlVN2YzV1FFaEs3Ql9HSGNlejJoRnZWYjZzRFRfSHE4SXpUQUE1WjZfUjVIZERqRDJKNlBhSFdSLWRDS21sSGJNZWllZ3kzTFN5d2RlQzZZLVlDbTRmd0wxaVlwbmJ2TUd4dUlITQ?oc=5",
+    "source": "Chelsea FC Online",
+    "date": 1795545619000,
+    "added": 1795549170671,
+    "tag": "상대 소식",
+    "titleKo": "첼시, 에버턴의 해리슨 암스트롱을 1월에 영입할 계획: 보도"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1FTS2QwU1NXVEpMRk9GYWVJaHNyTWFOeG4xcGRoTUt5MlFROGxCODZZMG01ZDVLb05JLVg1bjRnRUIxd2ZpWk14ek1TTFo4WW1yZ3llUVFqaUpCMzJfQThCcGVfckc0WGkwZWZJUWZMZG55TU54YjE3ZWZ4Z3Vick5vWnFQOUFpdDJkdkRPbm1RY1VvQnEyclFwNmdaYVdXcU45OEtXWDQ5akpiVHc?oc=5",
+    "title": "Nottingham Forest considering key City Ground change to 'improve matchday experience'",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1FTS2QwU1NXVEpMRk9GYWVJaHNyTWFOeG4xcGRoTUt5MlFROGxCODZZMG01ZDVLb05JLVg1bjRnRUIxd2ZpWk14ek1TTFo4WW1yZ3llUVFqaUpCMzJfQThCcGVfckc0WGkwZWZJUWZMZG55TU54YjE3ZWZ4Z3Vick5vWnFQOUFpdDJkdkRPbm1RY1VvQnEyclFwNmdaYVdXcU45OEtXWDQ5akpiVHc?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795539843000,
+    "added": 1795549170671,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트, '경기일 경험 개선'을 위해 시티 그라운드에 주요 변경 사항 고려 중"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORllsZWxDQmx1bjl2M3h0STBmQkJaTW1kSWpxbnFCTW9uQTRVLUdCSFRMZUR4MXVBNEVXQ1A5UEtjU2R4TVpVZmY3el9fcFBLWHgyZXcxb0pldUZwN1drb1hxSmJKel9sLVlyWVBLZk5lcEF0a1FXVGNnUzZ2d1h2Mk50bTE5ZEN4ajNjeTR6OGZrdUp5Z1VpUw?oc=5",
     "title": "Nottingham Forest vs Chelsea Preview: Team News & Prediction",
@@ -109,6 +139,16 @@
     "added": 1795528492593,
     "tag": "상대 소식",
     "titleKo": "출처: 노팅엄 포레스트 이적 소식과 함께 로마가 칼럼 허드슨-오도이 영입 협상 구조를 공개"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1N1czFqMGVSTldRWjZYNUZQSUhPZ05ra2k2TTNVVERWWEhib3Q0aFdaREtZZC05TmtUb1Budmd0QkZGNTRVQU5UenJESTBlbDJLOC16VS10MDVZeEhkQktRdkxkNXY4SzYtTW5VTWlaMThWWUViTXJYdkNrR2RZaHNzWmtOYmRHNmxRU3NkZjlYaFc40gGaAUFVX3lxTE1kdDhDbG8xQW1mLWtmMVN6dGN2ZS1DLTZUOXI4OWF6WUs1VndnTnd5anRIUmM4OEEtM0tXR2x0WHp4OFdoZkROa0puT1d5UlZCRTlXWDZ3UWlzSy1pWWFMLXlQZWR6aTZzZFlXVlEzVU9kbXU1bmtxdG01TjMtZTZ0WE4td3A3OGNDelVTZEtCT3NIWHFlRzlEb3c?oc=5",
+    "title": "Officials confirmed for Chelsea's next game vs Nottingham Forest — one name particularly concerning",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1N1czFqMGVSTldRWjZYNUZQSUhPZ05ra2k2TTNVVERWWEhib3Q0aFdaREtZZC05TmtUb1Budmd0QkZGNTRVQU5UenJESTBlbDJLOC16VS10MDVZeEhkQktRdkxkNXY4SzYtTW5VTWlaMThWWUViTXJYdkNrR2RZaHNzWmtOYmRHNmxRU3NkZjlYaFc40gGaAUFVX3lxTE1kdDhDbG8xQW1mLWtmMVN6dGN2ZS1DLTZUOXI4OWF6WUs1VndnTnd5anRIUmM4OEEtM0tXR2x0WHp4OFdoZkROa0puT1d5UlZCRTlXWDZ3UWlzSy1pWWFMLXlQZWR6aTZzZFlXVlEzVU9kbXU1bmtxdG01TjMtZTZ0WE4td3A3OGNDelVTZEtCT3NIWHFlRzlEb3c?oc=5",
+    "source": "Tribuna.com",
+    "date": 1795524120000,
+    "added": 1795549170671,
+    "tag": "상대 소식",
+    "titleKo": "첼시의 다음 경기인 노팅엄 포레스트와의 경기에 배정된 심판진 — 특히 우려되는 한 명의 이름"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZURjRXZzVFFmTjJjYnVVb2pXS1FNLUV1VG5Wd19KdUtZZXlDaVMyUDZmWEVTcEJpcHZ3SFItenhrODNyWWtDd0VtX01xWFRvM3lpMGJfYUlab2dsN2hoemtwMG9CV1UyV0I1aDJmdWlSM1ItY2dvakRCWFJuZS1wLXgwcllhRFhKVVh1ekRlYm5oMDNNMFo0TkxNcFk2NFJYWkVWOGpwWXdXRy1RR1Aw?oc=5",
@@ -799,46 +839,6 @@
     "added": 1795285403095,
     "tag": "상대 소식",
     "titleKo": "브루탈 찬트가 보르넘우스의 패배로 한 걸음 뒤로 물러난 비참한 노팅엄 포레스트의 오후를 요약했습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91d0VSTGhkTXA1WHZwaVkzSjNXdDRtMmJGY0VHcFRjVnNFX2Z0VWRqUWg2U1RQZUVrSFBBNF9OZFNqZWRDYi1SUmdiZ1IzcVlsazlpU0VWLWZSVV9pcU5FSFhha1dDczZYaWw5ZHFCalZkLUIyVmc?oc=5",
-    "title": "How to watch Nottingham Forest vs Brighton: TV and kick-off",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91d0VSTGhkTXA1WHZwaVkzSjNXdDRtMmJGY0VHcFRjVnNFX2Z0VWRqUWg2U1RQZUVrSFBBNF9OZFNqZWRDYi1SUmdiZ1IzcVlsazlpU0VWLWZSVV9pcU5FSFhha1dDczZYaWw5ZHFCalZkLUIyVmc?oc=5",
-    "source": "Dave.Sport",
-    "date": 1795282749000,
-    "added": 1795288589742,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 대 브라이턴 경기 시청 방법: TV 및 킥오프 시간"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVk12eFJ3ak5FdmYxdGcwY0tUaWFhdVVTMUViTUprenVYemJnNVhaUjltdlpsd0JWWnNuQXNza1VqZzUwMGswcTlwdGNFaFNTT0pYVUpHeTEwNkRacFZZMnI5MFprRmNLNTFVQzNsd1kyN1dHc0RrdDRyM3ZPOUxjVVlGVGZILW9GN3E2MlZQYXo2akxKczdCVHJaZ3AtaHV0cnpJVndJV21FN1U?oc=5",
-    "title": "Evanilson leads Bournemouth to victory over Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVk12eFJ3ak5FdmYxdGcwY0tUaWFhdVVTMUViTUprenVYemJnNVhaUjltdlpsd0JWWnNuQXNza1VqZzUwMGswcTlwdGNFaFNTT0pYVUpHeTEwNkRacFZZMnI5MFprRmNLNTFVQzNsd1kyN1dHc0RrdDRyM3ZPOUxjVVlGVGZILW9GN3E2MlZQYXo2akxKczdCVHJaZ3AtaHV0cnpJVndJV21FN1U?oc=5",
-    "source": "Daily Mail",
-    "date": 1795282696000,
-    "added": 1795285403095,
-    "tag": "상대 소식",
-    "titleKo": "에바닐송, 본머스의 노팅엄 포레스트전 승리를 이끌다"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzZpRWxOVlZBemJGQU9EWGtZSGV0MGh5UC1WZ09JUXhOckxfVXFUSUhrSzlIc2NoZlJKRFM3dllTS1pCZ2x4THlEVlVOM2YtbTNyWGZRS2FZektPeDgtUGowVGVBY1h3dWNxZjZnaVpuLUwtS2tlWXhMMm1aQ2lGN2JaSGd4bEZaMkQ5X2lYWQ?oc=5",
-    "title": "Bournemouth vs Nottingham Forest player ratings – Kluivert stars",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzZpRWxOVlZBemJGQU9EWGtZSGV0MGh5UC1WZ09JUXhOckxfVXFUSUhrSzlIc2NoZlJKRFM3dllTS1pCZ2x4THlEVlVOM2YtbTNyWGZRS2FZektPeDgtUGowVGVBY1h3dWNxZjZnaVpuLUwtS2tlWXhMMm1aQ2lGN2JaSGd4bEZaMkQ5X2lYWQ?oc=5",
-    "source": "Dave.Sport",
-    "date": 1795282198000,
-    "added": 1795283105757,
-    "tag": "상대 소식",
-    "titleKo": "본머스 vs 노팅엄 포레스트 선수 평점 – 클라위베르트가 빛나다"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKNWtBUmpuTXYzVl80Y2ZYZVBhN3RjanY1MGtUWW4yQ01Bc3g1SEFHeE1USDBuZWFXSThkazRVS0tUSnh6TG85UG1hZjZTSnE2bXlraUpVRXpFcU5fSVcwTzkwYi1odm9BWjdVb3RORdIBdEFVX3lxTE96RVlYZVZ4UFZLRXBKaVVlMXNoZThpZERrVl9vQlRTZlRxM1ZQaEJ3LXRsSTVWdjNqZUdBRWNid3NlaERjRndvQlBHeFRKNW5rcUU0eUtobW5WMDhZa0lLLTlCamNvSW4wTHJOY3dqRUVXTUxX?oc=5",
-    "title": "Chelsea hammered by Leeds as controversial penalty leaves Xabi Alonso furious",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKNWtBUmpuTXYzVl80Y2ZYZVBhN3RjanY1MGtUWW4yQ01Bc3g1SEFHeE1USDBuZWFXSThkazRVS0tUSnh6TG85UG1hZjZTSnE2bXlraUpVRXpFcU5fSVcwTzkwYi1odm9BWjdVb3RORdIBdEFVX3lxTE96RVlYZVZ4UFZLRXBKaVVlMXNoZThpZERrVl9vQlRTZlRxM1ZQaEJ3LXRsSTVWdjNqZUdBRWNid3NlaERjRndvQlBHeFRKNW5rcUU0eUtobW5WMDhZa0lLLTlCamNvSW4wTHJOY3dqRUVXTUxX?oc=5",
-    "source": "Daily Express",
-    "date": 1795281600000,
-    "added": 1795318573455,
-    "tag": "상대 소식",
-    "titleKo": "논란의 여지가 있는 페널티로 인해 사비 알론소가 분노한 가운데, 첼시가 리즈에게 대패했습니다."
    }
   ]
  },
@@ -855,6 +855,30 @@
    "titleKo": "토트넘 손흥민 기습 숭배!...8년전, 첼시 상대로 50m 질주 원더골 조명→\"센세이셔널 SONNY\"",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699175_833332_5757_v150.jpg"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41131620/chelsea-maxence-lacroix-hamstring-new-year-leeds-united/",
+   "title": "Chelsea in potential injury boost with Maxence Lacroix hoping to return early from hamstring KO",
+   "link": "https://www.thesun.co.uk/sport/41131620/chelsea-maxence-lacroix-hamstring-new-year-leeds-united/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795547690000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F10%2Fcrop-40860599.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795549168552,
+   "cat": "부상",
+   "titleKo": "첼시, 막상스 라크루아의 햄스트링 부상 조기 회복으로 전력 보강 가능성"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/romano-dreaded-confidence-update-xabi-alonso/",
+   "title": "Romano gives dreaded confidence update on Xabi Alonso as manager suffers another damaging defeat",
+   "link": "https://www.talkchelsea.net/news/romano-dreaded-confidence-update-xabi-alonso/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795546800000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Paul-Winstanley-at-the-Club-World-Cup-414x276.jpg",
+   "added": 1795549168553,
+   "cat": null,
+   "titleKo": "로마노, 사비 알론소 감독에 대한 우려스러운 신뢰도 업데이트를 전하다. 사비 알론소 감독은 또 한 번의 치명적인 패배를 겪었다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUphazM2eHdwNk5xekFza1I4LWVyQ3kyMm5HWTA4cXVEOF9qRXVkZlY5T3VXMXJKLWUzN1VqUnI1d2xEaDRJLVhlV2tkWTNydjI1SFlpT2RGNkcwcDdPWFo5MWRSRHI1QzJ3TjdFWTZ2MGZlaWdmc0JUM0RVQ21iSlB0OFp3WGdPZm1OSlNiVmtsdnE2dXVNV1hn?oc=5",
@@ -4244,29 +4268,6 @@
    "added": 1795315407943,
    "cat": null,
    "titleKo": "첼시, 홈에서 리즈 유나이티드에 1-4 역전패"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/videos/cqy7r0eg2y05o?at_medium=RSS&at_campaign=rss",
-   "title": "Chelsea have shown no progression under Alonso - Shearer",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqy7r0eg2y05o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "group": "영국 언론",
-   "date": 1795303738000,
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8348/live/387a2c90-e602-11f1-99a1-253766e7ad8b.jpg",
-   "added": 1795305392363,
-   "cat": null,
-   "titleKo": "첼시, 알론소 감독 체제에서 발전이 없었다 - 시어러"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySkp5dzJ5NUgzanRUcGlNZHEzdnVWZ1hfb2xvVzE2SWNpNF9yV0JhTjE1U1lpSEZLVHFlak9DOXJvYlF4UmNyUVA2dkUtMEpxcEVEU0JiTWJvM3hYdWfSAWNBVV95cUxPOHRvNndWMnA5V0pkSERLWF9sYW9oc0I3M2ZKaWNBU2ZmU09RYk1zZjEwVnZHa1lveHBSUlNFWEdzZ0sxRk93RC1yNlFVSVhKM2o1Q1BDNUE5eTFLcmFKYVBmX28?oc=5",
-   "title": "‘3연패 충격’ 첼시, 리즈에 안방서 1-4 참패···알론소 감독 “선수단 정신적으로 취약한 상태”",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySkp5dzJ5NUgzanRUcGlNZHEzdnVWZ1hfb2xvVzE2SWNpNF9yV0JhTjE1U1lpSEZLVHFlak9DOXJvYlF4UmNyUVA2dkUtMEpxcEVEU0JiTWJvM3hYdWfSAWNBVV95cUxPOHRvNndWMnA5V0pkSERLWF9sYW9oc0I3M2ZKaWNBU2ZmU09RYk1zZjEwVnZHa1lveHBSUlNFWEdzZ0sxRk93RC1yNlFVSVhKM2o1Q1BDNUE5eTFLcmFKYVBmX28?oc=5",
-   "source": "스포츠경향",
-   "group": "한국 언론",
-   "date": 1795302540000,
-   "added": 1795303135965,
-   "cat": null,
-   "titleKo": "‘3연패 충격’ 첼시, 리즈에 안방서 1-4 참패···알론소 감독 “선수단 정신적으로 취약한 상태”"
   }
  ]
 }
