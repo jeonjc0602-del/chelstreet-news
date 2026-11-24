@@ -1,5 +1,5 @@
 {
- "updated": 1795492629045,
+ "updated": 1795496303957,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -17,18 +17,18 @@
   "CaughtOffside": 4,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 15,
+  "구글뉴스(한국어)": 14,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 41건"
+  "이번 상대": "Nottingham Forest · 새 기사 40건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -938,6 +938,17 @@
    "titleKo": "선수들이 패배한 후에도 팬들에게 박수를 보내야 할까요?"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NcnBSek5ia1A1NFBEazNKbWw4MDNORzg5Z1NuY0VXNVduVkpJbVdmNVpmV2gwU3R6YUJJRjN6aVRMRGJpTWxr?oc=5",
+   "title": "Tom Brady buys Chelsea shares, sources tell ESPN and NFL Network",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NcnBSek5ia1A1NFBEazNKbWw4MDNORzg5Z1NuY0VXNVduVkpJbVdmNVpmV2gwU3R6YUJJRjN6aVRMRGJpTWxr?oc=5",
+   "source": "Digg",
+   "group": "영국 언론",
+   "date": 1795475010000,
+   "added": 1795496299340,
+   "cat": null,
+   "titleKo": "ESPN과 NFL Network에 따르면 톰 브래디가 첼시 지분을 매입했다고 합니다."
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDZ3R0QzQkJlR19JZE1OcDkzb0Jyelp4S3lueHJKWUUtSjFudmxiVVR0eFM5LWxKYktYeC03ODRUbFZnSE00eVp2YzZKSTVtWUNMQk1mVkRYV1UzRkFBWERScDlIMHJ1OWl1X3kxT183cjJqdFItVnJ1Q0Q2SWFZclNMRV8xeWhiQTYzV084SEE?oc=5",
    "title": "Frozen funds from Roman Abramovich’s Chelsea sale earn £104m interest in a year",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDZ3R0QzQkJlR19JZE1OcDkzb0Jyelp4S3lueHJKWUUtSjFudmxiVVR0eFM5LWxKYktYeC03ODRUbFZnSE00eVp2YzZKSTVtWUNMQk1mVkRYV1UzRkFBWERScDlIMHJ1OWl1X3kxT183cjJqdFItVnJ1Q0Q2SWFZclNMRV8xeWhiQTYzV084SEE?oc=5",
@@ -995,6 +1006,17 @@
    "added": 1795472118073,
    "cat": null,
    "titleKo": "(동영상): 전문가가 주장하는 \"끔찍한\" 첼시, 이 완벽한 조합 없이는 승리할 수 없다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaC1xTi1pNHdGYVRCSHUtLW5GTmZuNDVycldEOWV2QVRlajRUR2w4UWczZlB6ZnA0SmlvLXM3RkdCQnBSQk0yRlhmS3A5a2w5cExLd3R4dTZpT1UyZGZSZGo2aWptUUs2N25pNUU0TWhucGMxMGNUeE9IZGxzNUxuRTVEaDlDOG1GTmZPbFVCdE5UWm1fazhCRXZ1YXFZU3ZyWkVJ0gGoAUFVX3lxTE56S2FiRDhDVHVPVVpwSEhUaHgtRlFnNGtPbzgtZTJFc0g3aTN5VTdJYl9yV1hEQ1dkaENZMUJIRVhCRV8zYnNvc2hfaDJrUGRsVGhMaXR0cDVqR3pzbVotVE1iaC13ejFpd2o4UUxpZ1l5Z0JFYjVKN2szUm5qNkYtSGtuNGdtSl9QRzlVNG0zaHJoS2R1NDJsdEsxNFpJb25nWTlIejlrcA?oc=5",
+   "title": "Chelsea owners retain faith in Xabi Alonso despite poor start",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaC1xTi1pNHdGYVRCSHUtLW5GTmZuNDVycldEOWV2QVRlajRUR2w4UWczZlB6ZnA0SmlvLXM3RkdCQnBSQk0yRlhmS3A5a2w5cExLd3R4dTZpT1UyZGZSZGo2aWptUUs2N25pNUU0TWhucGMxMGNUeE9IZGxzNUxuRTVEaDlDOG1GTmZPbFVCdE5UWm1fazhCRXZ1YXFZU3ZyWkVJ0gGoAUFVX3lxTE56S2FiRDhDVHVPVVpwSEhUaHgtRlFnNGtPbzgtZTJFc0g3aTN5VTdJYl9yV1hEQ1dkaENZMUJIRVhCRV8zYnNvc2hfaDJrUGRsVGhMaXR0cDVqR3pzbVotVE1iaC13ejFpd2o4UUxpZ1l5Z0JFYjVKN2szUm5qNkYtSGtuNGdtSl9QRzlVNG0zaHJoS2R1NDJsdEsxNFpJb25nWTlIejlrcA?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795471140000,
+   "added": 1795496299341,
+   "cat": null,
+   "titleKo": "첼시 구단주, 부진한 출발에도 불구하고 사비 알론소에 대한 신뢰 유지"
   },
   {
    "id": "https://www.thesun.co.uk/sport/41120587/xabi-alonso-must-fix-chelsea/",
@@ -4241,29 +4263,6 @@
    "added": 1795283105237,
    "cat": null,
    "titleKo": "첼시 1-4 리즈: 스탬퍼드 브리지에서 대패하며 분노한 첼시 팬들이 경기 종료 전에 경기장을 떠나면서 사비 알론소 감독에게 가해지는 압박이 가중되고 있습니다."
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41098432/chelsea-1-leeds-3-noah-okafor-dominic-calvert-lewin/",
-   "title": "Chelsea 1 Leeds 4: Pressure piles on Xabi Alonso as furious Blues fans storm out early during Stamford Bridge battering",
-   "link": "https://www.thesun.co.uk/sport/41098432/chelsea-1-leeds-3-noah-okafor-dominic-calvert-lewin/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795280285000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41100340.jpg?quality%3D90%26strip%3Dall%261795279674%261795279674",
-   "added": 1795280705675,
-   "cat": null,
-   "titleKo": "첼시 1-4 리즈: 스탬퍼드 브리지에서 대패를 당하며 분노한 첼시 팬들이 일찍 퇴장하자 사비 알론소 감독에게 가해지는 압박이 가중됩니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm9oOGIzZ1FiT1JWUXRxWUlxTG00eExBM1JUcUFfd3VTSl9vdFNQcWtLRERpVHVwRWxwQ0hNbkZCUmNSckNTaGNJNDhxeUNRd2ZoVFJad3NJY1QtX1hRR1dJX0htMkh6YUxBZnpRREFYSlJkOTN1N19aOGQ3Yk5yZXg0UmNMVkRRWlpB?oc=5",
-   "title": "실시간 축구 경기: 첼시 vs 리즈: 프리미어 리그 11라운드",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm9oOGIzZ1FiT1JWUXRxWUlxTG00eExBM1JUcUFfd3VTSl9vdFNQcWtLRERpVHVwRWxwQ0hNbkZCUmNSckNTaGNJNDhxeUNRd2ZoVFJad3NJY1QtX1hRR1dJX0htMkh6YUxBZnpRREFYSlJkOTN1N19aOGQ3Yk5yZXg0UmNMVkRRWlpB?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795280091000,
-   "added": 1795280705676,
-   "cat": null,
-   "titleKo": "실시간 축구 경기: 첼시 vs 리즈: 프리미어 리그 11라운드"
   }
  ]
 }
