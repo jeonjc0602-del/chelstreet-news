@@ -1,8 +1,8 @@
 {
- "updated": 1795562436514,
+ "updated": 1795565238431,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 0,
+  "Sky Sports": 1,
   "talkSPORT": 5,
   "The Guardian": "실패: 403",
   "football.london": 25,
@@ -12,12 +12,12 @@
   "Daily Mail": 5,
   "Telegraph": 4,
   "Independent": 1,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 10,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 71,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
@@ -843,6 +843,18 @@
   ]
  },
  "items": [
+  {
+   "id": "https://www.skysports.com/football/news/11095/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
+   "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
+   "link": "https://www.skysports.com/football/news/11095/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795561320000,
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "added": 1795565235107,
+   "cat": null,
+   "titleKo": "기사: 첼시, 1월에 본머스의 스콧 영입 추진할 것"
+  },
   {
    "id": "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/news/emery-issues-frank-response-over-garnacho-absence-in-aston-villa-cl-defeat_609789.html",
    "title": "Aston Villa news: Unai Emery issues frank Alejandro Garnacho response after Galatasaray defeat",
@@ -4258,17 +4270,6 @@
    "added": 1795312467104,
    "cat": null,
    "titleKo": "첼시, 27년 만에 홈서 리즈에 1-4 대패…리그 3연패 빠지며 8위 추락"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
-   "title": "Chelsea pundit toys with idea of Jamal Musiala return",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
-   "source": "Bavarian Football Works",
-   "group": "영국 언론",
-   "date": 1795307400000,
-   "added": 1795308262995,
-   "cat": null,
-   "titleKo": "첼시 전문가, 자말 무시알라의 복귀 가능성을 언급"
   }
  ]
 }
