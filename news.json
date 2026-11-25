@@ -1,5 +1,5 @@
 {
- "updated": 1795565238431,
+ "updated": 1795569591667,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,23 +12,23 @@
   "Daily Mail": 5,
   "Telegraph": 4,
   "Independent": 1,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 10,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 71,
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 15,
+  "구글뉴스(한국어)": 14,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 35건"
+  "이번 상대": "Nottingham Forest · 새 기사 36건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -843,6 +843,17 @@
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZG0xNkM2NWFObHc5VDl2T2RzdzI5Rkw3OUx3U19COE10cE1uWjZHa2E1UTZWRjkzOHdSbmhuaHlzWVlqbkNuVEZBRTN1dWVsalFNS2d5U201cXRyNW9hdFIyNDhxaXBBNFphM2NhSDk4WHNrdjNWVzRIcDNmQ2VrLUZNNkxKTUJwdDlzX2JYVXFGMktMM3ZlLVNYZGdFSmxHaV9VTzFZZnhfeUlPa0lNbmN0WTg5VlNuYmdzSlVPZ1FubkR2Qkc2clpKXzV5cTRBclR2bDZ2RjhDazVjTUNFWDZabWQ5aS1DTlItVTJ6NXRKTnp4OFFxUw?oc=5",
+   "title": "Chelsea transfer news: Blues will push to sign Bournemouth midfielder Alex Scott in January - Paper Talk",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZG0xNkM2NWFObHc5VDl2T2RzdzI5Rkw3OUx3U19COE10cE1uWjZHa2E1UTZWRjkzOHdSbmhuaHlzWVlqbkNuVEZBRTN1dWVsalFNS2d5U201cXRyNW9hdFIyNDhxaXBBNFphM2NhSDk4WHNrdjNWVzRIcDNmQ2VrLUZNNkxKTUJwdDlzX2JYVXFGMktMM3ZlLVNYZGdFSmxHaV9VTzFZZnhfeUlPa0lNbmN0WTg5VlNuYmdzSlVPZ1FubkR2Qkc2clpKXzV5cTRBclR2bDZ2RjhDazVjTUNFWDZabWQ5aS1DTlItVTJ6NXRKTnp4OFFxUw?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795562785000,
+   "added": 1795569588296,
+   "cat": "이적",
+   "titleKo": "첼시 이적 소식: 첼시, 1월에 본머스의 미드필더 알렉스 스콧 영입을 추진할 예정 - 언론 보도"
+  },
   {
    "id": "https://www.skysports.com/football/news/11095/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
    "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
@@ -3320,6 +3331,17 @@
    "titleKo": "첼시, 스탬퍼드 브리지에서 리즈 유나이티드에 대패한 후 사비 알론소 경질 결정"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
+   "title": "Chelsea pundit toys with idea of Jamal Musiala return",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
+   "source": "Bavarian Football Works",
+   "group": "영국 언론",
+   "date": 1795409100000,
+   "added": 1795569588296,
+   "cat": null,
+   "titleKo": "첼시 전문가, 자말 무시알라의 복귀 가능성을 언급"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE1NRVB2Y0RMSS00Y1drY243YzBJZUhOTVZIQjNQU2NDSlpqQjRnZ3RYaWdPTElQY01aRVB5YlZjdm1rODJkazFud3BpZXRfT0RHTG95X1dNVmt4NVY2Q2dSVG9va2lxR3NTaWhlSEl3elJVVXhuX0JjTzFOaGtuRGJieDd0UEJOZ1hlcTdVTWxPMVVGZ1NfWmdxSGhIOXpqbWk4YTRBejdjNmRqdjI3Y2JtQ0l1d0RBeE1ZemhxaDJjUQ?oc=5",
    "title": "톰 브래디, 버밍엄 시티 떠나 첼시 FC 소수 지분 인수",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE1NRVB2Y0RMSS00Y1drY243YzBJZUhOTVZIQjNQU2NDSlpqQjRnZ3RYaWdPTElQY01aRVB5YlZjdm1rODJkazFud3BpZXRfT0RHTG95X1dNVmt4NVY2Q2dSVG9va2lxR3NTaWhlSEl3elJVVXhuX0JjTzFOaGtuRGJieDd0UEJOZ1hlcTdVTWxPMVVGZ1NfWmdxSGhIOXpqbWk4YTRBejdjNmRqdjI3Y2JtQ0l1d0RBeE1ZemhxaDJjUQ?oc=5",
@@ -4248,28 +4270,6 @@
    "added": 1795312467104,
    "cat": null,
    "titleKo": "11월 22일 축구 경기 결과 및 일정: 첼시, 리즈 유나이티드에 대패, 남딘은 선두 자리 굳혀."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXJqdWZNN1NTaUpJUU5hRmxuWHd6dl8tNXRyaENKMEhSMkZFczBGbFZZV0J4UmlLWTVWdmhTbmVlbHFlYlJNQURPMGFoYkE0eUpScW1CcGJFSktWSF95UkFRNzJXRm1jbzlNVm1sRlFST3dVa2MySE9DbmM1YS1wdWtKV1huU3BJb1h0MUtQZDV2YXpLc2hmY1Rn?oc=5",
-   "title": "남딘이 2026/27 V리그 선두 자리를 굳혔고, 첼시는 역사적인 패배를 당했다.",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXJqdWZNN1NTaUpJUU5hRmxuWHd6dl8tNXRyaENKMEhSMkZFczBGbFZZV0J4UmlLWTVWdmhTbmVlbHFlYlJNQURPMGFoYkE0eUpScW1CcGJFSktWSF95UkFRNzJXRm1jbzlNVm1sRlFST3dVa2MySE9DbmM1YS1wdWtKV1huU3BJb1h0MUtQZDV2YXpLc2hmY1Rn?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795308887000,
-   "added": 1795312467104,
-   "cat": null,
-   "titleKo": "남딘이 2026/27 V리그 선두 자리를 굳혔고, 첼시는 역사적인 패배를 당했다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJV3JZMThWYUpfYlJWcGthNHJHOXJtODNqSmRsSktXQzJMV0U4RDVDd3hLbXF0NEkxY00wQVVJclEwQ3B1d2FObF9LRGpMQUtkcDhpaUNwRHhFR2ZBLXR0OU93RzU0Xy05cWlnMWxCWElyRWxvTHc1ZnRJb9IBf0FVX3lxTE1XLWFPc0lCWkpwV3dTLUJnN0JvQ2pLUmZFU2k0U3RjZk1ZckRLM1J4S1FScVJMVjNPWk50SldVdVBzNkpXd2s4QkgzTFhvSUE0TlhTSUVIU203VmJqRWR5dUF0anBzelQ2VG5wMWZtd2tLek9kcmh1VmtKNlVDQVk?oc=5",
-   "title": "첼시, 27년 만에 홈서 리즈에 1-4 대패…리그 3연패 빠지며 8위 추락",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJV3JZMThWYUpfYlJWcGthNHJHOXJtODNqSmRsSktXQzJMV0U4RDVDd3hLbXF0NEkxY00wQVVJclEwQ3B1d2FObF9LRGpMQUtkcDhpaUNwRHhFR2ZBLXR0OU93RzU0Xy05cWlnMWxCWElyRWxvTHc1ZnRJb9IBf0FVX3lxTE1XLWFPc0lCWkpwV3dTLUJnN0JvQ2pLUmZFU2k0U3RjZk1ZckRLM1J4S1FScVJMVjNPWk50SldVdVBzNkpXd2s4QkgzTFhvSUE0TlhTSUVIU203VmJqRWR5dUF0anBzelQ2VG5wMWZtd2tLek9kcmh1VmtKNlVDQVk?oc=5",
-   "source": "데일리스포츠한국",
-   "group": "한국 언론",
-   "date": 1795308148000,
-   "added": 1795312467104,
-   "cat": null,
-   "titleKo": "첼시, 27년 만에 홈서 리즈에 1-4 대패…리그 3연패 빠지며 8위 추락"
   }
  ]
 }
