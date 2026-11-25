@@ -1,5 +1,5 @@
 {
- "updated": 1795577677215,
+ "updated": 1795581767081,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,7 +12,7 @@
   "Daily Mail": 5,
   "Telegraph": 4,
   "Independent": 1,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 10,
   "CaughtOffside": 1,
   "90min": 1,
@@ -21,14 +21,14 @@
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 14,
+  "구글뉴스(한국어)": 13,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 45건"
+  "이번 상대": "Nottingham Forest · 새 기사 39건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjJ5dUVXUzJoalVuSU94dVdVeU9aejVMR2JiYXRleG5pSjFBVllibFdGN3dSZFNIU0dDM1lVZUdiR2d3Q0lha1RuWGxZZmY1UjYyUlk2SzV4UnYtVUFlVzJwX0drcU9ySy1oOWpxY21HTlJVWS13Q2VsMWE2WGhTU2dGWkFwM3RaTTdPRHg0UWk4Z01QLVJOR1JvQ3g0M3FZTUpqSVBDQy1BZUllUlk5WkNYMno?oc=5",
+    "title": "Nottingham Forest vs Chelsea Prediction, Lineups & Team News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjJ5dUVXUzJoalVuSU94dVdVeU9aejVMR2JiYXRleG5pSjFBVllibFdGN3dSZFNIU0dDM1lVZUdiR2d3Q0lha1RuWGxZZmY1UjYyUlk2SzV4UnYtVUFlVzJwX0drcU9ySy1oOWpxY21HTlJVWS13Q2VsMWE2WGhTU2dGWkFwM3RaTTdPRHg0UWk4Z01QLVJOR1JvQ3g0M3FZTUpqSVBDQy1BZUllUlk5WkNYMno?oc=5",
+    "source": "RotoWire",
+    "date": 1795579380000,
+    "added": 1795581765910,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시 경기 예측, 선발 명단 및 팀 소식"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGlDZlZlcE5BMzNfNFBQUTduZEtNeE5kSk9weTloTEg3akYzRXZaSlRSb2ZiekE1VGRGcWpma3hHSXliS19BTTJIMm5TYTZzTkRLbU4xd0xwVXpKOF9CN08wbWJDLXhTVkszUTBIeW5ZNnJpcnFuS3Y4SGYyZEdGNFNLS1JuZ1BmbmdFTW9oVmZyaG1iQVNPVV9PaTl6bnJlcHZ6RTVTSl9OQ2Z6VWNwbEFFUDlYWXZ6b3dPMFdiX3NrbE9UT1lJN0syRmpWOGc0aDhTa3ZPb0twSExHVUNj?oc=5",
     "title": "'Going To Help Us': Midfielder Issues Chelsea Promise Ahead Of Nottingham Forest Trip",
@@ -829,16 +839,6 @@
     "added": 1795475435466,
     "tag": "상대 소식",
     "titleKo": "본머스 vs 노팅엄 포레스트: 상대 전적 및 과거 맞대결"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MMG1WNGRkQi1UTGVFY0QwRkVtdUt2NmJhVmpzRXVqRVJFZFpmQkpkN2hyNGQwZzh5Qmo3Z3IxWmE0YWliemc5SHVOQ0ZRMkVzT3gwSHpYbWZXZm1LVEpB?oc=5",
-    "title": "Watch Chelsea FC vs Liverpool",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MMG1WNGRkQi1UTGVFY0QwRkVtdUt2NmJhVmpzRXVqRVJFZFpmQkpkN2hyNGQwZzh5Qmo3Z3IxWmE0YWliemc5SHVOQ0ZRMkVzT3gwSHpYbWZXZm1LVEpB?oc=5",
-    "source": "Fubo",
-    "date": 1795285015000,
-    "added": 1795318573455,
-    "tag": "상대 소식",
-    "titleKo": "첼시 FC 대 리버풀 경기 시청하기"
    }
   ]
  },
