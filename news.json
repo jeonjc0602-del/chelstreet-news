@@ -1,15 +1,15 @@
 {
- "updated": 1795625410278,
+ "updated": 1795628194739,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
   "talkSPORT": 3,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 3,
-  "The Sun": 2,
+  "Evening Standard": 4,
+  "The Sun": 1,
   "Mirror": 2,
-  "Daily Mail": 3,
+  "Daily Mail": 4,
   "Telegraph": 4,
   "Independent": 0,
   "Express": 0,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 35건"
+  "이번 상대": "Nottingham Forest · 새 기사 33건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,26 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0l3YmxJZmx5ZUNsVmRkZ1l3Q3FZdnlIZFFYZGticm9QZ0FjNG41SDFqd1JvTHl1cmROOVhrb2oyY0g2MlRYc05ZamY0Mnd4QTZ0NDBBeWtvNl9KVzNfNURUS0FvbHdhMEllNjhwLWtrdG9UaUlPY0lrZGgtb2phU0luakxTcWhuTzdSVg?oc=5",
+    "title": "Training gallery: Focused on Forest | News | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0l3YmxJZmx5ZUNsVmRkZ1l3Q3FZdnlIZFFYZGticm9QZ0FjNG41SDFqd1JvTHl1cmROOVhrb2oyY0g2MlRYc05ZamY0Mnd4QTZ0NDBBeWtvNl9KVzNfNURUS0FvbHdhMEllNjhwLWtrdG9UaUlPY0lrZGgtb2phU0luakxTcWhuTzdSVg?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795625100000,
+    "added": 1795628186661,
+    "tag": "상대 소식",
+    "titleKo": "트레이닝 갤러리: 숲에 집중 | 뉴스 | 공식 사이트"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEZIZllmTk01UkxVeTZWNWotSDBPZ3gzcmN0X0JXR1VNV0FiVGpiSDlQVFBMSklJVG01b1hCbmtrbV9zcDRRVU1QMEVNaHZBa20wN3FVMDNEWkpmQ2FCWk5hMXQ5azhOOFNscTk0bzVWMkJreXdrVDVLUzFLcUo3UkpRY0JZYkJpVEdtU2p4eEo0WUJ2LTdTNlVQb09OM09Hdnc?oc=5",
+    "title": "Only hard work can help Forest against Chelsea - Glasner",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEZIZllmTk01UkxVeTZWNWotSDBPZ3gzcmN0X0JXR1VNV0FiVGpiSDlQVFBMSklJVG01b1hCbmtrbV9zcDRRVU1QMEVNaHZBa20wN3FVMDNEWkpmQ2FCWk5hMXQ5azhOOFNscTk0bzVWMkJreXdrVDVLUzFLcUo3UkpRY0JZYkJpVEdtU2p4eEo0WUJ2LTdTNlVQb09OM09Hdnc?oc=5",
+    "source": "ESPN",
+    "date": 1795624980000,
+    "added": 1795628186661,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트가 첼시를 상대로 승리하려면 오직 열심히 뛰는 것만이 도움이 될 수 있다 - 글라스너 감독"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGpvTTVueVhYZGowSXJzWk9jaFRCU0hmUU9tYUl2VVIzZGxDZS1xWjE4WlFmbWlGOWFoS19FZ3QyTU95SVJULW5FRVN1NS1mQnZFVVk1bHZpODVvTWVndjJuZDdqcVh6LWlvdUFla3Nmdnc2MzRxajh1RDdmdHg0Rm5zN2NRdjJHNXhtRm11ZEJzd0M3aWFDOXBtbkh6WmVBOG40dExka284V0xaLVRveQ?oc=5",
     "title": "Oliver Glasner makes 'stupid' Nottingham Forest transfer promise ahead of January window",
@@ -819,30 +839,80 @@
     "added": 1795372899696,
     "tag": "상대 소식",
     "titleKo": "출처: 노팅엄 포레스트의 최근 행보에 이어 프리미어리그 구단이 오마리 허친슨 영입에 나설 전망"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlPbTJRVzFTQjRsdG9uTTVoNmozLTZxLTRtZ0Z0N2o4MVlEb19NbWhfTlo2UE9LZTB0cTNwaFYyWDJ2ZllLQVdvc0dmN2ZHNGZ1a0dtTGZFelE0d0JBQU9hNmhUOUZtc3VtUHVLZXh4eVVqYTdGUUVQUEs2RW5TUFhIVGozZ080SVJTcU1Za2p6bVVlTm85R2hMb3B0c3fSAaQBQVVfeXFMTUlLcnIxUkRyZWoyTTBTMXlUbVhBNmROdFcxSU5EMzBoVGRJTGx3VkNRQ3pOZTU5X1B3TldBVUhDX19XYWZYaFN1NzB6bHVLVTZRMUhYTkM5UUpPR1dydUd1SEZHWmxIZE5qdV91WlZmOGJtTlY0MTdsTkZEaE1EUG1kR3BteS1xS2hkaS1HUGhsam1jSjZIYzYyZVNrYzM3ek1iTHQ?oc=5",
-    "title": "Xabi Alonso makes worrying comment as 'fragile' Chelsea hit new low",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlPbTJRVzFTQjRsdG9uTTVoNmozLTZxLTRtZ0Z0N2o4MVlEb19NbWhfTlo2UE9LZTB0cTNwaFYyWDJ2ZllLQVdvc0dmN2ZHNGZ1a0dtTGZFelE0d0JBQU9hNmhUOUZtc3VtUHVLZXh4eVVqYTdGUUVQUEs2RW5TUFhIVGozZ080SVJTcU1Za2p6bVVlTm85R2hMb3B0c3fSAaQBQVVfeXFMTUlLcnIxUkRyZWoyTTBTMXlUbVhBNmROdFcxSU5EMzBoVGRJTGx3VkNRQ3pOZTU5X1B3TldBVUhDX19XYWZYaFN1NzB6bHVLVTZRMUhYTkM5UUpPR1dydUd1SEZHWmxIZE5qdV91WlZmOGJtTlY0MTdsTkZEaE1EUG1kR3BteS1xS2hkaS1HUGhsam1jSjZIYzYyZVNrYzM3ek1iTHQ?oc=5",
-    "source": "Daily Express",
-    "date": 1795355700000,
-    "added": 1795379026688,
-    "tag": "상대 소식",
-    "titleKo": "샤비 알론소, '취약한' 첼시가 새로운 저점을 찍자 우려스러운 발언을 하다"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtVnRwZ2RiUDM1Y2dwa09fVUZ3SzFBemo5dzhWX3ZwcEM0Ri1OYUczTjJ1RWx3Mk81cVRRYUZiaEZqUUhNemEyVXc4UGJNYnc?oc=5",
-    "title": "Chelsea's next five Premier League fixtures include Liverpool and Manchester City tests",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtVnRwZ2RiUDM1Y2dwa09fVUZ3SzFBemo5dzhWX3ZwcEM0Ri1OYUczTjJ1RWx3Mk81cVRRYUZiaEZqUUhNemEyVXc4UGJNYnc?oc=5",
-    "source": "懂球帝",
-    "date": 1795350060000,
-    "added": 1795379026688,
-    "tag": "상대 소식",
-    "titleKo": "첼시의 다음 5경기 프리미어리그 일정에는 리버풀과 맨체스터 시티와의 경기가 포함되어 있습니다."
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.talkchelsea.net/transfers/exclusive-chelsea-player-given-permission-to-leave-in-january/",
+   "title": "Exclusive says Chelsea player given permission to leave in January after Alonso talks",
+   "link": "https://www.talkchelsea.net/transfers/exclusive-chelsea-player-given-permission-to-leave-in-january/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795628019000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/09/arsenal-fc-v-chelsea-fc-premier-league-2026-27-1-1-550x384.jpg",
+   "added": 1795628185756,
+   "cat": "이적",
+   "titleKo": "알론소와의 대화 후 첼시 선수가 1월에 이적할 수 있는 허가를 받았다고 전하는 단독 보도"
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/chelsea-xabi-alonso-enzo-maresca-34966666",
+   "title": "Xabi Alonso totally against Enzo Maresca as two messages delivered in Chelsea dressing room",
+   "link": "https://www.football.london/chelsea-fc/news/chelsea-xabi-alonso-enzo-maresca-34966666",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795627530000,
+   "image": "https://i2-prod.football.london/incoming/article34017120.ece/ALTERNATES/s615/0_imagemaker-2026-05-27T101822554.jpg",
+   "added": 1795628185755,
+   "cat": null,
+   "titleKo": "샤비 알론소, 엔조 마레스카와 완전히 대립... 첼시 라커룸에서 두 가지 메시지 전달"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-transfer-news-january-van-dijk-liverpool-b1306407.html",
+   "title": "Chelsea tipped to sign Liverpool star on a free as fix for huge Xabi Alonso problem",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-transfer-news-january-van-dijk-liverpool-b1306407.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795626827000,
+   "image": "https://static.standard.co.uk/2026/11/25/16/2306212301..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795628185755,
+   "cat": null,
+   "titleKo": "첼시, 자비 알론소의 큰 문제 해결을 위해 리버풀의 스타 선수를 자유롭게 영입할 것으로 예상"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZzFyMUt5Q2UzbkJHblBBSUtHXzYzU2pDMFdBRkJYdlVrZWVYcDdNbk11Y2FGMzVweGtsTjlrdXRlczVpS3dCQV9EY0dSdENtaVRpeF9mRVVsWm4wT3VFLUhrd3BLV2JNUFVQVHB2YVFheVU3Q21EN2wxRjNWRmdZeVZmdFVjMzdxbFMzMEhSZzdURlMtRFBsUVhmZVlSYmJha1NHZHBOOC02Y00?oc=5",
+   "title": "Chelsea Cobham Next Gen discover EFL Trophy Round of 32 opponents | News | Official Site",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZzFyMUt5Q2UzbkJHblBBSUtHXzYzU2pDMFdBRkJYdlVrZWVYcDdNbk11Y2FGMzVweGtsTjlrdXRlczVpS3dCQV9EY0dSdENtaVRpeF9mRVVsWm4wT3VFLUhrd3BLV2JNUFVQVHB2YVFheVU3Q21EN2wxRjNWRmdZeVZmdFVjMzdxbFMzMEhSZzdURlMtRFBsUVhmZVlSYmJha1NHZHBOOC02Y00?oc=5",
+   "source": "Chelsea Football Club",
+   "group": "영국 언론",
+   "date": 1795626600000,
+   "added": 1795628185756,
+   "cat": "오피셜",
+   "titleKo": "첼시 코범 넥스트젠, EFL 트로피 32강 상대팀 확인 | 뉴스 | 공식 사이트"
+  },
+  {
+   "id": "https://www.dailymail.com/sport/football/article-16321497/chelsea-sebas-parrilla-defensive-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Chelsea Confidential: Meet Sebas Parrilla, the fiery, marathon-running, Bruce Springsteen fan Xabi Alonso trusts above all others - and why he's the man to fix Blues' defensive crisis",
+   "link": "https://www.dailymail.com/sport/football/article-16321497/chelsea-sebas-parrilla-defensive-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795626294000,
+   "image": "https://i.dailymail.com/1s/2026/11/25/16/112724435-0-image-a-2_1795622572726.jpg",
+   "added": 1795628185756,
+   "cat": null,
+   "titleKo": "첼시 컨피덴셜: 열정적이고 마라톤을 즐기며 브루스 스프링스틴의 팬인 세바스 파리야를 만나보세요. 샤비 알론소가 다른 누구보다도 신뢰하는 인물이며, 첼시의 수비 위기를 해결할 적임자인 이유를 알아보세요."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0l3YmxJZmx5ZUNsVmRkZ1l3Q3FZdnlIZFFYZGticm9QZ0FjNG41SDFqd1JvTHl1cmROOVhrb2oyY0g2MlRYc05ZamY0Mnd4QTZ0NDBBeWtvNl9KVzNfNURUS0FvbHdhMEllNjhwLWtrdG9UaUlPY0lrZGgtb2phU0luakxTcWhuTzdSVg?oc=5",
+   "title": "Training gallery: Focused on Forest",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0l3YmxJZmx5ZUNsVmRkZ1l3Q3FZdnlIZFFYZGticm9QZ0FjNG41SDFqd1JvTHl1cmROOVhrb2oyY0g2MlRYc05ZamY0Mnd4QTZ0NDBBeWtvNl9KVzNfNURUS0FvbHdhMEllNjhwLWtrdG9UaUlPY0lrZGgtb2phU0luakxTcWhuTzdSVg?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795625100000,
+   "added": 1795628185757,
+   "cat": null,
+   "titleKo": "교육 갤러리: 산림에 초점"
+  },
   {
    "id": "https://www.besteleven.com/news/articleView.html?idxno=314325",
    "title": "자리 있는데 벤치에도 못 앉았다… 맨유·첼시 출신 가르나초, 의무 완전 영입 조항 달고 임대 떠났으나 3경기 연속 명단 제외",
@@ -1116,6 +1186,17 @@
    "added": 1795614748650,
    "cat": null,
    "titleKo": "단 1주일 동안만 True Blue 멤버십 35% 할인 혜택을 받으세요."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjhHbUczRWVMakpBbk5QQkFyTHpVY1J4eUFmNmxselFDci1tYVRON3A2SVNPN2xDOEQ5UzIxWjhTSVRMS2JrejlCS19WR3cwQ1hibzJQbWpBcVRCVUFmdFE0MTlBcnU0WXEwLVc5NFFwRHZOcmRBay1iVDlTX1h3OVNDTkxaSEN1RzRlallaTFpNbXV6YmF1bjBLd2NpN09OcENpeWF6dUp0OC1saTZj0gG0AUFVX3lxTE1oMXU1bmxpd09vT2pVYkNhTzZzUEpRdVpLbl80OVhGeGFQVjJXZTQxQTJCVzdMWXU2Wlk2eG5CSDFfYnJ3WFZjT2tXdlkwazFNUVNEbGR2bkhjUmFTam9BYWJ6WFlIVjFtcE0tSzRBaUROQ1hQUndNMF9uUU9RcEEtbWVKUEJwblBmNmY3T25pTS1yNjhDSlF1MHNWVU9LMmJEdDRUb3hMcE1TR0xfNXBlWllvZQ?oc=5",
+   "title": "Emmanuel Emegha makes bold Chelsea promise after scoring on full debut",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjhHbUczRWVMakpBbk5QQkFyTHpVY1J4eUFmNmxselFDci1tYVRON3A2SVNPN2xDOEQ5UzIxWjhTSVRMS2JrejlCS19WR3cwQ1hibzJQbWpBcVRCVUFmdFE0MTlBcnU0WXEwLVc5NFFwRHZOcmRBay1iVDlTX1h3OVNDTkxaSEN1RzRlallaTFpNbXV6YmF1bjBLd2NpN09OcENpeWF6dUp0OC1saTZj0gG0AUFVX3lxTE1oMXU1bmxpd09vT2pVYkNhTzZzUEpRdVpLbl80OVhGeGFQVjJXZTQxQTJCVzdMWXU2Wlk2eG5CSDFfYnJ3WFZjT2tXdlkwazFNUVNEbGR2bkhjUmFTam9BYWJ6WFlIVjFtcE0tSzRBaUROQ1hQUndNMF9uUU9RcEEtbWVKUEJwblBmNmY3T25pTS1yNjhDSlF1MHNWVU9LMmJEdDRUb3hMcE1TR0xfNXBlWllvZQ?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795604574000,
+   "added": 1795628185756,
+   "cat": null,
+   "titleKo": "에마뉘엘 에메가가 데뷔전 풀타임 출전에서 득점한 후 대담한 첼시 약속을 했습니다."
   },
   {
    "id": "https://www.standard.co.uk/sport/football/chelsea-fc-xabi-alonso-vision-reality-worlds-apart-b1306206.html",
@@ -4190,85 +4271,6 @@
    "added": 1795430111843,
    "cat": null,
    "titleKo": "샤비 알론소가 실제로 첼시에서 살아남을 수 있을까요? - YouTube"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzd2bDZ5cUs3c3FWLUdUbHg3TlNrTGRBbGp0cVRzdEgyXzdJcDJDLXM4Zm5fY0VVWkVLRHpMRHpRa3d5SGgyWnN1V3k1UVVfTnkyRm15dWNvOFZ6eXFITEtIUXhncFVCVE1DYkdVd2s5RGVFQzBLeWFmQnVoM0I1T2lCV3BVVVdfZ2Q0WDBJZFU3cUJvR3Y3TTNUUjRBTnRzT3hZYjkySnpPcS1RM2hHcHhHM3FYWHc?oc=5",
-   "title": "Honeymoon over: Chelsea make their stance clear on sacking Alonso",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzd2bDZ5cUs3c3FWLUdUbHg3TlNrTGRBbGp0cVRzdEgyXzdJcDJDLXM4Zm5fY0VVWkVLRHpMRHpRa3d5SGgyWnN1V3k1UVVfTnkyRm15dWNvOFZ6eXFITEtIUXhncFVCVE1DYkdVd2s5RGVFQzBLeWFmQnVoM0I1T2lCV3BVVVdfZ2Q0WDBJZFU3cUJvR3Y3TTNUUjRBTnRzT3hZYjkySnpPcS1RM2hHcHhHM3FYWHc?oc=5",
-   "source": "Goal.com",
-   "group": "영국 언론",
-   "date": 1795368765000,
-   "added": 1795384287190,
-   "cat": null,
-   "titleKo": "신혼 기간 종료: 첼시, 알론소 감독 경질에 대한 입장을 명확히 밝힘"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2NtVW50UjZLWVdmNks1Vnhia256LUJDRVliOTVicGFPRlJma3ZRZXBrVTFOSWlwREg3T0d2c21TUFVsZ0NjaFNySHNBVzU5Z2hZZDM1dXZuS2M3VHhnZFE3QWR1MTJDYkNKMy00VGJ2cXZ4OFc4V29mTEVpQU1fc3RBXzBobUdaSl9J?oc=5",
-   "title": "Report: Juventus, Milan and Napoli on alert as Chelsea open door to Palestra exit",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2NtVW50UjZLWVdmNks1Vnhia256LUJDRVliOTVicGFPRlJma3ZRZXBrVTFOSWlwREg3T0d2c21TUFVsZ0NjaFNySHNBVzU5Z2hZZDM1dXZuS2M3VHhnZFE3QWR1MTJDYkNKMy00VGJ2cXZ4OFc4V29mTEVpQU1fc3RBXzBobUdaSl9J?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795368660000,
-   "added": 1795370321736,
-   "cat": null,
-   "titleKo": "보도: 첼시가 팔레스트라의 이적 가능성을 시사하자 유벤투스, 밀란, 나폴리가 촉각을 곤두세우다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VnVXczRXZEZ2RE12Nm0xTjZUcjB1UF8zR2pSMXIteWdpVTFkZ2JycGl1SkFRUHZtWC1FLTNhTmNNNzJTVHlxYmEyM1J3UW42WDd0RFNGMmNSOUtHRnhXSg?oc=5",
-   "title": "Coventry City | Tag",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VnVXczRXZEZ2RE12Nm0xTjZUcjB1UF8zR2pSMXIteWdpVTFkZ2JycGl1SkFRUHZtWC1FLTNhTmNNNzJTVHlxYmEyM1J3UW42WDd0RFNGMmNSOUtHRnhXSg?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795367719000,
-   "added": 1795367881415,
-   "cat": null,
-   "titleKo": "코번트리 시티 | 태그"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
-   "title": "Track Order - Chelsea Store",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795366788000,
-   "added": 1795372899057,
-   "cat": null,
-   "titleKo": "주문 내역 조회 - 첼시 매장"
-  },
-  {
-   "id": "https://www.caughtoffside.com/2026/11/22/chelsea-manager-xabi-alonso-is-safe-for-now/",
-   "title": "Report reveals Chelsea’s stance on Xabi Alonso’s future",
-   "link": "https://www.caughtoffside.com/2026/11/22/chelsea-manager-xabi-alonso-is-safe-for-now/",
-   "source": "CaughtOffside",
-   "group": "영국 언론",
-   "date": 1795365127000,
-   "image": "https://icdn.caughtoffside.com/2026/11/COS-FeaturedHero-Image-Templates-1795364466.jpg",
-   "added": 1795367881413,
-   "cat": "인터뷰",
-   "titleKo": "보도에 따르면 첼시가 샤비 알론소의 미래에 대해 밝힌 입장은 다음과 같습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HN3FyNEU0WFpGczBsYl8yVkU1VWRjVjQ5YnplQjRUNDdNQVZBMDBYVkIwRnp4Y0U4a1RsV3pNVl9sWGJTUm9UQTJfS0stWWltbnhZX21tYXhnYUZZbGlUMER1S18wbm1CN0liMm1aUFltdw?oc=5",
-   "title": "Chelsea - Leeds 1-4",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HN3FyNEU0WFpGczBsYl8yVkU1VWRjVjQ5YnplQjRUNDdNQVZBMDBYVkIwRnp4Y0U4a1RsV3pNVl9sWGJTUm9UQTJfS0stWWltbnhZX21tYXhnYUZZbGlUMER1S18wbm1CN0liMm1aUFltdw?oc=5",
-   "source": "Soccerway",
-   "group": "영국 언론",
-   "date": 1795364312000,
-   "added": 1795462967485,
-   "cat": null,
-   "titleKo": "첼시 - 리즈 1-4"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/videos/ck7v2npjg24mo?at_medium=RSS&at_campaign=rss",
-   "title": "Chelsea's performance against Leeds United was 'embarrassing'",
-   "link": "https://www.bbc.co.uk/sport/videos/ck7v2npjg24mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "group": "영국 언론",
-   "date": 1795364101000,
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7091/live/a34ed380-e68f-11f1-a094-5fdc692f3e33.jpg",
-   "added": 1795365031979,
-   "cat": null,
-   "titleKo": "첼시의 리즈 유나이티드전 경기력은 '창피할' 정도였습니다."
   }
  ]
 }
