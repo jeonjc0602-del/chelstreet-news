@@ -1,5 +1,5 @@
 {
- "updated": 1795641666237,
+ "updated": 1795645177806,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -14,10 +14,10 @@
   "Independent": 0,
   "Express": 0,
   "Sports Mole": 9,
-  "CaughtOffside": 3,
+  "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 48건"
+  "이번 상대": "Nottingham Forest · 새 기사 38건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -631,6 +631,16 @@
     "titleKo": "노팅엄 포레스트에 유리한 첼시 판결 선고"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHM3UmJaWFI1Vkd6MVgtRGdqZU1WeTY0MGVlY05EZXFyOWFaOG8zR3ZRdGZaY0NCRHoxT2NBcWpBTUR2RlBCOU1lcmE3VHlkTEdtRmF6a2k5OEFIUVluWklUeUIzZ18wTUUxZ3V5alYxclFHR0tJLVMtLXZ3M0Q3c2g0ZHdvN2kxUTF3NmRBcGF2dEgtakVyWGoxSGlVVjdTa090QlYtTjV0NWNxMDlGSVU4Wng?oc=5",
+    "title": "Nottingham Forest vs Chelsea Prediction, Stats & Lineups",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHM3UmJaWFI1Vkd6MVgtRGdqZU1WeTY0MGVlY05EZXFyOWFaOG8zR3ZRdGZaY0NCRHoxT2NBcWpBTUR2RlBCOU1lcmE3VHlkTEdtRmF6a2k5OEFIUVluWklUeUIzZ18wTUUxZ3V5alYxclFHR0tJLVMtLXZ3M0Q3c2g0ZHdvN2kxUTF3NmRBcGF2dEgtakVyWGoxSGlVVjdTa090QlYtTjV0NWNxMDlGSVU4Wng?oc=5",
+    "source": "Squawka",
+    "date": 1795530326000,
+    "added": 1795645173407,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시 경기 예측, 통계 및 선발 명단"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnNSSFdxODVkLXlSLWdKeFlVQk9CQ1dIQ2NDUHdtb1BsSlFyUU1FNVZXUXZ4REdzekJTQTRlbjlDX1NGQVNHc1pKWnYxZGk0d0k4WDdBUUhlUV9KQ0thOUczc1MwVldtaFc1cDJObzlIRktUZExTMl9QTXFpeFRxSWRzZGxEYnhsOGtzc1dRTkVGUHJuMzZwR0ZtcVhWNGNpTmJ5bElBVDN1MVU?oc=5",
     "title": "Fresh Liam Delap transfer valuation emerges after tough Nottingham Forest start",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnNSSFdxODVkLXlSLWdKeFlVQk9CQ1dIQ2NDUHdtb1BsSlFyUU1FNVZXUXZ4REdzekJTQTRlbjlDX1NGQVNHc1pKWnYxZGk0d0k4WDdBUUhlUV9KQ0thOUczc1MwVldtaFc1cDJObzlIRktUZExTMl9QTXFpeFRxSWRzZGxEYnhsOGtzc1dRTkVGUHJuMzZwR0ZtcVhWNGNpTmJ5bElBVDN1MVU?oc=5",
@@ -829,16 +839,6 @@
     "added": 1795555667069,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 - 첼시"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkplTWMzaUZSakpfN3pFTTZwelFLT0NiaGR1Q285OUhmbUZrb3pIay1iVWY4VndacFRKX2VqcUREMTNjQUVSMjBxcDVGeThqNmlNakFPOFVUTXplMFJQMGhwdDlJWlE1V2dWd2lLYlBxWGhHcHNmNUxBY0VfYWtEa044VEdzRUZERE9JU3lSWFpqc2JyWEEyWUlhb1Vtd3NPZWxUeEJKS3hmWHJRRDBoZm5kb1Y?oc=5",
-    "title": "Rarely seen Forest loanee ‘gutted’ after 6/10 performance in EFL clash",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkplTWMzaUZSakpfN3pFTTZwelFLT0NiaGR1Q285OUhmbUZrb3pIay1iVWY4VndacFRKX2VqcUREMTNjQUVSMjBxcDVGeThqNmlNakFPOFVUTXplMFJQMGhwdDlJWlE1V2dWd2lLYlBxWGhHcHNmNUxBY0VfYWtEa044VEdzRUZERE9JU3lSWFpqc2JyWEEyWUlhb1Vtd3NPZWxUeEJKS3hmWHJRRDBoZm5kb1Y?oc=5",
-    "source": "Nottingham Forest News",
-    "date": 1795456800000,
-    "added": 1795459136941,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 임대 선수, EFL 경기에서 6/10의 평점을 받은 후 '실망'"
    }
   ]
  },
@@ -949,6 +949,28 @@
    "added": 1795631061693,
    "cat": null,
    "titleKo": "첼시, 리버풀의 미래가 불확실한 가운데 올여름 버질 판 다이크 영입을 촉구"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1lCdWFaRElSTlNKSXJRMW1QaVZkSXg2QTlqZEFtNEFGclhLNUlxeWpWZHE0b2VLXzBWRDlWREhkb2VZdDRqbmhGRFR2dFFNVXgzTU10VTlIay1vU2ZXTlVVdnlGbGg1VFZJYTdKX2RZMFRyNEZZSzNVQlVobEY0QlV4RUtSRkZrN3dBcWZ3VFVuc1BPdTBhamFILXZTUTk3b1cyT3pkb1V0aHpaNHRIVTJJSFp2UdIBuwFBVV95cUxOaUdNbzdPcXFwNXppbmZvMEFNWWFuYW5wMTNJOWlGOTdJMTNBUnJzTnpHOWtBVG5MaE5xb1dMZ2JxNlZjcDBDdGRwSXRuRWJsRWtSaHJFcDROalgybEgzRWNlcUh0RGlUMVc0elc2eXE3WFBLeTFJY2V2blJDMVJ1U1dyUjNJVFRvSUNxUWxkTHpVUXBzVHhldjNDUWtaTEhtUFczQVFfSEVYMlByQ2lLaW5aWkt1bU8teUhJ?oc=5",
+   "title": "Emmanuel Emegha admits Chelsea training standards exceeded his expectations",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1lCdWFaRElSTlNKSXJRMW1QaVZkSXg2QTlqZEFtNEFGclhLNUlxeWpWZHE0b2VLXzBWRDlWREhkb2VZdDRqbmhGRFR2dFFNVXgzTU10VTlIay1vU2ZXTlVVdnlGbGg1VFZJYTdKX2RZMFRyNEZZSzNVQlVobEY0QlV4RUtSRkZrN3dBcWZ3VFVuc1BPdTBhamFILXZTUTk3b1cyT3pkb1V0aHpaNHRIVTJJSFp2UdIBuwFBVV95cUxOaUdNbzdPcXFwNXppbmZvMEFNWWFuYW5wMTNJOWlGOTdJMTNBUnJzTnpHOWtBVG5MaE5xb1dMZ2JxNlZjcDBDdGRwSXRuRWJsRWtSaHJFcDROalgybEgzRWNlcUh0RGlUMVc0elc2eXE3WFBLeTFJY2V2blJDMVJ1U1dyUjNJVFRvSUNxUWxkTHpVUXBzVHhldjNDUWtaTEhtUFczQVFfSEVYMlByQ2lLaW5aWkt1bU8teUhJ?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795628473000,
+   "added": 1795645171338,
+   "cat": "인터뷰",
+   "titleKo": "에마뉘엘 에메가가 첼시의 훈련 수준이 자신의 기대를 뛰어넘었다고 인정했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3dSQkxhUmVDQ0RCakhqdnNYN1BBaFBrRWFhSVplaEtvZjlvb25PblY3anFaR19zaVA4Mi02Vk5EMG5YMXB3SFo1X0d1LXd4TXpUelFGbU1KWlBZRkFIX1ZwMktoVFVoSDA1TkFBSjMyVjB1RXZHdTdPVjRLYm1EOU4xWVBfVUEzbWdwbzV5NTRkamRWemJNZkd1dDZuN2ZiSWgxeWZBeFRnaG1ybXFFQdIBtgFBVV95cUxOaFF5YmJfVWp2TkhTWjg4YmxiMlNDTUNETjJCWjFtRnRzUFpDUklkYzlGZF9wMjh3aTBsSHd0SDVTZlZzSkNQZXloSWJwV3FUTWdvWVIzZElxdEJheGNpOXR1bjJNbUJyUTFYNnlPSkp0LTRjdDdfcjJGcjZsMl84b0lhYlUydmZSWHYyaU96dDR4bjFVWDNacUpHT2REYWtzM2s3cFhZSG9UY2p0Y1RHUHZwWlRFdw?oc=5",
+   "title": "Ornstein reveals Chelsea's stance on recruitment model under Xabi Alonso",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3dSQkxhUmVDQ0RCakhqdnNYN1BBaFBrRWFhSVplaEtvZjlvb25PblY3anFaR19zaVA4Mi02Vk5EMG5YMXB3SFo1X0d1LXd4TXpUelFGbU1KWlBZRkFIX1ZwMktoVFVoSDA1TkFBSjMyVjB1RXZHdTdPVjRLYm1EOU4xWVBfVUEzbWdwbzV5NTRkamRWemJNZkd1dDZuN2ZiSWgxeWZBeFRnaG1ybXFFQdIBtgFBVV95cUxOaFF5YmJfVWp2TkhTWjg4YmxiMlNDTUNETjJCWjFtRnRzUFpDUklkYzlGZF9wMjh3aTBsSHd0SDVTZlZzSkNQZXloSWJwV3FUTWdvWVIzZElxdEJheGNpOXR1bjJNbUJyUTFYNnlPSkp0LTRjdDdfcjJGcjZsMl84b0lhYlUydmZSWHYyaU96dDR4bjFVWDNacUpHT2REYWtzM2s3cFhZSG9UY2p0Y1RHUHZwWlRFdw?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795628473000,
+   "added": 1795645171338,
+   "cat": "인터뷰",
+   "titleKo": "오른스타인이 밝힌 샤비 알론소 감독 체제 하의 첼시 영입 모델에 대한 입장"
   },
   {
    "id": "https://www.sportsmole.co.uk/football/nottingham-forest/news/glasner-claims-forest-have-same-issues-as-chelsea-ahead-of-city-ground-showdown_609834.html",
@@ -1101,6 +1123,17 @@
    "added": 1795621636184,
    "cat": "오피셜",
    "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식 및 예상 선발 명단"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlotbTFoNUhDSG9NQjlBNTJNbkFIZWp6ckh3Wkc5U25lN3NiWnEzM3RQbG84MjMxSEdwR0dIMHBsbHYyS3VoZElXUkdrOHFSRTV4R2U2azBJMHBVaVVFSmhraURFU0E5cmE0UEtyWUQzYUNfYThhSkhnSURQeDhkSTk1NndaS3ZfU1Vn?oc=5",
+   "title": "The Unauthorized Wesley Fofana Interview That Has Angered Chelsea Fans",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlotbTFoNUhDSG9NQjlBNTJNbkFIZWp6ckh3Wkc5U25lN3NiWnEzM3RQbG84MjMxSEdwR0dIMHBsbHYyS3VoZElXUkdrOHFSRTV4R2U2azBJMHBVaVVFSmhraURFU0E5cmE0UEtyWUQzYUNfYThhSkhnSURQeDhkSTk1NndaS3ZfU1Vn?oc=5",
+   "source": "Sports Illustrated",
+   "group": "영국 언론",
+   "date": 1795618802000,
+   "added": 1795645171338,
+   "cat": "인터뷰",
+   "titleKo": "첼시 팬들을 화나게 한 무단 웨슬리 포파나 인터뷰"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDFmTFdUVEx1d1YyNS1KRjlwZk14b2lFSDR2V3NfdTM0cVpNVlFuM2hMcVBNRFBxaFZQNm83T2paZGRWN0Qtamw2RnB5V01wTnVCZ01CbFZsbGZNM04tVlBGRGNRS2RQU0xValM2c0hiX2dlc3hVUW9pTHhFcjlfY21tdjY3SXFJWGlzZEtsN3hUTmJlUFU3Tm9RQlBWSHlQS2s5M3BWcjFJSTA5Rnc?oc=5",
@@ -1373,6 +1406,17 @@
    "added": 1795605909608,
    "cat": "오피셜",
    "titleKo": "OTD: 샬케 vs 첼시 | 2014년 11월 25일 | 동영상 | 공식 사이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
+   "title": "Chelsea pundit toys with idea of Jamal Musiala return",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
+   "source": "Bavarian Football Works",
+   "group": "영국 언론",
+   "date": 1795602600000,
+   "added": 1795645171338,
+   "cat": null,
+   "titleKo": "첼시 전문가, 자말 무시알라의 복귀 가능성 언급"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Rc1pFUlB6c3NNWkcxWjRCcVdQWHdIQTlnbUpSZWRIM2NQUzk0aWg4RTJZd0Qxa3FuMVA1SzQ4czRrbEdPOGc1NTJvamZmeVNKdUFQODdSY09hUGF2Y204dk9wRFFrVEJRcmfSAW9BVV95cUxQU0pBYjR1c0JScnFkdEdHRy05emVlS2JicjI1bGt5bld3dC0taE00LUVrSHdEZmdaVUhCVGRrb1drS3ZiVUktM2JOX0dfNUZKZXJIdVo3YncteEdHQ1FCN2J3RHpiQUhRWG1NWHVxUVE?oc=5",
@@ -4231,51 +4275,6 @@
    "added": 1795415186794,
    "cat": "부상",
    "titleKo": "첼시 부상자 업데이트: 모이세스 카이세도, 주앙 페드로, 조렐 하토 최근 소식 및 복귀일"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0F5SERDSnJ3N0wzTlN2dWhjM1JhVmhzU2EtZFY2XzJTLTJuZ21ydzlwbVFEcVpiLTIySk84X1hha1Q4VU5CZE1ERlY4U3FJZS1ubjhObVhCQTVLa2VCd1ExX1JGc09DQlVsS1BYTEFBaW5PU3JlTGlqamVHcWNpSEZyWXE5ZG5Lb3NYMGl6aU9feFk0bWtubm1jM2NkUllrN0x4R1J5QWpPaW1YelI1dTR3WQ?oc=5",
-   "title": "Chelsea vs Leeds stat attack: Ethan Ampadu a menace as teammate’s numbers tell a lie",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0F5SERDSnJ3N0wzTlN2dWhjM1JhVmhzU2EtZFY2XzJTLTJuZ21ydzlwbVFEcVpiLTIySk84X1hha1Q4VU5CZE1ERlY4U3FJZS1ubjhObVhCQTVLa2VCd1ExX1JGc09DQlVsS1BYTEFBaW5PU3JlTGlqamVHcWNpSEZyWXE5ZG5Lb3NYMGl6aU9feFk0bWtubm1jM2NkUllrN0x4R1J5QWpPaW1YelI1dTR3WQ?oc=5",
-   "source": "MOT Leeds News",
-   "group": "영국 언론",
-   "date": 1795413600000,
-   "added": 1795437075034,
-   "cat": null,
-   "titleKo": "첼시 대 리즈 경기 통계 분석: 동료 선수들의 수치가 거짓말을 하는 가운데, 에단 암파두가 위협적 존재로 부상"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/brutally-honest-chelsea-assessment-xabi-34941299",
-   "title": "The brutally honest Chelsea assessment Xabi Alonso will agree with as £342m decision questioned",
-   "link": "https://www.football.london/chelsea-fc/news/brutally-honest-chelsea-assessment-xabi-34941299",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795413600000,
-   "image": "https://i2-prod.football.london/incoming/article34941352.ece/ALTERNATES/s615/0_GettyImages-2298978513.jpg",
-   "added": 1795415186794,
-   "cat": null,
-   "titleKo": "샤비 알론소가 동의할 만한 첼시에 대한 솔직한 평가. 3억 4,200만 파운드(약 5,850억 원) 규모의 결정에 의문이 제기됨"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtXQ05sbjRoTmExMjVBZUQ3NTI1bjEzTjE3ZWdwTFUzc0R0SFVCaEZVaV9ybG9BTk5wY2xHQnd4dWRWV3cxV0pURWF0SGhuSl9zcFplNVY4Um1NREJYdV9HZ1FKbnpDX0hpbDJRRkRRbkhBZmtrY0l6RXJOX2ZSRmdPSUxCOEw4aE1iVUUtOXhqNHd6NEpUam01cTYzdw?oc=5",
-   "title": "Chelsea Diary: Away days and Academy derby on the agenda | News | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtXQ05sbjRoTmExMjVBZUQ3NTI1bjEzTjE3ZWdwTFUzc0R0SFVCaEZVaV9ybG9BTk5wY2xHQnd4dWRWV3cxV0pURWF0SGhuSl9zcFplNVY4Um1NREJYdV9HZ1FKbnpDX0hpbDJRRkRRbkhBZmtrY0l6RXJOX2ZSRmdPSUxCOEw4aE1iVUUtOXhqNHd6NEpUam01cTYzdw?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795413600000,
-   "added": 1795415186794,
-   "cat": "오피셜",
-   "titleKo": "첼시 다이어리: 원정 경기와 아카데미 더비가 예정되어 있습니다 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUs0SGhzXzJwX3dxZlpiZzJlNUpqa0l1VkpVdUlMTVNMTnlQbV9UdHlfaS15bEFaRDhib2lWY2JrcGRyOUhQWXhuSnVoNDZJeGlUOWtxbzVYNHNKdERQRXR3cGo3MkNmRTBYSk9uZE9vWGc1cGQ5dTljcTZFS1NYc2l1U2xZSms?oc=5",
-   "title": "리즈에게 참패를 당한 후, 첼시는 그 어느 때보다 취약한 상태에 놓였다.",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUs0SGhzXzJwX3dxZlpiZzJlNUpqa0l1VkpVdUlMTVNMTnlQbV9UdHlfaS15bEFaRDhib2lWY2JrcGRyOUhQWXhuSnVoNDZJeGlUOWtxbzVYNHNKdERQRXR3cGo3MkNmRTBYSk9uZE9vWGc1cGQ5dTljcTZFS1NYc2l1U2xZSms?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795413070000,
-   "added": 1795552218759,
-   "cat": null,
-   "titleKo": "리즈에게 참패를 당한 후, 첼시는 그 어느 때보다 취약한 상태에 놓였다."
   }
  ]
 }
