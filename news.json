@@ -1,26 +1,26 @@
 {
- "updated": 1795631071356,
+ "updated": 1795634727242,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
-  "talkSPORT": 3,
+  "talkSPORT": 4,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 4,
   "The Sun": 1,
   "Mirror": 3,
-  "Daily Mail": 4,
+  "Daily Mail": 3,
   "Telegraph": 4,
   "Independent": 0,
   "Express": 0,
-  "Sports Mole": 10,
-  "CaughtOffside": 2,
+  "Sports Mole": 9,
+  "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 4,
   "구글뉴스(영어)": 67,
   "인터풋볼": 0,
   "풋볼리스트": 0,
-  "베스트일레븐": 3,
+  "베스트일레븐": 2,
   "구글뉴스(한국어)": 12,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 38건"
+  "이번 상대": "Nottingham Forest · 새 기사 52건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,26 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZC1WMWNLTFFGdU92UlBCRTRNX1c3R25nTmhYNzQ3OWlMbGxzdWtKcHlEelNaSHhjbS1ER3E1dV9CQ3JycjN4dG1TNGVJd1pSdUdZZ3hjclNoSlJVaC1MajlMUloybERvOTAwY1JId0tIcmZCeGR6a2I4MHdSdGZXOXFEUnlRNHp0ZFpQZ1laTEpmS1F3dFJCd1k0dlB3c25xM2p0WklWNDhhVGtpWVJFMFFzSHlRUUZ4OHloXzZpUlRTUmREbF9TYWRKQnhzc1huQy0w0gHbAUFVX3lxTFAxNFQ4Q2tQdFhzWDNkSlctdDRjb0xwZmtJZ0h6TlYzdk9YZFNPbGVkYl92bHdFdVlBUmNqc21nZ1pXcXlXT0xrZUM1X2JQdHR3b21VR0NDSG9jd05xR1hYbjJZXy1VVnV2dTdMTHhhamVuOE9iWEEyZS1kY0ZmM3JYcWx3MTRNSVR3SUl6dmxpLXNTb0twdUUtRGF1bGFCbXdCWmJtY19sS1cxU3dwNU96bnBxendVMm9yV3ZheUdwbnlHcVRkUmM1d2RGU2Z6QTRQRzU4WDdvSm5qUQ?oc=5",
+    "title": "Nottingham Forest v Chelsea: Home win appeals plus a Tricky Trees 17/2 Bet Builder",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZC1WMWNLTFFGdU92UlBCRTRNX1c3R25nTmhYNzQ3OWlMbGxzdWtKcHlEelNaSHhjbS1ER3E1dV9CQ3JycjN4dG1TNGVJd1pSdUdZZ3hjclNoSlJVaC1MajlMUloybERvOTAwY1JId0tIcmZCeGR6a2I4MHdSdGZXOXFEUnlRNHp0ZFpQZ1laTEpmS1F3dFJCd1k0dlB3c25xM2p0WklWNDhhVGtpWVJFMFFzSHlRUUZ4OHloXzZpUlRTUmREbF9TYWRKQnhzc1huQy0w0gHbAUFVX3lxTFAxNFQ4Q2tQdFhzWDNkSlctdDRjb0xwZmtJZ0h6TlYzdk9YZFNPbGVkYl92bHdFdVlBUmNqc21nZ1pXcXlXT0xrZUM1X2JQdHR3b21VR0NDSG9jd05xR1hYbjJZXy1VVnV2dTdMTHhhamVuOE9iWEEyZS1kY0ZmM3JYcWx3MTRNSVR3SUl6dmxpLXNTb0twdUUtRGF1bGFCbXdCWmJtY19sS1cxU3dwNU96bnBxendVMm9yV3ZheUdwbnlHcVRkUmM1d2RGU2Z6QTRQRzU4WDdvSm5qUQ?oc=5",
+    "source": "Betfair",
+    "date": 1795633517000,
+    "added": 1795634720487,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 대 첼시: 홈팀 승리 가능성 높음 + '트리키 트리(Tricky Trees)' 17/2 베팅 빌더"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1FBUG90ODZUanBPRHZrbWd1YU81WHlEYzlpZ0pRdXFIM3JhZE9wX0dHa2V4QTc1S2hycEdYTF9RWWJaUDNMLWZ0bW9fTnJ2dlZiSEtYYTB4ekxGOE9XNUNYTjd0SXAtTUtUMjVUeWI5MHBvVHZ4WlhhaER6TVVZV3NkM0lqVEp3UW9XS2t3SQ?oc=5",
+    "title": "Glasner calls for ‘four or five’ January transfers in scathing attack on Forest squad",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1FBUG90ODZUanBPRHZrbWd1YU81WHlEYzlpZ0pRdXFIM3JhZE9wX0dHa2V4QTc1S2hycEdYTF9RWWJaUDNMLWZ0bW9fTnJ2dlZiSEtYYTB4ekxGOE9XNUNYTjd0SXAtTUtUMjVUeWI5MHBvVHZ4WlhhaER6TVVZV3NkM0lqVEp3UW9XS2t3SQ?oc=5",
+    "source": "The i Paper",
+    "date": 1795631111000,
+    "added": 1795634720488,
+    "tag": "상대 소식",
+    "titleKo": "글라스너 감독, 노팅엄 포레스트 선수단에 대해 혹평하며 1월 이적 시장에서 '4~5명'의 선수를 영입해야 한다고 주장"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGhZSFpUb2l0eTY3R1NiUUZXR015ZGxDVmttTm5JbWtQOEdDRHNQaWxEQlpVWllpRmF6Qlo1LWVhV1FHXzVldl9pcXFpQ1lLMFRWMjVkWTc2Y2prb3ljc05VYTJ4aHhWNnVuMm9KR1pZQXJnQXNIZHd2dXBzZ05wUS1DZWp6Z3BOakJZaWtEOVNFRjBINTZVNkY1RDhGMmt2VzRvYzBDazFudldGdUphYi1ZemM?oc=5",
     "title": "Glasner on Nottingham Forest standards, Marinakis meeting and transfers",
@@ -341,6 +361,16 @@
     "titleKo": "노팅엄 포레스트 vs 첼시 - 온라인 무료 시청"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHZhcngxWVJnZjZCZThDNEhUVGNiS3JyTUUyUHlNSkxMM29wZDBaRlh5cUc5UU9FX0FvWFR0UG1zblJrOU5DLVpYdk91OEFjLTNMVGFFOGFQVWtnZ1JQR0N4WGtCOENSUG9OajVqOTU3ajJfWHh6aUtIWUJrVFdPeFZrUEJWdWhBNUhNQkdwekZmdUZ2dlpORzlTT3pZNGx0MU5WdVpuTGxSSjNXTjcyZWZnNTBBTlU3VzJ2QVF0Z1doQ1RhM2xJ?oc=5",
+    "title": "Video - Boost For Chelsea As Key Player 'Pushing' For Early Injury Return",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHZhcngxWVJnZjZCZThDNEhUVGNiS3JyTUUyUHlNSkxMM29wZDBaRlh5cUc5UU9FX0FvWFR0UG1zblJrOU5DLVpYdk91OEFjLTNMVGFFOGFQVWtnZ1JQR0N4WGtCOENSUG9OajVqOTU3ajJfWHh6aUtIWUJrVFdPeFZrUEJWdWhBNUhNQkdwekZmdUZ2dlpORzlTT3pZNGx0MU5WdVpuTGxSSjNXTjcyZWZnNTBBTlU3VzJ2QVF0Z1doQ1RhM2xJ?oc=5",
+    "source": "roundtable.io",
+    "date": 1795588227000,
+    "added": 1795634720488,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "동영상 - 핵심 선수가 조기 부상 복귀를 '강행'하며 첼시에 힘을 실어줌"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWpBNmRJN3JXb01UMHdXTUFWMHNWd2hTY19rb1VEVnpFTElLbEE3aWRWT2tqTXBVTGJHZDFkVU1UajRCMTNpM2MteXlBOGc2dEVHSVV0UW5veFhSY19GdDQ0WHhIa2xfNktvT09hS281bGVwNWdETUcybFhaSnowZmJZdGQ3RldkX1BDWGs3cW1PQnc5ZmNCTkY0eEVuOEVyWnY1UWhyMA?oc=5",
     "title": "Classic Match | Nottingham Forest 2-3 Chelsea | Video | Official Site",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWpBNmRJN3JXb01UMHdXTUFWMHNWd2hTY19rb1VEVnpFTElLbEE3aWRWT2tqTXBVTGJHZDFkVU1UajRCMTNpM2MteXlBOGc2dEVHSVV0UW5veFhSY19GdDQ0WHhIa2xfNktvT09hS281bGVwNWdETUcybFhaSnowZmJZdGQ3RldkX1BDWGs3cW1PQnc5ZmNCTkY0eEVuOEVyWnY1UWhyMA?oc=5",
@@ -519,6 +549,16 @@
     "added": 1795549170671,
     "tag": "상대 소식",
     "titleKo": "첼시의 다음 경기인 노팅엄 포레스트와의 경기에 배정된 심판진 — 특히 우려되는 한 명의 이름"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmZQTDJoZi1MTm1HdnluaVhaM0htOFlVTnQyWnB4OVBnZWVza2FoQ0x6VlhmTW85cW5FS0VwcGxWZlQ0eHRZUGRtSUl0dV9wdGUxOGpEOWxvaC13SGpjSlgxTlU5Z3E2blhkYVAwaHlERllTZVcxTGNFTjl6SExYRlVxQlhoNUdQeDVfc0g4SWhZanM?oc=5",
+    "title": "Match Report. Newcastle United Women 0 Nottingham Forest Women 2",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmZQTDJoZi1MTm1HdnluaVhaM0htOFlVTnQyWnB4OVBnZWVza2FoQ0x6VlhmTW85cW5FS0VwcGxWZlQ0eHRZUGRtSUl0dV9wdGUxOGpEOWxvaC13SGpjSlgxTlU5Z3E2blhkYVAwaHlERllTZVcxTGNFTjl6SExYRlVxQlhoNUdQeDVfc0g4SWhZanM?oc=5",
+    "source": "Newcastle United",
+    "date": 1795523482000,
+    "added": 1795634720488,
+    "tag": "상대 소식",
+    "titleKo": "경기 보고서. 뉴캐슬 유나이티드 여자팀 0 - 노팅엄 포레스트 여자팀 2"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZURjRXZzVFFmTjJjYnVVb2pXS1FNLUV1VG5Wd19KdUtZZXlDaVMyUDZmWEVTcEJpcHZ3SFItenhrODNyWWtDd0VtX01xWFRvM3lpMGJfYUlab2dsN2hoemtwMG9CV1UyV0I1aDJmdWlSM1ItY2dvakRCWFJuZS1wLXgwcllhRFhKVVh1ekRlYm5oMDNNMFo0TkxNcFk2NFJYWkVWOGpwWXdXRy1RR1Aw?oc=5",
@@ -799,50 +839,35 @@
     "added": 1795475435466,
     "tag": "상대 소식",
     "titleKo": "에반겔로스 마리나키스는 노팅엄 포레스트의 이번 여름 최대 실수의 원인입니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejh4OXN5VmFFeVRLUzFjT00yRi1LTGJ6NTRfb1BReTR1Qk1wbE0wd08yOU1xQkNNb1M0eS1HNzZsMFlhUGZxYXdjb1JnMDV4bGNPQ1NkOXFfX1F6RloxcmpjSldTZUdhQUxKekNLQkwyNm5yLUUtRDRaNmIwVGo1NmxVZ044NDBIcmM0cFJCRkZ1ckZyVUVEWG9kb3ItS20yVXNVSw?oc=5",
-    "title": "Nottingham Forest are stuck in a familiar rut. Glasner has to wrest them free",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejh4OXN5VmFFeVRLUzFjT00yRi1LTGJ6NTRfb1BReTR1Qk1wbE0wd08yOU1xQkNNb1M0eS1HNzZsMFlhUGZxYXdjb1JnMDV4bGNPQ1NkOXFfX1F6RloxcmpjSldTZUdhQUxKekNLQkwyNm5yLUUtRDRaNmIwVGo1NmxVZ044NDBIcmM0cFJCRkZ1ckZyVUVEWG9kb3ItS20yVXNVSw?oc=5",
-    "source": "The New York Times",
-    "date": 1795411643000,
-    "added": 1795415187692,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트는 익숙한 늪에 빠져 있습니다. 글라스너 감독이 그들을 구해내야 합니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
-    "title": "첼시는 불안정한 상태입니다",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
-    "source": "Laodong.vn",
-    "date": 1795398375000,
-    "added": 1795399596098,
-    "tag": "상대 소식",
-    "titleKo": "첼시는 불안정한 상태입니다"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVh0MXo2eEJINzg1SDVpM0dYdXpxM1hpQjF1dGpULWR1d1dDcVBzaWxvOC1Mdng1c1FHRjBMVzBISUpLN3JUYV9TbXctLUxORnpzYkwyclI3X3V5dXB3c19saTJ5TjZwMzJ2dURlbFhXX3d6Um8wZE1oLVVXc21neXBSQWU3ajFCZEhSN0tXRVQ4Uk1NdWhfN0JNSVV3RDIxa284di1rUFhJa2U2dEFNWWdHQ21MeDVSOHBv?oc=5",
-    "title": "Liverpool and Chelsea now want £20m star being eyed by Forest boss Glasner",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVh0MXo2eEJINzg1SDVpM0dYdXpxM1hpQjF1dGpULWR1d1dDcVBzaWxvOC1Mdng1c1FHRjBMVzBISUpLN3JUYV9TbXctLUxORnpzYkwyclI3X3V5dXB3c19saTJ5TjZwMzJ2dURlbFhXX3d6Um8wZE1oLVVXc21neXBSQWU3ajFCZEhSN0tXRVQ4Uk1NdWhfN0JNSVV3RDIxa284di1rUFhJa2U2dEFNWWdHQ21MeDVSOHBv?oc=5",
-    "source": "Nottingham Forest News",
-    "date": 1795377600000,
-    "added": 1795379026688,
-    "tag": "상대 소식",
-    "titleKo": "리버풀과 첼시, 노팅엄 포레스트의 글라스너 감독이 관심을 보이는 2천만 파운드(약 340억 원)의 몸값을 자랑하는 스타 선수 영입을 원하고 있습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkhtOUFLUUV2aTJvVkJiRHpaMndzdURYYjhoUV8waXZxaGJaZ0E4NG9VQWZJS3ltTjVEVDExZU84eUFoSWFGZTJGc003LVY0MXl2ekt6ZXU4Zk9aQlBrbkdUaFN6RHplTXFFaXoxV1Z4SnBDLWVQLU01SEVObWlzSUxoYktVTTJtczl1MkROV3M1Ny1IenQta1BUeGloaWpINzc4V01BYTdKcGkxemw0amt6QWh6RXBMTlZPaWVVOFotSDBRQ3FjT2tGSlo?oc=5",
-    "title": "Newcastle United Women v Nottingham Forest Women | Subway Players Cup | 22 Nov 2026",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkhtOUFLUUV2aTJvVkJiRHpaMndzdURYYjhoUV8waXZxaGJaZ0E4NG9VQWZJS3ltTjVEVDExZU84eUFoSWFGZTJGc003LVY0MXl2ekt6ZXU4Zk9aQlBrbkdUaFN6RHplTXFFaXoxV1Z4SnBDLWVQLU01SEVObWlzSUxoYktVTTJtczl1MkROV3M1Ny1IenQta1BUeGloaWpINzc4V01BYTdKcGkxemw0amt6QWh6RXBMTlZPaWVVOFotSDBRQ3FjT2tGSlo?oc=5",
-    "source": "Newcastle United",
-    "date": 1795370454000,
-    "added": 1795445642427,
-    "tag": "상대 소식",
-    "titleKo": "뉴캐슬 유나이티드 여자팀 대 노팅엄 포레스트 여자팀 | 서브웨이 플레이어스컵 | 2026년 11월 22일"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.talkchelsea.net/transfers/chelsea-january-loan-deal-return-player/",
+   "title": "Chelsea could agree January deal to return loan player after another disaster 6 months",
+   "link": "https://www.talkchelsea.net/transfers/chelsea-january-loan-deal-return-player/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795633200000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/09/hull-city-v-aston-villa-fc-premier-league-2026-27-550x367.jpg",
+   "added": 1795634719108,
+   "cat": "이적",
+   "titleKo": "첼시, 또 다른 6개월간의 참사 후 임대 선수의 복귀에 대한 1월 이적에 합의할 수 있음"
+  },
+  {
+   "id": "https://talksport.com/football/4731976/chelsea-alejandro-garnacho-transfer-zoom-simon-jordan/",
+   "title": "Simon Jordan reveals how Chelsea signed Alejandro Garnacho for £40m after Zoom interview",
+   "link": "https://talksport.com/football/4731976/chelsea-alejandro-garnacho-transfer-zoom-simon-jordan/",
+   "source": "talkSPORT",
+   "group": "영국 언론",
+   "date": 1795632563000,
+   "added": 1795634719108,
+   "cat": "오피셜",
+   "titleKo": "사이먼 조던, 첼시가 줌(Zoom) 인터뷰 후 알레한드로 가르나초를 4천만 파운드에 영입한 과정을 공개",
+   "imgTried": true,
+   "image": "https://talksport.com/wp-content/uploads/2026/11/alejandro-garnacho-aston-villa-looks-1125435154.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1FoakczNEh6NmtQT09xWmhIcU1CczlXVlQ3TjZsck42aU9GQjhRZm9LRExrRWV5RE9NRFdXd2EtdUxlMldYMzNUdUEyemZiazNuQjZpcHRnZkdCaFMwdjQ2bE5RZjhINWtQWUtYa0FlaVVDQzVYQTJ1bTVzSTJTY090aUk3MllRazNsX0p0M3RjZEhpMW9SSUd4b214MEY3RDd2RzFNdVNrSGNhVy1CSElxUkFCWGROdmNjN0U3LVhNbjR4?oc=5",
    "title": "Cole Palmer 'doesn't believe in Xabi Alonso project' - expert raises Chelsea alarm bells",
@@ -1555,6 +1580,17 @@
    "titleKo": "토트넘 손흥민 기습 숭배!...8년전, 첼시 상대로 50m 질주 원더골 조명→\"센세이셔널 SONNY\"",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699175_833332_5757_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bVROQXlycExSMElsU01TcG9Uc05pQVZXaFIwUEI5ZC1DbEVPQ09rYVRDal82Y1pOMUZMZUctNnlYeWNZbFVtc1UzX2dhRmR2ekFLMWFWWUNvX3lydmZXRUJmT3dQeFFTMEV4aGNWbHF2RFZJTVp1ZjFB?oc=5",
+   "title": "- Chelsea Football Club",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bVROQXlycExSMElsU01TcG9Uc05pQVZXaFIwUEI5ZC1DbEVPQ09rYVRDal82Y1pOMUZMZUctNnlYeWNZbFVtc1UzX2dhRmR2ekFLMWFWWUNvX3lydmZXRUJmT3dQeFFTMEV4aGNWbHF2RFZJTVp1ZjFB?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795553361000,
+   "added": 1795634719109,
+   "cat": null,
+   "titleKo": "- 첼시 축구 클럽"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTDE3WVNXRnl4RnB0amRpdllhRExqTmRHNERPYXpyUXI5MVBUTmFwdjJydkc1U3JCVDlqRUtxczVTcUNXbEQwdGswRTVZdFphMWdfS2RKNGdBS1YtTVdWZkNnNWZBUk52c3p5X3lyN3ZoX2RpdnFneVhRR3luX254RFBjWmg2X3ptV1JiNVdPbHdIVFdsT1dhVVRlTVJTdjNWWWljYmYxcm5iY2FibnlDSEZLb2tWX0JIc250S1JwMDRCNExZZERsVklFcDhFWDR5bm1hdmN1bGtjV2tBZ0VidEVfV190eFpYcUtraVE5LXFrUnFwNHVkdXNxbDNPVDVvWjU0WVgtazdDdVdv?oc=5",
@@ -4239,40 +4275,6 @@
    "titleKo": "첼시 공격수 에마뉘엘 에메가, 리즈전 패배 후 강도 피해",
    "imgTried": true,
    "image": "https://talksport.com/wp-content/uploads/2026/11/crop-4724982.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41110978/chelsea-emmanuel-emegha-robbed/",
-   "title": "Chelsea star Emmanuel Emegha reveals he was ROBBED after scoring first Premier League goal in Leeds loss",
-   "link": "https://www.thesun.co.uk/sport/41110978/chelsea-emmanuel-emegha-robbed/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795388030000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41111012.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795389386654,
-   "cat": "인터뷰",
-   "titleKo": "첼시의 스타 선수 에마뉘엘 에메가가 리즈전에서 첫 프리미어리그 골을 넣은 후 강도를 당했다고 밝힘"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWxMcjFkN0NWVFdMVzRPVzFxTGxUZWU0T1ZGa2x5YXVCeFpCTUV2b3BsOGtNcEJsNVpkRW1lWFVNLTBCRVpqRDg1aFRRamNxbHpLZG1aSUVBQlNFZEg3dzFCQ3FESFlwWWJxbGpULXhZMW1QTHJjcWctYjZSSFZ1a1N4bkk5NjhyRHhkVG83QzNZUEhDZVlhcml4dGdxdUE0c0lWUTVqQ2ZVakZ0eXhxUl9PbDV4NmZjbjZNX3dBaw?oc=5",
-   "title": "How Sean Longstaff may have quietly secured Daniel Farke's favour after Leeds win vs Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWxMcjFkN0NWVFdMVzRPVzFxTGxUZWU0T1ZGa2x5YXVCeFpCTUV2b3BsOGtNcEJsNVpkRW1lWFVNLTBCRVpqRDg1aFRRamNxbHpLZG1aSUVBQlNFZEg3dzFCQ3FESFlwWWJxbGpULXhZMW1QTHJjcWctYjZSSFZ1a1N4bkk5NjhyRHhkVG83QzNZUEhDZVlhcml4dGdxdUE0c0lWUTVqQ2ZVakZ0eXhxUl9PbDV4NmZjbjZNX3dBaw?oc=5",
-   "source": "MOT Leeds News",
-   "group": "영국 언론",
-   "date": 1795381200000,
-   "added": 1795420936988,
-   "cat": null,
-   "titleKo": "숀 롱스태프가 첼시와의 경기에서 리즈 유나이티드가 승리한 후 어떻게 조용히 다니엘 파르케 감독의 신임을 얻었을지"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVV9DaEMzN0wwNkowUk5NOFdCcTN4QWhKdVJkamJzNHhkeXg5UXFLMVdyUDBxb29BUXZhMW10Y1pnZXl5TTVqSzYwQjJBZHBGTjhzWDVLQWRZb1oyYkhzbE4zVkMxVUZ0aTZsSWdPR3U0RGRydDNoQVFucng3TDRGNGhPY0dFdHRCZXFKX3MtRmpmRmJTZUFJRWpOTk9sSHI5Z3JzSEhn?oc=5",
-   "title": "Cole Palmer proof Chelsea’s long contracts give players too much power",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVV9DaEMzN0wwNkowUk5NOFdCcTN4QWhKdVJkamJzNHhkeXg5UXFLMVdyUDBxb29BUXZhMW10Y1pnZXl5TTVqSzYwQjJBZHBGTjhzWDVLQWRZb1oyYkhzbE4zVkMxVUZ0aTZsSWdPR3U0RGRydDNoQVFucng3TDRGNGhPY0dFdHRCZXFKX3MtRmpmRmJTZUFJRWpOTk9sSHI5Z3JzSEhn?oc=5",
-   "source": "The Times",
-   "group": "영국 언론",
-   "date": 1795379400000,
-   "added": 1795381807778,
-   "cat": null,
-   "titleKo": "콜 파머, 첼시의 장기 계약이 선수들에게 너무 많은 권한을 부여한다는 것을 증명하다"
   }
  ]
 }
