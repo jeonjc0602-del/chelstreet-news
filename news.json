@@ -1,8 +1,8 @@
 {
- "updated": 1795614760976,
+ "updated": 1795618305147,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 1,
+  "Sky Sports": 2,
   "talkSPORT": 4,
   "The Guardian": "실패: 403",
   "football.london": 25,
@@ -21,7 +21,7 @@
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 3,
-  "구글뉴스(한국어)": 10,
+  "구글뉴스(한국어)": 11,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -40,6 +40,26 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlp1VFhRa0pGWGlhVDhYRUNZQ0l0QU1EanB3SElES0xwUEV6ZHlYMEM1d2VMNklmYUUycC1IdGVwYlBWQzVLelBTd1h0ZDBHQ2xaY1NxcjRwdUZINVVFNzVzOWRGaDZpSTJRdnhGT2Jvc1RydWRMeUNQbUtLSjdXeG1XOHhvTk1aaEV3VA?oc=5",
+    "title": "Emegha 'would do anything to win' at Chelsea",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlp1VFhRa0pGWGlhVDhYRUNZQ0l0QU1EanB3SElES0xwUEV6ZHlYMEM1d2VMNklmYUUycC1IdGVwYlBWQzVLelBTd1h0ZDBHQ2xaY1NxcjRwdUZINVVFNzVzOWRGaDZpSTJRdnhGT2Jvc1RydWRMeUNQbUtLSjdXeG1XOHhvTk1aaEV3VA?oc=5",
+    "source": "AllFootball",
+    "date": 1795616225000,
+    "added": 1795618301034,
+    "tag": "상대 소식",
+    "titleKo": "에메가, \"첼시에서 우승을 위해 무엇이든 할 것\""
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVktRDNENEFic1d6ekw0UEd0UHBYRjM0eF9iU1V4blROZjRMdjhLX0h3eG1DZElwdWdXRFQ3RnJmR3FTZU9WRnNwQmtoYTFzV0wyRFYzbXpQRzdSdnRsTl84bmZzYVlZc3E3RDl3OTBiRm1FZmM2SUZkeF9tUmxfdFpZTWpHeVBBLWlVYnZjTk5fUmxYLVdybS1EWU1Xc3RFQzRDTzBNLTVQWndvOWZxUlZHNUhpZw?oc=5",
+    "title": "Glasner has Forest equipped to expose two of Chelsea’s main weaknesses",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVktRDNENEFic1d6ekw0UEd0UHBYRjM0eF9iU1V4blROZjRMdjhLX0h3eG1DZElwdWdXRFQ3RnJmR3FTZU9WRnNwQmtoYTFzV0wyRFYzbXpQRzdSdnRsTl84bmZzYVlZc3E3RDl3OTBiRm1FZmM2SUZkeF9tUmxfdFpZTWpHeVBBLWlVYnZjTk5fUmxYLVdybS1EWU1Xc3RFQzRDTzBNLTVQWndvOWZxUlZHNUhpZw?oc=5",
+    "source": "Nottingham Forest News",
+    "date": 1795615200000,
+    "added": 1795618301034,
+    "tag": "상대 소식",
+    "titleKo": "글라스너 감독은 첼시의 주요 약점 두 가지를 공략할 수 있도록 노팅엄 포레스트를 준비시켰습니다."
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGdzaHhfTXVyVjB4eWlWaUU1OFpuRUxTcnVadUJLa2dqUW5aYXM5MEI1SXZ5MVN4UEtmVDdTM0F5SzZ3QU9MTlNkS0RtRDRXTjVIZmpsQWlFV2JyWjhpWDNMQ3BuSlFNSGF6YXE2UzNtdWQ0eDVxQ2cwMENXMWdkVlN2SVJUcy1yNXQ4bkNYYzNLbXViM3EwZHBQVWZYc2duNFdsdmRPcDh1ZnJKMkhR?oc=5",
     "title": "Nottingham Forest had agreement to sign Champions League striker",
@@ -819,26 +839,6 @@
     "added": 1795513335197,
     "tag": "라인업·팀뉴스",
     "titleKo": "프리뷰: 본머스 vs 노팅엄 포레스트 - 예측, 팀 소식, 선발 명단"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeksxdV9QZEJFbkhqM2NCMmotbWhzNUd2ZGQ0M2hvT0VvSGFrcXhhRV9ITXNabVlYRUFUc3VEU2cwVnp4RnlwOVlLbk1kbkNOdmdaMTlNY1NPNGxxYUZmd0xxT0RSQ29IM1VqSlI0TzhaaHM2aTZOaHVCLW52bGVEU19RbUNwVDJDdTVDclRzZUFFZkNpZ05rQTVnMzRIN29IaWdYWlhsRTNGQQ?oc=5",
-    "title": "Nottingham Forest back in for £16m Juventus star who turned them down last year",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeksxdV9QZEJFbkhqM2NCMmotbWhzNUd2ZGQ0M2hvT0VvSGFrcXhhRV9ITXNabVlYRUFUc3VEU2cwVnp4RnlwOVlLbk1kbkNOdmdaMTlNY1NPNGxxYUZmd0xxT0RSQ29IM1VqSlI0TzhaaHM2aTZOaHVCLW52bGVEU19RbUNwVDJDdTVDclRzZUFFZkNpZ05rQTVnMzRIN29IaWdYWlhsRTNGQQ?oc=5",
-    "source": "Nottingham Forest News",
-    "date": 1795341600000,
-    "added": 1795365033572,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트, 지난해 거절당한 유벤투스의 1,600만 파운드(약 270억 원) 스타 선수 영입 재시도"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13Sm5XeFFCbVZYT2tPT1dxcnY2ZnRuZ290ZDF1TFUtOGlUaHlHOF9lRkc4YnNMUmx1LW1HVkxZYWszel9aRW95Q2VKVG1ZR1NKZEgwNmtqVGhtWnFySXhyODYyQ01LWGZLOHpmTVB3?oc=5",
-    "title": "Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13Sm5XeFFCbVZYT2tPT1dxcnY2ZnRuZ290ZDF1TFUtOGlUaHlHOF9lRkc4YnNMUmx1LW1HVkxZYWszel9aRW95Q2VKVG1ZR1NKZEgwNmtqVGhtWnFySXhyODYyQ01LWGZLOHpmTVB3?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795338795000,
-    "added": 1795528492593,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포리스트 FC"
    }
   ]
  },
@@ -855,6 +855,39 @@
    "titleKo": "자리 있는데 벤치에도 못 앉았다… 맨유·첼시 출신 가르나초, 의무 완전 영입 조항 달고 임대 떠났으나 3경기 연속 명단 제외",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314325_245338_438.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUl9zQjlCSThNTlI4N0hxbFREb0Q1Q2hMdGhDTVVGWXJsNXZTSlZwQ05qOFRtVll2d0hPQUtkSTVfellwNXNZdjY1UnZiOGx1UGJsb3k0cFBGM09FRWpacGNfY2R2WVFKZm5sNXRORnJ6SXNYNW4tRmM5MXpyZXNSellONnNiMU5qZWJhbmQ0ZHl2REsxVTZTbXEzNnlTbmdZNU1HU015eldya2tiTXk2bw?oc=5",
+   "title": "Entertainment for the whole family – Join us for Families at the Bridge!",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUl9zQjlCSThNTlI4N0hxbFREb0Q1Q2hMdGhDTVVGWXJsNXZTSlZwQ05qOFRtVll2d0hPQUtkSTVfellwNXNZdjY1UnZiOGx1UGJsb3k0cFBGM09FRWpacGNfY2R2WVFKZm5sNXRORnJ6SXNYNW4tRmM5MXpyZXNSellONnNiMU5qZWJhbmQ0ZHl2REsxVTZTbXEzNnlTbmdZNU1HU015eldya2tiTXk2bw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795617000000,
+   "added": 1795618298753,
+   "cat": null,
+   "titleKo": "온 가족을 위한 엔터테인먼트 – 브리지에서 온 가족이 함께 즐기는 시간을 보내세요!"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lclJZUWR5TXJFOXBDb2VSWGQzZ09KZi05QTloVEY3bGFGOTIweEZPd0E5ZGc2NjNDWGpUem9Nal9iZU5tbGxVVkpQemNRczdfdjNQNmhMT2lCM3ZRRldGMkFEcURQMTFzNXFTdV9qUnA5VDhlVHEtQVZwbVk3YUU?oc=5",
+   "title": "Inside the life of Becky Spencer",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lclJZUWR5TXJFOXBDb2VSWGQzZ09KZi05QTloVEY3bGFGOTIweEZPd0E5ZGc2NjNDWGpUem9Nal9iZU5tbGxVVkpQemNRczdfdjNQNmhMT2lCM3ZRRldGMkFEcURQMTFzNXFTdV9qUnA5VDhlVHEtQVZwbVk3YUU?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795615516000,
+   "added": 1795618298753,
+   "cat": null,
+   "titleKo": "베키 스펜서의 삶 속으로"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3l1al85b1Zid21XX3lJeWNYMFNhR1pCY2s0aTBxS3RFcTA3d0hvZzJjczBPZnE3TllJalVwb2RMYks4SFRtczFpS2FTdmY3aVFnQ1lMMTNaNHFqZF80RnFSOFJId1RQc2EtcGpCMzdvQk8xdEp4bDF4M214ZW9aMXI3R2tJZjZyOU1ldEFqVEJMNkFGTHBzQV81Q2tYbWRhV01Lb3ZTemFEcmp6akphNmVRRi0?oc=5",
+   "title": "공식적으로 첼시 감독이 된 Xabi Alonso, 엔조 페르난데스를 유지하고 싶다고 주장하다",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3l1al85b1Zid21XX3lJeWNYMFNhR1pCY2s0aTBxS3RFcTA3d0hvZzJjczBPZnE3TllJalVwb2RMYks4SFRtczFpS2FTdmY3aVFnQ1lMMTNaNHFqZF80RnFSOFJId1RQc2EtcGpCMzdvQk8xdEp4bDF4M214ZW9aMXI3R2tJZjZyOU1ldEFqVEJMNkFGTHBzQV81Q2tYbWRhV01Lb3ZTemFEcmp6akphNmVRRi0?oc=5",
+   "source": "VOI.ID",
+   "group": "한국 언론",
+   "date": 1795612532000,
+   "added": 1795618298753,
+   "cat": null,
+   "titleKo": "공식적으로 첼시 감독이 된 Xabi Alonso, 엔조 페르난데스를 유지하고 싶다고 주장하다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV1dSaEpiZ2w5MVZ1M1Z5cFhHV0JaSm9aajJsaTgtTXEtWS1qaHRJMzRWZ0RMRkxmbGJidWNHZXR1VUd4SHVSQThSelZSOTRiZGYxeV9DSS1ocF9KMGoxNGZsb0xVZ1oxNkFPcmFRTzI3NEswSHp4cVk1Z3NRZlJkZjFUbFNSQ3ozTHM1M0tiUGhZa0s1QUxobkpuNTPSAaIBQVVfeXFMTWdIYVYyYnpnZFJYeDlIdzBUazFTYmlFUkl4SUJiSzUtbWc1ZENfbjRBci1uQ0p6UDMyYW5zSDByTjdicnNWNFFjRlZxUXVkOWVSREwtXzV0eVhrZ2U2ZFozX29Qc3o4WkpsaXo4eWtlRklHT2JIVHRXMkIxOUpyNlNuSjl0M09Hd0VIZWR4Tk9vSF9qYklWX21zZTJ6MklYNlRR?oc=5",
@@ -4239,40 +4272,6 @@
    "added": 1795449217274,
    "cat": null,
    "titleKo": "첼시 - AC 밀란 3-0"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41106362/chelsea-gudjohnsen-son-tony-mowbray-blackburn/",
-   "title": "Chelsea icon’s son holds up shirt with heartwarming message to Tony Mowbray amid health battle after goal for Blackburn",
-   "link": "https://www.thesun.co.uk/sport/41106362/chelsea-gudjohnsen-son-tony-mowbray-blackburn/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795351314000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FOQ-OP-BLACKBURN.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795354079201,
-   "cat": null,
-   "titleKo": "첼시의 전설적인 선수의 아들이 블랙번에서 골을 넣은 후 건강 문제로 투병 중인 토니 모브레이에게 감동적인 메시지가 담긴 유니폼을 들어 보였습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZkFjVUlHalpTZjJwOTRUVy1nVXhHN2JIOENJOHNhSnFtQTBpSTZoRE1lWU16bDE0M0F3dTVjakdSeDV5U09iRVExUWpDX0UxSm5oLWlfaEJHRi1ucVRFdWxMclpFcHdRbVNHMVRWX1U5U252SmpjRmpJVnBVbDV1YWZOcklVNS1wMlpVTDdzenFucUdya2hxNllCNEFaSTczVXkyUUJlWXlGMVZKZWJNWFBfM3FhbmpSZFl6NlI5ZGVOR01iXzNtYXdnd0dOS3c?oc=5",
-   "title": "Russian billionaire Roman Abramovich's firm demands £150 million held back from Chelsea sale",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZkFjVUlHalpTZjJwOTRUVy1nVXhHN2JIOENJOHNhSnFtQTBpSTZoRE1lWU16bDE0M0F3dTVjakdSeDV5U09iRVExUWpDX0UxSm5oLWlfaEJHRi1ucVRFdWxMclpFcHdRbVNHMVRWX1U5U252SmpjRmpJVnBVbDV1YWZOcklVNS1wMlpVTDdzenFucUdya2hxNllCNEFaSTczVXkyUUJlWXlGMVZKZWJNWFBfM3FhbmpSZFl6NlI5ZGVOR01iXzNtYXdnd0dOS3c?oc=5",
-   "source": "Billionaires.Africa",
-   "group": "영국 언론",
-   "date": 1795351190000,
-   "added": 1795362666643,
-   "cat": null,
-   "titleKo": "러시아 억만장자 로만 아브라모비치의 회사, 첼시 매각 대금 중 1억 5천만 파운드 반환 요구"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbHF2SDJiaENQVEx3ZEtrcGFCODNLa1h0ZnczekhaMkFaTHlBZUtpX2xDRE9vQk5BYW9CMUtNb2VuUndIRmpZUXFYR2xjdi0tV1EwUTFxbnIwUE5ybWFYWGRhNDlOYjF5VUNoV3FfX0h5eThEVklUaWpoOGItZHYxRl85Ukc2eEpuOG9Lbzc5OA?oc=5",
-   "title": "Manchester Utd - Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbHF2SDJiaENQVEx3ZEtrcGFCODNLa1h0ZnczekhaMkFaTHlBZUtpX2xDRE9vQk5BYW9CMUtNb2VuUndIRmpZUXFYR2xjdi0tV1EwUTFxbnIwUE5ybWFYWGRhNDlOYjF5VUNoV3FfX0h5eThEVklUaWpoOGItZHYxRl85Ukc2eEpuOG9Lbzc5OA?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795351007000,
-   "added": 1795445640365,
-   "cat": null,
-   "titleKo": "맨체스터 유나이티드 - 첼시"
   }
  ]
 }
