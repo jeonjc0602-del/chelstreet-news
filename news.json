@@ -1,5 +1,5 @@
 {
- "updated": 1795618305147,
+ "updated": 1795621644722,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 2,
@@ -17,18 +17,18 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 66,
+  "구글뉴스(영어)": 67,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 3,
-  "구글뉴스(한국어)": 11,
+  "구글뉴스(한국어)": 12,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 43건"
+  "이번 상대": "Nottingham Forest · 새 기사 40건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSkJwckhYenVOLVJndHhyclRuY1FUSHNZYVduYVQwckRPbW84UHowZlF6YXMtc19PWUdpX2dnazJvWUhJQUVUUFZQUm1nY2NraXNtQmVrN3dYMW1nZ0t5dVlYMDh4UTllVEZUcllyTVB0blhUOHBETGZNRlFtQXhBMklMSlpuanZaN3dWeTFJR2dVYUI3ODNUSk9WNV9qV2VUMF9FTnI1TzJTaUdPYzRiX19EU0tjVkNWR0Y4dk5JNkxhTG8wSjdGNXZSQ0JVZ2NPVWlSZXRNcHBkS0RQMXNB?oc=5",
+    "title": "Chelsea XI vs Nottm Forest: Confirmed team news and predicted lineup",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSkJwckhYenVOLVJndHhyclRuY1FUSHNZYVduYVQwckRPbW84UHowZlF6YXMtc19PWUdpX2dnazJvWUhJQUVUUFZQUm1nY2NraXNtQmVrN3dYMW1nZ0t5dVlYMDh4UTllVEZUcllyTVB0blhUOHBETGZNRlFtQXhBMklMSlpuanZaN3dWeTFJR2dVYUI3ODNUSk9WNV9qV2VUMF9FTnI1TzJTaUdPYzRiX19EU0tjVkNWR0Y4dk5JNkxhTG8wSjdGNXZSQ0JVZ2NPVWlSZXRNcHBkS0RQMXNB?oc=5",
+    "source": "London Evening Standard",
+    "date": 1795620711000,
+    "added": 1795621638502,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식 및 예상 선발 명단"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlp1VFhRa0pGWGlhVDhYRUNZQ0l0QU1EanB3SElES0xwUEV6ZHlYMEM1d2VMNklmYUUycC1IdGVwYlBWQzVLelBTd1h0ZDBHQ2xaY1NxcjRwdUZINVVFNzVzOWRGaDZpSTJRdnhGT2Jvc1RydWRMeUNQbUtLSjdXeG1XOHhvTk1aaEV3VA?oc=5",
     "title": "Emegha 'would do anything to win' at Chelsea",
@@ -829,16 +839,6 @@
     "added": 1795357255191,
     "tag": "상대 소식",
     "titleKo": "동영상: 리즈 유나이티드에게 참패한 후 첼시 팀 동료 주앙 페드로와 격렬한 다툼을 벌인 콜 파머"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1RhM3JnVlJSODFQeGkzckxacml5ckFmNk51aEdYQzBHVkYxTTdDTXlBaENVa3FKSTVHSEkzVjlOOWZGbTktWWpVYWE1dEpJRlRHMUZSdV94enY1Tk53MGRnZldJTHpTS01VYnlPLXIxSlIwN294ZERvdmZpT09QWFk1Y2RhZXp5Y2QwUkZkN1FHUjZvLVNzNkZoSEVtM19lZE0zSUJyX0g4RC1zdmJ0V1RaU1N0eHMzLWdtTjFfbkJ4QW11?oc=5",
-    "title": "Preview: Bournemouth vs Nottingham Forest - prediction, team news, lineups",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1RhM3JnVlJSODFQeGkzckxacml5ckFmNk51aEdYQzBHVkYxTTdDTXlBaENVa3FKSTVHSEkzVjlOOWZGbTktWWpVYWE1dEpJRlRHMUZSdV94enY1Tk53MGRnZldJTHpTS01VYnlPLXIxSlIwN294ZERvdmZpT09QWFk1Y2RhZXp5Y2QwUkZkN1FHUjZvLVNzNkZoSEVtM19lZE0zSUJyX0g4RC1zdmJ0V1RaU1N0eHMzLWdtTjFfbkJ4QW11?oc=5",
-    "source": "Sports Mole",
-    "date": 1795343216000,
-    "added": 1795513335197,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "프리뷰: 본머스 vs 노팅엄 포레스트 - 예측, 팀 소식, 선발 명단"
    }
   ]
  },
@@ -855,6 +855,40 @@
    "titleKo": "자리 있는데 벤치에도 못 앉았다… 맨유·첼시 출신 가르나초, 의무 완전 영입 조항 달고 임대 떠났으나 3경기 연속 명단 제외",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314325_245338_438.jpg"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-nottingham-forest-confirmed-team-news-predicted-lineup-2026-injury-latest-b1306376.html",
+   "title": "Chelsea XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest for Premier League",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-nottingham-forest-confirmed-team-news-predicted-lineup-2026-injury-latest-b1306376.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795621145000,
+   "image": "https://static.standard.co.uk/2026/10/30/15/15/ChelseapredictedXI2627.png?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795621636184,
+   "cat": "오피셜",
+   "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식, 예상 선발 명단 및 프리미어리그 부상자 최신 소식"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSkJwckhYenVOLVJndHhyclRuY1FUSHNZYVduYVQwckRPbW84UHowZlF6YXMtc19PWUdpX2dnazJvWUhJQUVUUFZQUm1nY2NraXNtQmVrN3dYMW1nZ0t5dVlYMDh4UTllVEZUcllyTVB0blhUOHBETGZNRlFtQXhBMklMSlpuanZaN3dWeTFJR2dVYUI3ODNUSk9WNV9qV2VUMF9FTnI1TzJTaUdPYzRiX19EU0tjVkNWR0Y4dk5JNkxhTG8wSjdGNXZSQ0JVZ2NPVWlSZXRNcHBkS0RQMXNB?oc=5",
+   "title": "Chelsea XI vs Nottm Forest: Confirmed team news and predicted lineup",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSkJwckhYenVOLVJndHhyclRuY1FUSHNZYVduYVQwckRPbW84UHowZlF6YXMtc19PWUdpX2dnazJvWUhJQUVUUFZQUm1nY2NraXNtQmVrN3dYMW1nZ0t5dVlYMDh4UTllVEZUcllyTVB0blhUOHBETGZNRlFtQXhBMklMSlpuanZaN3dWeTFJR2dVYUI3ODNUSk9WNV9qV2VUMF9FTnI1TzJTaUdPYzRiX19EU0tjVkNWR0Y4dk5JNkxhTG8wSjdGNXZSQ0JVZ2NPVWlSZXRNcHBkS0RQMXNB?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795620711000,
+   "added": 1795621636184,
+   "cat": "오피셜",
+   "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식 및 예상 선발 명단"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TVElJOGZvUWJqN1dWZFE1YTh4RlNmTTBsTGkxODNrRFpEdVlSZEJkYjdtSGZZZmpDN3BSWW9kYkJTc0kxNFpwR25BRQ?oc=5",
+   "title": "첼시 포파나 잦은 부상에 은퇴 고민…에이전트 설득에 잔류 : 스포츠",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TVElJOGZvUWJqN1dWZFE1YTh4RlNmTTBsTGkxODNrRFpEdVlSZEJkYjdtSGZZZmpDN3BSWW9kYkJTc0kxNFpwR25BRQ?oc=5",
+   "source": "재경일보",
+   "group": "한국 언론",
+   "date": 1795618800000,
+   "added": 1795621636184,
+   "cat": "부상",
+   "titleKo": "첼시 포파나 잦은 부상에 은퇴 고민…에이전트 설득에 잔류 : 스포츠"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUl9zQjlCSThNTlI4N0hxbFREb0Q1Q2hMdGhDTVVGWXJsNXZTSlZwQ05qOFRtVll2d0hPQUtkSTVfellwNXNZdjY1UnZiOGx1UGJsb3k0cFBGM09FRWpacGNfY2R2WVFKZm5sNXRORnJ6SXNYNW4tRmM5MXpyZXNSellONnNiMU5qZWJhbmQ0ZHl2REsxVTZTbXEzNnlTbmdZNU1HU015eldya2tiTXk2bw?oc=5",
@@ -1317,6 +1351,17 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699175_833332_5757_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTDE3WVNXRnl4RnB0amRpdllhRExqTmRHNERPYXpyUXI5MVBUTmFwdjJydkc1U3JCVDlqRUtxczVTcUNXbEQwdGswRTVZdFphMWdfS2RKNGdBS1YtTVdWZkNnNWZBUk52c3p5X3lyN3ZoX2RpdnFneVhRR3luX254RFBjWmg2X3ptV1JiNVdPbHdIVFdsT1dhVVRlTVJTdjNWWWljYmYxcm5iY2FibnlDSEZLb2tWX0JIc250S1JwMDRCNExZZERsVklFcDhFWDR5bm1hdmN1bGtjV2tBZ0VidEVfV190eFpYcUtraVE5LXFrUnFwNHVkdXNxbDNPVDVvWjU0WVgtazdDdVdv?oc=5",
+   "title": "Chelsea WSL Nike Home Stadium Shirt 2026-27 - Womens with Björn 14 printing",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTDE3WVNXRnl4RnB0amRpdllhRExqTmRHNERPYXpyUXI5MVBUTmFwdjJydkc1U3JCVDlqRUtxczVTcUNXbEQwdGswRTVZdFphMWdfS2RKNGdBS1YtTVdWZkNnNWZBUk52c3p5X3lyN3ZoX2RpdnFneVhRR3luX254RFBjWmg2X3ptV1JiNVdPbHdIVFdsT1dhVVRlTVJTdjNWWWljYmYxcm5iY2FibnlDSEZLb2tWX0JIc250S1JwMDRCNExZZERsVklFcDhFWDR5bm1hdmN1bGtjV2tBZ0VidEVfV190eFpYcUtraVE5LXFrUnFwNHVkdXNxbDNPVDVvWjU0WVgtazdDdVdv?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795553336000,
+   "added": 1795621636186,
+   "cat": null,
+   "titleKo": "첼시 WSL 나이키 홈경기장 유니폼 상의 2026/27 - 여성용, 비외른(Björn) 14 프린트"
+  },
+  {
    "id": "https://www.caughtoffside.com/2026/11/24/alonso-faces-crucial-five-game-test-as-chelsea-keep-39-year-old-alternative-in-mind/",
    "title": "Alonso faces crucial five-game test as Chelsea keep 39-year-old alternative in mind",
    "link": "https://www.caughtoffside.com/2026/11/24/alonso-faces-crucial-five-game-test-as-chelsea-keep-39-year-old-alternative-in-mind/",
@@ -1339,6 +1384,17 @@
    "added": 1795549168552,
    "cat": "부상",
    "titleKo": "첼시, 막상스 라크루아의 햄스트링 부상 조기 회복으로 전력 보강 가능성"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNM2M2ekd5SnlCa3NFWmh0LTRVaWJoU0R3TXktRGtBUGhQMV9xcVhWRm9DUEJsaXpFU0JlSXktWmg0dzhzdkRxRFN6ODZOVHhSZU9tWkl1WWtGZHhiYjZsNkR2QUlDM1E4Wi1GUmdhMFV4bHE2SEV0R19JTWZiZVpmZ2dJRXBqdC1sMXR3WTBsSlF5bVZrMkdnY1hBQ2hLVWZFWjVJS216NU5tVkh6ajc4YkNYZGs4YnVHZ2xtOWpJanlBUVdTOUJBOEJrOW5Gbk1hUHIwckRZU0Q3ZzZCMGY1aURWd1FYMXJsbFEydGcxZlZ4REpzcF91ZEp3?oc=5",
+   "title": "Chelsea Cup Nike Away Stadium Shirt 2026-27 - Womens with Jones 34 printing",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNM2M2ekd5SnlCa3NFWmh0LTRVaWJoU0R3TXktRGtBUGhQMV9xcVhWRm9DUEJsaXpFU0JlSXktWmg0dzhzdkRxRFN6ODZOVHhSZU9tWkl1WWtGZHhiYjZsNkR2QUlDM1E4Wi1GUmdhMFV4bHE2SEV0R19JTWZiZVpmZ2dJRXBqdC1sMXR3WTBsSlF5bVZrMkdnY1hBQ2hLVWZFWjVJS216NU5tVkh6ajc4YkNYZGs4YnVHZ2xtOWpJanlBUVdTOUJBOEJrOW5Gbk1hUHIwckRZU0Q3ZzZCMGY1aURWd1FYMXJsbFEydGcxZlZ4REpzcF91ZEp3?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795547450000,
+   "added": 1795621636186,
+   "cat": null,
+   "titleKo": "첼시컵 나이키 원정 경기장 유니폼 상의 2026-27 - 여성용, 존스 34 프린트"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNanpSNjczeGJsdHdjN3hVME5aUVEyNTRJYmI1ODZ6bUNRMUgxVHJsSlMySmU4ckxGVGdtSVZiNmlPajdYMUd5ZkdGZnlYS2Q3TzdadjY4N2ZrM096UGhVRVQzX09Uc3pmSGpjMUJRZFpvVnRaWklVMVdiZVJpMlhkaFFDYXRIY2ZVeVU4dFRpZnVEMy1rNDd0LWIzdjNqb0FveWQxenZ3OUpya1EzTFNIRTRWS01iZ0RyZ2ZIUU1yTUdWaVFOV2NYOEV5dmUzUDlkRXp0bE9rVm1PVlVO?oc=5",
@@ -4013,6 +4069,17 @@
    "titleKo": "콜 파머, 첼시의 장기 계약이 선수들에게 너무 많은 권한을 부여한다는 것을 증명하다"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNejZiYmRNVjNDNjk1cWc0X0YzMzg3ZEFBYmNrWVY4Y2tYSTZncnduZFVCQVlIWVI4STFCVjVRSDUwb182YWlXQ05qeW94dWVLQml3dElaYV9LdjFQc0hoRUdIMHRZMEluN1FITEQ1MVQwU2Q5X0RFSnk3V0hNdERVOEtzNHBxQ3haNUNWMVZDbXhDdXV0c0dZak5ScmMwNzd1T01YcWhMQXZGbzJoRnM4SGJuS0J2NEI1RTdmVlRmeFRJLXNwd3hSWHROcWhCb2puRHV3QlIyNElnb21jLUhOaEpUQ1M5a0gxWHpnaFhtbVo2dVVJeHRMV3c4UlUtc1k5M2hCRWpn?oc=5",
+   "title": "Chelsea Nike Home Stadium Shirt 2026-27 - Long Sleeve with James 24 printing",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNejZiYmRNVjNDNjk1cWc0X0YzMzg3ZEFBYmNrWVY4Y2tYSTZncnduZFVCQVlIWVI4STFCVjVRSDUwb182YWlXQ05qeW94dWVLQml3dElaYV9LdjFQc0hoRUdIMHRZMEluN1FITEQ1MVQwU2Q5X0RFSnk3V0hNdERVOEtzNHBxQ3haNUNWMVZDbXhDdXV0c0dZak5ScmMwNzd1T01YcWhMQXZGbzJoRnM4SGJuS0J2NEI1RTdmVlRmeFRJLXNwd3hSWHROcWhCb2puRHV3QlIyNElnb21jLUhOaEpUQ1M5a0gxWHpnaFhtbVo2dVVJeHRMV3c4UlUtc1k5M2hCRWpn?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795379298000,
+   "added": 1795621636186,
+   "cat": null,
+   "titleKo": "첼시 Nike 홈경기장 유니폼 상의 2026/27 - 긴소매, 제임스 24 프린트"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dlBFYUR2aWg4bU9SYThvc1cwR0tJaHFvR2VUX1FuZ1IwZDJIWHNuLXU0bkYxQXVRNXNnVm8zOE9vYXgxUXc0bXU4MjlybENaQlV1Z3dnVHlWZU82OHhoaFVnS2JtQ296YURxXzVEUXJQSTVxdGxjQUxn?oc=5",
    "title": "- Chelsea Football Club",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dlBFYUR2aWg4bU9SYThvc1cwR0tJaHFvR2VUX1FuZ1IwZDJIWHNuLXU0bkYxQXVRNXNnVm8zOE9vYXgxUXc0bXU4MjlybENaQlV1Z3dnVHlWZU82OHhoaFVnS2JtQ296YURxXzVEUXJQSTVxdGxjQUxn?oc=5",
@@ -4204,74 +4271,6 @@
    "added": 1795588713872,
    "cat": null,
    "titleKo": "첼시 CFCW A3 캘린더"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/chelsea-set-crystal-clear-champions-34944787",
-   "title": "Chelsea set crystal clear Champions League goal as £60m problem comes to light",
-   "link": "https://www.football.london/chelsea-fc/news/chelsea-set-crystal-clear-champions-34944787",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795356000000,
-   "image": "https://i2-prod.football.london/incoming/article34944800.ece/ALTERNATES/s615/0_GettyImages-2305485796.jpg",
-   "added": 1795357254472,
-   "cat": null,
-   "titleKo": "첼시, 6천만 파운드의 문제가 드러나면서 챔피언스리그 목표를 명확히 설정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlPbTJRVzFTQjRsdG9uTTVoNmozLTZxLTRtZ0Z0N2o4MVlEb19NbWhfTlo2UE9LZTB0cTNwaFYyWDJ2ZllLQVdvc0dmN2ZHNGZ1a0dtTGZFelE0d0JBQU9hNmhUOUZtc3VtUHVLZXh4eVVqYTdGUUVQUEs2RW5TUFhIVGozZ080SVJTcU1Za2p6bVVlTm85R2hMb3B0c3fSAaQBQVVfeXFMTUlLcnIxUkRyZWoyTTBTMXlUbVhBNmROdFcxSU5EMzBoVGRJTGx3VkNRQ3pOZTU5X1B3TldBVUhDX19XYWZYaFN1NzB6bHVLVTZRMUhYTkM5UUpPR1dydUd1SEZHWmxIZE5qdV91WlZmOGJtTlY0MTdsTkZEaE1EUG1kR3BteS1xS2hkaS1HUGhsam1jSjZIYzYyZVNrYzM3ek1iTHQ?oc=5",
-   "title": "Xabi Alonso makes worrying comment as 'fragile' Chelsea hit new low",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlPbTJRVzFTQjRsdG9uTTVoNmozLTZxLTRtZ0Z0N2o4MVlEb19NbWhfTlo2UE9LZTB0cTNwaFYyWDJ2ZllLQVdvc0dmN2ZHNGZ1a0dtTGZFelE0d0JBQU9hNmhUOUZtc3VtUHVLZXh4eVVqYTdGUUVQUEs2RW5TUFhIVGozZ080SVJTcU1Za2p6bVVlTm85R2hMb3B0c3fSAaQBQVVfeXFMTUlLcnIxUkRyZWoyTTBTMXlUbVhBNmROdFcxSU5EMzBoVGRJTGx3VkNRQ3pOZTU5X1B3TldBVUhDX19XYWZYaFN1NzB6bHVLVTZRMUhYTkM5UUpPR1dydUd1SEZHWmxIZE5qdV91WlZmOGJtTlY0MTdsTkZEaE1EUG1kR3BteS1xS2hkaS1HUGhsam1jSjZIYzYyZVNrYzM3ek1iTHQ?oc=5",
-   "source": "Daily Express",
-   "group": "영국 언론",
-   "date": 1795355700000,
-   "added": 1795420936988,
-   "cat": null,
-   "titleKo": "샤비 알론소, '취약한' 첼시가 새로운 최저점을 찍자 우려스러운 발언을 하다"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41106646/xabi-alonso-must-get-angry-chelsea/",
-   "title": "Timid Xabi Alonso is starting to look just as soft as Chelsea flops – he’s got to get angry to sort this mess out",
-   "link": "https://www.thesun.co.uk/sport/41106646/xabi-alonso-must-get-angry-chelsea/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795355490000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FRF-RIFT-CHELSEA-ALONSO-22NOV_OP.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795357254472,
-   "cat": null,
-   "titleKo": "소심한 사비 알론소 감독은 첼시의 부진만큼이나 나약해 보이기 시작했습니다. 이 엉망진창을 수습하려면 분노해야 합니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQWpLMXpmcU55X2dGeEcxaDBJQVlmTXlnZ2szbTVZNmREXzBBYU5IbE4yTnB4bm9TaW5BcEV2ZnF5ODhvWjZqM2xkMDhXakVUbDZqZkpuZU5NaUpfeW5YLTdlZ3FuczZKcHFaLVFIdnlxbk9ncXRoS01TMldsa2p6cUp2MHJ0M3EyRTN5OWdEdVhqRWp3Y3BtYTZESzVHeUdDQkNaTGxUN2prRURsUXVCcUpNVk1VTWtFbFp0SE5QZ2lBNWF5M2lWQWk1LUdNbW5VWkJDaEJ1WkQ2ZzVEdmZXOVdEZS13ZDdFLTlRTTVaYw?oc=5",
-   "title": "Sources: Chelsea in dressing room mutiny as players rail against Xabi Alonso methods at training ground",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQWpLMXpmcU55X2dGeEcxaDBJQVlmTXlnZ2szbTVZNmREXzBBYU5IbE4yTnB4bm9TaW5BcEV2ZnF5ODhvWjZqM2xkMDhXakVUbDZqZkpuZU5NaUpfeW5YLTdlZ3FuczZKcHFaLVFIdnlxbk9ncXRoS01TMldsa2p6cUp2MHJ0M3EyRTN5OWdEdVhqRWp3Y3BtYTZESzVHeUdDQkNaTGxUN2prRURsUXVCcUpNVk1VTWtFbFp0SE5QZ2lBNWF5M2lWQWk1LUdNbW5VWkJDaEJ1WkQ2ZzVEdmZXOVdEZS13ZDdFLTlRTTVaYw?oc=5",
-   "source": "Football Insider",
-   "group": "영국 언론",
-   "date": 1795353921000,
-   "added": 1795362666642,
-   "cat": null,
-   "titleKo": "출처: 첼시 선수들이 훈련장에서 사비 알론소의 훈련 방식에 반발하며 라커룸에서 반란을 일으킴"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlFZOTRoUGVhd0tBSzdOYmVBZ2h0XzA4cURDOWhaUEhmR0NRU2Vlc3NieURicUwyTExzNE9oQk1JVmYtY2tIQmIxYjZ4NXMxcXM5eHlVa1JMRmwyQkdxTENZMXQyNnVJVlVLeUlIWmRxOW9WZ2MzZGY3R1IwVl9zOS1vaGR0Y2J2UEZGYktWR01Ncjg?oc=5",
-   "title": "Bompastor: Lola Brown’s mentality is ‘unbelievable’",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlFZOTRoUGVhd0tBSzdOYmVBZ2h0XzA4cURDOWhaUEhmR0NRU2Vlc3NieURicUwyTExzNE9oQk1JVmYtY2tIQmIxYjZ4NXMxcXM5eHlVa1JMRmwyQkdxTENZMXQyNnVJVlVLeUlIWmRxOW9WZ2MzZGY3R1IwVl9zOS1vaGR0Y2J2UEZGYktWR01Ncjg?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795352400000,
-   "added": 1795354079203,
-   "cat": null,
-   "titleKo": "봄파스토르: 롤라 브라운의 정신력은 '믿을 수 없을 정도'입니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWk9yTUN3T3ZJcnhrOVlsSzBEMm9rOERDaHlJWmRfaDRxb2o2cklyUUVZcDM3OEFWdnNRRFdqMURhTnNQSEd3cjhSaVQ0YUVPemNoQzVVMHhNWHVHd0dhM1FERUprX2VjMnhWM3hQQl9nQjBlOUtpdVVtT3RZcDgtTFZMbw?oc=5",
-   "title": "Chelsea - AC Milan 3-0",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWk9yTUN3T3ZJcnhrOVlsSzBEMm9rOERDaHlJWmRfaDRxb2o2cklyUUVZcDM3OEFWdnNRRFdqMURhTnNQSEd3cjhSaVQ0YUVPemNoQzVVMHhNWHVHd0dhM1FERUprX2VjMnhWM3hQQl9nQjBlOUtpdVVtT3RZcDgtTFZMbw?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795352134000,
-   "added": 1795449217274,
-   "cat": null,
-   "titleKo": "첼시 - AC 밀란 3-0"
   }
  ]
 }
