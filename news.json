@@ -1,12 +1,12 @@
 {
- "updated": 1795598110683,
+ "updated": 1795602329699,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
-  "talkSPORT": 5,
+  "talkSPORT": 4,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 4,
+  "Evening Standard": 3,
   "The Sun": 1,
   "Mirror": 0,
   "Daily Mail": 5,
@@ -14,10 +14,10 @@
   "Independent": 1,
   "Express": 0,
   "Sports Mole": 11,
-  "CaughtOffside": 0,
+  "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 3,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 40건"
+  "이번 상대": "Nottingham Forest · 새 기사 42건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,56 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbE8yamYyZjMzOW40QnhwTW12OUZFU1VqaHFsUThqX0kzX2MyVGk0S1BCMVNUOUhqbFFJd3lzSm9qWlo2M0hHX0VaTTdXeXhPRGx2Qk0yQ0VwcjVSUEktV2ZWNE5iWWFIcWJzUEZxd0N1UVJaVDZaTGs1NEstblE?oc=5",
+    "title": "Nottingham Forest FC vs Chelsea FC prediction 28 Nov 2026",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbE8yamYyZjMzOW40QnhwTW12OUZFU1VqaHFsUThqX0kzX2MyVGk0S1BCMVNUOUhqbFFJd3lzSm9qWlo2M0hHX0VaTTdXeXhPRGx2Qk0yQ0VwcjVSUEktV2ZWNE5iWWFIcWJzUEZxd0N1UVJaVDZaTGs1NEstblE?oc=5",
+    "source": "TheTopBookies",
+    "date": 1795601010000,
+    "added": 1795602316653,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 FC 대 첼시 FC 전력 분석 2026년 11월 28일"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNWNzR2lfX01wajFYVlVXNFdWeHJHOHp1SkRjTmhFNWxRdDlyLTF1SnpiR3VaQ250N1p0YmprbkZmY3FFSkhIM0pLdDM0ak0yMi1DN25acS1JUXpPOThUZWJna2dGbE9Mc1pKVlliUUVYaU5RQXZGVkd2T0hBLTF0RnFIRUZoUDVpRURjSmpVZTdPejFuUnllVmpOdEdaZw?oc=5",
+    "title": "Scout Report: How Nottingham Forest Play Under Oliver Glasner",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNWNzR2lfX01wajFYVlVXNFdWeHJHOHp1SkRjTmhFNWxRdDlyLTF1SnpiR3VaQ250N1p0YmprbkZmY3FFSkhIM0pLdDM0ak0yMi1DN25acS1JUXpPOThUZWJna2dGbE9Mc1pKVlliUUVYaU5RQXZGVkd2T0hBLTF0RnFIRUZoUDVpRURjSmpVZTdPejFuUnllVmpOdEdaZw?oc=5",
+    "source": "Chelsea FC Online",
+    "date": 1795600977000,
+    "added": 1795602316653,
+    "tag": "상대 소식",
+    "titleKo": "스카우트 리포트: 올리버 글라스너 감독 체제의 노팅엄 포레스트 경기 스타일"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnNMQ3E0SkFZUDV5TVdZT1ZuN3o4QktFeENCc1FlR1dNUkhFUXhNRlBUUjNVSnJnMkYzcVY3RnQ1WTB4b0dGSklWSVY5Q1ZMcUdYaWItTHdocFJNMlNMZXVpY0V6VXc4OFpFMmNrcFRiQlpUdk5GOG1jUTBlM0o1eTNyYU9JVkFkYVVNWEFueGFycTNEdkxyU2xnSExGNV9XSmFPdTJ6bFVSOTg?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Kick-Off Time, TV Channel and How to Watch",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnNMQ3E0SkFZUDV5TVdZT1ZuN3o4QktFeENCc1FlR1dNUkhFUXhNRlBUUjNVSnJnMkYzcVY3RnQ1WTB4b0dGSklWSVY5Q1ZMcUdYaWItTHdocFJNMlNMZXVpY0V6VXc4OFpFMmNrcFRiQlpUdk5GOG1jUTBlM0o1eTNyYU9JVkFkYVVNWEFueGFycTNEdkxyU2xnSExGNV9XSmFPdTJ6bFVSOTg?oc=5",
+    "source": "chelseafconline.com",
+    "date": 1795600346000,
+    "added": 1795602316653,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 대 첼시: 킥오프 시간, TV 채널 및 시청 방법"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXhUdzFpV2ZQQjNiTENSV2I2Q2Jnd2hzcnZfWEhORVloZVQ1Z0VLS3JyYVlNay1TQ1VZbFJ2UVZaVGRRMUdObU92eVZpNkQ5bU5tdWRiNVRoR0JjQ205YlF3RV9ySE1pNmx2WDAyRGlCYzZ6OS16eWx0SS1qdEVMeUlHa2JQNmF6Z0RMQ2tFOG50OXJLdW53VmhHamFlM092czZ2T1lfbXNwOUprM0xpWHFfQW5sOXRqQTVuUXFDNDdTSHc?oc=5",
+    "title": "Predicted Chelsea XI vs Nottingham Forest: How Xabi Alonso Should Line Up Without Caicedo",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXhUdzFpV2ZQQjNiTENSV2I2Q2Jnd2hzcnZfWEhORVloZVQ1Z0VLS3JyYVlNay1TQ1VZbFJ2UVZaVGRRMUdObU92eVZpNkQ5bU5tdWRiNVRoR0JjQ205YlF3RV9ySE1pNmx2WDAyRGlCYzZ6OS16eWx0SS1qdEVMeUlHa2JQNmF6Z0RMQ2tFOG50OXJLdW53VmhHamFlM092czZ2T1lfbXNwOUprM0xpWHFfQW5sOXRqQTVuUXFDNDdTSHc?oc=5",
+    "source": "Chelsea FC Online",
+    "date": 1795600051000,
+    "added": 1795602316653,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "첼시 XI vs 노팅엄 포레스트 예상 선발 명단: 카이세도가 없는 상황에서 사비 알론소가 어떻게 선발 명단을 구성해야 할까?"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnhhaS1kTnRkZW5veEhPTzNjMGFya1c5RTdhZlJqUnoxaUVKUnBESnAySHlCVGlwSU9MU1czNFM1V2NRV05mZFo2OWRKNi0wODUwdTFJM3d1Z2FxdmRJODJmVlREMWV0YmE0aVpTb0dYZmdrNE95SlNoczBFbEpIVWhUWG8yNzI2U0h6RlIxTkJoYmlMakhlVmFvTV9BSVhqbEF3VEdIaGZ5UFRadEw1SkhyR2I1TzA?oc=5",
+    "title": "Nottingham Forest vs Chelsea Preview: Team News, Form, Head-to-Head and Prediction",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnhhaS1kTnRkZW5veEhPTzNjMGFya1c5RTdhZlJqUnoxaUVKUnBESnAySHlCVGlwSU9MU1czNFM1V2NRV05mZFo2OWRKNi0wODUwdTFJM3d1Z2FxdmRJODJmVlREMWV0YmE0aVpTb0dYZmdrNE95SlNoczBFbEpIVWhUWG8yNzI2U0h6RlIxTkJoYmlMakhlVmFvTV9BSVhqbEF3VEdIaGZ5UFRadEw1SkhyR2I1TzA?oc=5",
+    "source": "Chelsea FC Online",
+    "date": 1795599275000,
+    "added": 1795602316653,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시 경기 프리뷰: 팀 소식, 전력, 상대 전적 및 예상 결과"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa2lwa1lYZHdmelBBdXlaMjBFcFR4c09hYTUtT0tWMzdqZEx4VlB3Si1RYTBRRTR6aXRodTZ5QmhWVjhkMTBsY2JlWmRUb0VtSzNhNTZTRzN0MTRnMkVWS1FzNTNYNjFQbEJKbjBpM3NmMkJxMEU4YllmSUNRY0szZ3EtRVNmcF9vVFQ3N3hVSTZVWU5kb3QyUEpPb0xtWGdKOHVXaGxnWTBLVGZZMUdaTjk4LUxxRHJzNXZEem1oQzVhX1ppZmgyN0U0am13b1lqRGw3aDBsUFFBZ0U?oc=5",
     "title": "Callum Hudson-Odoi has 'no future' at Nottingham Forest under Oliver Glasner - Transfer expert",
@@ -789,56 +839,6 @@
     "added": 1795318573455,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 대 브라이턴 & 호브 앨비언 경기 시청하기"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUk3M0w0Qi1nTTQyMmVNSTB2QlNxZDJDWEQ0WmVBY2ZqU0J5ZFRxU2lmYU1ZZ1pJeE11b0lfem5nWFhmSFk3NFRJSkpVdnpYajVmLVhDNk1EMTROMzRPNTZtQ1l1WS0yelhDZ1hIM1l3WHU0R0RPbXo4SWJTT2tHUXRyMC1hSTdhUk5yck56MExyWk9QaGduSUE4alJCbFk?oc=5",
-    "title": "November 27, 2026: Nottingham Forest FC vs Chelsea FC Soccer Prediction Market",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUk3M0w0Qi1nTTQyMmVNSTB2QlNxZDJDWEQ0WmVBY2ZqU0J5ZFRxU2lmYU1ZZ1pJeE11b0lfem5nWFhmSFk3NFRJSkpVdnpYajVmLVhDNk1EMTROMzRPNTZtQ1l1WS0yelhDZ1hIM1l3WHU0R0RPbXo4SWJTT2tHUXRyMC1hSTdhUk5yck56MExyWk9QaGduSUE4alJCbFk?oc=5",
-    "source": "Robinhood",
-    "date": 1795302303000,
-    "added": 1795478270561,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "2026년 11월 27일: 노팅엄 포레스트 FC 대 첼시 FC 축구 경기 예측 마켓"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fcUZpcWxpWGplU1NPajg0d2VJS1gtTWw2X1FIV0VTNVNZV0ZwN0QxaDlNcEVjdk5kNW9FUVppTjNNVVF5Nk5nR0NGZw?oc=5",
-    "title": "1999년 이후 처음 웃은 리즈, 첼시 원정서 4-1 승리…첼시 안방서 4골 허용 : 스포츠",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fcUZpcWxpWGplU1NPajg0d2VJS1gtTWw2X1FIV0VTNVNZV0ZwN0QxaDlNcEVjdk5kNW9FUVppTjNNVVF5Nk5nR0NGZw?oc=5",
-    "source": "재경일보",
-    "date": 1795300260000,
-    "added": 1795325711873,
-    "tag": "상대 소식",
-    "titleKo": "1999년 이후 처음 웃은 리즈, 첼시 원정서 4-1 승리…첼시 안방서 4골 허용 : 스포츠"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFlJSmFiODBMTGVudW1BUlg1LWlGbU9WUy1qekRQMDhkcUtmbnNtYTJOWENRTEtNQW5kTHVLVHc1c3k0YkRiUjg1S0RTRFk0SzFENHhFRjNhdFVPMFRJSk8xRkZ2U0hkY2J5VXpkLVBxdW1FOXBiOXhoRDFaSDlMdDQ4UFpuaU40V0E?oc=5",
-    "title": "Djordje Petrović on 9 straight wins: The 5-1 defeat to Chelsea motivated us to turn things around",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFlJSmFiODBMTGVudW1BUlg1LWlGbU9WUy1qekRQMDhkcUtmbnNtYTJOWENRTEtNQW5kTHVLVHc1c3k0YkRiUjg1S0RTRFk0SzFENHhFRjNhdFVPMFRJSk8xRkZ2U0hkY2J5VXpkLVBxdW1FOXBiOXhoRDFaSDlMdDQ4UFpuaU40V0E?oc=5",
-    "source": "AllFootball",
-    "date": 1795299825000,
-    "added": 1795300790225,
-    "tag": "상대 소식",
-    "titleKo": "조르제 페트로비치, 9연승에 대해: 첼시에게 5-1로 패한 것이 상황을 반전시키는 동기가 되었습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDBqN3h0eGpqLXdJTkk5TGU5WmhDRWE4R3FnSGJxaHg3b3pzaWlxOXJfLWozSWhKWVBsZWNRTmJtM3p1Mnc5aFE3RDNyMzBJdmNNM3hMTUpKbHFMaS1Ra2Zyalp1Tm5YZ21MTjNRcHN0SnNucUFTMXBTTTBva2tLMg?oc=5",
-    "title": "3 Things To Learn From AFCB's Ninth Win In A Row Against Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDBqN3h0eGpqLXdJTkk5TGU5WmhDRWE4R3FnSGJxaHg3b3pzaWlxOXJfLWozSWhKWVBsZWNRTmJtM3p1Mnc5aFE3RDNyMzBJdmNNM3hMTUpKbHFMaS1Ra2Zyalp1Tm5YZ21MTjNRcHN0SnNucUFTMXBTTTBva2tLMg?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795293584000,
-    "added": 1795296004794,
-    "tag": "상대 소식",
-    "titleKo": "AFC 본머스의 노팅엄 포레스트를 상대로 한 9연승에서 배울 점 3가지"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSU1PcUxiQXNTZzNEQkJEX0hKaEx3czVqbGdzWFFBSlR1NXhQTDJhclRMTHdsdDRnTGduUUI0czlpeDBzQ1B0OUF1WWtiYXN1QXdMTmFCWTg1NjFDTUdOYXhnV01Gd2FYZXJLY0FqdWNsd0tBdUVVbEFtdzFqX0MtRWlwSTl3ZjhWQW9BMmRxcFNHcEdsRFE?oc=5",
-    "title": "Glasner hints at January additions after Nottingham Forest’s defeat to Bournemouth",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSU1PcUxiQXNTZzNEQkJEX0hKaEx3czVqbGdzWFFBSlR1NXhQTDJhclRMTHdsdDRnTGduUUI0czlpeDBzQ1B0OUF1WWtiYXN1QXdMTmFCWTg1NjFDTUdOYXhnV01Gd2FYZXJLY0FqdWNsd0tBdUVVbEFtdzFqX0MtRWlwSTl3ZjhWQW9BMmRxcFNHcEdsRFE?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795291680000,
-    "added": 1795293588005,
-    "tag": "상대 소식",
-    "titleKo": "글라스너 감독, 노팅엄 포레스트의 본머스전 패배 후 1월 이적 시장 영입 가능성 시사"
    }
   ]
  },
@@ -855,6 +855,54 @@
    "titleKo": "자리 있는데 벤치에도 못 앉았다… 맨유·첼시 출신 가르나초, 의무 완전 영입 조항 달고 임대 떠났으나 3경기 연속 명단 제외",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314325_245338_438.jpg"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/25/chelsea-face-transfer-interest-from-psg-attacking-player/",
+   "title": "Chelsea face transfer interest from PSG for attacking player after double injury blow",
+   "link": "https://www.caughtoffside.com/2026/11/25/chelsea-face-transfer-interest-from-psg-attacking-player/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795602171000,
+   "image": "https://icdn.caughtoffside.com/2026/11/COS-Featured_Hero-Image-Templates-64.jpg",
+   "added": 1795602314863,
+   "cat": "부상",
+   "titleKo": "첼시, 이중 부상 악재로 인해 PSG가 관심을 보이는 공격수 이적 가능성 직면"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/25/chelsea-hold-positive-alex-scott-transfer-talks/",
+   "title": "‘Positive’ talks held as Chelsea make progress on statement January signing",
+   "link": "https://www.caughtoffside.com/2026/11/25/chelsea-hold-positive-alex-scott-transfer-talks/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795601881000,
+   "image": "https://icdn.caughtoffside.com/2026/11/COS-Featured_Hero-Image-Templates-19.jpg",
+   "added": 1795602314863,
+   "cat": "이적",
+   "titleKo": "첼시가 1월 이적 시장에서 영입할 선수에 대한 발표를 앞두고 '긍정적인' 논의를 진행했습니다."
+  },
+  {
+   "id": "https://www.talkchelsea.net/transfers/ornstein-rise-of-lavia-means-chelsea-may-not-sign-midfielder/",
+   "title": "Ornstein: “Rise of Lavia” means Chelsea may not end up signing midfielder in January",
+   "link": "https://www.talkchelsea.net/transfers/ornstein-rise-of-lavia-means-chelsea-may-not-sign-midfielder/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795600800000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/David-Ornstein-speaks-on-Sky-Sports-414x203.jpg",
+   "added": 1795602314864,
+   "cat": null,
+   "titleKo": "오른스타인: \"라비아의 부상\"은 첼시가 1월에 미드필더를 영입하지 않을 수 있음을 의미합니다."
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/wesley-fofana-controversy-means-one-34962075",
+   "title": "Wesley Fofana controversy means one thing has to happen from Xabi Alonso and Chelsea",
+   "link": "https://www.football.london/chelsea-fc/news/wesley-fofana-controversy-means-one-34962075",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795598299000,
+   "image": "https://i2-prod.football.london/incoming/article34962085.ece/ALTERNATES/s615/0_GettyImages-2301988220.jpg",
+   "added": 1795602314863,
+   "cat": null,
+   "titleKo": "웨슬리 포파나 논란은 사비 알론소와 첼시에게 한 가지 일이 일어나야 한다는 것을 의미합니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVnBlMUFQTWR3RlNfZ1k4MmVhZ3RuZnJtUlF1Nmo5MnFQN1ZlSmNhS2tCanUzZTViN1RtS2hkdmxCcmpuYU9iTHk5R2gzemM3MDFHQXJwM0JpS3Z2R1UwTWF4NmVMdW81X0JSNUlxWVZlcnBfWXp1czFIbTF5M2RneDFXRFRXS0ZpdlJyRGhmUTRfY2prcjdv?oc=5",
@@ -4226,52 +4274,6 @@
    "added": 1795370321737,
    "cat": null,
    "titleKo": "리버풀과의 무승부 경기에서 골키퍼가 경기 최우수 선수로 선정되었습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHBMcmcxYjdXWkVLcTZOU29acDRLVGw3UjlFcEJSMEtFem1tOFFlY2g3a1FVXzFrZW00NE9FS0hrRnZ1dF9jMVQzS3BQRFpfdW05SVJ0b1BoNzNYSW9yb2o0c1lENTg5d0pQbTZzUjdhOGdhdmYxb0YwOUFtT0dsZjZEUUlWZFhXZzNDbGtWX2t1WEs5NGI4Xy1qNl9zVjBmeXlHS1BFYlFjZ3ZOQlp3UERLWkpMNEhUNG1Mc0lMZGVTQUp3WHdSTzBDc3hiX2hwbGFN?oc=5",
-   "title": "Football Recap: Chelsea Falls Short of Harper Woods in the Playoffs + How To Watch",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHBMcmcxYjdXWkVLcTZOU29acDRLVGw3UjlFcEJSMEtFem1tOFFlY2g3a1FVXzFrZW00NE9FS0hrRnZ1dF9jMVQzS3BQRFpfdW05SVJ0b1BoNzNYSW9yb2o0c1lENTg5d0pQbTZzUjdhOGdhdmYxb0YwOUFtT0dsZjZEUUlWZFhXZzNDbGtWX2t1WEs5NGI4Xy1qNl9zVjBmeXlHS1BFYlFjZ3ZOQlp3UERLWkpMNEhUNG1Mc0lMZGVTQUp3WHdSTzBDc3hiX2hwbGFN?oc=5",
-   "source": "MaxPreps",
-   "group": "영국 언론",
-   "date": 1795341494000,
-   "added": 1795442140863,
-   "cat": null,
-   "titleKo": "풋볼 경기 하이라이트: 첼시, 플레이오프에서 하퍼 우즈에 패배 + 경기 시청 방법"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeC1NZ3pjMlJwRjdLOWREb1hlQVU0aXVEclZ2eGMzZHlHSXdRa21MUTdsakpROERXTUNKTXlKR2NqNGVUeHJiMkllOGhWWEFHQi1tT2lqYWY5RzA2M3ZTZzg5STMwRHVmSGREVFRNanZIQkthRXFpR0YwWFpGMjQwcXpQR2ptUGQ5US0wTTkzamJvdTBzNmVxQVk5Vm9Pd3RwQmtodU1JTS1fVjlqbmROeFJ2TDdaRmFfcXFUczhsWWdGU0QxUEE?oc=5",
-   "title": "Chelsea Gold Lion Keyring",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeC1NZ3pjMlJwRjdLOWREb1hlQVU0aXVEclZ2eGMzZHlHSXdRa21MUTdsakpROERXTUNKTXlKR2NqNGVUeHJiMkllOGhWWEFHQi1tT2lqYWY5RzA2M3ZTZzg5STMwRHVmSGREVFRNanZIQkthRXFpR0YwWFpGMjQwcXpQR2ptUGQ5US0wTTkzamJvdTBzNmVxQVk5Vm9Pd3RwQmtodU1JTS1fVjlqbmROeFJ2TDdaRmFfcXFUczhsWWdGU0QxUEE?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795341428000,
-   "added": 1795588713872,
-   "cat": null,
-   "titleKo": "첼시 골드 라이언 키링"
-  },
-  {
-   "id": "http://www.footballist.co.kr/news/articleView.html?idxno=217169",
-   "title": "‘5경기 4패’ 무너지는 알론소 첼시, 팬들도 여러 차례 야유 세례",
-   "link": "http://www.footballist.co.kr/news/articleView.html?idxno=217169",
-   "source": "풋볼리스트",
-   "group": "한국 언론",
-   "date": 1795340472000,
-   "added": 1795308262996,
-   "cat": null,
-   "titleKo": "‘5경기 4패’ 무너지는 알론소 첼시, 팬들도 여러 차례 야유 세례",
-   "imgTried": true,
-   "image": "https://cdn.footballist.co.kr/news/thumbnail/202611/217169_183072_4038_v150.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUW5tOHFMd1Z3ck1DUGJ6Wm1fMmdnT2lNVzdtcnVKX1dpVklwMHRGaW5JZjQyVXpqYmxpU0FKOGo5ZWowQjlUcEpDWXduOG5WRUE4UHpHRnI4Unp5NDk5amQ1U1RlcjJIZFItR0EwTU5vYkVaOVpGajY2R3BreTdMbW4zWW5QY19ZOS1mYTRBTl95alk3V1BhcE0ybWp5RHRjRkFpQmJEVFVMaldoUDlfUmJ2OXU2VlUwS0lraVFEczU1YUho?oc=5",
-   "title": "Tarik Muharemovic shares hilarious response to goal controversy in Leeds United's win vs Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUW5tOHFMd1Z3ck1DUGJ6Wm1fMmdnT2lNVzdtcnVKX1dpVklwMHRGaW5JZjQyVXpqYmxpU0FKOGo5ZWowQjlUcEpDWXduOG5WRUE4UHpHRnI4Unp5NDk5amQ1U1RlcjJIZFItR0EwTU5vYkVaOVpGajY2R3BreTdMbW4zWW5QY19ZOS1mYTRBTl95alk3V1BhcE0ybWp5RHRjRkFpQmJEVFVMaldoUDlfUmJ2OXU2VlUwS0lraVFEczU1YUho?oc=5",
-   "source": "MOT Leeds News",
-   "group": "영국 언론",
-   "date": 1795339800000,
-   "added": 1795362666642,
-   "cat": null,
-   "titleKo": "타리크 무하레모비치가 리즈 유나이티드의 첼시전 승리에서 논란이 된 득점에 대한 유쾌한 반응을 공유했습니다."
   }
  ]
 }
