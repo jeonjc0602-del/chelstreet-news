@@ -1,27 +1,27 @@
 {
- "updated": 1795594021720,
+ "updated": 1795598110683,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
   "talkSPORT": 5,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 5,
+  "Evening Standard": 4,
   "The Sun": 1,
-  "Mirror": 1,
+  "Mirror": 0,
   "Daily Mail": 5,
   "Telegraph": 4,
   "Independent": 1,
   "Express": 0,
   "Sports Mole": 11,
-  "CaughtOffside": 1,
+  "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 4,
   "구글뉴스(영어)": 70,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 3,
-  "구글뉴스(한국어)": "실패: 429",
+  "구글뉴스(한국어)": 10,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -857,6 +857,17 @@
    "image": "https://cdn.besteleven.com/news/photo/202611/314325_245338_438.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVnBlMUFQTWR3RlNfZ1k4MmVhZ3RuZnJtUlF1Nmo5MnFQN1ZlSmNhS2tCanUzZTViN1RtS2hkdmxCcmpuYU9iTHk5R2gzemM3MDFHQXJwM0JpS3Z2R1UwTWF4NmVMdW81X0JSNUlxWVZlcnBfWXp1czFIbTF5M2RneDFXRFRXS0ZpdlJyRGhmUTRfY2prcjdv?oc=5",
+   "title": "Due to Palmer: No one is talking about how bad £54m Chelsea flop has been",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVnBlMUFQTWR3RlNfZ1k4MmVhZ3RuZnJtUlF1Nmo5MnFQN1ZlSmNhS2tCanUzZTViN1RtS2hkdmxCcmpuYU9iTHk5R2gzemM3MDFHQXJwM0JpS3Z2R1UwTWF4NmVMdW81X0JSNUlxWVZlcnBfWXp1czFIbTF5M2RneDFXRFRXS0ZpdlJyRGhmUTRfY2prcjdv?oc=5",
+   "source": "Football FanCast",
+   "group": "영국 언론",
+   "date": 1795594212000,
+   "added": 1795598097616,
+   "cat": null,
+   "titleKo": "팔머 덕분에: 5,400만 파운드의 첼시 영입이 얼마나 실패했는지 아무도 이야기하지 않습니다."
+  },
+  {
    "id": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-kroupi-collins-b1303142.html",
    "title": "Transfer news LIVE: Arsenal get Kroupi update; new Man Utd target; Scott to Chelsea twist; Liverpool latest",
    "link": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-kroupi-collins-b1303142.html",
@@ -925,6 +936,17 @@
    "added": 1795594007244,
    "cat": "오피셜",
    "titleKo": "클래식 매치 | 노팅엄 포레스트 2-3 첼시 | 동영상 | 공식 사이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOE1FbDJEbmhITUJfZnM2QTVmYkZRUk9oSVYzLW9vSnhNeEVOMDVnUnBadGdSaVFOVV9YNmFHdmh3eUtpVG1pMzhlcXNiUUU2NVg4Q1NqQnAwb25LMlhOTlJmNXJ1aEFDZWpMNDd0NWptUnB3N1o5X2ZNVEJMa2RPVVlsbVIzYl9idkVWT0NrMmJzWVY3dlhiU1oxNldpRmpsSW80QXVsUEF3dFAtYUdsei1KLWU?oc=5",
+   "title": "Emmanuel Emegha on doing ‘anything to win’ and why Reece James is the ‘best captain’",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOE1FbDJEbmhITUJfZnM2QTVmYkZRUk9oSVYzLW9vSnhNeEVOMDVnUnBadGdSaVFOVV9YNmFHdmh3eUtpVG1pMzhlcXNiUUU2NVg4Q1NqQnAwb25LMlhOTlJmNXJ1aEFDZWpMNDd0NWptUnB3N1o5X2ZNVEJMa2RPVVlsbVIzYl9idkVWT0NrMmJzWVY3dlhiU1oxNldpRmpsSW80QXVsUEF3dFAtYUdsei1KLWU?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795586400000,
+   "added": 1795598097617,
+   "cat": null,
+   "titleKo": "'승리를 위해 무엇이든 하겠다'는 에마뉘엘 에메가, 그리고 리스 제임스가 '최고의 주장'인 이유"
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/alejandro-garnacho-chelsea-aston-villa-34961649",
@@ -1043,6 +1065,17 @@
    "added": 1795549168553,
    "cat": null,
    "titleKo": "로마노, 사비 알론소 감독에 대한 우려스러운 신뢰도 업데이트를 전하다. 사비 알론소 감독은 또 한 번의 치명적인 패배를 겪었다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWZnR3NVdW1YTkpScHZycnVlRjhQMjN6RDVGbmJSMkpMVUgwUUFwd1BsWnFZNEJnVnBrYTZHNUtrRTdFV2hlcGFFbWpfUVJ2NWxFQmlKM1pMOTZhOTRVZXpmSkZRM0pzM2ZPVUJTTHpfMVZFd0hjdWlIRmc0c3R3M2I2RktGTl9jaHdrd0lXbk92YUhWY3JyM1g3Y1NhWWlnX2hPR3RNSGt4SmlxdUhESdIBtgFBVV95cUxOOEhDbE1HdGVsSzR4anZjZ1ZWVm8tMTV2akpoRU1JdnlKUTQ4SHhpNzJfN2VhMHREVXhBZlRaZ2FvX3NyOTd6SnZVaVNiNmpHRWJjLU1WSGh0VlAzcVdUc2pPRjBlOXZwbFFRT1RfNUJ0cUNCNi1nam5ZUFZURjR1aHd1bFdnV25pMkxrd01KZEpBalZxakxhbjB4TUUwbzExbWZ2T3lRRnR6TGZTblYtWlJZZS0xdw?oc=5",
+   "title": "Maxence Lacroix targets Chelsea return before end of year - The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWZnR3NVdW1YTkpScHZycnVlRjhQMjN6RDVGbmJSMkpMVUgwUUFwd1BsWnFZNEJnVnBrYTZHNUtrRTdFV2hlcGFFbWpfUVJ2NWxFQmlKM1pMOTZhOTRVZXpmSkZRM0pzM2ZPVUJTTHpfMVZFd0hjdWlIRmc0c3R3M2I2RktGTl9jaHdrd0lXbk92YUhWY3JyM1g3Y1NhWWlnX2hPR3RNSGt4SmlxdUhESdIBtgFBVV95cUxOOEhDbE1HdGVsSzR4anZjZ1ZWVm8tMTV2akpoRU1JdnlKUTQ4SHhpNzJfN2VhMHREVXhBZlRaZ2FvX3NyOTd6SnZVaVNiNmpHRWJjLU1WSGh0VlAzcVdUc2pPRjBlOXZwbFFRT1RfNUJ0cUNCNi1nam5ZUFZURjR1aHd1bFdnV25pMkxrd01KZEpBalZxakxhbjB4TUUwbzExbWZ2T3lRRnR6TGZTblYtWlJZZS0xdw?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795544250000,
+   "added": 1795598097616,
+   "cat": "이적",
+   "titleKo": "막상스 라크루아, 연말 이전에 첼시 복귀 목표 - 더 텔레그래프"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12X3FkTUZSYV9IWUhFOVRPZGtsVzA4NDk4RmV1TEt5clk0XzhVUWFacnhQcXlsclVEZjczNjJYZEJtV0xzWHZDNVhfdkU4MzhIUE1hUW56UXh0OGhkSTFqdA?oc=5",
@@ -1269,6 +1302,17 @@
    "added": 1795539176373,
    "cat": "이적",
    "titleKo": "맨유의 영입 대상자를 포함하여 첼시가 1월에 영입할 수 있는 5명의 거물급 센터백"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVp0Vm8xVnJnak4tZ05KUlY2WjlqclNDVmpqMFlVSm5ObVdMdk05WnhVWVotQVFFekV0SXpEVGdFS0xtd25jU0xiMlhjR0JsTl9DQzhfRGRLYzRJeXFHRWxWb1VwekRUaUtXaXpxTjBsSmlrcExIRDJpbno3VEFjMFJLcFUyNjBoMWY2b1BCYzE4c0hkN19xdDU0dElldG9IZk8xODJGMnpyQ3R5d0k4MDdvc3NGdVg2RkZTTW1pSF9hSUk?oc=5",
+   "title": "Xabi Alonso Identifies ‘Priority’ to Reverse Chelsea Fortunes Amid Growing Pressure",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVp0Vm8xVnJnak4tZ05KUlY2WjlqclNDVmpqMFlVSm5ObVdMdk05WnhVWVotQVFFekV0SXpEVGdFS0xtd25jU0xiMlhjR0JsTl9DQzhfRGRLYzRJeXFHRWxWb1VwekRUaUtXaXpxTjBsSmlrcExIRDJpbno3VEFjMFJLcFUyNjBoMWY2b1BCYzE4c0hkN19xdDU0dElldG9IZk8xODJGMnpyQ3R5d0k4MDdvc3NGdVg2RkZTTW1pSF9hSUk?oc=5",
+   "source": "FotMob",
+   "group": "영국 언론",
+   "date": 1795532400000,
+   "added": 1795598097616,
+   "cat": "프리뷰",
+   "titleKo": "사비 알론소, 점점 커지는 압박 속에서 첼시의 부진을 만회하기 위한 '우선순위'를 제시하다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1ZsN2hkamZWZ25jc0NXRDd0X25UZ20ySldCVjZxNkE0WlZYX0tCQkh3cXNGdnd1Ym9BYmtxSXVUWHdYZUNCQlhRR01TUXgyNlFNSzNDZUhUOVZSZWM0WGpua1pKVGRwQmp1Z29iTXpFN0hrbm9QWnl3RU1uU280LWtMOThfTE0?oc=5",
@@ -4228,50 +4272,6 @@
    "added": 1795362666642,
    "cat": null,
    "titleKo": "타리크 무하레모비치가 리즈 유나이티드의 첼시전 승리에서 논란이 된 득점에 대한 유쾌한 반응을 공유했습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUnY2VC01LUNBWlNubHRqaDFVeG1fZ2hQa0otaVg0TVdmUHN4VTdCb2wzRmxoTFJpczBCbzlwTG9Obzk1TjQ0QWFaMGtybDNIRWRCR3FfQ3hEWjdfRGVGZThIaktGTlZTREdrcF83NGNvWWJOdVk3cnkxbHZGZ2xGMVBwUXNGYnNfbncwZ1YzTldDVXhJdzRSeWFnNXByX3VJNGN1QjJBZW5vZnY0aS1FSVFNQWIzY1VIY2NqaQ?oc=5",
-   "title": "Chelsea Football Videos",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUnY2VC01LUNBWlNubHRqaDFVeG1fZ2hQa0otaVg0TVdmUHN4VTdCb2wzRmxoTFJpczBCbzlwTG9Obzk1TjQ0QWFaMGtybDNIRWRCR3FfQ3hEWjdfRGVGZThIaktGTlZTREdrcF83NGNvWWJOdVk3cnkxbHZGZ2xGMVBwUXNGYnNfbncwZ1YzTldDVXhJdzRSeWFnNXByX3VJNGN1QjJBZW5vZnY0aS1FSVFNQWIzY1VIY2NqaQ?oc=5",
-   "source": "MaxPreps",
-   "group": "영국 언론",
-   "date": 1795339404000,
-   "added": 1795442140862,
-   "cat": null,
-   "titleKo": "첼시 축구 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NTnVleEJkeDBkUm9pbm8tVkxyeXFCdGxscDExNlhhZTFzOTRVTzJOcXh3cWtSQ3lMS09wNFMwU0JSR055Y1dKaTI1UENEbTJ1LWx2aHRKMTZsTnoxcU93?oc=5",
-   "title": "시드웰: 첼시 선수들 경기력 믿기지 않아, 포파나는 수치스러웠다",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NTnVleEJkeDBkUm9pbm8tVkxyeXFCdGxscDExNlhhZTFzOTRVTzJOcXh3cWtSQ3lMS09wNFMwU0JSR055Y1dKaTI1UENEbTJ1LWx2aHRKMTZsTnoxcU93?oc=5",
-   "source": "AllFootball",
-   "group": "한국 언론",
-   "date": 1795336463000,
-   "added": 1795347485020,
-   "cat": null,
-   "titleKo": "시드웰: 첼시 선수들 경기력 믿기지 않아, 포파나는 수치스러웠다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2dKTE1MRUxGYjd5TUlFaUFudFd3SDJJLVRhYjVUSHd4Y2NNVVBzMmRSTXUwWENMVmtsZkhOWkdfZlI3bElTZ2JRM2Q2Q2M1TkZyM2k2TWxJcHpCUGpOcUJfUU41a1Mzeldmdk0weGVGbEFIOWQxWTAtSzN6aUlRdTFiOFZkT1VKbEg1SWR5bTVwQ3pCcF80aE01d3ljb2luNzdQU18wMA?oc=5",
-   "title": "Revealed: How Leeds United players went 'nuts' after historic win vs Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2dKTE1MRUxGYjd5TUlFaUFudFd3SDJJLVRhYjVUSHd4Y2NNVVBzMmRSTXUwWENMVmtsZkhOWkdfZlI3bElTZ2JRM2Q2Q2M1TkZyM2k2TWxJcHpCUGpOcUJfUU41a1Mzeldmdk0weGVGbEFIOWQxWTAtSzN6aUlRdTFiOFZkT1VKbEg1SWR5bTVwQ3pCcF80aE01d3ljb2luNzdQU18wMA?oc=5",
-   "source": "MOT Leeds News",
-   "group": "영국 언론",
-   "date": 1795336200000,
-   "added": 1795362666642,
-   "cat": null,
-   "titleKo": "공개: 리즈 유나이티드 선수들이 첼시와의 역사적인 승리 후 '미친 듯이' 기뻐한 모습"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53TkJUZUZDeDdtbC1vVVE1bjhHRWo4MVFvQnMwaTNiQkhWWkg5N0ZZYmR3MXdpYlJ4aGozaHdISzN6TlZOSXdN?oc=5",
-   "title": "Chelsea reportedly lose four of five without João Pedro. Grim reading.",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53TkJUZUZDeDdtbC1vVVE1bjhHRWo4MVFvQnMwaTNiQkhWWkg5N0ZZYmR3MXdpYlJ4aGozaHdISzN6TlZOSXdN?oc=5",
-   "source": "Digg",
-   "group": "영국 언론",
-   "date": 1795335033000,
-   "added": 1795336538898,
-   "cat": null,
-   "titleKo": "조앙 페드루가 없는 첼시는 5경기 중 4경기를 패한 것으로 알려졌습니다. 암울한 소식입니다."
   }
  ]
 }
