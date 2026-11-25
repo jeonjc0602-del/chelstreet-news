@@ -1,5 +1,5 @@
 {
- "updated": 1795628194739,
+ "updated": 1795631071356,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -8,12 +8,12 @@
   "football.london": 25,
   "Evening Standard": 4,
   "The Sun": 1,
-  "Mirror": 2,
+  "Mirror": 3,
   "Daily Mail": 4,
   "Telegraph": 4,
   "Independent": 0,
   "Express": 0,
-  "Sports Mole": 9,
+  "Sports Mole": 10,
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 4,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 33건"
+  "이번 상대": "Nottingham Forest · 새 기사 38건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,56 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGhZSFpUb2l0eTY3R1NiUUZXR015ZGxDVmttTm5JbWtQOEdDRHNQaWxEQlpVWllpRmF6Qlo1LWVhV1FHXzVldl9pcXFpQ1lLMFRWMjVkWTc2Y2prb3ljc05VYTJ4aHhWNnVuMm9KR1pZQXJnQXNIZHd2dXBzZ05wUS1DZWp6Z3BOakJZaWtEOVNFRjBINTZVNkY1RDhGMmt2VzRvYzBDazFudldGdUphYi1ZemM?oc=5",
+    "title": "Glasner on Nottingham Forest standards, Marinakis meeting and transfers",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGhZSFpUb2l0eTY3R1NiUUZXR015ZGxDVmttTm5JbWtQOEdDRHNQaWxEQlpVWllpRmF6Qlo1LWVhV1FHXzVldl9pcXFpQ1lLMFRWMjVkWTc2Y2prb3ljc05VYTJ4aHhWNnVuMm9KR1pZQXJnQXNIZHd2dXBzZ05wUS1DZWp6Z3BOakJZaWtEOVNFRjBINTZVNkY1RDhGMmt2VzRvYzBDazFudldGdUphYi1ZemM?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795629781000,
+    "added": 1795631063533,
+    "tag": "상대 소식",
+    "titleKo": "글라스너 감독, 노팅엄 포레스트의 기준, 마리나키스 구단주와의 회동 및 이적에 대해 언급"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUEtX0JoRHluSjVFb2tna0VlU3ZIQW9aY1NBSEFFMFNCOTBTeTA0QS1sc05zRGRudTdzMWdNQ1dHUlZKUWRVdFFoOVVHV09FaFczY0lVT3huMGNzWG1Pd0F1MWZSbnZCRGZtaGZlbzdNb0VRbHVSZjV1MFk1cDBXdmdSY0VxMUNIbFdyS3N5SU1pdzZZbEFBcm9SdFdfWkJTX0pSeDZFa0x4MjB5?oc=5",
+    "title": "Oliver Glasner: Nottingham Forest eyeing five signings after ‘three-hour’ Evangelos Marinakis meeting",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUEtX0JoRHluSjVFb2tna0VlU3ZIQW9aY1NBSEFFMFNCOTBTeTA0QS1sc05zRGRudTdzMWdNQ1dHUlZKUWRVdFFoOVVHV09FaFczY0lVT3huMGNzWG1Pd0F1MWZSbnZCRGZtaGZlbzdNb0VRbHVSZjV1MFk1cDBXdmdSY0VxMUNIbFdyS3N5SU1pdzZZbEFBcm9SdFdfWkJTX0pSeDZFa0x4MjB5?oc=5",
+    "source": "The New York Times",
+    "date": 1795629654000,
+    "added": 1795631063533,
+    "tag": "상대 소식",
+    "titleKo": "올리버 글라스너: 노팅엄 포레스트, 에반겔로스 마리나키스와 '3시간' 회동 후 5명의 선수 영입 검토 중"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HWlJHb1hDbFBJSVdwZmFPeUxadUhqbmRvd2MzcGNRamh0S3BIT1Y1N1ZMNjgwZDNkTUlTY1JUTVBNbW1WSVRIcXg0MEktb21OQmxmaGFDeDJHMGR0NFZhZXdrdHN0QXlBbEo4?oc=5",
+    "title": "Nottingham Forest: Oliver Glasner unhappy with Forest standards",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HWlJHb1hDbFBJSVdwZmFPeUxadUhqbmRvd2MzcGNRamh0S3BIT1Y1N1ZMNjgwZDNkTUlTY1JUTVBNbW1WSVRIcXg0MEktb21OQmxmaGFDeDJHMGR0NFZhZXdrdHN0QXlBbEo4?oc=5",
+    "source": "BBC",
+    "date": 1795629626000,
+    "added": 1795631063533,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트: 올리버 글라스너 감독, 포레스트의 수준에 불만족"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTVLMk8wQkFTQWZFYW1UZTlhT3RCb0ltQnJCN0FFZmFreGVlcm0xbWpYanhsQS1xd25fZmlnT3JXRVJpUEpWUFd1WTRxV3RfM01waEJUQ182Ti15MU5nbHRTaTdzSV82OGE4NnVaSGdvSlBxMTdUSUJtN0djWFBCX0hzTHBOSTBva0VGbnhTMVFzbWhqWEZhLTBWaUFDcjcxOFhZUTF2Zlg?oc=5",
+    "title": "How to watch Nottingham Forest vs Chelsea in the UK, USA and around the world",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTVLMk8wQkFTQWZFYW1UZTlhT3RCb0ltQnJCN0FFZmFreGVlcm0xbWpYanhsQS1xd25fZmlnT3JXRVJpUEpWUFd1WTRxV3RfM01waEJUQ182Ti15MU5nbHRTaTdzSV82OGE4NnVaSGdvSlBxMTdUSUJtN0djWFBCX0hzTHBOSTBva0VGbnhTMVFzbWhqWEZhLTBWaUFDcjcxOFhZUTF2Zlg?oc=5",
+    "source": "The Pride of London",
+    "date": 1795629436000,
+    "added": 1795631063533,
+    "tag": "상대 소식",
+    "titleKo": "영국, 미국 및 전 세계에서 노팅엄 포레스트 대 첼시 경기를 시청하는 방법"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeGNfS1Q1OHkyTVFHcU9BVDRZbk9xbS1yTWdJbXkzMC0wd2Q0T2lpQWhfZ0dNQm55ODlfamo5ZUUyS2d5TDd6NUJoZFRjNDBwNjBwUnU0N0llRVdfaGVRU3hQOHVnMlU1NlN2MDdKRTNUQ2s5MzBQQTBza2FMM1luVC1sb29hRWlsUzdfWGV2cmlYZ0hlWU94ZXN5aFFCYUVycHFPN1FCTE9lNGZTYld1X3A3cjhBTlJ5cW1tTHAxeUxRbi1XblVTVXdvS0FyLXgtVF9xN1BRaFUzSXF2UW1Sd1ZQYnhrcHc?oc=5",
+    "title": "Nottingham Forest vs. Chelsea: Oliver Glasner claims his team, Blues share similar issues ahead of City Ground showdown",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeGNfS1Q1OHkyTVFHcU9BVDRZbk9xbS1yTWdJbXkzMC0wd2Q0T2lpQWhfZ0dNQm55ODlfamo5ZUUyS2d5TDd6NUJoZFRjNDBwNjBwUnU0N0llRVdfaGVRU3hQOHVnMlU1NlN2MDdKRTNUQ2s5MzBQQTBza2FMM1luVC1sb29hRWlsUzdfWGV2cmlYZ0hlWU94ZXN5aFFCYUVycHFPN1FCTE9lNGZTYld1X3A3cjhBTlJ5cW1tTHAxeUxRbi1XblVTVXdvS0FyLXgtVF9xN1BRaFUzSXF2UW1Sd1ZQYnhrcHc?oc=5",
+    "source": "Sports Mole",
+    "date": 1795628231000,
+    "added": 1795631063533,
+    "tag": "도발·발언",
+    "titleKo": "노팅엄 포레스트 vs. 첼시: 올리버 글라스너 감독, 시티 그라운드 대결을 앞두고 자신의 팀과 블루스가 비슷한 문제를 겪고 있다고 주장"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0l3YmxJZmx5ZUNsVmRkZ1l3Q3FZdnlIZFFYZGticm9QZ0FjNG41SDFqd1JvTHl1cmROOVhrb2oyY0g2MlRYc05ZamY0Mnd4QTZ0NDBBeWtvNl9KVzNfNURUS0FvbHdhMEllNjhwLWtrdG9UaUlPY0lrZGgtb2phU0luakxTcWhuTzdSVg?oc=5",
     "title": "Training gallery: Focused on Forest | News | Official Site",
@@ -789,60 +839,45 @@
     "added": 1795445642427,
     "tag": "상대 소식",
     "titleKo": "뉴캐슬 유나이티드 여자팀 대 노팅엄 포레스트 여자팀 | 서브웨이 플레이어스컵 | 2026년 11월 22일"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmZQTDJoZi1MTm1HdnluaVhaM0htOFlVTnQyWnB4OVBnZWVza2FoQ0x6VlhmTW85cW5FS0VwcGxWZlQ0eHRZUGRtSUl0dV9wdGUxOGpEOWxvaC13SGpjSlgxTlU5Z3E2blhkYVAwaHlERllTZVcxTGNFTjl6SExYRlVxQlhoNUdQeDVfc0g4SWhZanM?oc=5",
-    "title": "Match Report. Newcastle United Women 0 Nottingham Forest Women 2",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmZQTDJoZi1MTm1HdnluaVhaM0htOFlVTnQyWnB4OVBnZWVza2FoQ0x6VlhmTW85cW5FS0VwcGxWZlQ0eHRZUGRtSUl0dV9wdGUxOGpEOWxvaC13SGpjSlgxTlU5Z3E2blhkYVAwaHlERllTZVcxTGNFTjl6SExYRlVxQlhoNUdQeDVfc0g4SWhZanM?oc=5",
-    "source": "Newcastle United",
-    "date": 1795368091000,
-    "added": 1795389388375,
-    "tag": "상대 소식",
-    "titleKo": "경기 보고서. 뉴캐슬 유나이티드 여자팀 0 - 노팅엄 포레스트 여자팀 2"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1BZRlh4U2d0eUJCVHpzWDFuek5ER2VmN213cTRRVlNyc0JXZGFuSFM0VFp2SFBKclJsS3kzSVFzbmNDR0hnWC11Y2RTQkRoZ2dPSnR3TU1hdDMtUF9wa0ZSUkpoTDZDWVFCcGtVWFNJZHF4bFhXLVcwSDJqOG5QR2s5RHIxNUNOc2FmSlVLY0VtMjdZV05IWGx6WWdFMzdXdVpRQ3k4N0I2eVR0UUp0X0RsdXlWZw?oc=5",
-    "title": "He scored goals for QPR and Nottingham Forest - Then tried to transform healthcare",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1BZRlh4U2d0eUJCVHpzWDFuek5ER2VmN213cTRRVlNyc0JXZGFuSFM0VFp2SFBKclJsS3kzSVFzbmNDR0hnWC11Y2RTQkRoZ2dPSnR3TU1hdDMtUF9wa0ZSUkpoTDZDWVFCcGtVWFNJZHF4bFhXLVcwSDJqOG5QR2s5RHIxNUNOc2FmSlVLY0VtMjdZV05IWGx6WWdFMzdXdVpRQ3k4N0I2eVR0UUp0X0RsdXlWZw?oc=5",
-    "source": "Football League World",
-    "date": 1795365073000,
-    "added": 1795367882952,
-    "tag": "상대 소식",
-    "titleKo": "그는 QPR과 노팅엄 포레스트에서 골을 넣었습니다. 이후 그는 의료 서비스를 혁신하려고 시도했습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzNFR0RFODBqeUM4TTZ2dzJmejBmLW5UNHVMWEVEZmxlMVEwbzhuTU82NzBldkRxTnJYRi00cTNRdVMzOENJaDg3cXdHdTlrS3oxbmpFS2MtZlBWbEp0Mk5jdVlwX1YtYTRsXzl0M2k3VjFZZkpRZUlLMjREUWJvTHpQc3BkMkUwVkR0cVV2NDdGbGdROE9Ha3VBX2dKZENwVGNZZHB2RTJvT2hjZlBUUElXbw?oc=5",
-    "title": "Nottingham Forest have an obvious replacement for Matz Sels in the Premier League",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzNFR0RFODBqeUM4TTZ2dzJmejBmLW5UNHVMWEVEZmxlMVEwbzhuTU82NzBldkRxTnJYRi00cTNRdVMzOENJaDg3cXdHdTlrS3oxbmpFS2MtZlBWbEp0Mk5jdVlwX1YtYTRsXzl0M2k3VjFZZkpRZUlLMjREUWJvTHpQc3BkMkUwVkR0cVV2NDdGbGdROE9Ha3VBX2dKZENwVGNZZHB2RTJvT2hjZlBUUElXbw?oc=5",
-    "source": "Nottingham Forest News",
-    "date": 1795363200000,
-    "added": 1795365033572,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트는 프리미어리그에서 마츠 셀스를 대체할 선수가 명확히 있습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MGJPMTZrUmI3RVlUSDhqWjVjN25wQnBST21ubV82TXo2eU5zU0R3aDJmT3htRXdxcTNucjgtcG1KSkVkcGFielM4dzViTEhXaU95NDdCdnI4OVpObWtHQ0pjUmR1UQ?oc=5",
-    "title": "Newcastle United vs Nottingham Forest: Women's Players Cup stats & head-to-head",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MGJPMTZrUmI3RVlUSDhqWjVjN25wQnBST21ubV82TXo2eU5zU0R3aDJmT3htRXdxcTNucjgtcG1KSkVkcGFielM4dzViTEhXaU95NDdCdnI4OVpObWtHQ0pjUmR1UQ?oc=5",
-    "source": "BBC",
-    "date": 1795361824000,
-    "added": 1795362668828,
-    "tag": "상대 소식",
-    "titleKo": "뉴캐슬 유나이티드 vs 노팅엄 포레스트: 여자 선수 컵 대회 통계 및 전적"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMzQ4ZWVNanEzNmt4TjJyM0laR1JBSTVSeXVyV0pPMDRFNDlxUzBQLXFsUjJBZFdOcnNiTExNYWJfalhSWVZyd0tLTFJBTWRlOHhOOHlIZm5CM0dwVGdxaTVxSTFUbm5KTGJlSVhobW5xM3E0TzVZOVcyLVdNLWRSODFfanhCN01tVjBiOFFDMVZDOEZkQXQ1SHdCRTE2UGVadVRKSzBnYkJKZXp6Ry1YaW5ZNkJjdEFoODdKWlJhOHhidktfVXJQTTZBX216VTExVzVfV2gwUGQ?oc=5",
-    "title": "Sources: Premier League club to swoop for Omari Hutchinson after Nottingham Forest latest",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMzQ4ZWVNanEzNmt4TjJyM0laR1JBSTVSeXVyV0pPMDRFNDlxUzBQLXFsUjJBZFdOcnNiTExNYWJfalhSWVZyd0tLTFJBTWRlOHhOOHlIZm5CM0dwVGdxaTVxSTFUbm5KTGJlSVhobW5xM3E0TzVZOVcyLVdNLWRSODFfanhCN01tVjBiOFFDMVZDOEZkQXQ1SHdCRTE2UGVadVRKSzBnYkJKZXp6Ry1YaW5ZNkJjdEFoODdKWlJhOHhidktfVXJQTTZBX216VTExVzVfV2gwUGQ?oc=5",
-    "source": "Football Insider",
-    "date": 1795359548000,
-    "added": 1795372899696,
-    "tag": "상대 소식",
-    "titleKo": "출처: 노팅엄 포레스트의 최근 행보에 이어 프리미어리그 구단이 오마리 허친슨 영입에 나설 전망"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1FoakczNEh6NmtQT09xWmhIcU1CczlXVlQ3TjZsck42aU9GQjhRZm9LRExrRWV5RE9NRFdXd2EtdUxlMldYMzNUdUEyemZiazNuQjZpcHRnZkdCaFMwdjQ2bE5RZjhINWtQWUtYa0FlaVVDQzVYQTJ1bTVzSTJTY090aUk3MllRazNsX0p0M3RjZEhpMW9SSUd4b214MEY3RDd2RzFNdVNrSGNhVy1CSElxUkFCWGROdmNjN0U3LVhNbjR4?oc=5",
+   "title": "Cole Palmer 'doesn't believe in Xabi Alonso project' - expert raises Chelsea alarm bells",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1FoakczNEh6NmtQT09xWmhIcU1CczlXVlQ3TjZsck42aU9GQjhRZm9LRExrRWV5RE9NRFdXd2EtdUxlMldYMzNUdUEyemZiazNuQjZpcHRnZkdCaFMwdjQ2bE5RZjhINWtQWUtYa0FlaVVDQzVYQTJ1bTVzSTJTY090aUk3MllRazNsX0p0M3RjZEhpMW9SSUd4b214MEY3RDd2RzFNdVNrSGNhVy1CSElxUkFCWGROdmNjN0U3LVhNbjR4?oc=5",
+   "source": "Football Insider",
+   "group": "영국 언론",
+   "date": 1795629600000,
+   "added": 1795631061693,
+   "cat": null,
+   "titleKo": "콜 파머, '샤비 알론소의 프로젝트를 믿지 않는다' - 전문가가 첼시에 경고"
+  },
+  {
+   "id": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-liverpool-van-dijk-future-37915715",
+   "title": "Chelsea urged to sign Virgil van Dijk this summer with Liverpool future uncertain",
+   "link": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-liverpool-van-dijk-future-37915715",
+   "source": "Mirror",
+   "group": "영국 언론",
+   "date": 1795629555000,
+   "image": "https://i2-prod.mirror.co.uk/sport/football/news/article37901749.ece/ALTERNATES/s615/0_GettyImages-2303671675.jpg",
+   "added": 1795631061693,
+   "cat": null,
+   "titleKo": "첼시, 리버풀의 미래가 불확실한 가운데 올여름 버질 판 다이크 영입을 촉구"
+  },
+  {
+   "id": "https://www.sportsmole.co.uk/football/nottingham-forest/news/glasner-claims-forest-have-same-issues-as-chelsea-ahead-of-city-ground-showdown_609834.html",
+   "title": "Nottingham Forest vs. Chelsea: Oliver Glasner claims his team, Blues share similar issues ahead of City Ground showdown",
+   "link": "https://www.sportsmole.co.uk/football/nottingham-forest/news/glasner-claims-forest-have-same-issues-as-chelsea-ahead-of-city-ground-showdown_609834.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795628231000,
+   "image": "https://www.sportsmole.co.uk/thumbor/853eBXn8bknklpVAWfGEICFc_W0=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Faaa-og-6aec36bd171a9518216220.jpg",
+   "added": 1795631061693,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트 vs. 첼시: 올리버 글라스너 감독, 시티 그라운드 대결을 앞두고 자신의 팀과 블루스가 비슷한 문제를 안고 있다고 주장"
+  },
   {
    "id": "https://www.talkchelsea.net/transfers/exclusive-chelsea-player-given-permission-to-leave-in-january/",
    "title": "Exclusive says Chelsea player given permission to leave in January after Alonso talks",
@@ -1450,6 +1485,17 @@
    "added": 1795569588296,
    "cat": "이적",
    "titleKo": "첼시 이적 소식: 첼시, 1월에 본머스의 미드필더 알렉스 스콧 영입을 추진할 예정 - 언론 보도"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbHF2SDJiaENQVEx3ZEtrcGFCODNLa1h0ZnczekhaMkFaTHlBZUtpX2xDRE9vQk5BYW9CMUtNb2VuUndIRmpZUXFYR2xjdi0tV1EwUTFxbnIwUE5ybWFYWGRhNDlOYjF5VUNoV3FfX0h5eThEVklUaWpoOGItZHYxRl85Ukc2eEpuOG9Lbzc5OA?oc=5",
+   "title": "Manchester Utd - Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbHF2SDJiaENQVEx3ZEtrcGFCODNLa1h0ZnczekhaMkFaTHlBZUtpX2xDRE9vQk5BYW9CMUtNb2VuUndIRmpZUXFYR2xjdi0tV1EwUTFxbnIwUE5ybWFYWGRhNDlOYjF5VUNoV3FfX0h5eThEVklUaWpoOGItZHYxRl85Ukc2eEpuOG9Lbzc5OA?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795562641000,
+   "added": 1795631061693,
+   "cat": null,
+   "titleKo": "맨체스터 유나이티드 - 첼시"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONmVEZ0RwZXBOVS1IdjlxYmtSeFFuWktHcHZlZHpxdlVRVTR6Zk9zVzBrZ0NQQVFkdTF1UjRxRUcyU0tNTGRZYWFyMHJzWGpQVUdDSWpNd2lGclZTWElHMm15TUgxTldkb0x3c1o5UmN6Ni1jYnZ4QzZ3YkNaMWJQbFJR?oc=5",
@@ -4227,50 +4273,6 @@
    "added": 1795381807778,
    "cat": null,
    "titleKo": "콜 파머, 첼시의 장기 계약이 선수들에게 너무 많은 권한을 부여한다는 것을 증명하다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNejZiYmRNVjNDNjk1cWc0X0YzMzg3ZEFBYmNrWVY4Y2tYSTZncnduZFVCQVlIWVI4STFCVjVRSDUwb182YWlXQ05qeW94dWVLQml3dElaYV9LdjFQc0hoRUdIMHRZMEluN1FITEQ1MVQwU2Q5X0RFSnk3V0hNdERVOEtzNHBxQ3haNUNWMVZDbXhDdXV0c0dZak5ScmMwNzd1T01YcWhMQXZGbzJoRnM4SGJuS0J2NEI1RTdmVlRmeFRJLXNwd3hSWHROcWhCb2puRHV3QlIyNElnb21jLUhOaEpUQ1M5a0gxWHpnaFhtbVo2dVVJeHRMV3c4UlUtc1k5M2hCRWpn?oc=5",
-   "title": "Chelsea Nike Home Stadium Shirt 2026-27 - Long Sleeve with James 24 printing",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNejZiYmRNVjNDNjk1cWc0X0YzMzg3ZEFBYmNrWVY4Y2tYSTZncnduZFVCQVlIWVI4STFCVjVRSDUwb182YWlXQ05qeW94dWVLQml3dElaYV9LdjFQc0hoRUdIMHRZMEluN1FITEQ1MVQwU2Q5X0RFSnk3V0hNdERVOEtzNHBxQ3haNUNWMVZDbXhDdXV0c0dZak5ScmMwNzd1T01YcWhMQXZGbzJoRnM4SGJuS0J2NEI1RTdmVlRmeFRJLXNwd3hSWHROcWhCb2puRHV3QlIyNElnb21jLUhOaEpUQ1M5a0gxWHpnaFhtbVo2dVVJeHRMV3c4UlUtc1k5M2hCRWpn?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795379298000,
-   "added": 1795621636186,
-   "cat": null,
-   "titleKo": "첼시 Nike 홈경기장 유니폼 상의 2026/27 - 긴소매, 제임스 24 프린트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dlBFYUR2aWg4bU9SYThvc1cwR0tJaHFvR2VUX1FuZ1IwZDJIWHNuLXU0bkYxQXVRNXNnVm8zOE9vYXgxUXc0bXU4MjlybENaQlV1Z3dnVHlWZU82OHhoaFVnS2JtQ296YURxXzVEUXJQSTVxdGxjQUxn?oc=5",
-   "title": "- Chelsea Football Club",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dlBFYUR2aWg4bU9SYThvc1cwR0tJaHFvR2VUX1FuZ1IwZDJIWHNuLXU0bkYxQXVRNXNnVm8zOE9vYXgxUXc0bXU4MjlybENaQlV1Z3dnVHlWZU82OHhoaFVnS2JtQ296YURxXzVEUXJQSTVxdGxjQUxn?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795377846000,
-   "added": 1795437075035,
-   "cat": null,
-   "titleKo": "- 첼시 축구 클럽"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczVlU2RUMXZGWHJuQk1HTlFoR0xnc2VuZU1zSS10aHVGaWlXQy1WakRmTFVOSlhjTTJBbFZZV05QNjU3UDJQbUpmZnMwSEpSa3EyV2lSMFFYV3RKSnZab05RY1djVDdjVndHTDZySDcyZUJLMEFObGxvZkI0YUFCTktPem9jMWJhMzBzOEllZmFUNFNaUFJtMk84NGV0ZnBHWFE?oc=5",
-   "title": "Who is Olutayo Subuloye? Chelsea youngster on bench for Leeds clash",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczVlU2RUMXZGWHJuQk1HTlFoR0xnc2VuZU1zSS10aHVGaWlXQy1WakRmTFVOSlhjTTJBbFZZV05QNjU3UDJQbUpmZnMwSEpSa3EyV2lSMFFYV3RKSnZab05RY1djVDdjVndHTDZySDcyZUJLMEFObGxvZkI0YUFCTktPem9jMWJhMzBzOEllZmFUNFNaUFJtMk84NGV0ZnBHWFE?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795377604000,
-   "added": 1795472118072,
-   "cat": null,
-   "titleKo": "올루타요 수불로예는 누구인가요? 리즈와의 경기를 앞두고 벤치에 앉은 첼시 유망주"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNZHVXT05oLThrRHlISGNqempPTWg4M0Z1UFM0QVlCTGJCSm5LMW13cnpxMWdfdmpEODFR?oc=5",
-   "title": "Can Xabi Alonso Actually Survive At Chelsea? - YouTube",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNZHVXT05oLThrRHlISGNqempPTWg4M0Z1UFM0QVlCTGJCSm5LMW13cnpxMWdfdmpEODFR?oc=5",
-   "source": "Howl.Link",
-   "group": "영국 언론",
-   "date": 1795371761000,
-   "added": 1795430111843,
-   "cat": null,
-   "titleKo": "샤비 알론소가 실제로 첼시에서 살아남을 수 있을까요? - YouTube"
   }
  ]
 }
