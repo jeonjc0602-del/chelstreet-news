@@ -1,5 +1,5 @@
 {
- "updated": 1795634727242,
+ "updated": 1795638057915,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -7,17 +7,17 @@
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 4,
-  "The Sun": 1,
+  "The Sun": 0,
   "Mirror": 3,
   "Daily Mail": 3,
   "Telegraph": 4,
   "Independent": 0,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 9,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 52건"
+  "이번 상대": "Nottingham Forest · 새 기사 49건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -41,6 +41,56 @@
   "state": "pre",
   "items": [
    {
+    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDhDWmJMdFpJRWp4TWpBUEVsVTVXUXpBaXAyaWlaaUlDSHBfaktPalF4MVZreHgyNEU3T1M2b3d2Q3piRlJIaWZWdUF4LTBOelpRRzhHazA2ZWNSdlQxYkQwTjE1cUVCMUlVYldUcGYtcEtaUXh3YjdOajZBNUhacjdpaVU1ZHJueVZxZmlaR3VvUmxBR0p6T2MwYmhtYW5McFR4dHFES1VKd3NkMDNYdmVaay1PZ1drZU0xYjdnSHVkd3lGNnF1SGhQZw?oc=5",
+    "title": "PREVIEW | Nottingham Forest vs Chelsea: team news, lineups, predictions (Premier League 27/11)",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDhDWmJMdFpJRWp4TWpBUEVsVTVXUXpBaXAyaWlaaUlDSHBfaktPalF4MVZreHgyNEU3T1M2b3d2Q3piRlJIaWZWdUF4LTBOelpRRzhHazA2ZWNSdlQxYkQwTjE1cUVCMUlVYldUcGYtcEtaUXh3YjdOajZBNUhacjdpaVU1ZHJueVZxZmlaR3VvUmxBR0p6T2MwYmhtYW5McFR4dHFES1VKd3NkMDNYdmVaay1PZ1drZU0xYjdnSHVkd3lGNnF1SGhQZw?oc=5",
+    "source": "playmakerstats.com",
+    "date": 1795637412000,
+    "added": 1795638048754,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "프리뷰 | 노팅엄 포레스트 vs 첼시: 팀 소식, 선발 명단, 예상(프리미어리그 11월 27일)"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGZnQ281MmdwMmVJMjgzdFlTbjVKa2c0NmFURm83WnJrMmVWSmxRWnFsSFJRVnJwRWdaaFFKbkR1UHFITFluNkZSSEpDMzN3d01Md0k2WmNfTXhBZ1pwUmZQLUJxVl9vV0VVcHJuUFJENlJHeTVFVmdHZUxGTUZ2OGhVeW9mZENqMFVrNmhR?oc=5",
+    "title": "'We have players who are here for four years, can't speak English' - Oliver Glasner slams Nottingham Forest standards and targets up to five January signings",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGZnQ281MmdwMmVJMjgzdFlTbjVKa2c0NmFURm83WnJrMmVWSmxRWnFsSFJRVnJwRWdaaFFKbkR1UHFITFluNkZSSEpDMzN3d01Md0k2WmNfTXhBZ1pwUmZQLUJxVl9vV0VVcHJuUFJENlJHeTVFVmdHZUxGTUZ2OGhVeW9mZENqMFVrNmhR?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795635073000,
+    "added": 1795638048754,
+    "tag": "도발·발언",
+    "titleKo": "'4년 동안 이곳에 있었는데도 영어를 못하는 선수들이 있습니다' - 올리버 글라스너 감독, 노팅엄 포레스트의 수준을 비판하며 1월 이적 시장에서 최대 5명의 선수를 영입하겠다고 밝힘"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYl9MRm93ZEZQZGNOcGhJTUk3ZGhZeDZmcGRWYWpQQmZYY0xNbEJHWjlBZzlSX01PV3VHMWh5a2lyNlJGNkxiTmx4RjFhbzhxYmlLSnRCQmdiNUhMMkUxM1JDT0tsdWQ1dmtReVlUcWpKakQ2dWR1bzBaYUFOTkpBZ0FDcUdVblhRaE1jcUcxRGU?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Predicted Lineups, Team News, Injuries",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYl9MRm93ZEZQZGNOcGhJTUk3ZGhZeDZmcGRWYWpQQmZYY0xNbEJHWjlBZzlSX01PV3VHMWh5a2lyNlJGNkxiTmx4RjFhbzhxYmlLSnRCQmdiNUhMMkUxM1JDT0tsdWQ1dmtReVlUcWpKakQ2dWR1bzBaYUFOTkpBZ0FDcUdVblhRaE1jcUcxRGU?oc=5",
+    "source": "Six Sports",
+    "date": 1795635000000,
+    "added": 1795638048754,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시: 예상 선발 명단, 팀 소식, 부상자 명단"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWtrTWhlNGY3WVlucnpQY19YQVBKemJLTXpVWVFNLVpPVlVwZHViVjNBQVlfSXJFYmpYaFZUMldVdV9ULW1pY3NiUHZrVnAzNDhOYzJneG9aT09lMUZfczE4bVJwX3BzaFplcmF1S2JaTVdhMGdzY1lTYzVqRktydGEyMW85dm1LdXlGc25LRWFrTk1zNUlr?oc=5",
+    "title": "Xabi Alonso Invites Two New In-Form Academy Stars To First-Team Training Ahead Of Nottingham Forest Trip",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWtrTWhlNGY3WVlucnpQY19YQVBKemJLTXpVWVFNLVpPVlVwZHViVjNBQVlfSXJFYmpYaFZUMldVdV9ULW1pY3NiUHZrVnAzNDhOYzJneG9aT09lMUZfczE4bVJwX3BzaFplcmF1S2JaTVdhMGdzY1lTYzVqRktydGEyMW85dm1LdXlGc25LRWFrTk1zNUlr?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795633800000,
+    "added": 1795638048754,
+    "tag": "상대 소식",
+    "titleKo": "사비 알론소 감독, 노팅엄 포레스트 원정 경기를 앞두고 좋은 기량을 선보이고 있는 아카데미 선수 2명을 1군 훈련에 초대"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeEpvYUVzQXQyTWx2cXJJRXRhNUprX3RTUWgtUFhuZnE3bkhGS1Z5UWVOcjhZR3R4MkdKbGNydkVzRF9LVHI3Rlk4MTFzNnFkZl81d1J1TjJwcGU5VzZ2WWRNS0c0TDFtUjE2ZkxlVmtWdWtZNkFRNGUxUW1rSmNrOTBXYkFlN3BGXzRGWW9wQU8zRlJiS1RJNnprRzh0M3ZSRWhZdUJObWNUbVVRVG9LNFNPWVc1MEpHeGxFdFBQQVBvR1F3STNJQU1QVjdFckw2WEkwaFIwa0lvWXBoQWx2YnJXWWtrNkxOY18tUGVHM2FXZm1QRVhjb3o2cnBzUQ?oc=5",
+    "title": "Video - Xabi Alonso Invites Two New In-Form Academy Stars To First-Team Training Ahead Of Nottingham Forest Trip",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeEpvYUVzQXQyTWx2cXJJRXRhNUprX3RTUWgtUFhuZnE3bkhGS1Z5UWVOcjhZR3R4MkdKbGNydkVzRF9LVHI3Rlk4MTFzNnFkZl81d1J1TjJwcGU5VzZ2WWRNS0c0TDFtUjE2ZkxlVmtWdWtZNkFRNGUxUW1rSmNrOTBXYkFlN3BGXzRGWW9wQU8zRlJiS1RJNnprRzh0M3ZSRWhZdUJObWNUbVVRVG9LNFNPWVc1MEpHeGxFdFBQQVBvR1F3STNJQU1QVjdFckw2WEkwaFIwa0lvWXBoQWx2YnJXWWtrNkxOY18tUGVHM2FXZm1QRVhjb3o2cnBzUQ?oc=5",
+    "source": "roundtable.io",
+    "date": 1795633800000,
+    "added": 1795638048754,
+    "tag": "상대 소식",
+    "titleKo": "동영상 - 사비 알론소 감독, 노팅엄 포레스트 원정 경기를 앞두고 최근 좋은 활약을 펼치고 있는 아카데미 선수 2명을 1군 훈련에 초대"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZC1WMWNLTFFGdU92UlBCRTRNX1c3R25nTmhYNzQ3OWlMbGxzdWtKcHlEelNaSHhjbS1ER3E1dV9CQ3JycjN4dG1TNGVJd1pSdUdZZ3hjclNoSlJVaC1MajlMUloybERvOTAwY1JId0tIcmZCeGR6a2I4MHdSdGZXOXFEUnlRNHp0ZFpQZ1laTEpmS1F3dFJCd1k0dlB3c25xM2p0WklWNDhhVGtpWVJFMFFzSHlRUUZ4OHloXzZpUlRTUmREbF9TYWRKQnhzc1huQy0w0gHbAUFVX3lxTFAxNFQ4Q2tQdFhzWDNkSlctdDRjb0xwZmtJZ0h6TlYzdk9YZFNPbGVkYl92bHdFdVlBUmNqc21nZ1pXcXlXT0xrZUM1X2JQdHR3b21VR0NDSG9jd05xR1hYbjJZXy1VVnV2dTdMTHhhamVuOE9iWEEyZS1kY0ZmM3JYcWx3MTRNSVR3SUl6dmxpLXNTb0twdUUtRGF1bGFCbXdCWmJtY19sS1cxU3dwNU96bnBxendVMm9yV3ZheUdwbnlHcVRkUmM1d2RGU2Z6QTRQRzU4WDdvSm5qUQ?oc=5",
     "title": "Nottingham Forest v Chelsea: Home win appeals plus a Tricky Trees 17/2 Bet Builder",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZC1WMWNLTFFGdU92UlBCRTRNX1c3R25nTmhYNzQ3OWlMbGxzdWtKcHlEelNaSHhjbS1ER3E1dV9CQ3JycjN4dG1TNGVJd1pSdUdZZ3hjclNoSlJVaC1MajlMUloybERvOTAwY1JId0tIcmZCeGR6a2I4MHdSdGZXOXFEUnlRNHp0ZFpQZ1laTEpmS1F3dFJCd1k0dlB3c25xM2p0WklWNDhhVGtpWVJFMFFzSHlRUUZ4OHloXzZpUlRTUmREbF9TYWRKQnhzc1huQy0w0gHbAUFVX3lxTFAxNFQ4Q2tQdFhzWDNkSlctdDRjb0xwZmtJZ0h6TlYzdk9YZFNPbGVkYl92bHdFdVlBUmNqc21nZ1pXcXlXT0xrZUM1X2JQdHR3b21VR0NDSG9jd05xR1hYbjJZXy1VVnV2dTdMTHhhamVuOE9iWEEyZS1kY0ZmM3JYcWx3MTRNSVR3SUl6dmxpLXNTb0twdUUtRGF1bGFCbXdCWmJtY19sS1cxU3dwNU96bnBxendVMm9yV3ZheUdwbnlHcVRkUmM1d2RGU2Z6QTRQRzU4WDdvSm5qUQ?oc=5",
@@ -49,6 +99,16 @@
     "added": 1795634720487,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 대 첼시: 홈팀 승리 가능성 높음 + '트리키 트리(Tricky Trees)' 17/2 베팅 빌더"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFY2UHF6OEFhMjZ1WmRXZ1hBeUJMR3B5N3EtQWxYMnNpWWkzaEpUM2oyRzI5OWJJRk1EeUVoMmZEOXpYY3dXejVyaTlzT0lRQ3VUc1FiSFF3TWNaV2M2bXhhY2phdHRMUk1IMGYyNWxOQzZUQmVlc3VIOWtrby1rUzFnWVEtS3pIeDd6Uw?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Preview, Prediction, Where To Watch",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFY2UHF6OEFhMjZ1WmRXZ1hBeUJMR3B5N3EtQWxYMnNpWWkzaEpUM2oyRzI5OWJJRk1EeUVoMmZEOXpYY3dXejVyaTlzT0lRQ3VUc1FiSFF3TWNaV2M2bXhhY2phdHRMUk1IMGYyNWxOQzZUQmVlc3VIOWtrby1rUzFnWVEtS3pIeDd6Uw?oc=5",
+    "source": "Six Sports",
+    "date": 1795631400000,
+    "added": 1795638048754,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시: 프리뷰, 예측, 시청 방법"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1FBUG90ODZUanBPRHZrbWd1YU81WHlEYzlpZ0pRdXFIM3JhZE9wX0dHa2V4QTc1S2hycEdYTF9RWWJaUDNMLWZ0bW9fTnJ2dlZiSEtYYTB4ekxGOE9XNUNYTjd0SXAtTUtUMjVUeWI5MHBvVHZ4WlhhaER6TVVZV3NkM0lqVEp3UW9XS2t3SQ?oc=5",
@@ -779,70 +839,22 @@
     "added": 1795437077165,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트의 스타 모건 깁스-화이트, 바이에른 뮌헨으로의 대형 이적 가능성 제기"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFNReGhNMjFYUE4yc2NtaDJ0ZzBKM0dia2JyN1FzcHVhRnIxVTNMaUEyNmxreFJvRlphdVhTTDg4SU9lT0NfQ2ppbVNSMnRzQW9uM2h0dFBOY2hjbThiZ21qLVBJQjFWeUYzUkVhTUxEVkVGaG1fY1JEbkF1a2dLTUQ1cnByOXVrVkFJWWstUFpXUTZmUTBCcHNVZXQxaUFZQVQ1X2xTbC1HWVdNVm5HWWtRbmt0aktwd2QzTjJxYVJxYVhiNl9oV3JKUGNyS1hkTEFUTVZrdHY5OXB2WXBJQ19TdFBSMHhwZllCZEE0QkRaWWpW?oc=5",
-    "title": "Romeo Lavia could look foolish after what he's just said about his Chelsea teammates",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFNReGhNMjFYUE4yc2NtaDJ0ZzBKM0dia2JyN1FzcHVhRnIxVTNMaUEyNmxreFJvRlphdVhTTDg4SU9lT0NfQ2ppbVNSMnRzQW9uM2h0dFBOY2hjbThiZ21qLVBJQjFWeUYzUkVhTUxEVkVGaG1fY1JEbkF1a2dLTUQ1cnByOXVrVkFJWWstUFpXUTZmUTBCcHNVZXQxaUFZQVQ1X2xTbC1HWVdNVm5HWWtRbmt0aktwd2QzTjJxYVJxYVhiNl9oV3JKUGNyS1hkTEFUTVZrdHY5OXB2WXBJQ19TdFBSMHhwZllCZEE0QkRaWWpW?oc=5",
-    "source": "LiveScore",
-    "date": 1795433762000,
-    "added": 1795437077165,
-    "tag": "상대 소식",
-    "titleKo": "로메오 라비아는 첼시 팀 동료들에 대해 방금 한 말 때문에 바보처럼 보일 수 있습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGU2YkpKVHYzcjJnajdBcm1zZE9xVjR5dlRGMnZJT05aMWc2dEM2QmhNYVh6UURLUGRxREVJZ2VleXd4MHdsZlRnYk5NSk04a2t1UG5lU3MwX0p1dnhzRXlsZGhSMDlYRFhkYUVMVDFTUE0zR1pTX1AyZXo0VjBnWjBxeXRMSHBaY0ZFNkRLYV9vVlROaFU4?oc=5",
-    "title": "Nottingham Forest defender Mustaki sustains ACL injury",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGU2YkpKVHYzcjJnajdBcm1zZE9xVjR5dlRGMnZJT05aMWc2dEM2QmhNYVh6UURLUGRxREVJZ2VleXd4MHdsZlRnYk5NSk04a2t1UG5lU3MwX0p1dnhzRXlsZGhSMDlYRFhkYUVMVDFTUE0zR1pTX1AyZXo0VjBnWjBxeXRMSHBaY0ZFNkRLYV9vVlROaFU4?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795432560000,
-    "added": 1795437077165,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "노팅엄 포레스트 수비수 무스타키, 전방 십자 인대 부상"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmVlTHhlZVlJaXRzcnpTRVpjNW9EU2IxZUtSSjkzZjQ0SHZ6REJKNWo5X0JidzhhWGpNVTJ5Qm4ybGpCQXZuLTcxU1lPWUtEZHlsTnJfQkFzNTlzckxlVEJzVDdOTUFINmZSb3ZMV0JaMUYtUTlGcG40UEcyYjhvd0dfLVhWVjQ?oc=5",
-    "title": "Nottingham - Chelsea, 2026: watch sports online in high quality on Kyivstar TV",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmVlTHhlZVlJaXRzcnpTRVpjNW9EU2IxZUtSSjkzZjQ0SHZ6REJKNWo5X0JidzhhWGpNVTJ5Qm4ybGpCQXZuLTcxU1lPWUtEZHlsTnJfQkFzNTlzckxlVEJzVDdOTUFINmZSb3ZMV0JaMUYtUTlGcG40UEcyYjhvd0dfLVhWVjQ?oc=5",
-    "source": "Київстар ТБ",
-    "date": 1795431876000,
-    "added": 1795449218913,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 - 첼시, 2026: Kyivstar TV에서 고화질로 온라인 스포츠 시청"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEhxU1ctVG1kdjBsdW1wQUlHMGMzbjBXaXk5dmpIM096cUFsVjZMR0NMNTRibEQyV19XTWJ1My1LY19haWU5cHYxNUwzWWt3d3pSdlA1YXk1c2dKVkVaVkE4ZzFMX2Nvb2ZZVTVCbVIySzhVUW9NdFVwWS1vVnhXNkZuSS1RMjIyLUxfZ0otU1hqaDFaYTNfMFVBU1psbmY0M2dqSTVnQQ?oc=5",
-    "title": "5 Things Xabi Alonso Must Fix Before Chelsea Face Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEhxU1ctVG1kdjBsdW1wQUlHMGMzbjBXaXk5dmpIM096cUFsVjZMR0NMNTRibEQyV19XTWJ1My1LY19haWU5cHYxNUwzWWt3d3pSdlA1YXk1c2dKVkVaVkE4ZzFMX2Nvb2ZZVTVCbVIySzhVUW9NdFVwWS1vVnhXNkZuSS1RMjIyLUxfZ0otU1hqaDFaYTNfMFVBU1psbmY0M2dqSTVnQQ?oc=5",
-    "source": "Chelsea FC Online",
-    "date": 1795428374000,
-    "added": 1795430113308,
-    "tag": "상대 소식",
-    "titleKo": "샤비 알론소가 첼시와 노팅엄 포레스트의 경기를 앞두고 해결해야 할 5가지 사항"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZjdWcDRNOFJzTzE4S2plZTdSSXNYN0NyX2gwdEptVE1oenJqSjZhc2xMQzBDWFJFYkEyZU5pT000VmQ4NXdIYXBuTlhldzY0R0N3bktDenZ4dmRuWGZySC1oM0prc1JfSTJGXzNib044cUpOSGlSbXNZZ2RfYnlRRTVvUUZSV2FiRjVxRVlSRlhDR2p2LXFpWmFtMU14blp5ZWxOUmJQWEtRbGVsaThKLVdUSkN1LTAyTWtLeG50cjBOU2ZESVl5QXJGQmZZbHctODlBVk1pQkY2UGh4TlE?oc=5",
-    "title": "Chelsea are closer to the bottom than to Arsenal, and they still plan to give Xabi Alonso time",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZjdWcDRNOFJzTzE4S2plZTdSSXNYN0NyX2gwdEptVE1oenJqSjZhc2xMQzBDWFJFYkEyZU5pT000VmQ4NXdIYXBuTlhldzY0R0N3bktDenZ4dmRuWGZySC1oM0prc1JfSTJGXzNib044cUpOSGlSbXNZZ2RfYnlRRTVvUUZSV2FiRjVxRVlSRlhDR2p2LXFpWmFtMU14blp5ZWxOUmJQWEtRbGVsaThKLVdUSkN1LTAyTWtLeG50cjBOU2ZESVl5QXJGQmZZbHctODlBVk1pQkY2UGh4TlE?oc=5",
-    "source": "SportsAdda",
-    "date": 1795425602000,
-    "added": 1795478270561,
-    "tag": "상대 소식",
-    "titleKo": "첼시는 아스널보다 하위권에 더 가깝지만, 여전히 사비 알론소에게 시간을 줄 계획입니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFhIYnJoQlZaMDRyZWo5anpwWG5iZVpxSjhCdHJNNVVwNmtlbnZ3Mml3NHlpNWJCcHZRXzRjWlpXZWNfMWdJU1RzQlU3THFTMTFjWC1IaW1qR1VzYWZxY3RLaUtfYmwyNkRVNTF6UFJqVlo4dVViZW9wdml3YzI0ang0RC1tVUVzaHV1b3AzeFNmOUd5Q08zeWhDSzBKVE90QXBnc2dhOXZ5SkJBd2d6RFdhUGNNSnd3SGNmY19XdU5kbTlmT0xSZTVn?oc=5",
-    "title": "Evangelos Marinakis is to blame for Nottingham Forest's biggest summer blunder",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFhIYnJoQlZaMDRyZWo5anpwWG5iZVpxSjhCdHJNNVVwNmtlbnZ3Mml3NHlpNWJCcHZRXzRjWlpXZWNfMWdJU1RzQlU3THFTMTFjWC1IaW1qR1VzYWZxY3RLaUtfYmwyNkRVNTF6UFJqVlo4dVViZW9wdml3YzI0ang0RC1tVUVzaHV1b3AzeFNmOUd5Q08zeWhDSzBKVE90QXBnc2dhOXZ5SkJBd2d6RFdhUGNNSnd3SGNmY19XdU5kbTlmT0xSZTVn?oc=5",
-    "source": "Football Insider",
-    "date": 1795420080000,
-    "added": 1795475435466,
-    "tag": "상대 소식",
-    "titleKo": "에반겔로스 마리나키스는 노팅엄 포레스트의 이번 여름 최대 실수의 원인입니다."
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.talkchelsea.net/news/chelseas-new-striker-promises-nightmare-defenders/",
+   "title": "“I’m a fighter” – Chelsea’s new striker promises to be a “nightmare” for defenders",
+   "link": "https://www.talkchelsea.net/news/chelseas-new-striker-promises-nightmare-defenders/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795637351000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Emmanuel-Emegha-celebrates-his-goal-414x332.jpg",
+   "added": 1795638048061,
+   "cat": null,
+   "titleKo": "\"저는 파이터입니다\" – 첼시의 새 스트라이커, 수비수들에게 \"악몽\"이 되겠다고 다짐"
+  },
   {
    "id": "https://www.talkchelsea.net/transfers/chelsea-january-loan-deal-return-player/",
    "title": "Chelsea could agree January deal to return loan player after another disaster 6 months",
@@ -961,6 +973,17 @@
    "added": 1795628185756,
    "cat": null,
    "titleKo": "첼시 컨피덴셜: 열정적이고 마라톤을 즐기며 브루스 스프링스틴의 팬인 세바스 파리야를 만나보세요. 샤비 알론소가 다른 누구보다도 신뢰하는 인물이며, 첼시의 수비 위기를 해결할 적임자인 이유를 알아보세요."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcjVMRjV0SHo3OGtHcEV5d2J5Z2s1enc3T3M0MFc5YjZQMTl0OUljaEJaU3Z6Rzg3UGU1UWFkWkV3elRTUFF1b2lzZ3dWaGdmZTdaUlRWSjNwSXdYd3NQR3FtN0hKQzRXeXZrV0s4YUN5dDZWd1JnN3dTSnlQWFozenZoT0lURHpMcjBEeVM3ZTJTZWgzRHN1TVNUU09LMVhXeXR4bDF0TWvSAa4BQVVfeXFMTmJxOUpQSHRoX3V3c3VwNWI5NTNmTUk5SkhKTm1OZ3Z4UU9ia2hUZzFDY1FzQUNUYVl6d1hwZHB6VkxqY3JKWUdiQnRDMFlqUnVzNzNpNEdlUFh6UzhFWUN4UGF6RmpBZEMtTUpRSGZWdmZ3ZWZtQnZabDhweW9HRmw0RFo2dlBMdFBDNEFjZlpmN2JsbGVXbEtwWEFDOXMwR1pvRTdGeDVzTmIxQk1R?oc=5",
+   "title": "Emegha reveals injury struggles and makes Chelsea fitness promise",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcjVMRjV0SHo3OGtHcEV5d2J5Z2s1enc3T3M0MFc5YjZQMTl0OUljaEJaU3Z6Rzg3UGU1UWFkWkV3elRTUFF1b2lzZ3dWaGdmZTdaUlRWSjNwSXdYd3NQR3FtN0hKQzRXeXZrV0s4YUN5dDZWd1JnN3dTSnlQWFozenZoT0lURHpMcjBEeVM3ZTJTZWgzRHN1TVNUU09LMVhXeXR4bDF0TWvSAa4BQVVfeXFMTmJxOUpQSHRoX3V3c3VwNWI5NTNmTUk5SkhKTm1OZ3Z4UU9ia2hUZzFDY1FzQUNUYVl6d1hwZHB6VkxqY3JKWUdiQnRDMFlqUnVzNzNpNEdlUFh6UzhFWUN4UGF6RmpBZEMtTUpRSGZWdmZ3ZWZtQnZabDhweW9HRmw0RFo2dlBMdFBDNEFjZlpmN2JsbGVXbEtwWEFDOXMwR1pvRTdGeDVzTmIxQk1R?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795626159000,
+   "added": 1795638048061,
+   "cat": "부상",
+   "titleKo": "에메가가 부상으로 인한 어려움을 털어놓고 첼시의 체력 강화 약속을 밝혔습니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0l3YmxJZmx5ZUNsVmRkZ1l3Q3FZdnlIZFFYZGticm9QZ0FjNG41SDFqd1JvTHl1cmROOVhrb2oyY0g2MlRYc05ZamY0Mnd4QTZ0NDBBeWtvNl9KVzNfNURUS0FvbHdhMEllNjhwLWtrdG9UaUlPY0lrZGgtb2phU0luakxTcWhuTzdSVg?oc=5",
@@ -1098,6 +1121,17 @@
    "added": 1795618298753,
    "cat": null,
    "titleKo": "베키 스펜서의 삶 속으로"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzMtRmVaZFl1S0QxV2JMcGFRamptY3BIZE12U0hIdkVaSllEYWpVVWxSdHFrQXdOVW1iRGlPM1kyUnRsZnZUZzZwR0JXSHRJZDZXaTdhX1VjTTdnWFdGMnBqVnk4d2dMYkRzR2dqRWI1Yll0TWNJRUxjakpvVUNDRXcwYVZrc1doZEFOX2R2RmViMDRHSkhiSXNJazBLeTllU0xLdmJ2ZlpXUV9oR3fSAbMBQVVfeXFMUHRWdENaOE9pa2wyU2JITjVHYXlmS3lUV2IxMFB1dmZ0dXJfZG8xTzZYRmFETmlwMjduekZ2a1hPd1ZXdzFRazlJRkxCZ0taVXMzXzJBYWZrWTJteUFfRTRRbWFocU9aSmlGQnpPQlQydmVwZWFUNmFTeHNJaFpkQW1KYnVfRzdtOTNGd1VBal9HZ3BIa2JRblN3eDVQTjItbkZQNG1ac0NPcFBPRnFON0pPVHM?oc=5",
+   "title": "Emmanuel Emegha reveals what impressed him most after joining Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzMtRmVaZFl1S0QxV2JMcGFRamptY3BIZE12U0hIdkVaSllEYWpVVWxSdHFrQXdOVW1iRGlPM1kyUnRsZnZUZzZwR0JXSHRJZDZXaTdhX1VjTTdnWFdGMnBqVnk4d2dMYkRzR2dqRWI1Yll0TWNJRUxjakpvVUNDRXcwYVZrc1doZEFOX2R2RmViMDRHSkhiSXNJazBLeTllU0xLdmJ2ZlpXUV9oR3fSAbMBQVVfeXFMUHRWdENaOE9pa2wyU2JITjVHYXlmS3lUV2IxMFB1dmZ0dXJfZG8xTzZYRmFETmlwMjduekZ2a1hPd1ZXdzFRazlJRkxCZ0taVXMzXzJBYWZrWTJteUFfRTRRbWFocU9aSmlGQnpPQlQydmVwZWFUNmFTeHNJaFpkQW1KYnVfRzdtOTNGd1VBal9HZ3BIa2JRblN3eDVQTjItbkZQNG1ac0NPcFBPRnFON0pPVHM?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795612583000,
+   "added": 1795638048061,
+   "cat": "인터뷰",
+   "titleKo": "에마뉘엘 에메가가 첼시에 입단한 후 가장 인상 깊었던 점을 밝힙니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3l1al85b1Zid21XX3lJeWNYMFNhR1pCY2s0aTBxS3RFcTA3d0hvZzJjczBPZnE3TllJalVwb2RMYks4SFRtczFpS2FTdmY3aVFnQ1lMMTNaNHFqZF80RnFSOFJId1RQc2EtcGpCMzdvQk8xdEp4bDF4M214ZW9aMXI3R2tJZjZyOU1ldEFqVEJMNkFGTHBzQV81Q2tYbWRhV01Lb3ZTemFEcmp6akphNmVRRi0?oc=5",
@@ -4239,42 +4273,6 @@
    "added": 1795442140862,
    "cat": "이적",
    "titleKo": "페르난도 토레스, 리버풀에서 첼시로의 이적에 대해: '모든 것이 바뀌었다' - The Athletic"
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16313915/Emmanuel-Emegha-ROBBED-Chelsea-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "Chelsea star Emmanuel Emegha was ROBBED in the aftermath of his side's 4-1 defeat by Leeds - as striker confirms 'no one was hurt'",
-   "link": "https://www.dailymail.com/sport/football/article-16313915/Emmanuel-Emegha-ROBBED-Chelsea-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795390861000,
-   "image": "https://i.dailymail.com/1s/2026/11/22/23/112667085-0-image-a-8_1795389873932.jpg",
-   "added": 1795391868855,
-   "cat": "오피셜",
-   "titleKo": "첼시의 스타 선수 에마뉘엘 에메가가 팀이 리즈에게 4-1로 패한 후 강도를 당했습니다. 스트라이커는 '아무도 다치지 않았다'고 확인했습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtQQy1uaEdHN1pRSEtldWVQVkwxQlV3b3IwdkpjeWpiZ0hCWEVBNnhPWTNuVUQxMUxrcnVPTXhZazN0X3dBTVRGVEl2aERjMkJ4STRKSlloUUNJNmJfclB0aXRnY1M3UW1fVkFLdGltdlcyTHl3TXotbDEtbktMV05melVVSTFrS2tqZVZYd0ViYzFybWhPY2hSWHpocGFxS1o5Nmh0N0k?oc=5",
-   "title": "첼시를 떠나라고 말한 엔조 페르난데스는 2026년 월드컵을 기다리고 싶어한다.",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtQQy1uaEdHN1pRSEtldWVQVkwxQlV3b3IwdkpjeWpiZ0hCWEVBNnhPWTNuVUQxMUxrcnVPTXhZazN0X3dBTVRGVEl2aERjMkJ4STRKSlloUUNJNmJfclB0aXRnY1M3UW1fVkFLdGltdlcyTHl3TXotbDEtbktMV05melVVSTFrS2tqZVZYd0ViYzFybWhPY2hSWHpocGFxS1o5Nmh0N0k?oc=5",
-   "source": "VOI.ID",
-   "group": "한국 언론",
-   "date": 1795390349000,
-   "added": 1795399594388,
-   "cat": null,
-   "titleKo": "첼시를 떠나라고 말한 엔조 페르난데스는 2026년 월드컵을 기다리고 싶어한다."
-  },
-  {
-   "id": "https://talksport.com/football/4724970/chelsea-emmanuel-emegha-victim-robbery/",
-   "title": "Chelsea forward Emmanuel Emegha victim of robbery after defeat to Leeds",
-   "link": "https://talksport.com/football/4724970/chelsea-emmanuel-emegha-victim-robbery/",
-   "source": "talkSPORT",
-   "group": "영국 언론",
-   "date": 1795388390000,
-   "added": 1795389386653,
-   "cat": null,
-   "titleKo": "첼시 공격수 에마뉘엘 에메가, 리즈전 패배 후 강도 피해",
-   "imgTried": true,
-   "image": "https://talksport.com/wp-content/uploads/2026/11/crop-4724982.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
   }
  ]
 }
