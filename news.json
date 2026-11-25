@@ -1,5 +1,5 @@
 {
- "updated": 1795638057915,
+ "updated": 1795641666237,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,15 +12,15 @@
   "Daily Mail": 3,
   "Telegraph": 4,
   "Independent": 0,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 9,
-  "CaughtOffside": 1,
+  "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 67,
   "인터풋볼": 0,
   "풋볼리스트": 0,
-  "베스트일레븐": 2,
+  "베스트일레븐": 1,
   "구글뉴스(한국어)": 12,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 49건"
+  "이번 상대": "Nottingham Forest · 새 기사 48건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -41,6 +41,26 @@
   "state": "pre",
   "items": [
    {
+    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tV2RQRGFZOHk2eXViVTM4VDJ3UFpRQ1BacDlxa2dnVDQtZVUyT0NlZHJWczhpQWpRdVRnbVB3VklKbFVzRGV6UUsxcXU0OVNtMldqVElXXzhGZmowMjR3YlNuVi02dzQtNzc0?oc=5",
+    "title": "Glasner Faces Forest Pressure Ahead of Chelsea Clash",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tV2RQRGFZOHk2eXViVTM4VDJ3UFpRQ1BacDlxa2dnVDQtZVUyT0NlZHJWczhpQWpRdVRnbVB3VklKbFVzRGV6UUsxcXU0OVNtMldqVElXXzhGZmowMjR3YlNuVi02dzQtNzc0?oc=5",
+    "source": "Demokratis.co.id",
+    "date": 1795640880000,
+    "added": 1795641658014,
+    "tag": "상대 소식",
+    "titleKo": "글라스너 감독, 첼시와의 맞대결을 앞두고 포레스트의 압박에 직면"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yMG5DZDV0OU5vQXBmYW1UOENkVkcxdVR0SDV1N1liLXVQazh6YnlueUw1dENYUjFFYmNpa04wNGVOZEJTWE01Q1d0THA4cGRIMmhkZHZsRWNJaDdMUHpNb3VzRDJrNjg?oc=5",
+    "title": "Glasner Faces Chelsea as Pressure Mounts at Nottingham Forest",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yMG5DZDV0OU5vQXBmYW1UOENkVkcxdVR0SDV1N1liLXVQazh6YnlueUw1dENYUjFFYmNpa04wNGVOZEJTWE01Q1d0THA4cGRIMmhkZHZsRWNJaDdMUHpNb3VzRDJrNjg?oc=5",
+    "source": "SuaraGarut.ID",
+    "date": 1795639920000,
+    "added": 1795641658014,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트의 압박이 가중되는 가운데 글라스너 감독이 첼시를 상대하게 됩니다."
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDhDWmJMdFpJRWp4TWpBUEVsVTVXUXpBaXAyaWlaaUlDSHBfaktPalF4MVZreHgyNEU3T1M2b3d2Q3piRlJIaWZWdUF4LTBOelpRRzhHazA2ZWNSdlQxYkQwTjE1cUVCMUlVYldUcGYtcEtaUXh3YjdOajZBNUhacjdpaVU1ZHJueVZxZmlaR3VvUmxBR0p6T2MwYmhtYW5McFR4dHFES1VKd3NkMDNYdmVaay1PZ1drZU0xYjdnSHVkd3lGNnF1SGhQZw?oc=5",
     "title": "PREVIEW | Nottingham Forest vs Chelsea: team news, lineups, predictions (Premier League 27/11)",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDhDWmJMdFpJRWp4TWpBUEVsVTVXUXpBaXAyaWlaaUlDSHBfaktPalF4MVZreHgyNEU3T1M2b3d2Q3piRlJIaWZWdUF4LTBOelpRRzhHazA2ZWNSdlQxYkQwTjE1cUVCMUlVYldUcGYtcEtaUXh3YjdOajZBNUhacjdpaVU1ZHJueVZxZmlaR3VvUmxBR0p6T2MwYmhtYW5McFR4dHFES1VKd3NkMDNYdmVaay1PZ1drZU0xYjdnSHVkd3lGNnF1SGhQZw?oc=5",
@@ -49,6 +69,16 @@
     "added": 1795638048754,
     "tag": "라인업·팀뉴스",
     "titleKo": "프리뷰 | 노팅엄 포레스트 vs 첼시: 팀 소식, 선발 명단, 예상(프리미어리그 11월 27일)"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80RGl4Y3pjT0RtdllGUHJudlY2Qzd1VklrT3prTmhJcjlPRWdueENWQW5MSlJfdWkxbUp0UHhlU3FKU2tXTHo3eU1qbHQ2STV4NXhTckhqU0MtUDJmX0F4eUV0VVhuc1FCal84WE1tZ1pvVEtmU0xrZnQybw?oc=5",
+    "title": "Nottingham Forest vs Chelsea Prediction & Picks - Premier League",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80RGl4Y3pjT0RtdllGUHJudlY2Qzd1VklrT3prTmhJcjlPRWdueENWQW5MSlJfdWkxbUp0UHhlU3FKU2tXTHo3eU1qbHQ2STV4NXhTckhqU0MtUDJmX0F4eUV0VVhuc1FCal84WE1tZ1pvVEtmU0xrZnQybw?oc=5",
+    "source": "SportyTrader",
+    "date": 1795636800000,
+    "added": 1795641658014,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시 경기 예측 및 선택 - 프리미어리그"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGZnQ281MmdwMmVJMjgzdFlTbjVKa2c0NmFURm83WnJrMmVWSmxRWnFsSFJRVnJwRWdaaFFKbkR1UHFITFluNkZSSEpDMzN3d01Md0k2WmNfTXhBZ1pwUmZQLUJxVl9vV0VVcHJuUFJENlJHeTVFVmdHZUxGTUZ2OGhVeW9mZENqMFVrNmhR?oc=5",
@@ -99,6 +129,16 @@
     "added": 1795634720487,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 대 첼시: 홈팀 승리 가능성 높음 + '트리키 트리(Tricky Trees)' 17/2 베팅 빌더"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjNNNjcxRmRyTDlMaER0cmd1eHZvS2tPaXhwb3ZvMUlHcFlvcmpTMkx6blkydTBYRi1aUG85RVdKUXQtZ0hVd1RYU3BTOWJlN0xCbFVJVExXUS1PRUpCV01RTDhXN3F1c2ZQM1l2QTAwaG55RmJvOVBRclhnTlRtV3JSRV90MUVJSXYzSVJhdVFqMWxuT0I0bC1WbGZMQUtoRkdsZklFRFF6ek9nWjdhQlV6aXExYXl3SkE?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Kalshi Promo Code & $55 Bonus",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjNNNjcxRmRyTDlMaER0cmd1eHZvS2tPaXhwb3ZvMUlHcFlvcmpTMkx6blkydTBYRi1aUG85RVdKUXQtZ0hVd1RYU3BTOWJlN0xCbFVJVExXUS1PRUpCV01RTDhXN3F1c2ZQM1l2QTAwaG55RmJvOVBRclhnTlRtV3JSRV90MUVJSXYzSVJhdVFqMWxuT0I0bC1WbGZMQUtoRkdsZklFRFF6ek9nWjdhQlV6aXExYXl3SkE?oc=5",
+    "source": "Squawka",
+    "date": 1795632885000,
+    "added": 1795641658013,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs 첼시: Kalshi 프로모션 코드 및 $55 보너스"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFY2UHF6OEFhMjZ1WmRXZ1hBeUJMR3B5N3EtQWxYMnNpWWkzaEpUM2oyRzI5OWJJRk1EeUVoMmZEOXpYY3dXejVyaTlzT0lRQ3VUc1FiSFF3TWNaV2M2bXhhY2phdHRMUk1IMGYyNWxOQzZUQmVlc3VIOWtrby1rUzFnWVEtS3pIeDd6Uw?oc=5",
@@ -219,6 +259,16 @@
     "added": 1795621638502,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식 및 예상 선발 명단"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZHhheERVUENaaksxdTFadkVxQ3FPR2I4RVR3RzBGSm1hSXBCVDlORk9uQXJEa0hpVzluREllNWRLdzJ3VEdzUV95elk0T1pfZVdrdU4zaXR4RWZMZXRsSWhycEMtN2I3NTdfc3N1c3p1eWhHZnVJZXZfUnh5dWMwa0VJQ3A0TDhPSHE4WktUbTRpRjYteEdqcGdIVkFOVXlfOG5ZcjE1djZmeENVZ3c5NEtMTlp4QzZqRlU4Rl9xREhrenRlN0pfX0FDaVFIbkxqM0lvMzgtdDlXZXlscE1jRlg0WFk?oc=5",
+    "title": "Nottingham Forest v Chelsea: Preview, expected line-ups and where to watch",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZHhheERVUENaaksxdTFadkVxQ3FPR2I4RVR3RzBGSm1hSXBCVDlORk9uQXJEa0hpVzluREllNWRLdzJ3VEdzUV95elk0T1pfZVdrdU4zaXR4RWZMZXRsSWhycEMtN2I3NTdfc3N1c3p1eWhHZnVJZXZfUnh5dWMwa0VJQ3A0TDhPSHE4WktUbTRpRjYteEdqcGdIVkFOVXlfOG5ZcjE1djZmeENVZ3c5NEtMTlp4QzZqRlU4Rl9xREhrenRlN0pfX0FDaVFIbkxqM0lvMzgtdDlXZXlscE1jRlg0WFk?oc=5",
+    "source": "101 Great Goals",
+    "date": 1795617644000,
+    "added": 1795641658014,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시: 경기 전, 예상 선발 명단 및 시청 방법"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlp1VFhRa0pGWGlhVDhYRUNZQ0l0QU1EanB3SElES0xwUEV6ZHlYMEM1d2VMNklmYUUycC1IdGVwYlBWQzVLelBTd1h0ZDBHQ2xaY1NxcjRwdUZINVVFNzVzOWRGaDZpSTJRdnhGT2Jvc1RydWRMeUNQbUtLSjdXeG1XOHhvTk1aaEV3VA?oc=5",
@@ -789,56 +839,6 @@
     "added": 1795459136941,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 임대 선수, EFL 경기에서 6/10의 평점을 받은 후 '실망'"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnBJRXlzQjJWUlVDbV9GOGdESEJleGdJVFh5WUpDTTZNY2lKX1ZpaXVBTG50SVROak9ncTNSc2x1T0VKU1gxNUctN25LMEVNVndtU3k0bE9oTXdyQm9rbUdiMFNmc1BTYi1lSnlTR0NRS1c2dkN5eHkzajZzQ3EySVlHQ0pubTNWbUR2MlR0V0dSdUtfMzU0WnR3SF9pU1I4OFlpY1BfQkNiRUlsMDdYTU91bzJsaTF1?oc=5",
-    "title": "Who is Gabriel Bontempo? Meet Nottingham Forest’s January transfer target",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnBJRXlzQjJWUlVDbV9GOGdESEJleGdJVFh5WUpDTTZNY2lKX1ZpaXVBTG50SVROak9ncTNSc2x1T0VKU1gxNUctN25LMEVNVndtU3k0bE9oTXdyQm9rbUdiMFNmc1BTYi1lSnlTR0NRS1c2dkN5eHkzajZzQ3EySVlHQ0pubTNWbUR2MlR0V0dSdUtfMzU0WnR3SF9pU1I4OFlpY1BfQkNiRUlsMDdYTU91bzJsaTF1?oc=5",
-    "source": "Nottingham Forest News",
-    "date": 1795453200000,
-    "added": 1795455874597,
-    "tag": "상대 소식",
-    "titleKo": "가브리엘 본템포는 누구인가요? 노팅엄 포레스트의 1월 이적 타깃을 만나보세요"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHM3UmJaWFI1Vkd6MVgtRGdqZU1WeTY0MGVlY05EZXFyOWFaOG8zR3ZRdGZaY0NCRHoxT2NBcWpBTUR2RlBCOU1lcmE3VHlkTEdtRmF6a2k5OEFIUVluWklUeUIzZ18wTUUxZ3V5alYxclFHR0tJLVMtLXZ3M0Q3c2g0ZHdvN2kxUTF3NmRBcGF2dEgtakVyWGoxSGlVVjdTa090QlYtTjV0NWNxMDlGSVU4Wng?oc=5",
-    "title": "Nottingham Forest vs Chelsea Prediction, Stats & Lineups",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHM3UmJaWFI1Vkd6MVgtRGdqZU1WeTY0MGVlY05EZXFyOWFaOG8zR3ZRdGZaY0NCRHoxT2NBcWpBTUR2RlBCOU1lcmE3VHlkTEdtRmF6a2k5OEFIUVluWklUeUIzZ18wTUUxZ3V5alYxclFHR0tJLVMtLXZ3M0Q3c2g0ZHdvN2kxUTF3NmRBcGF2dEgtakVyWGoxSGlVVjdTa090QlYtTjV0NWNxMDlGSVU4Wng?oc=5",
-    "source": "Squawka",
-    "date": 1795443417000,
-    "added": 1795516693604,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "노팅엄 포레스트 vs 첼시 예측, 통계 및 선발 명단"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVI3OFcxUzFWT01SS3Y1Q0swakg2N1h2ZTVYWlcwS1paWmd6WkEydk5oQWQ4Q3Z0OFBWLWRHbjRzQldWQVVuQTR1RW8xb1JPV3RGRzNlYTVRNENLTE9RYnp6bWY3MGJVZ1JvbThjdUQ2b2diLVpwTzFPZThtTEE0bWhmaw?oc=5",
-    "title": "Leeds - Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVI3OFcxUzFWT01SS3Y1Q0swakg2N1h2ZTVYWlcwS1paWmd6WkEydk5oQWQ4Q3Z0OFBWLWRHbjRzQldWQVVuQTR1RW8xb1JPV3RGRzNlYTVRNENLTE9RYnp6bWY3MGJVZ1JvbThjdUQ2b2diLVpwTzFPZThtTEE0bWhmaw?oc=5",
-    "source": "Flashscore.com",
-    "date": 1795442039000,
-    "added": 1795492626634,
-    "tag": "상대 소식",
-    "titleKo": "리즈 - 노팅엄 포레스트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObE1CeXVGUDE5REo4ZlMtbUx5WlpscDJOUF9paFhXV1F6Y0FZWEJGWVJDc1B6T0tKQm42ejlmc2JfYTVORmxNOHQ4MWNWc25yTTJsUVlRVkZZS1ZGVTBkRkROa3duMGI2bVZHWUFBWFBleEZxU2FpT3paMXBCZlV3X3UzZw?oc=5",
-    "title": "Bournemouth 2-0 Nottingham Forest - fan views",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObE1CeXVGUDE5REo4ZlMtbUx5WlpscDJOUF9paFhXV1F6Y0FZWEJGWVJDc1B6T0tKQm42ejlmc2JfYTVORmxNOHQ4MWNWc25yTTJsUVlRVkZZS1ZGVTBkRkROa3duMGI2bVZHWUFBWFBleEZxU2FpT3paMXBCZlV3X3UzZw?oc=5",
-    "source": "AOL.com",
-    "date": 1795437664000,
-    "added": 1795442141347,
-    "tag": "상대 소식",
-    "titleKo": "본머스 2-0 노팅엄 포레스트 - 팬 의견"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTE3ZEJPUVJXV0lHVTJkaGpPNWpUVEZlS2tTZmplZmpldDBsNjA4WkthbnZ1c09ZcGwxUUJzMnhkemxTN1laQWU2eVozLVdYanc2eFVwem5EMVhtamM0eWtjeGd4NjhHX2F4QkUzdTFpeUZqQ3dsUzYxdW1vMHFJTVNSUWJ6ZFM4SmxkTHF5NmFadW45Z1Z2WGxjMktiS09yVkY0T0VR0gGrAUFVX3lxTE45OWhvM0JGZzBwb3VqaV9YdzU5dWR6V3FfMEpCbjBYcEpMUGRQQUwtcnRMZ2FxekE2Z2hYYUd4UmxFY2xKU0xTNkRLZW1rV3lSVEtJOGZ1WnlVN244RWNNeW43V1cwLVpBYnljMG5PMG5nT3JvekxkMnNXRkRvRllzMGZwWGV6MS1jTm8zbDJSYUo0dm5ScXJsNjB2eTRHV3AyQWluM2s4VWctVQ?oc=5",
-    "title": "Nottingham Forest star Morgan Gibbs-White tipped for huge Bayern Munich transfer",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTE3ZEJPUVJXV0lHVTJkaGpPNWpUVEZlS2tTZmplZmpldDBsNjA4WkthbnZ1c09ZcGwxUUJzMnhkemxTN1laQWU2eVozLVdYanc2eFVwem5EMVhtamM0eWtjeGd4NjhHX2F4QkUzdTFpeUZqQ3dsUzYxdW1vMHFJTVNSUWJ6ZFM4SmxkTHF5NmFadW45Z1Z2WGxjMktiS09yVkY0T0VR0gGrAUFVX3lxTE45OWhvM0JGZzBwb3VqaV9YdzU5dWR6V3FfMEpCbjBYcEpMUGRQQUwtcnRMZ2FxekE2Z2hYYUd4UmxFY2xKU0xTNkRLZW1rV3lSVEtJOGZ1WnlVN244RWNNeW43V1cwLVpBYnljMG5PMG5nT3JvekxkMnNXRkRvRllzMGZwWGV6MS1jTm8zbDJSYUo0dm5ScXJsNjB2eTRHV3AyQWluM2s4VWctVQ?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795434478000,
-    "added": 1795437077165,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트의 스타 모건 깁스-화이트, 바이에른 뮌헨으로의 대형 이적 가능성 제기"
    }
   ]
  },
@@ -854,6 +854,41 @@
    "added": 1795638048061,
    "cat": null,
    "titleKo": "\"저는 파이터입니다\" – 첼시의 새 스트라이커, 수비수들에게 \"악몽\"이 되겠다고 다짐"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/25/arsenal-face-competition-from-chelsea-and-tottenham-for-highly-rated-21-year-old/",
+   "title": "Arsenal face competition from Chelsea and Tottenham for highly-rated 21-year-old",
+   "link": "https://www.caughtoffside.com/2026/11/25/arsenal-face-competition-from-chelsea-and-tottenham-for-highly-rated-21-year-old/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795636835000,
+   "image": "https://icdn.caughtoffside.com/2026/10/COS-Featured_Hero-Image-Templates-23-2.jpg",
+   "added": 1795641657313,
+   "cat": null,
+   "titleKo": "아스널, 유망한 21세 선수를 두고 첼시와 토트넘과 경쟁 중"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYl9MRm93ZEZQZGNOcGhJTUk3ZGhZeDZmcGRWYWpQQmZYY0xNbEJHWjlBZzlSX01PV3VHMWh5a2lyNlJGNkxiTmx4RjFhbzhxYmlLSnRCQmdiNUhMMkUxM1JDT0tsdWQ1dmtReVlUcWpKakQ2dWR1bzBaYUFOTkpBZ0FDcUdVblhRaE1jcUcxRGU?oc=5",
+   "title": "Nottingham Forest vs Chelsea: Predicted Lineups, Team News, Injuries",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYl9MRm93ZEZQZGNOcGhJTUk3ZGhZeDZmcGRWYWpQQmZYY0xNbEJHWjlBZzlSX01PV3VHMWh5a2lyNlJGNkxiTmx4RjFhbzhxYmlLSnRCQmdiNUhMMkUxM1JDT0tsdWQ1dmtReVlUcWpKakQ2dWR1bzBaYUFOTkpBZ0FDcUdVblhRaE1jcUcxRGU?oc=5",
+   "source": "Six Sports",
+   "group": "영국 언론",
+   "date": 1795635000000,
+   "added": 1795641657314,
+   "cat": "프리뷰",
+   "titleKo": "노팅엄 포레스트 vs 첼시: 예상 선발 명단, 팀 소식, 부상자"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/25/chelsea-and-man-united-eye-19-year-old-winger-who-could-cost-e60m/",
+   "title": "Chelsea and Man United eye 19-year-old winger who could cost €60m",
+   "link": "https://www.caughtoffside.com/2026/11/25/chelsea-and-man-united-eye-19-year-old-winger-who-could-cost-e60m/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795633201000,
+   "image": "https://icdn.caughtoffside.com/2026/10/chelsea-fc-v-manchester-united-premier-league-2026-27-2.jpg",
+   "added": 1795641657313,
+   "cat": null,
+   "titleKo": "첼시와 맨유, 6천만 유로에 달할 수 있는 19세 윙어에 관심을 보이고 있습니다."
   },
   {
    "id": "https://www.talkchelsea.net/transfers/chelsea-january-loan-deal-return-player/",
@@ -879,6 +914,18 @@
    "titleKo": "사이먼 조던, 첼시가 줌(Zoom) 인터뷰 후 알레한드로 가르나초를 4천만 파운드에 영입한 과정을 공개",
    "imgTried": true,
    "image": "https://talksport.com/wp-content/uploads/2026/11/alejandro-garnacho-aston-villa-looks-1125435154.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/25/chelsea-and-manchester-united-keep-close-watch-on-e6-5m-a-year-striker/",
+   "title": "Chelsea and Manchester United keep close watch on €6.5m-a-year striker",
+   "link": "https://www.caughtoffside.com/2026/11/25/chelsea-and-manchester-united-keep-close-watch-on-e6-5m-a-year-striker/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795629638000,
+   "image": "https://icdn.caughtoffside.com/2025/10/COS-FeaturedHero-Image-Templates-11-2.jpg",
+   "added": 1795641657313,
+   "cat": null,
+   "titleKo": "첼시와 맨체스터 유나이티드, 연봉 650만 유로의 스트라이커를 면밀히 주시"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1FoakczNEh6NmtQT09xWmhIcU1CczlXVlQ3TjZsck42aU9GQjhRZm9LRExrRWV5RE9NRFdXd2EtdUxlMldYMzNUdUEyemZiazNuQjZpcHRnZkdCaFMwdjQ2bE5RZjhINWtQWUtYa0FlaVVDQzVYQTJ1bTVzSTJTY090aUk3MllRazNsX0p0M3RjZEhpMW9SSUd4b214MEY3RDd2RzFNdVNrSGNhVy1CSElxUkFCWGROdmNjN0U3LVhNbjR4?oc=5",
@@ -1648,6 +1695,17 @@
    "added": 1795562430894,
    "cat": null,
    "titleKo": "알론소 감독, 첼시가 39세의 대체자를 염두에 두고 있는 가운데 중요한 5경기 시험대에 직면"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmRQQWhvT015akYyX2ZNUFpiU0g2emN5eHB0bHpVOGJwRkdrTFlJNmZGVXIxUTBEd0d6bWtvNlFMa3FNaXhVNjFuVE9PZWx1d2lwdVZyU1pmWFkwN3U2SGRqbk1wREs4cDNwQ1FzbEJfckZ3a29DSUh5eDV4Z0R1LWZjeXpWMUdJQmp5OE9ydkxoTDFXeDkwaA?oc=5",
+   "title": "Chelsea Join Newcastle in Race for Hearts Winger: Reports",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmRQQWhvT015akYyX2ZNUFpiU0g2emN5eHB0bHpVOGJwRkdrTFlJNmZGVXIxUTBEd0d6bWtvNlFMa3FNaXhVNjFuVE9PZWx1d2lwdVZyU1pmWFkwN3U2SGRqbk1wREs4cDNwQ1FzbEJfckZ3a29DSUh5eDV4Z0R1LWZjeXpWMUdJQmp5OE9ydkxoTDFXeDkwaA?oc=5",
+   "source": "Chelsea FC Online",
+   "group": "영국 언론",
+   "date": 1795548711000,
+   "added": 1795641657314,
+   "cat": null,
+   "titleKo": "첼시, 하츠 윙어 영입 경쟁에서 뉴캐슬과 합류: 보도"
   },
   {
    "id": "https://www.thesun.co.uk/sport/41131620/chelsea-maxence-lacroix-hamstring-new-year-leeds-united/",
@@ -4218,61 +4276,6 @@
    "added": 1795552218759,
    "cat": null,
    "titleKo": "리즈에게 참패를 당한 후, 첼시는 그 어느 때보다 취약한 상태에 놓였다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGdYMWFiNlRqdk12TnVUUDJ3RGdDeGUtVlRiSFpEVF9UNUtRRXJiZkJXbmZ1T2V1RWZYYTlkNEZZM1pZdnVyX0I2RGJlT0lKN3ZQVWhQWGU4VWEzRDBSZjV0ak1TYkpQZkJpdnVER2k3clFXNjVJT200TTd5Tm4wS0kybmJ1VEV4VUE?oc=5",
-   "title": "Chelsea make Xabi Alonso sack decision after Leeds United humiliation at Stamford Bridge",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGdYMWFiNlRqdk12TnVUUDJ3RGdDeGUtVlRiSFpEVF9UNUtRRXJiZkJXbmZ1T2V1RWZYYTlkNEZZM1pZdnVyX0I2RGJlT0lKN3ZQVWhQWGU4VWEzRDBSZjV0ak1TYkpQZkJpdnVER2k3clFXNjVJT200TTd5Tm4wS0kybmJ1VEV4VUE?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795411800000,
-   "added": 1795415186794,
-   "cat": null,
-   "titleKo": "첼시, 스탬퍼드 브리지에서 리즈 유나이티드에 대패한 후 사비 알론소 경질 결정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
-   "title": "Chelsea pundit toys with idea of Jamal Musiala return",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzVlVmUyRXF5cXE2bzZzeHZvQkRNSGxvOFdZcDgyM3o5M3ozdmxZbHUzNkF4cjF3bmJURFE3UWRoS2RoQl8tYVRHckVQYTBESFVJWTBqV3ZfV0lwZS1KUWxWdG0zMlVBRUlOOFFzU05RRVg2YzZhWEE0YkNVZWlXUzRvbm96TUdEYlNRTmlpVjNaeEdMMUoxazIzMGlLVG1yS0UxV2hlRGlPWjNCUWpSczVYajFudW5oUmNsS2ZPLVBDeGRVbTY4MDc3bTREdw?oc=5",
-   "source": "Bavarian Football Works",
-   "group": "영국 언론",
-   "date": 1795409100000,
-   "added": 1795569588296,
-   "cat": null,
-   "titleKo": "첼시 전문가, 자말 무시알라의 복귀 가능성을 언급"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE1NRVB2Y0RMSS00Y1drY243YzBJZUhOTVZIQjNQU2NDSlpqQjRnZ3RYaWdPTElQY01aRVB5YlZjdm1rODJkazFud3BpZXRfT0RHTG95X1dNVmt4NVY2Q2dSVG9va2lxR3NTaWhlSEl3elJVVXhuX0JjTzFOaGtuRGJieDd0UEJOZ1hlcTdVTWxPMVVGZ1NfWmdxSGhIOXpqbWk4YTRBejdjNmRqdjI3Y2JtQ0l1d0RBeE1ZemhxaDJjUQ?oc=5",
-   "title": "톰 브래디, 버밍엄 시티 떠나 첼시 FC 소수 지분 인수",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE1NRVB2Y0RMSS00Y1drY243YzBJZUhOTVZIQjNQU2NDSlpqQjRnZ3RYaWdPTElQY01aRVB5YlZjdm1rODJkazFud3BpZXRfT0RHTG95X1dNVmt4NVY2Q2dSVG9va2lxR3NTaWhlSEl3elJVVXhuX0JjTzFOaGtuRGJieDd0UEJOZ1hlcTdVTWxPMVVGZ1NfWmdxSGhIOXpqbWk4YTRBejdjNmRqdjI3Y2JtQ0l1d0RBeE1ZemhxaDJjUQ?oc=5",
-   "source": "Hypebeast.KR",
-   "group": "한국 언론",
-   "date": 1795407875000,
-   "added": 1795410959600,
-   "cat": null,
-   "titleKo": "톰 브래디, 버밍엄 시티 떠나 첼시 FC 소수 지분 인수"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
-   "title": "첼시는 불안정한 상태입니다",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0FOcENrQzJsUnlRazloMW52SVNmX09ZNXpPY0R2cGwyYTVMMWdqV3VKMGtLNG1nVHVERGEtOHkzN0lTTnExYS16NEFsVWtnYjhfTTdhNmFUNEtOS0lvSExqOFpOazVieXVYSGVuRnZtWndkbmpTOW4ybElxRmVRSVNEazlLV2ZyQ2dzUzgwc01UVDA?oc=5",
-   "source": "Laodong.vn",
-   "group": "한국 언론",
-   "date": 1795398375000,
-   "added": 1795399594388,
-   "cat": null,
-   "titleKo": "첼시는 불안정한 상태입니다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPREM3Q2dHMnVqQnVlR2xuckpDdURMSmREejAtWHlIYXBUQTZyNmVqWV9lM2VrUU1oS1h0MkJrbEJlanlrdHlGLWE2cE4xRGxzREc2WDlEZmF4V1Y3U01rQS1ONkhoSjRmTzltWlpvc25fSnBuNWhHbUJkM3JTVnpCNVdfZEZXWGZ6WUVDcHhmSDFrc0ExM0d1R3JFZ0Npa3ZnTEY0?oc=5",
-   "title": "Fernando Torres on his transfer from Liverpool to Chelsea: ‘Everything changed’ - The Athletic",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPREM3Q2dHMnVqQnVlR2xuckpDdURMSmREejAtWHlIYXBUQTZyNmVqWV9lM2VrUU1oS1h0MkJrbEJlanlrdHlGLWE2cE4xRGxzREc2WDlEZmF4V1Y3U01rQS1ONkhoSjRmTzltWlpvc25fSnBuNWhHbUJkM3JTVnpCNVdfZEZXWGZ6WUVDcHhmSDFrc0ExM0d1R3JFZ0Npa3ZnTEY0?oc=5",
-   "source": "The New York Times",
-   "group": "영국 언론",
-   "date": 1795392900000,
-   "added": 1795442140862,
-   "cat": "이적",
-   "titleKo": "페르난도 토레스, 리버풀에서 첼시로의 이적에 대해: '모든 것이 바뀌었다' - The Athletic"
   }
  ]
 }
