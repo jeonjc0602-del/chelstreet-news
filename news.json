@@ -1,5 +1,5 @@
 {
- "updated": 1795581767081,
+ "updated": 1795585226507,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,7 +12,7 @@
   "Daily Mail": 5,
   "Telegraph": 4,
   "Independent": 1,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 10,
   "CaughtOffside": 1,
   "90min": 1,
@@ -21,7 +21,7 @@
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 13,
+  "구글뉴스(한국어)": 12,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbE9Eb2NVREhNQVBpSVVXYnpKbERkWmxld3h0TkMtZ0l1ZG81MUpwUWltaWdKVkNqYVNDaVE5VW83dklxUThhT0ZVd3RqOHhzYVZ1SWk1UFRNeGF0M3h1WDc4cWlrdmlkb0JsQ2ZsLXBXMklzVlVZX0VpTmxfZzJ1dVR0Tnk0X1VlME9xZVVyT05pQ2Fack9SRUxQMUFia3RWQUE0?oc=5",
+    "title": "Chelsea vs Nottingham Forest - Premier League",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbE9Eb2NVREhNQVBpSVVXYnpKbERkWmxld3h0TkMtZ0l1ZG81MUpwUWltaWdKVkNqYVNDaVE5VW83dklxUThhT0ZVd3RqOHhzYVZ1SWk1UFRNeGF0M3h1WDc4cWlrdmlkb0JsQ2ZsLXBXMklzVlVZX0VpTmxfZzJ1dVR0Tnk0X1VlME9xZVVyT05pQ2Fack9SRUxQMUFia3RWQUE0?oc=5",
+    "source": "The Chelsea Chronicle",
+    "date": 1795579628000,
+    "added": 1795585224316,
+    "tag": "상대 소식",
+    "titleKo": "첼시 vs 노팅엄 포레스트 - 프리미어리그"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjJ5dUVXUzJoalVuSU94dVdVeU9aejVMR2JiYXRleG5pSjFBVllibFdGN3dSZFNIU0dDM1lVZUdiR2d3Q0lha1RuWGxZZmY1UjYyUlk2SzV4UnYtVUFlVzJwX0drcU9ySy1oOWpxY21HTlJVWS13Q2VsMWE2WGhTU2dGWkFwM3RaTTdPRHg0UWk4Z01QLVJOR1JvQ3g0M3FZTUpqSVBDQy1BZUllUlk5WkNYMno?oc=5",
     "title": "Nottingham Forest vs Chelsea Prediction, Lineups & Team News",
@@ -829,16 +839,6 @@
     "added": 1795288589742,
     "tag": "상대 소식",
     "titleKo": "본머스 2-0 노팅엄 포레스트: 에바닐송과 클라위베르트의 득점"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOW1RTHN4aUxuaU1sRFhHdDRaSUxIV0VmZVd5YV9fc04zRUVFa0s2S2RvbU50UHVMZl9nclBqbmNRSXFtdDB4N2E1WGpOMHB4amlqd0d2Z3VRS19BcFZaLTVuOW9ZTUJReWhnR1dMZS1SZFF3dUNXczZXRDctSjY1UkVtZjlTbmlGdWlvc2VJenZJWVgzcFlaQm9HcUpOeGJkcG1OWFdDVV9BOFlXd2s5Vm1OTE1NN3kzekxQc3JjWlVJQUVvcmRaS3dnR2FLS1VGeTQ1WmJiYw?oc=5",
-    "title": "Bournemouth vs. Nottingham Forest: Head-to-head record and past meetings",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOW1RTHN4aUxuaU1sRFhHdDRaSUxIV0VmZVd5YV9fc04zRUVFa0s2S2RvbU50UHVMZl9nclBqbmNRSXFtdDB4N2E1WGpOMHB4amlqd0d2Z3VRS19BcFZaLTVuOW9ZTUJReWhnR1dMZS1SZFF3dUNXczZXRDctSjY1UkVtZjlTbmlGdWlvc2VJenZJWVgzcFlaQm9HcUpOeGJkcG1OWFdDVV9BOFlXd2s5Vm1OTE1NN3kzekxQc3JjWlVJQUVvcmRaS3dnR2FLS1VGeTQ1WmJiYw?oc=5",
-    "source": "Sports Mole",
-    "date": 1795285558000,
-    "added": 1795475435466,
-    "tag": "상대 소식",
-    "titleKo": "본머스 vs 노팅엄 포레스트: 상대 전적 및 과거 맞대결"
    }
   ]
  },
@@ -877,6 +877,17 @@
    "added": 1795562430894,
    "cat": null,
    "titleKo": "애스턴 빌라 뉴스: 우나이 에메리 감독, 갈라타사라이전 패배 후 알레한드로 가르나초에 대한 솔직한 답변 내놔"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEVTQTRMVUd1MHRINmlRdzBTNEdza1J5X19UNTlzVlQ1Xy1JejNvc3piNlBnZC0yaFFBZDd1clJla0Z4ZXZSRGo0YjlVbHFqVlNkZ0hfTnhWcTdoLXJ2ZFpFQXZ5RktqblJDdHdqTGx5dlp1VENsUnZSV0szd2lsUXR3alV5V19wbllDS1hpRTQ0d0ZvUXo4TUJKU1RuNkxxSVpOY3ZFVGFyVWVubGxSWVktQW1xWFJuTGZJb9IBwgFBVV95cUxNeTAyT2R3OUZfM2N2Q0xKUEdvQ08zU2ZZRmtuX2YyNlNKOU85cDNKRmZTaEVqcncwbUdGSk1hQ0dfbVFRTWZEOTBLdkFuVk50OHM3SHE3bFV2aGRHOWJwYVIwNnRBVEFPWGRXWG0yRTNXWGhLYVBkOW45bkRxMDByTW5mSXRIS0hUYXRURW95WFZqeDVHa2JZb3FxOHhsbjV6TENDdFRBcFJBVnREcjBadlBtZkZKaVRQd08weFdUUWxkZw?oc=5",
+   "title": "Jamie Gittens pictured back in Chelsea first-team training after injury struggles",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEVTQTRMVUd1MHRINmlRdzBTNEdza1J5X19UNTlzVlQ1Xy1JejNvc3piNlBnZC0yaFFBZDd1clJla0Z4ZXZSRGo0YjlVbHFqVlNkZ0hfTnhWcTdoLXJ2ZFpFQXZ5RktqblJDdHdqTGx5dlp1VENsUnZSV0szd2lsUXR3alV5V19wbllDS1hpRTQ0d0ZvUXo4TUJKU1RuNkxxSVpOY3ZFVGFyVWVubGxSWVktQW1xWFJuTGZJb9IBwgFBVV95cUxNeTAyT2R3OUZfM2N2Q0xKUEdvQ08zU2ZZRmtuX2YyNlNKOU85cDNKRmZTaEVqcncwbUdGSk1hQ0dfbVFRTWZEOTBLdkFuVk50OHM3SHE3bFV2aGRHOWJwYVIwNnRBVEFPWGRXWG0yRTNXWGhLYVBkOW45bkRxMDByTW5mSXRIS0hUYXRURW95WFZqeDVHa2JZb3FxOHhsbjV6TENDdFRBcFJBVnREcjBadlBtZkZKaVRQd08weFdUUWxkZw?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795560240000,
+   "added": 1795585223668,
+   "cat": "부상",
+   "titleKo": "부상으로 어려움을 겪은 후 첼시 1군 훈련에 복귀한 제이미 기텐스 선수의 모습"
   },
   {
    "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699175",
@@ -4258,17 +4269,6 @@
    "added": 1795318572578,
    "cat": null,
    "titleKo": "리즈에 1-4 패한 첼시, 알론소 감독 체제서 8위 하락 : EPL"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWJpcVNVSHoyY09BMlVuck9aZEhITjdmamtJMEZCcTMzNlBwSGF0NWQ4RFdNcGZ1VG12djZWQTJFN3pjUXhQdlFqV2J4YnRldS1YYTc4emFzS0RsdlhOVFdvcTg5eTZja1ZTNDhxVzY0U1JtcDdTZTlNWjM0RGlxRA?oc=5",
-   "title": "Chelsea - Fulham",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWJpcVNVSHoyY09BMlVuck9aZEhITjdmamtJMEZCcTMzNlBwSGF0NWQ4RFdNcGZ1VG12djZWQTJFN3pjUXhQdlFqV2J4YnRldS1YYTc4emFzS0RsdlhOVFdvcTg5eTZja1ZTNDhxVzY0U1JtcDdTZTlNWjM0RGlxRA?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795316538000,
-   "added": 1795406398676,
-   "cat": null,
-   "titleKo": "첼시 - 풀럼"
   }
  ]
 }
