@@ -1,5 +1,5 @@
 {
- "updated": 1795655392167,
+ "updated": 1795659830517,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -17,7 +17,7 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 66,
+  "구글뉴스(영어)": 67,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 54건"
+  "이번 상대": "Nottingham Forest · 새 기사 61건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -269,6 +269,16 @@
     "added": 1795631063533,
     "tag": "상대 소식",
     "titleKo": "영국, 미국 및 전 세계에서 노팅엄 포레스트 대 첼시 경기를 시청하는 방법"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTW15LXpzTjVQMndHb21obDNlR0NkaFdJNU02NTBHOS1xQl9oclJMSmw1VXM5VVhNZ3I0cFlaLXNMUmRLbThJdm92bllnNUM0aXNDdlBlX2NMNjNfX2ttM0hpR1NTTTJzUkhCem9XeWZRY3dDWmZwa3hlU3NxUU9RTzFPNlR5RWg0Z3YwXzBHSTBLeWt3eUdpY20ybXkwZw?oc=5",
+    "title": "Nottingham Forest FC - Chelsea FC prediction & tips 27.11.2026",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTW15LXpzTjVQMndHb21obDNlR0NkaFdJNU02NTBHOS1xQl9oclJMSmw1VXM5VVhNZ3I0cFlaLXNMUmRLbThJdm92bllnNUM0aXNDdlBlX2NMNjNfX2ttM0hpR1NTTTJzUkhCem9XeWZRY3dDWmZwa3hlU3NxUU9RTzFPNlR5RWg0Z3YwXzBHSTBLeWt3eUdpY20ybXkwZw?oc=5",
+    "source": "Transfermarkt",
+    "date": 1795629396000,
+    "added": 1795659823022,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 FC - 첼시 FC 전력 분석 및 베팅 팁 2026년 11월 27일"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeGNfS1Q1OHkyTVFHcU9BVDRZbk9xbS1yTWdJbXkzMC0wd2Q0T2lpQWhfZ0dNQm55ODlfamo5ZUUyS2d5TDd6NUJoZFRjNDBwNjBwUnU0N0llRVdfaGVRU3hQOHVnMlU1NlN2MDdKRTNUQ2s5MzBQQTBza2FMM1luVC1sb29hRWlsUzdfWGV2cmlYZ0hlWU94ZXN5aFFCYUVycHFPN1FCTE9lNGZTYld1X3A3cjhBTlJ5cW1tTHAxeUxRbi1XblVTVXdvS0FyLXgtVF9xN1BRaFUzSXF2UW1Sd1ZQYnhrcHc?oc=5",
@@ -829,20 +839,65 @@
     "added": 1795516693604,
     "tag": "라인업·팀뉴스",
     "titleKo": "허드슨-오도이, 도밍게스, 사보나 - 첼시와의 중요한 맞대결을 앞둔 노팅엄 포레스트의 부상자 소식"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56VVk2cW5mLTJKYlVJTUxkbHluTmIzdjluMXpRZ0U2TVhDTzFwbHpPa3pOemhLOEpKQlczNmUxeTlXd3FiTjIxWHl2Z1BHSmNYMkJqM3FuNHJXdzViaC1aMTZRM3RmOUVkb2Zhd2VXMFRGeWdZTU14S010WnBnQQ?oc=5",
-    "title": "Nottingham Forest v. Chelsea",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56VVk2cW5mLTJKYlVJTUxkbHluTmIzdjluMXpRZ0U2TVhDTzFwbHpPa3pOemhLOEpKQlczNmUxeTlXd3FiTjIxWHl2Z1BHSmNYMkJqM3FuNHJXdzViaC1aMTZRM3RmOUVkb2Zhd2VXMFRGeWdZTU14S010WnBnQQ?oc=5",
-    "source": "USA Network",
-    "date": 1795514438000,
-    "added": 1795528492593,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 대 첼시"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSk5Lb2hsXzE0cExOWFVTNUlJNGdfOHZUcUlHU2podWxjR1JickFUMUZJYmY5M3FyZ0otbm5aZVJ3MmxKMmdRNjg3SU1oc0ZMVkNJSlMzWWY1Qk10SnV6NGRwRUo5VnlfUTRrekpkQXRGV1ozV2I5OVpLd2tnbFczM0hsRDNaRUZTZ0FRcERn?oc=5",
+   "title": "7NEWS Sources: Person shot at Chelsea High School football game",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSk5Lb2hsXzE0cExOWFVTNUlJNGdfOHZUcUlHU2podWxjR1JickFUMUZJYmY5M3FyZ0otbm5aZVJ3MmxKMmdRNjg3SU1oc0ZMVkNJSlMzWWY1Qk10SnV6NGRwRUo5VnlfUTRrekpkQXRGV1ozV2I5OVpLd2tnbFczM0hsRDNaRUZTZ0FRcERn?oc=5",
+   "source": "WHDH",
+   "group": "영국 언론",
+   "date": 1795659168000,
+   "added": 1795659821229,
+   "cat": null,
+   "titleKo": "7NEWS 취재원: 첼시 고등학교 미식축구 경기에서 총격 사건 발생"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMOGRiNGhVdWh0anltSUh1NHJ5enNDbkxZVFR4LWQtU01TQjlEWkU4N3NZSlUweFd5M0hHbFpFbHNDZlBCUGtoS2hoMEUwUWZxV28yd2sySm84LWszM0NWekxydUdTbWZ2bXFBZ1VFOGdmY2VGVWg2enEyYkpzdw?oc=5",
+   "title": "1 person shot after football game at Chelsea High School, DA says",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMOGRiNGhVdWh0anltSUh1NHJ5enNDbkxZVFR4LWQtU01TQjlEWkU4N3NZSlUweFd5M0hHbFpFbHNDZlBCUGtoS2hoMEUwUWZxV28yd2sySm84LWszM0NWekxydUdTbWZ2bXFBZ1VFOGdmY2VGVWg2enEyYkpzdw?oc=5",
+   "source": "WCVB",
+   "group": "영국 언론",
+   "date": 1795659120000,
+   "added": 1795659821229,
+   "cat": "인터뷰",
+   "titleKo": "지방검사가 전한 바에 따르면, 첼시 고등학교에서 열린 축구 경기 후 1명이 총격을 당했다고 합니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDR6NXZiMUZJekR4bUZwbVNXcGRKRlV5ZVBLWXJ4VUlkd00yYjJQdzBrSGRTMTF0SFdESFBRUm5hdFZMRzU4WllOa3R5OTVxVnVObmxsSTlOdTVuNFpucnNuYzh5QnNta1lOQVFsTmV3TjNRcU1kelM5SHRqM0FwNkxkVkxnV0VNM0hiMGFlVEhxVUtFOXByRGVpNDZUM3RDNFVpQXJTSnVhVWFWY3lTSmpxUU9SNkNLb0HSAcIBQVVfeXFMTjJPZS1qVEJrSnA2cTFQTUJDTnNUNlhuWDJqQVc3SnVSSTdXM21tMUpxdk1MMExPenpXLWlqd00wWmdTRkpoMF9hTmZaakpGNGMtci1LcFU4b2FhaWNOZ0pSZU5Cd2l6ZFdKWW1uOEhoc0Y1cTdLQl92RTM0Z0tSM1R6YU0tYlRvcGNyUWtjRFAtR1M5TEVGakZBZDNSanJHY3NscXA2ZTJ1aFpsaUdHZUlGZ3kzQld3eW5Qcm1QZ0RVRWc?oc=5",
+   "title": "Police respond to reported shooting at Chelsea High School football game",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDR6NXZiMUZJekR4bUZwbVNXcGRKRlV5ZVBLWXJ4VUlkd00yYjJQdzBrSGRTMTF0SFdESFBRUm5hdFZMRzU4WllOa3R5OTVxVnVObmxsSTlOdTVuNFpucnNuYzh5QnNta1lOQVFsTmV3TjNRcU1kelM5SHRqM0FwNkxkVkxnV0VNM0hiMGFlVEhxVUtFOXByRGVpNDZUM3RDNFVpQXJTSnVhVWFWY3lTSmpxUU9SNkNLb0HSAcIBQVVfeXFMTjJPZS1qVEJrSnA2cTFQTUJDTnNUNlhuWDJqQVc3SnVSSTdXM21tMUpxdk1MMExPenpXLWlqd00wWmdTRkpoMF9hTmZaakpGNGMtci1LcFU4b2FhaWNOZ0pSZU5Cd2l6ZFdKWW1uOEhoc0Y1cTdLQl92RTM0Z0tSM1R6YU0tYlRvcGNyUWtjRFAtR1M5TEVGakZBZDNSanJHY3NscXA2ZTJ1aFpsaUdHZUlGZ3kzQld3eW5Qcm1QZ0RVRWc?oc=5",
+   "source": "NBC Boston",
+   "group": "영국 언론",
+   "date": 1795658085000,
+   "added": 1795659821229,
+   "cat": null,
+   "titleKo": "경찰, 첼시 고등학교 미식축구 경기에서 발생한 총격 신고에 출동"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORzZIdTUzaExqMXQ1YjdhYUdxSDFIVTNoVTZtVldLZTBRRHl1ZUNfQXFNN24xZVFtZnNHelREdVVFYmV3a0NId2dTNFpERWZ5UW9Nem1JRjkwc2NzaHFKdHJ6S096VEpqZkZCcjBXbG1seEx3Qzh1Uk1vRjl5S1RfcXRQU2ZTWkZjdm4xR281cUhxQQ?oc=5",
+   "title": "Shooting at football game in Chelsea, district attorney’s office says",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORzZIdTUzaExqMXQ1YjdhYUdxSDFIVTNoVTZtVldLZTBRRHl1ZUNfQXFNN24xZVFtZnNHelREdVVFYmV3a0NId2dTNFpERWZ5UW9Nem1JRjkwc2NzaHFKdHJ6S096VEpqZkZCcjBXbG1seEx3Qzh1Uk1vRjl5S1RfcXRQU2ZTWkZjdm4xR281cUhxQQ?oc=5",
+   "source": "The Boston Globe",
+   "group": "영국 언론",
+   "date": 1795657843000,
+   "added": 1795659821229,
+   "cat": "인터뷰",
+   "titleKo": "첼시 축구 경기장에서 총격 사건 발생, 검찰청 발표"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmtrLVRnbEtNMmZOZm1FVjNWeW4xNmVyd1JIT3ZueWZsUFRzZGx3OGdKUy1RUDQ0RjhBY0xjdzk2ek1zMlA4alhySllQQThCZmswdnNCeTEwSFNaQV9EdFlsMHhIalBWUXNGRXNKWXJabmExWmZRLS0zRDdNcGplSzNTeUtDRS11a19NdWc4dGI2TUp2TzlZNFpVNXA1bjlqOXBtZFkzN01tYy1nSnhocFdmONIBxwFBVV95cUxObnB5eXlraVJ4eWFTVmlyWWUzZ1dFNGxYZkctcWdiNjVIMzUwWElUVEwta2tYMjFaZ1VTc3R3UG5XRUtsLVIwb0ZldTlSVExoS1VFRV9DMVN1SlpPZVg1V2lJXzd0NEdaamxaTmh1QnVWdHRmUE1ha00yVlREWUsxNHA4QnRYVktaOTJjMzlJbk9uTUVoc1hINFI5QjZTVmJjTVNsMEF6TElZOVFmS05iM0JuYlplcWZxa3o4Q2FvNkwxeXdSeHdZ?oc=5",
+   "title": "Large police presence outside Chelsea High School after reported shooting",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmtrLVRnbEtNMmZOZm1FVjNWeW4xNmVyd1JIT3ZueWZsUFRzZGx3OGdKUy1RUDQ0RjhBY0xjdzk2ek1zMlA4alhySllQQThCZmswdnNCeTEwSFNaQV9EdFlsMHhIalBWUXNGRXNKWXJabmExWmZRLS0zRDdNcGplSzNTeUtDRS11a19NdWc4dGI2TUp2TzlZNFpVNXA1bjlqOXBtZFkzN01tYy1nSnhocFdmONIBxwFBVV95cUxObnB5eXlraVJ4eWFTVmlyWWUzZ1dFNGxYZkctcWdiNjVIMzUwWElUVEwta2tYMjFaZ1VTc3R3UG5XRUtsLVIwb0ZldTlSVExoS1VFRV9DMVN1SlpPZVg1V2lJXzd0NEdaamxaTmh1QnVWdHRmUE1ha00yVlREWUsxNHA4QnRYVktaOTJjMzlJbk9uTUVoc1hINFI5QjZTVmJjTVNsMEF6TElZOVFmS05iM0JuYlplcWZxa3o4Q2FvNkwxeXdSeHdZ?oc=5",
+   "source": "Boston 25 News",
+   "group": "영국 언론",
+   "date": 1795657560000,
+   "added": 1795659821229,
+   "cat": null,
+   "titleKo": "총격 사건 신고 후 첼시 고등학교 밖에 대규모 경찰 배치"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakRRMGhQQVo2ZzgtNEVIVkM0dUZ4OUJKT3E3UlRZSEkyc0xiQm5VeGs1UG5WSFpoRDBmMkMtX0swZ1M2MFI3NXVJdFZIb0VLUGtNbjlqYXpZOXQxR2ptemY0Zkh2eENQVXlxakZ3RE1OY2Y0V3pJY3J0bjJfMkdxaTVZV2NtNGxkdGF0Q2h0V2JyRjM2RXRrNEpQZVQ1Q2lBcGdHXy13aw?oc=5",
    "title": "사비 알론소 시대의 첼시에 대한 경고 수치",
@@ -853,6 +908,28 @@
    "added": 1795655384559,
    "cat": null,
    "titleKo": "사비 알론소 시대의 첼시에 대한 경고 수치"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGh2dEdiOE80LXJOeTY5VDdjZG9yR2dkQndtLWJ6WFhtLVFoOEVWaGVtcVV3Wm8tcGNpdVAxOVVNTXFzRHBjdnNhcTdCTldTN0VXb3c3RkNnSWNSMlMtVS04TFltb0hkaHBYSDdGblEwaWZOazhPb0Z0eFpHbFVodWllZXlmRDR3X0xNa29PVmJmcnRkVUhlUUdGSlJza3JZTVM4YUJvV1VSNFN6?oc=5",
+   "title": "That's Proper Chels - Chelsea Store",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGh2dEdiOE80LXJOeTY5VDdjZG9yR2dkQndtLWJ6WFhtLVFoOEVWaGVtcVV3Wm8tcGNpdVAxOVVNTXFzRHBjdnNhcTdCTldTN0VXb3c3RkNnSWNSMlMtVS04TFltb0hkaHBYSDdGblEwaWZOazhPb0Z0eFpHbFVodWllZXlmRDR3X0xNa29PVmJmcnRkVUhlUUdGSlJza3JZTVM4YUJvV1VSNFN6?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795653668000,
+   "added": 1795659821230,
+   "cat": null,
+   "titleKo": "That's Proper Chels - 첼시 스토어"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
+   "title": "Track Order - Chelsea Store",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZVAtOG1XSExLdm1Hc1hKNjBVbkdJLTVRSmJ1LVhMcG53MURxZTlXb0xXUGdQSVFyMXcyZ040QnJXd2YtbXRoTHY3SWNXYW1r?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795651989000,
+   "added": 1795659821230,
+   "cat": null,
+   "titleKo": "주문 내역 조회 - 첼시 매장"
   },
   {
    "id": "https://www.sportsmole.co.uk/football/chelsea/predicted-lineups/who-starts-up-top-for-alonso-predicted-chelsea-xi-vs-nottingham-forest_609856.html",
@@ -4195,84 +4272,6 @@
    "added": 1795437075034,
    "cat": null,
    "titleKo": "첼시의 리즈전 대패 후 사비 알론소 감독에 대한 압박이 커지고 있습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGxUaVIyVEd3S09ObjhjRGg1cEpRRG5HdXFRRnA3dkdWcVZuU1Roek5YNjJfdTNLa1JsWkRILTN2MGVzaUpJdFBmaGx6VkoyeGRPcUJEdV9zZmtrRXBqN3BzY1N6cVFxZDZ6VFRnN3NBRHB2em5mMGhCeTByNG9aVnMzR21nazU2TFhKS2FIek4xQ0hCZ1V1bTFXQmJIQndJekJkeTNJOE1TVnIwOVdtaVVGcw?oc=5",
-   "title": "사비 알론소, 첼시 문제에 대한 해결책 아직 찾지 못해",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGxUaVIyVEd3S09ObjhjRGg1cEpRRG5HdXFRRnA3dkdWcVZuU1Roek5YNjJfdTNLa1JsWkRILTN2MGVzaUpJdFBmaGx6VkoyeGRPcUJEdV9zZmtrRXBqN3BzY1N6cVFxZDZ6VFRnN3NBRHB2em5mMGhCeTByNG9aVnMzR21nazU2TFhKS2FIek4xQ0hCZ1V1bTFXQmJIQndJekJkeTNJOE1TVnIwOVdtaVVGcw?oc=5",
-   "source": "Laodong.vn",
-   "group": "한국 언론",
-   "date": 1795424723000,
-   "added": 1795425892614,
-   "cat": null,
-   "titleKo": "사비 알론소, 첼시 문제에 대한 해결책 아직 찾지 못해"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJYV9oMjFMRUlEU0xFdUFzRlpKRUlmR3FIUWo2Sm9aMGJvTDVVUmR4MzBET2lWcm9jcVJ2NklBckhpWGpRblQwektkRTBMaHpGdHJ2Ynk4SHMwRHRIUzFUT3FfYw?oc=5",
-   "title": "LIVE! Chelsea News Blog: MONDAY!",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJYV9oMjFMRUlEU0xFdUFzRlpKRUlmR3FIUWo2Sm9aMGJvTDVVUmR4MzBET2lWcm9jcVJ2NklBckhpWGpRblQwektkRTBMaHpGdHJ2Ynk4SHMwRHRIUzFUT3FfYw?oc=5",
-   "source": "Si Phillips Talks Chelsea",
-   "group": "영국 언론",
-   "date": 1795423617000,
-   "added": 1795465812948,
-   "cat": null,
-   "titleKo": "라이브! 첼시 뉴스 블로그: 월요일!"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXE3MHlpNDlZVXFtZ1gyREJ6UlRISjg2V3ZaZG1QWTdCVG92ZEdrd1djSWQxOGNPSnh5S242YmNBSkdSemdhZzY4Sk15NWd0QUhXYmZNN3g4LTkyMHBXRjN5QmV1VlYtVnZINEVveUVPOUh6V25TQ282VXB0X3FfUQ?oc=5",
-   "title": "Chelsea reach decision on sacking Xabi Alonso amid dressing room ‘mutiny’ rumours",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXE3MHlpNDlZVXFtZ1gyREJ6UlRISjg2V3ZaZG1QWTdCVG92ZEdrd1djSWQxOGNPSnh5S242YmNBSkdSemdhZzY4Sk15NWd0QUhXYmZNN3g4LTkyMHBXRjN5QmV1VlYtVnZINEVveUVPOUh6V25TQ282VXB0X3FfUQ?oc=5",
-   "source": "Football365",
-   "group": "영국 언론",
-   "date": 1795423179000,
-   "added": 1795449217274,
-   "cat": null,
-   "titleKo": "첼시, 라커룸 '반란' 소문 속 샤비 알론소 경질 결정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcDhxcmxReUtFWmRRR3hzRWNQZ3lNOEpRaW5GdVVGelpMM21WaTQtRFlRRDcycjVqMk8zM2s4NFN1TXdhQXFHZTJBc2RiejQwX1VQSzEtWVJmYTFrX3p0bEFaMFdxSUppZEFabFRBeGU2QjRESHNKTERCQW50YnVibUtUMDBmWVl3MGhzLXV4UUpqaHVEZmRQWFJmOFNwWl9Fcmp1UWQwc2Fva3hkMzhyNERsZkhLVG1OMU5wRFYzSXp4SlgzRlVEWUpILTkzSl9qRTh3SmlsV0N6VVNQZGNmQzV1U3FCSlZQOFRNZ1dzUmZDQ3lmcnVfSUxURF8?oc=5",
-   "title": "Chelsea FC, all the broadcast information at a glance: Who is showing the Blues’ matches live on TV and via live stream?",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcDhxcmxReUtFWmRRR3hzRWNQZ3lNOEpRaW5GdVVGelpMM21WaTQtRFlRRDcycjVqMk8zM2s4NFN1TXdhQXFHZTJBc2RiejQwX1VQSzEtWVJmYTFrX3p0bEFaMFdxSUppZEFabFRBeGU2QjRESHNKTERCQW50YnVibUtUMDBmWVl3MGhzLXV4UUpqaHVEZmRQWFJmOFNwWl9Fcmp1UWQwc2Fva3hkMzhyNERsZkhLVG1OMU5wRFYzSXp4SlgzRlVEWUpILTkzSl9qRTh3SmlsV0N6VVNQZGNmQzV1U3FCSlZQOFRNZ1dzUmZDQ3lmcnVfSUxURF8?oc=5",
-   "source": "Goal.com",
-   "group": "영국 언론",
-   "date": 1795423103000,
-   "added": 1795425892614,
-   "cat": null,
-   "titleKo": "첼시 FC, 한눈에 보는 모든 중계 정보: TV와 라이브 스트리밍을 통해 '블루스'의 경기를 생중계하는 곳은 어디인가요?"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
-   "title": "Tottenham Hotspur - Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795421397000,
-   "added": 1795449217273,
-   "cat": null,
-   "titleKo": "토트넘 홋스퍼 - 첼시"
-  },
-  {
-   "id": "https://www.mirror.co.uk/sport/football/news/chelsea-star-robbed-leeds-statement-37904928",
-   "title": "Chelsea star reveals he was 'robbed' after Leeds thrashing as statement released",
-   "link": "https://www.mirror.co.uk/sport/football/news/chelsea-star-robbed-leeds-statement-37904928",
-   "source": "Mirror",
-   "group": "영국 언론",
-   "date": 1795420310000,
-   "image": "https://i2-prod.mirror.co.uk/incoming/article37904933.ece/ALTERNATES/s615/0_GettyImages-2305629962.jpg",
-   "added": 1795420936987,
-   "cat": "인터뷰",
-   "titleKo": "첼시의 스타 선수가 리즈전 대패 후 '강도'를 당했다고 밝히며 성명 발표"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2xjaUg5RGhlMkh2bnF5c0xQQVZaVXFxdGpORlgteXB4ZTZRUFRjQzQ2cXE5ZzQ3SkhnUklmMzI5eG9QdDRLQVhvSTlRbTNkOGtoVXZvXzAxUFFUaEJEVlJ3WjQtQm4wTGxlRjQ3SnZqeW9LOXhMQU1GNm1MX2hFQ0dQMHRiZkVNWUZYRw?oc=5",
-   "title": "Emmanuel Emegha reveals he was robbed hours after scoring his first Chelsea goal in 4-1 Stamford Bridge humiliation against Leeds United",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2xjaUg5RGhlMkh2bnF5c0xQQVZaVXFxdGpORlgteXB4ZTZRUFRjQzQ2cXE5ZzQ3SkhnUklmMzI5eG9QdDRLQVhvSTlRbTNkOGtoVXZvXzAxUFFUaEJEVlJ3WjQtQm4wTGxlRjQ3SnZqeW9LOXhMQU1GNm1MX2hFQ0dQMHRiZkVNWUZYRw?oc=5",
-   "source": "Yahoo",
-   "group": "영국 언론",
-   "date": 1795420200000,
-   "added": 1795420936988,
-   "cat": "인터뷰",
-   "titleKo": "에마뉘엘 에메가가 첼시에서 첫 골을 넣은 지 몇 시간 만에 강도를 당했다고 밝혔습니다. 당시 첼시는 스탬퍼드 브리지에서 리즈 유나이티드를 상대로 4-1로 대승을 거뒀습니다."
   }
  ]
 }
