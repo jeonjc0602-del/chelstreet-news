@@ -1,5 +1,5 @@
 {
- "updated": 1795648469991,
+ "updated": 1795651234431,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -17,18 +17,18 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 65,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 10,
+  "구글뉴스(한국어)": 7,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 46건"
+  "이번 상대": "Nottingham Forest · 새 기사 50건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -41,6 +41,16 @@
   "state": "pre",
   "items": [
    {
+    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMXJFTlF2WTdmS3lpWXpOZENhOFFvWjRnLWk4WUpDNGF5WkVBalJYZGhGZFk1T1ROOGgtLU90VVc4UTZSS3hxT1MxbGJWcDh2cF9ycmdzakdsdEoxRDlNcU5rUzhvUnIyZVluX3ZHSl9CeXRHaExaX2w2YWhSbldvVmVNMU5BZG51dEEyNjFMdTItanUwMndyaGNvbzFaNWYyYnhuOVR0YkxGc2ctNUZnaFdhYXJabVdraEsyOXNHZndmX1Q4T05iQVNzbFE0ZXUyTHB0eXdqY0dxbVpYemdN?oc=5",
+    "title": "Preview: Nottingham Forest vs Chelsea - prediction, team news, lineups",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMXJFTlF2WTdmS3lpWXpOZENhOFFvWjRnLWk4WUpDNGF5WkVBalJYZGhGZFk1T1ROOGgtLU90VVc4UTZSS3hxT1MxbGJWcDh2cF9ycmdzakdsdEoxRDlNcU5rUzhvUnIyZVluX3ZHSl9CeXRHaExaX2w2YWhSbldvVmVNMU5BZG51dEEyNjFMdTItanUwMndyaGNvbzFaNWYyYnhuOVR0YkxGc2ctNUZnaFdhYXJabVdraEsyOXNHZndmX1Q4T05iQVNzbFE0ZXUyTHB0eXdqY0dxbVpYemdN?oc=5",
+    "source": "Sports Mole",
+    "date": 1795650725000,
+    "added": 1795651230780,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "프리뷰: 노팅엄 포레스트 vs 첼시 - 예측, 팀 소식, 선발 명단"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQzVPWFlxYUJ1UnRwdFB3Z05ab1NmTksybDJQclo4TmVyWlcxWVNnOU51NFhzdzhBY3hhcmxPNHlqc1hiT2FyOFhYM05taXZuNWtCbHdONjN1TkN0alNWbWxHNjJ1N3VRM1NMc2VlLVF1Sy1BN1ktazkzVTViQ1dXVEVudFFqc2FTVVNiR21hdDhRLWZlZlV0THFFcFFmd1VSOXo4WXRVekRSbTREbDZhTmtEQkJDNkFyMS01U1B3SFNRZ0NwYTVHWXJ6SW9FUHRCbU5iNW9XQ0NRNF9jWEk5ZmZyWHZYdDNuR2s1QTNRNkJLZw?oc=5",
     "title": "Nottingham Forest news:",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQzVPWFlxYUJ1UnRwdFB3Z05ab1NmTksybDJQclo4TmVyWlcxWVNnOU51NFhzdzhBY3hhcmxPNHlqc1hiT2FyOFhYM05taXZuNWtCbHdONjN1TkN0alNWbWxHNjJ1N3VRM1NMc2VlLVF1Sy1BN1ktazkzVTViQ1dXVEVudFFqc2FTVVNiR21hdDhRLWZlZlV0THFFcFFmd1VSOXo4WXRVekRSbTREbDZhTmtEQkJDNkFyMS01U1B3SFNRZ0NwYTVHWXJ6SW9FUHRCbU5iNW9XQ0NRNF9jWEk5ZmZyWHZYdDNuR2s1QTNRNkJLZw?oc=5",
@@ -49,6 +59,16 @@
     "added": 1795648463966,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 뉴스:"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3gtQ01BejZRZEpWVDEzd0lfdHJkREI1WmhRTDB1TUhjbHFmdkxnV1FpX2R6ODdHR0dOVWpwTVZoTmo0REtWMTAtTTRJZUtlelhqN1p0QXF4TVZuZGN6bXRYdUlqeTY4QnJCQm50OVExRk84WVdEREVYSlZOeUJreXZYbExmUEUzVHN4Tzg3X2ZPQU1uN1c2b0hvS2hITl9HNDZHWlpWb2dJTkh3OTNTYTdsOUVzakh2NHpB?oc=5",
+    "title": "Nottingham Forest boss Glasner criticises players who haven't learned English",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3gtQ01BejZRZEpWVDEzd0lfdHJkREI1WmhRTDB1TUhjbHFmdkxnV1FpX2R6ODdHR0dOVWpwTVZoTmo0REtWMTAtTTRJZUtlelhqN1p0QXF4TVZuZGN6bXRYdUlqeTY4QnJCQm50OVExRk84WVdEREVYSlZOeUJreXZYbExmUEUzVHN4Tzg3X2ZPQU1uN1c2b0hvS2hITl9HNDZHWlpWb2dJTkh3OTNTYTdsOUVzakh2NHpB?oc=5",
+    "source": "Flashscore.com",
+    "date": 1795643180000,
+    "added": 1795651230780,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트의 글라스너 감독, 영어를 배우지 않은 선수들을 비판"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tV2RQRGFZOHk2eXViVTM4VDJ3UFpRQ1BacDlxa2dnVDQtZVUyT0NlZHJWczhpQWpRdVRnbVB3VklKbFVzRGV6UUsxcXU0OVNtMldqVElXXzhGZmowMjR3YlNuVi02dzQtNzc0?oc=5",
@@ -199,6 +219,16 @@
     "added": 1795631063533,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트: 올리버 글라스너 감독, 포레스트의 수준에 불만족"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFI0WTBZbzluM0l5QWM2UzFocG1Ea3dVUklDWEJzOG9NeXp4eWowVEx2cWFyM3haRWl4aktXblJ1bEowMmUwVXNQTWFweE4xWnhqYWVkbFpEdDU4djZLOGRla2l4VUpMNF9SY19na1UwMWFWWnBMWnJnODBlVnpydHQ2MDJ0a2dqX1Z4cHpHdWt6TEJIVWg0ZnJ2ejd1bjRKYXVCZGtlcE1xWENnV0pnV252YjhTVUpWTDBHcG94NnE?oc=5",
+    "title": "Nottingham Forest might be close to getting quality competition for Matz Sels",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFI0WTBZbzluM0l5QWM2UzFocG1Ea3dVUklDWEJzOG9NeXp4eWowVEx2cWFyM3haRWl4aktXblJ1bEowMmUwVXNQTWFweE4xWnhqYWVkbFpEdDU4djZLOGRla2l4VUpMNF9SY19na1UwMWFWWnBMWnJnODBlVnpydHQ2MDJ0a2dqX1Z4cHpHdWt6TEJIVWg0ZnJ2ejd1bjRKYXVCZGtlcE1xWENnV0pnV252YjhTVUpWTDBHcG94NnE?oc=5",
+    "source": "Nottingham Forest News",
+    "date": 1795629600000,
+    "added": 1795651230781,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트가 마츠 셀스를 대체할 수준 높은 선수를 영입할 가능성이 높아졌습니다."
    },
    {
     "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTVLMk8wQkFTQWZFYW1UZTlhT3RCb0ltQnJCN0FFZmFreGVlcm0xbWpYanhsQS1xd25fZmlnT3JXRVJpUEpWUFd1WTRxV3RfM01waEJUQ182Ti15MU5nbHRTaTdzSV82OGE4NnVaSGdvSlBxMTdUSUJtN0djWFBCX0hzTHBOSTBva0VGbnhTMVFzbWhqWEZhLTBWaUFDcjcxOFhZUTF2Zlg?oc=5",
@@ -809,36 +839,6 @@
     "added": 1795513335197,
     "tag": "라인업·팀뉴스",
     "titleKo": "노팅엄 포레스트 FC - 첼시 FC 전력 분석 및 베팅 팁 2026년 11월 27일"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGk2SFZGdmtjMk9ENWMwMHVIVzdFZ1BYa1ZtQjhIemdvU3N6Y3NNdGNiUHkxSUdYdlhNRmZVQnIyaGwwX0h4cHpMX3RkX0N3c2ZKX2ZPMGVpcmxlaUNjcDdmcU5DV25vS0hqREZHWXhDdmowLWRhWmRqNW5DdXM0eE4zaDk0MkRsblBFcTBRckNpcHNVNkxteGg5V3RTMUV6VEppdWtQekFleVkwTjZUTzBTSXRvWXlDT05xcUFLR0R6Z1k?oc=5",
-    "title": "Pedro, Caicedo and Lacroix: Chelsea injury update and return dates ahead of Nottingham Forest clash",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGk2SFZGdmtjMk9ENWMwMHVIVzdFZ1BYa1ZtQjhIemdvU3N6Y3NNdGNiUHkxSUdYdlhNRmZVQnIyaGwwX0h4cHpMX3RkX0N3c2ZKX2ZPMGVpcmxlaUNjcDdmcU5DV25vS0hqREZHWXhDdmowLWRhWmRqNW5DdXM0eE4zaDk0MkRsblBFcTBRckNpcHNVNkxteGg5V3RTMUV6VEppdWtQekFleVkwTjZUTzBTSXRvWXlDT05xcUFLR0R6Z1k?oc=5",
-    "source": "3 Added Minutes",
-    "date": 1795512600000,
-    "added": 1795513335197,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "페드로, 카이세도, 라크루아: 노팅엄 포레스트와의 경기를 앞둔 첼시 부상자 소식 및 복귀 일정"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQelVPNXgtSEY0a1Q5TklvdWlEbG9Ic0IxZUR3LURJU0pLUFAyZG91SDFacjFJay1iMF9hNkFka3MyMDdBbUdtbGVZY20za19kczZHekVSaDN0MGlUeG53SWRzVVlPZ2hUWkdOZ1ZqVDNNZF9VT0lEdk9tc2xwX01CamJpQ0wxRGNjMHo3UG1fV0M4SFcwNWc5aG5meGprazJiVWpmSDBzRnRwemtnbmxfdjhvcGFsYVFGM0pmNzBzcw?oc=5",
-    "title": "Franz Carr thinks Nottingham Forest star is unhappy with Oliver Glasner call",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQelVPNXgtSEY0a1Q5TklvdWlEbG9Ic0IxZUR3LURJU0pLUFAyZG91SDFacjFJay1iMF9hNkFka3MyMDdBbUdtbGVZY20za19kczZHekVSaDN0MGlUeG53SWRzVVlPZ2hUWkdOZ1ZqVDNNZF9VT0lEdk9tc2xwX01CamJpQ0wxRGNjMHo3UG1fV0M4SFcwNWc5aG5meGprazJiVWpmSDBzRnRwemtnbmxfdjhvcGFsYVFGM0pmNzBzcw?oc=5",
-    "source": "Nottingham Forest News",
-    "date": 1795509000000,
-    "added": 1795513335197,
-    "tag": "상대 소식",
-    "titleKo": "프란츠 카르, 노팅엄 포레스트의 스타 선수가 올리버 글라스너 감독의 결정에 불만을 품고 있다고 생각"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmtOenVHYUl0dlBPMWlyTGo4dmdLUE9wLUJ2a1RSdmtpUmdhX3hCUzdXWDZFQUU0Mm9VdkdpRU4xcV9ua0N4TVJvV1ZFSlp0ZzY4clRYZU5Za2ZkN3d3azBfdGdCLUJ6dHJVTVdNOG1MQjVIdkZ1cXdyUnoxUmdEVEZNaU5DUVZmdGtub3pBYVBKTjZsOXNXU3JTUUtoQ1E?oc=5",
-    "title": "Match Report. Newcastle United Under-21s 2 Nottingham Forest Under-21s 2",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmtOenVHYUl0dlBPMWlyTGo4dmdLUE9wLUJ2a1RSdmtpUmdhX3hCUzdXWDZFQUU0Mm9VdkdpRU4xcV9ua0N4TVJvV1ZFSlp0ZzY4clRYZU5Za2ZkN3d3azBfdGdCLUJ6dHJVTVdNOG1MQjVIdkZ1cXdyUnoxUmdEVEZNaU5DUVZmdGtub3pBYVBKTjZsOXNXU3JTUUtoQ1E?oc=5",
-    "source": "Newcastle United",
-    "date": 1795499662000,
-    "added": 1795513335197,
-    "tag": "상대 소식",
-    "titleKo": "경기 보고서. 뉴캐슬 유나이티드 U-21 2 - 2 노팅엄 포레스트 U-21"
    }
   ]
  },
@@ -1738,6 +1738,17 @@
    "titleKo": "토트넘 손흥민 기습 숭배!...8년전, 첼시 상대로 50m 질주 원더골 조명→\"센세이셔널 SONNY\"",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699175_833332_5757_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDVBdllTSC1PTUVhNGZDVDNJRnBGb2t0U2xYeDNoY1dkUWlSaWNlTm45M3NTR2tHUmluSWJsNmJUWEJ0SHNUcWdqTnRMRWZKbDZHUldEaUFCb0t2LUF6d3hoanpIa2MyY052YTc0S0lISE9MVnkwQ1IzSXc1TlRRWFI2aUthRUZzcmxITjZMV09MRnZJRmdfZWpZejZrMjFwTmVSZlZwMXR2QVZjY3ROTUgxS3ZvR1JNU3hYdG8xRTNiMWdrdC1fdQ?oc=5",
+   "title": "Chelsea injury update: Caicedo, Joao Pedro, James latest return dates",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDVBdllTSC1PTUVhNGZDVDNJRnBGb2t0U2xYeDNoY1dkUWlSaWNlTm45M3NTR2tHUmluSWJsNmJUWEJ0SHNUcWdqTnRMRWZKbDZHUldEaUFCb0t2LUF6d3hoanpIa2MyY052YTc0S0lISE9MVnkwQ1IzSXc1TlRRWFI2aUthRUZzcmxITjZMV09MRnZJRmdfZWpZejZrMjFwTmVSZlZwMXR2QVZjY3ROTUgxS3ZvR1JNU3hYdG8xRTNiMWdrdC1fdQ?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795555901000,
+   "added": 1795651227696,
+   "cat": "부상",
+   "titleKo": "첼시 부상자 소식: 카이세도, 주앙 페드로, 제임스의 최근 복귀일"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bVROQXlycExSMElsU01TcG9Uc05pQVZXaFIwUEI5ZC1DbEVPQ09rYVRDal82Y1pOMUZMZUctNnlYeWNZbFVtc1UzX2dhRmR2ekFLMWFWWUNvX3lydmZXRUJmT3dQeFFTMEV4aGNWbHF2RFZJTVp1ZjFB?oc=5",
@@ -4261,17 +4272,6 @@
    "added": 1795459135779,
    "cat": null,
    "titleKo": "첼시, 리즈에 4-1로 패한 후에도 사비 알론소 감독 경질하지 않기로 결정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZm53ZTlsVkZnWEljZXNWUzViSy1OMUxCWDAzNUNsbGxzSDk2U1BDeFB2T3hsamRjbzUzNzJrN1FtWDZ6S2x5MTFoRDQ5MWI5dXZnT0R5cVp0YXl6U2tRaFRlWVFmNmhTUVZHNjdwT01ILWVVMXUtb1dCRlhDMDlZaHdqNlBoekIxLWpKUzM1QTA0Q3NSZm9MRkcwVjRsN0ZfQjdPbm5YTHJIdjJqQXM0?oc=5",
-   "title": "Alonso: ‘Fragile’ Chelsea not ‘at the level required’",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZm53ZTlsVkZnWEljZXNWUzViSy1OMUxCWDAzNUNsbGxzSDk2U1BDeFB2T3hsamRjbzUzNzJrN1FtWDZ6S2x5MTFoRDQ5MWI5dXZnT0R5cVp0YXl6U2tRaFRlWVFmNmhTUVZHNjdwT01ILWVVMXUtb1dCRlhDMDlZaHdqNlBoekIxLWpKUzM1QTA0Q3NSZm9MRkcwVjRsN0ZfQjdPbm5YTHJIdjJqQXM0?oc=5",
-   "source": "We Ain't Got No History",
-   "group": "영국 언론",
-   "date": 1795417860000,
-   "added": 1795433343970,
-   "cat": null,
-   "titleKo": "알론소: '취약한' 첼시는 '필요한 수준에 미치지 못함'"
   }
  ]
 }
