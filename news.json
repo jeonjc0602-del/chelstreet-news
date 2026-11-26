@@ -1,5 +1,5 @@
 {
- "updated": 1795687579608,
+ "updated": 1795690939758,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 2,
@@ -7,28 +7,28 @@
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 5,
-  "The Sun": 2,
+  "The Sun": 3,
   "Mirror": 4,
   "Daily Mail": 4,
   "Telegraph": 4,
   "Independent": 0,
   "Express": 0,
   "Sports Mole": 8,
-  "CaughtOffside": 2,
+  "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 11,
+  "구글뉴스(한국어)": 10,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 49건"
+  "이번 상대": "Nottingham Forest · 새 기사 53건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -844,6 +844,53 @@
  },
  "items": [
   {
+   "id": "https://www.caughtoffside.com/2026/11/26/chelsea-and-man-united-advised-to-sign-calvin-bassey/",
+   "title": "“He’s brilliant” – Chelsea & Man United urged to sign “magnificent” Premier League star",
+   "link": "https://www.caughtoffside.com/2026/11/26/chelsea-and-man-united-advised-to-sign-calvin-bassey/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795690824000,
+   "image": "https://icdn.caughtoffside.com/2026/11/COS-Featured_Hero-Image-Templates-9-2.jpg",
+   "added": 1795690928843,
+   "cat": null,
+   "titleKo": "\"그는 정말 대단합니다\" – 첼시와 맨유가 \"훌륭한\" 프리미어리그 스타 영입을 촉구받다"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/39471356/chelsea-ticket-deal-price-hotel-premier-league-stamford-bridge/",
+   "title": "Chelsea tickets and VIP hospitality deals for Premier League matches at Stamford Bridge from just £155pp",
+   "link": "https://www.thesun.co.uk/sport/39471356/chelsea-ticket-deal-price-hotel-premier-league-stamford-bridge/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795690414000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F08%2FDD-SPORT-TRAVEL-TICKETS-12-08_OP-chelsea-1.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795690928843,
+   "cat": null,
+   "titleKo": "스탬퍼드 브리지에서 열리는 프리미어리그 경기 관람을 위한 첼시 티켓 및 VIP 접대 패키지, 1인당 단돈 £155부터"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdHVYRHI3TFJ0al9rNEMtdUNyUzFIZ3FFdExrY1d1TXBhRUhDLTJ5TWhFMzdEYlZwdHJna1BRZEREYlhvWUNPbTlNaUp4MzhnNnpMeEx3WXZKdGhUYjFUUlhYcnNYZHV3WFpRbTZnd1paeV9PUWVjUFJTR3Q0cXVEeHlmWHc5TV85OTZkekxXRlRCSDBI0gGaAUFVX3lxTE1lTFRLYTVmUG53NlkxRWhiY1ZqQjlXSHpsS2dxcGhkTF94OUlWYWMwQ3lSRmtXZHM5T01tc3lJdmpXeXo4WmF1eVZsOGtsSk1qVUF3b3RsSHo5LUJPX2pBYW5ONFk2MTJKX1dkcGRRd0lQNWh6SVUtb05JTWl0ZUxNbzYtVElEdzE5ejdpeDNYcENjYWM0QWIwWGc?oc=5",
+   "title": "Xabi Alonso seeks revival of classic Chelsea style",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdHVYRHI3TFJ0al9rNEMtdUNyUzFIZ3FFdExrY1d1TXBhRUhDLTJ5TWhFMzdEYlZwdHJna1BRZEREYlhvWUNPbTlNaUp4MzhnNnpMeEx3WXZKdGhUYjFUUlhYcnNYZHV3WFpRbTZnd1paeV9PUWVjUFJTR3Q0cXVEeHlmWHc5TV85OTZkekxXRlRCSDBI0gGaAUFVX3lxTE1lTFRLYTVmUG53NlkxRWhiY1ZqQjlXSHpsS2dxcGhkTF94OUlWYWMwQ3lSRmtXZHM5T01tc3lJdmpXeXo4WmF1eVZsOGtsSk1qVUF3b3RsSHo5LUJPX2pBYW5ONFk2MTJKX1dkcGRRd0lQNWh6SVUtb05JTWl0ZUxNbzYtVElEdzE5ejdpeDNYcENjYWM0QWIwWGc?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795689442000,
+   "added": 1795690928844,
+   "cat": null,
+   "titleKo": "사비 알론소, 첼시의 클래식한 스타일 부활 추구"
+  },
+  {
+   "id": "https://www.sportsmole.co.uk/football/celta-vigo/europa-league/news/how-bournemouth-could-equal-chelsea-leeds-feat-with-celta-vigo-victory_609893.html",
+   "title": "Bournemouth vs. Celta Vigo: How the Cherries could equal Chelsea, Leeds feat with Europa League victory",
+   "link": "https://www.sportsmole.co.uk/football/celta-vigo/europa-league/news/how-bournemouth-could-equal-chelsea-leeds-feat-with-celta-vigo-victory_609893.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795688851000,
+   "image": "https://www.sportsmole.co.uk/thumbor/CFvVEtBD-E2kUWzN2hC37JEXbxA=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Frose-6b01e5631e9b1645052037.png",
+   "added": 1795690928843,
+   "cat": null,
+   "titleKo": "본머스 vs 셀타 비고: 본머스가 유로파리그 우승으로 첼시, 리즈의 업적과 동등해질 수 있는 방법"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaHRiYjBrQUlKYnpjeGRldkdldnBVSlRfY3N3RUtlbjN6cnZiVmstU1FuaEZ6THY2VEt4RnNxZ1Z6UjloQlRtcUY5WUUzaUtUZDBJVTdlb1NoSm5Jc2xrRmNMeldKT3NUY3REOEU2NENaaUZXdjJwcHZEdVAxcG5OSGtvS2JkbHJESkFkdW4wQktqUUU?oc=5",
    "title": "Joao Pedro makes surprise appearance as Chelsea FC injury return nears",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaHRiYjBrQUlKYnpjeGRldkdldnBVSlRfY3N3RUtlbjN6cnZiVmstU1FuaEZ6THY2VEt4RnNxZ1Z6UjloQlRtcUY5WUUzaUtUZDBJVTdlb1NoSm5Jc2xrRmNMeldKT3NUY3REOEU2NENaaUZXdjJwcHZEdVAxcG5OSGtvS2JkbHJESkFkdW4wQktqUUU?oc=5",
@@ -947,6 +994,17 @@
    "added": 1795687563331,
    "cat": null,
    "titleKo": "전문가, \"콜 파머가 '창피한' 첼시의 반전으로 인해 사비 알론소를 경질시킬 수 있다\"고 말함"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWlBajZjbl96U3BKU1praUhORmhHdU5ESV9OU3BYSjVZdWlyazdldDR1R0s3bG5qWWV4QnFJSmRxSE5vYzZTdHloMmJBNjlkSDBOdEVSOXl3bTFoZTlvZnBKR3pZei12U2xzYnBTUmNDYzBhOGU2NUZJazhNSDA1ZUgxX2lDVW1TbkpBM3ZiTjc3SDd3SDVkejJUdzVjSDBlbWRPUDJn0gGrAUFVX3lxTE1hN08zVlYzbnRQNU1jVHhaNHhpanlCU0xhWjhqZm1rVHNvbjB0UUsyV211Vk5qTmVqUmRBMWhCSXZzSDVaUDA3WWhodEUyamVsMGhya18zeTlPMXQ3UG9HUTFRWnZoZUw5UTJtR21zOGZsb3BSM1Z3TjEwcUJwLXZtVWU2LXc3SF9iQ0pGdkExbnQ2bXNiRzNBNVo4OVh1MFZxVVVvOGtURHNBRQ?oc=5",
+   "title": "Sunderland secretly extend Xhaka contract amid Chelsea interest",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWlBajZjbl96U3BKU1praUhORmhHdU5ESV9OU3BYSjVZdWlyazdldDR1R0s3bG5qWWV4QnFJSmRxSE5vYzZTdHloMmJBNjlkSDBOdEVSOXl3bTFoZTlvZnBKR3pZei12U2xzYnBTUmNDYzBhOGU2NUZJazhNSDA1ZUgxX2lDVW1TbkpBM3ZiTjc3SDd3SDVkejJUdzVjSDBlbWRPUDJn0gGrAUFVX3lxTE1hN08zVlYzbnRQNU1jVHhaNHhpanlCU0xhWjhqZm1rVHNvbjB0UUsyV211Vk5qTmVqUmRBMWhCSXZzSDVaUDA3WWhodEUyamVsMGhya18zeTlPMXQ3UG9HUTFRWnZoZUw5UTJtR21zOGZsb3BSM1Z3TjEwcUJwLXZtVWU2LXc3SF9iQ0pGdkExbnQ2bXNiRzNBNVo4OVh1MFZxVVVvOGtURHNBRQ?oc=5",
+   "source": "Tribuna.com",
+   "group": "영국 언론",
+   "date": 1795683633000,
+   "added": 1795690928844,
+   "cat": null,
+   "titleKo": "첼시의 관심을 받는 가운데, 선덜랜드가 몰래 자카의 계약을 연장하다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXA2TTNvY0txWlV4bHFmTk9JNUFlUV95b3hVcjVfa05YMHBoaUlkOGt2TmhpR0xWVDAyQjlFYk9QM284MnBqc0RXOUVqTTd2MEFtNW1QOVJSLWZEYlo1VGIwT0hvR3MySk0tNjhMRHFzaHlYLUo5dlJ6dEVTb2RiMnEzZlJnOWh5Y3lhanZDMGVQWC1DN19VWWhTUDBiS2pFc0lMWDRJMEJFUQ?oc=5",
@@ -1167,6 +1225,17 @@
    "titleKo": "매사추세츠주 첼시에서 추수감사절 고등학교 미식축구 경기 후 사이드라인에서 남성이 총격을 당해 사망했습니다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVlpa2NwTjFITUprX3JkOUktclotTzE1alZVa1BWMWNGM1dJejIzajB0LUJJRVVTR2YxYVJ4M3BVNW1vRFVKWmZDdDByeTJsbWNVbEtnSnMzT19aLU8yTkx6R2ZPUkJ1bnc4NXFkLWUyRnI2OE51b1NDOG55VXVWVnZrREl1N0paeUFuLWJFbTVHLUJXUVFtdUNHR0lOVWpkdHc?oc=5",
+   "title": "Man shot and killed after high school football game in Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVlpa2NwTjFITUprX3JkOUktclotTzE1alZVa1BWMWNGM1dJejIzajB0LUJJRVVTR2YxYVJ4M3BVNW1vRFVKWmZDdDByeTJsbWNVbEtnSnMzT19aLU8yTkx6R2ZPUkJ1bnc4NXFkLWUyRnI2OE51b1NDOG55VXVWVnZrREl1N0paeUFuLWJFbTVHLUJXUVFtdUNHR0lOVWpkdHc?oc=5",
+   "source": "CBS News",
+   "group": "영국 언론",
+   "date": 1795665960000,
+   "added": 1795690928843,
+   "cat": null,
+   "titleKo": "첼시에서 고등학교 미식축구 경기 후 총격으로 남성 사망"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzVFczZPUkRtLVZuaHAwbjlkV0dtUDVqTVZkZ29BX0xuV0t4dk1ZdHFGOXR2VWhmY20xd21kTF84SkJDb2ZwX1RkOTduNVRhbTNMQnE0WEZ2c2xTcnljbnBwR3FycE5veGxPaDQ5Rm9yMy1YUU9TM3N1OTlIQnNiS3R2ekVQMHNMMHA2Um1MS3pOdGlSQUlTdnNpVnZNWkNUUEJxVXQzaDRwZ9IBrwFBVV95cUxNekZ3X0VfLWE1X2VTbEVGT21GUC11WExHUkJET1J4NmlIWHNmYU1acVI5Qmp6MF9kemF1b2FDckJ1QjE1SWpIUmlhY2NjNFNhbTJVXzJmWDBpNDdhTzdMckZtc2R5eW9pcEVGblZpLTZ3RV9ZZW9CbURDY29xMThMX2dLTHhfUXd0dDNudzBpdm9MalRGWDhLWUxHbXUwamUwNDcwUTc1b2pnaU84dG4w?oc=5",
    "title": "1 dead in shooting at Chelsea High School football game",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzVFczZPUkRtLVZuaHAwbjlkV0dtUDVqTVZkZ29BX0xuV0t4dk1ZdHFGOXR2VWhmY20xd21kTF84SkJDb2ZwX1RkOTduNVRhbTNMQnE0WEZ2c2xTcnljbnBwR3FycE5veGxPaDQ5Rm9yMy1YUU9TM3N1OTlIQnNiS3R2ekVQMHNMMHA2Um1MS3pOdGlSQUlTdnNpVnZNWkNUUEJxVXQzaDRwZ9IBrwFBVV95cUxNekZ3X0VfLWE1X2VTbEVGT21GUC11WExHUkJET1J4NmlIWHNmYU1acVI5Qmp6MF9kemF1b2FDckJ1QjE1SWpIUmlhY2NjNFNhbTJVXzJmWDBpNDdhTzdMckZtc2R5eW9pcEVGblZpLTZ3RV9ZZW9CbURDY29xMThMX2dLTHhfUXd0dDNudzBpdm9MalRGWDhLWUxHbXUwamUwNDcwUTc1b2pnaU84dG4w?oc=5",
@@ -1354,6 +1423,28 @@
    "added": 1795655384558,
    "cat": "프리뷰",
    "titleKo": "노팅엄 포레스트 vs 첼시 - 경기 예측, 팀 소식, 선발 명단"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZWx2SXBhWE85aWVCX0RYQXRUUTlBNjZ5Y0xvdXQ4LXhwZ1l5SS14Tno3emMtek9XQ2NtNHBkMkJYR1V3Q3JQUUJ0Zk5zV0F2MFR6THB1UklIMWZKNTlOVmM1U1RFMmJtNjdJNzExRUZOcGhFalNOSlN3VHRPU0RzNmp2dWl6ZHdmVE9HZTBKZ3RHV1VWQW9wYXVibFR1OUFySkpRX0p5anRnb1lzSkd6SUhRdnJVT1pRcXdGdjdUbVVpWGQ4YzVBSy1OaVA0ZGVYOGp4QUNiWTN6RkxiQnhhaXFsaFRYLS1MbVNSdkt2aU81elRnX1Z6dkhObzVsczJCM1V3VWFTWQ?oc=5",
+   "title": "Chelsea Nike Home Stadium Shorts 2026-27 - Kids",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZWx2SXBhWE85aWVCX0RYQXRUUTlBNjZ5Y0xvdXQ4LXhwZ1l5SS14Tno3emMtek9XQ2NtNHBkMkJYR1V3Q3JQUUJ0Zk5zV0F2MFR6THB1UklIMWZKNTlOVmM1U1RFMmJtNjdJNzExRUZOcGhFalNOSlN3VHRPU0RzNmp2dWl6ZHdmVE9HZTBKZ3RHV1VWQW9wYXVibFR1OUFySkpRX0p5anRnb1lzSkd6SUhRdnJVT1pRcXdGdjdUbVVpWGQ4YzVBSy1OaVA0ZGVYOGp4QUNiWTN6RkxiQnhhaXFsaFRYLS1MbVNSdkt2aU81elRnX1Z6dkhObzVsczJCM1V3VWFTWQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795645828000,
+   "added": 1795690928844,
+   "cat": null,
+   "titleKo": "첼시 Nike 홈경기장 쇼츠 2026-27 - 아동용"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlpvblR3NWFLaVBiaUQ5TjJSVUx1NUx2YkN4aUZKOHVCRVpFcUxpbC1oeWhkWW1mYWdsdmdpMGNmeE1BUk8xa191N19pZXlHRUpyUjFFRDU4RmRQUnpGWVZCMzAxU2F4QzI3WWtvaGJWLXVIU2dIWXFPdWdpZzBvVVBnZnJqYW1Dc3Z0UUhjazB1UQ?oc=5",
+   "title": "Chelsea decide to sack Alonso during this season on one condition - he is 'failing minimum expectation'",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlpvblR3NWFLaVBiaUQ5TjJSVUx1NUx2YkN4aUZKOHVCRVpFcUxpbC1oeWhkWW1mYWdsdmdpMGNmeE1BUk8xa191N19pZXlHRUpyUjFFRDU4RmRQUnpGWVZCMzAxU2F4QzI3WWtvaGJWLXVIU2dIWXFPdWdpZzBvVVBnZnJqYW1Dc3Z0UUhjazB1UQ?oc=5",
+   "source": "Football365",
+   "group": "영국 언론",
+   "date": 1795645452000,
+   "added": 1795690928844,
+   "cat": null,
+   "titleKo": "첼시는 이번 시즌에 알론소 감독을 해임하기로 결정했습니다. 단 한 가지 조건은 그가 '최소한의 기대치에 미치지 못하는' 경우입니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUZoOVQ2Q29xakRFRVZWV25kSHZzOXZBWUpTTWRnejRnMHdVQ3Y1bDhKMnhyNm1hYXpyX1FZUG5kT2xnZXd4b19saHZGX1B2ZHhXVHRpNVBrM29uTUJWMXVIMXNmaEY2d3A2ZVI1T3I0c25RbkRxclk5TENsSHZVZlJNRVpyLWl4LVlwVmcyUm54RUNSTzI3dFZYT3h4ZDZDdEUzVEFJek13VFc2dzJkWlJR?oc=5",
@@ -1735,6 +1826,17 @@
    "added": 1795618298753,
    "cat": null,
    "titleKo": "베키 스펜서의 삶 속으로"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXotM01MRUt4MUpWQVRGeVk4Ylc1a1J5enhyM2t4dHJBdUVnZFphRlBCY21YV2lIbEY2ZlBtcFJCQl84VnE4cW9lQ1ZadjUtNnlRc0JPUVMydHVRM28ydXgxTTQ5eXhnendrRm1GdXVqVGpkZXN6MDhSVmZGelRlVVdNdjgyMk05VW9fQWxlXzBNeVFQZFh1Ml8wamIwUzZmUXUzOFF5ZEhTRHVSM1lNcklScWt3Y0lhV3RrS0ZR?oc=5",
+   "title": "Emegha 'would do anything to win' at Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXotM01MRUt4MUpWQVRGeVk4Ylc1a1J5enhyM2t4dHJBdUVnZFphRlBCY21YV2lIbEY2ZlBtcFJCQl84VnE4cW9lQ1ZadjUtNnlRc0JPUVMydHVRM28ydXgxTTQ5eXhnendrRm1GdXVqVGpkZXN6MDhSVmZGelRlVVdNdjgyMk05VW9fQWxlXzBNeVFQZFh1Ml8wamIwUzZmUXUzOFF5ZEhTRHVSM1lNcklScWt3Y0lhV3RrS0ZR?oc=5",
+   "source": "beIN SPORTS",
+   "group": "영국 언론",
+   "date": 1795614936000,
+   "added": 1795690928843,
+   "cat": null,
+   "titleKo": "에메가, \"첼시에서 우승을 위해 무엇이든 할 것\""
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzMtRmVaZFl1S0QxV2JMcGFRamptY3BIZE12U0hIdkVaSllEYWpVVWxSdHFrQXdOVW1iRGlPM1kyUnRsZnZUZzZwR0JXSHRJZDZXaTdhX1VjTTdnWFdGMnBqVnk4d2dMYkRzR2dqRWI1Yll0TWNJRUxjakpvVUNDRXcwYVZrc1doZEFOX2R2RmViMDRHSkhiSXNJazBLeTllU0xLdmJ2ZlpXUV9oR3fSAbMBQVVfeXFMUHRWdENaOE9pa2wyU2JITjVHYXlmS3lUV2IxMFB1dmZ0dXJfZG8xTzZYRmFETmlwMjduekZ2a1hPd1ZXdzFRazlJRkxCZ0taVXMzXzJBYWZrWTJteUFfRTRRbWFocU9aSmlGQnpPQlQydmVwZWFUNmFTeHNJaFpkQW1KYnVfRzdtOTNGd1VBal9HZ3BIa2JRblN3eDVQTjItbkZQNG1ac0NPcFBPRnFON0pPVHM?oc=5",
@@ -4167,108 +4269,6 @@
    "added": 1795465812948,
    "cat": null,
    "titleKo": "폴 머슨, 첼시의 부진이 계속되는 가운데 리버풀의 알론소 영입 결정에 의문을 제기"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5QSWRuMzZxVzhPQlJMSExXWkZjYzVSV0picDRFX1JPeDZCb2h4UExjS1UxYWVzb1Y3eEdjaGRPYmZoQUx6Qm54TzBlY1pxLTFWWXVGU0ZQa25UNEVaWVdUNWNzdWxSc1F0eGFIU0ZDZGswcXV1Z1E2clJyNnllLWtyLUxuYWsxTmVvZGNzQmR4SWlzS3VHUjBpZE1mOENQUTRwd1hPd3FJc3ZY?oc=5",
-   "title": "PGA Division 1 report: Chelsea Women Under-18s 10-2 Birmingham City | News | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5QSWRuMzZxVzhPQlJMSExXWkZjYzVSV0picDRFX1JPeDZCb2h4UExjS1UxYWVzb1Y3eEdjaGRPYmZoQUx6Qm54TzBlY1pxLTFWWXVGU0ZQa25UNEVaWVdUNWNzdWxSc1F0eGFIU0ZDZGswcXV1Z1E2clJyNnllLWtyLUxuYWsxTmVvZGNzQmR4SWlzS3VHUjBpZE1mOENQUTRwd1hPd3FJc3ZY?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795453200000,
-   "added": 1795472118072,
-   "cat": "오피셜",
-   "titleKo": "PGA 디비전 1 경기 결과: 첼시 여자 U-18 10-2 버밍엄 시티 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTNsZnk5YmhTZ2xHeEhzQlNUQ0FmSmVLZ25GV3NDRnAwQ0VXRVk1YjFObWtnQ0c1bmZVTXBYWVVXMWVHdkJ2VjZQV0M3Znc3M01XOWVmUmRfRy1lUFpLQ2RGdlNuSzVIREFMUkd0SmZuV3g5c1RFcDVNd2NCNG12cWljakZHdzZjbTBZb180Qnh3TV9HZTFxaDczVHotM0ZYdFNkR0w1SmlaOWp4a2M2X1lNNkZfNGd0dmpPY1czcw?oc=5",
-   "title": "Chelsea and Man Utd 'pushing hard' for €20m January signing",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTNsZnk5YmhTZ2xHeEhzQlNUQ0FmSmVLZ25GV3NDRnAwQ0VXRVk1YjFObWtnQ0c1bmZVTXBYWVVXMWVHdkJ2VjZQV0M3Znc3M01XOWVmUmRfRy1lUFpLQ2RGdlNuSzVIREFMUkd0SmZuV3g5c1RFcDVNd2NCNG12cWljakZHdzZjbTBZb180Qnh3TV9HZTFxaDczVHotM0ZYdFNkR0w1SmlaOWp4a2M2X1lNNkZfNGd0dmpPY1czcw?oc=5",
-   "source": "FootballTransfers.com",
-   "group": "영국 언론",
-   "date": 1795453080000,
-   "added": 1795475434620,
-   "cat": null,
-   "titleKo": "첼시와 맨유, 1월 이적 시장에서 2천만 유로의 이적료를 제시하며 '적극적으로 영입을 추진'"
-  },
-  {
-   "id": "https://www.caughtoffside.com/2026/11/23/merson-shares-xabi-alonso-theory-which-should-worry-chelsea/",
-   "title": "‘If this was Liam Rosenior…’ – Merson shares Xabi Alonso theory which should worry Chelsea fans",
-   "link": "https://www.caughtoffside.com/2026/11/23/merson-shares-xabi-alonso-theory-which-should-worry-chelsea/",
-   "source": "CaughtOffside",
-   "group": "영국 언론",
-   "date": 1795452165000,
-   "image": "https://icdn.caughtoffside.com/2026/11/merson-alonso.jpg",
-   "added": 1795452458511,
-   "cat": null,
-   "titleKo": "'이게 리암 로젠이어였다면...' – 머슨, 첼시 팬들을 걱정하게 만들 Xabi Alonso 이론을 공유하다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEM0WElGRnZfV0V5OFowLTdIV1g4WjF4SHFRYzdlUDE0bldHZVI5dmZsajZqcW95WHJHWGx4RWhOSFRyNE1OSURjcDhiWE1hbVg0ZDNlVzMxVFU4bnJvZ2xfeTNSVll4TTAwMTJjbmdoMUFWRXY5MXpQcmdJVDdJZUZzRGx3Vk1kN3FUdnJxWTRESFVIa2lsMTEzTHRucTkwWnc?oc=5",
-   "title": "Arsenal and Chelsea include Fabregas in their futu… | Yalla Shoot",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEM0WElGRnZfV0V5OFowLTdIV1g4WjF4SHFRYzdlUDE0bldHZVI5dmZsajZqcW95WHJHWGx4RWhOSFRyNE1OSURjcDhiWE1hbVg0ZDNlVzMxVFU4bnJvZ2xfeTNSVll4TTAwMTJjbmdoMUFWRXY5MXpQcmdJVDdJZUZzRGx3Vk1kN3FUdnJxWTRESFVIa2lsMTEzTHRucTkwWnc?oc=5",
-   "source": "YSscores",
-   "group": "영국 언론",
-   "date": 1795452090000,
-   "added": 1795459135779,
-   "cat": null,
-   "titleKo": "아스널과 첼시, 파브레가스를 미래 전력으로 고려… | Yalla Shoot"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/chelseas-stance-xabi-alonso-revealed-34955291",
-   "title": "Chelsea's stance on Xabi Alonso revealed and update on sporting director's future",
-   "link": "https://www.football.london/chelsea-fc/news/chelseas-stance-xabi-alonso-revealed-34955291",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795451928000,
-   "image": "https://i2-prod.football.london/incoming/article34949062.ece/ALTERNATES/s615/0_GettyImages-2306212301.jpg",
-   "added": 1795452458511,
-   "cat": null,
-   "titleKo": "첼시의 사비 알론소 영입에 대한 입장과 스포츠 디렉터의 미래에 대한 업데이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFJPZUJmM2ZVcHYtTElYZ0l3bmlVbWh2TEpic1gwSXEwc2xRRFA4WVl1cUczblU5TnQ2Q184eXNMaksxUTZkUkNYWUV5Rkd1alVmM0VYcHBra0lxQ202ZmVnZnNJeWZUaHlXLV9PemZnb0JSQ2lEYzZlUGlnV2lrOXBVTDFuenctLU0zZ2dGQklrYkpSVTFtYUJhRkhiS3JKWGhsMU1fbHVsblNMbjBZ?oc=5",
-   "title": "Sources: Chelsea's stance on Xabi Alonso's future updated",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFJPZUJmM2ZVcHYtTElYZ0l3bmlVbWh2TEpic1gwSXEwc2xRRFA4WVl1cUczblU5TnQ2Q184eXNMaksxUTZkUkNYWUV5Rkd1alVmM0VYcHBra0lxQ202ZmVnZnNJeWZUaHlXLV9PemZnb0JSQ2lEYzZlUGlnV2lrOXBVTDFuenctLU0zZ2dGQklrYkpSVTFtYUJhRkhiS3JKWGhsMU1fbHVsblNMbjBZ?oc=5",
-   "source": "Football Insider",
-   "group": "영국 언론",
-   "date": 1795449600000,
-   "added": 1795452458512,
-   "cat": null,
-   "titleKo": "소식통: 샤비 알론소의 미래에 대한 첼시의 입장 업데이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XLWVYMnR3bjUtLW1VTmNtNWpHWXJkeTVxWWlhWm9JejNHc0pfSFhrZklZYkJQeWtyXzdvUlQwNGw5Z2tSU29NM0NhdVRIN21aSDJmam5LandWd2ZUejNDaXB1UVpaVGFuOUNrdy01SThWS2V4aUdGYXJyQQ?oc=5",
-   "title": "Training gallery: Hard at work",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XLWVYMnR3bjUtLW1VTmNtNWpHWXJkeTVxWWlhWm9JejNHc0pfSFhrZklZYkJQeWtyXzdvUlQwNGw5Z2tSU29NM0NhdVRIN21aSDJmam5LandWd2ZUejNDaXB1UVpaVGFuOUNrdy01SThWS2V4aUdGYXJyQQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795448700000,
-   "added": 1795462967486,
-   "cat": null,
-   "titleKo": "트레이닝 갤러리: 열심히 일하는 모습"
-  },
-  {
-   "id": "https://www.bbc.co.uk/bitesize/articles/z34x7v4?at_medium=RSS&at_campaign=rss",
-   "title": "Who am I? Guess the sports star from the blurred photo",
-   "link": "https://www.bbc.co.uk/bitesize/articles/z34x7v4?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "group": "영국 언론",
-   "date": 1795448250000,
-   "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0ppgybp.jpg",
-   "added": 1795535535114,
-   "cat": null,
-   "titleKo": "저는 누구일까요? 흐릿한 사진 속 스포츠 스타를 맞춰보세요."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNktVcDU1Ty1YRWRDOVAxbHlsdzNwVGZlcUw0VnhGcEJpTEFQY2djbVVRdEtQNm9sY3p1R0ZLckxmUzdUeXoyNjFYV2tWUVIxYUZwd2hpbjRaSVlJOUdtZ001SVBhcVN2dGtNZ1Ria0NYd2hZd3BtMkZlbW9RNTJPQkxPaEZDR3hvSjQ1QmdkSXhucUlPMFgxaFhZaDRpNXJXdVcxa3hNZnY4UGJNSFFYbEdvX2dSZ3lEWGczSm1pNndoRGtxMVhlRzZ4Ml9rYVIzdlZ6SQ?oc=5",
-   "title": "Chelsea Etched Bottle Opener Keyring",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNktVcDU1Ty1YRWRDOVAxbHlsdzNwVGZlcUw0VnhGcEJpTEFQY2djbVVRdEtQNm9sY3p1R0ZLckxmUzdUeXoyNjFYV2tWUVIxYUZwd2hpbjRaSVlJOUdtZ001SVBhcVN2dGtNZ1Ria0NYd2hZd3BtMkZlbW9RNTJPQkxPaEZDR3hvSjQ1QmdkSXhucUlPMFgxaFhZaDRpNXJXdVcxa3hNZnY4UGJNSFFYbEdvX2dSZ3lEWGczSm1pNndoRGtxMVhlRzZ4Ml9rYVIzdlZ6SQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795445606000,
-   "added": 1795609800640,
-   "cat": null,
-   "titleKo": "첼시 에칭 병따개 키링"
   }
  ]
 }
