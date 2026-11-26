@@ -1,5 +1,5 @@
 {
- "updated": 1795671371089,
+ "updated": 1795674813562,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -8,16 +8,16 @@
   "football.london": 25,
   "Evening Standard": 4,
   "The Sun": 0,
-  "Mirror": 3,
+  "Mirror": 4,
   "Daily Mail": 3,
   "Telegraph": 4,
   "Independent": 0,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 10,
   "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 69,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 59건"
+  "이번 상대": "Nottingham Forest · 새 기사 55건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,26 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHFmUzBwNi00aDF1eVFUdTJZZnVOUlBSMU1xZGtiS1BBa1ZnOEdIY0NEdFBpdFo0N0FxX0N2dllyUFFYQk52djFFQVV3ZW91T3RVMzV3LWJ0cm14V0M5bl8tUjc5eGxYN2pIS3VLREtQazhNQlhfQXc0TEEyeXd0YWtmazZ2TENRVGNOTmdZdkdDYmRZQjRvcl9RU3JmMDJFMl9tWUdFQdIBrAFBVV95cUxNcnBJV3F3a3NCMFVWdkp6NS1QQl91Y3N0dUp3VHdQWXFnaHpuWFVkaXRLZkQ0ZWEwMllpQWV2T0s0QW1saWZhLWltM1ZMUkJaMGVkTW9relZZUDlNUmZNNjdQMzl2TnBmQUlNeG1RdV95TUxuRlZtT1pzd2IxcDF0OTlaWExZQ0d2WklKdXB5RHVmM3E3dFM4b3pSbzlhVTlGdGpqSF9OejZlS3B0?oc=5",
+    "title": "Nottingham Forest need all the help they can get at home but City Ground proposal has its challenges",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHFmUzBwNi00aDF1eVFUdTJZZnVOUlBSMU1xZGtiS1BBa1ZnOEdIY0NEdFBpdFo0N0FxX0N2dllyUFFYQk52djFFQVV3ZW91T3RVMzV3LWJ0cm14V0M5bl8tUjc5eGxYN2pIS3VLREtQazhNQlhfQXc0TEEyeXd0YWtmazZ2TENRVGNOTmdZdkdDYmRZQjRvcl9RU3JmMDJFMl9tWUdFQdIBrAFBVV95cUxNcnBJV3F3a3NCMFVWdkp6NS1QQl91Y3N0dUp3VHdQWXFnaHpuWFVkaXRLZkQ0ZWEwMllpQWV2T0s0QW1saWZhLWltM1ZMUkJaMGVkTW9relZZUDlNUmZNNjdQMzl2TnBmQUlNeG1RdV95TUxuRlZtT1pzd2IxcDF0OTlaWExZQ0d2WklKdXB5RHVmM3E3dFM4b3pSbzlhVTlGdGpqSF9OejZlS3B0?oc=5",
+    "source": "Nottingham Post",
+    "date": 1795672945000,
+    "added": 1795674805968,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트는 홈경기에서 가능한 모든 지원이 필요하지만, 시티 그라운드 제안에는 어려움이 있습니다."
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGQ0c0xxeE9yUGl6dTlBSVNKclVPNTJjaVhwZTNLbFNLQ3o1Ui1lZ2RXV3NveXByaEljbEU5RWt2aUkzRnkwUXVxV0Y0NmdpNU16WXkwejE3Z2dXdU9RNjhXMTB2WHoxQ3V1bHJzb3NOeTdNTTJJRnhHNm43Zy1qYjlxT0g2UGlraUFmSGp4Zlc1b2YyRzZwallKcFRxRFRFZEdJ?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Key statistics and facts | News | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGQ0c0xxeE9yUGl6dTlBSVNKclVPNTJjaVhwZTNLbFNLQ3o1Ui1lZ2RXV3NveXByaEljbEU5RWt2aUkzRnkwUXVxV0Y0NmdpNU16WXkwejE3Z2dXdU9RNjhXMTB2WHoxQ3V1bHJzb3NOeTdNTTJJRnhHNm43Zy1qYjlxT0g2UGlraUFmSGp4Zlc1b2YyRzZwallKcFRxRFRFZEdJ?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795672800000,
+    "added": 1795674805968,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs 첼시: 주요 통계 및 정보 | 뉴스 | 공식 사이트"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTlJMHpLcFdscHV2MGJ1Mk9Qbjd6ZzV0SWNqUHNFN1FLMUo1V1VuMm1Vb284Vk9wcXBfQk1qbXV5SlB5RHFoMGxYaU5rR2p6Zy14SmFrMzFnY3NFQmt3Z0JnNWdDYmluaHFTMENvVmhoYk1zZ0UxTldyTWozMXpwT1FaaXlHN2RWWTRxMm4tLXVwbzVpcFI5Y0xaYnZJem8?oc=5",
     "title": "Liam Delap’s Chelsea exit, what went wrong, and why they’ll fear Forest reprisal",
@@ -819,30 +839,57 @@
     "added": 1795523744311,
     "tag": "상대 소식",
     "titleKo": "올리버 글라스너 감독은 1월 이적 시장에서만 해결할 수 있는 노팅엄 포레스트와의 명확한 문제를 안고 있습니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtIai1jSm5kX3c3LTZHTVZ4RDJuVmJNU2dYNDByWnpESGpOcEVZbkZsVXIyWXI0N3JXbnNraFVmcHBjREtHMktiZWdfb1IxZlczeUlaQ2ZGbFNGMlBMaGRBaGg3VVlRblpiNmVNOE8xNHVLMUtfQTVyb0FDTldGbmwwSGxkOEYxSnNPcnh2dVJZWnVKWENrcGF0cEx5MU5sRURUbXVMWQ?oc=5",
-    "title": "'Loads of stuff started coming out' - Ryan Yates on his inspirational Nottingham Forest speech",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtIai1jSm5kX3c3LTZHTVZ4RDJuVmJNU2dYNDByWnpESGpOcEVZbkZsVXIyWXI0N3JXbnNraFVmcHBjREtHMktiZWdfb1IxZlczeUlaQ2ZGbFNGMlBMaGRBaGg3VVlRblpiNmVNOE8xNHVLMUtfQTVyb0FDTldGbmwwSGxkOEYxSnNPcnh2dVJZWnVKWENrcGF0cEx5MU5sRURUbXVMWQ?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795520451000,
-    "added": 1795528492593,
-    "tag": "상대 소식",
-    "titleKo": "'많은 이야기가 나오기 시작했습니다' - 라이언 예이츠, 그의 감동적인 노팅엄 포레스트 연설에 대해"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTVlMclRxV1Z4SUNkSGF3VzRqekp2R3dfVENQYVhWRkQwR3RYT2wwd1NkNDdzSTFYMVJZU1VqQUl4YmFBS3BJZG1lTW1VeUpycTRaOWJMT2ptZEpZOU05TWpwckNmOVVBY0FqNVI3RGc0QndiMkRHZVFWTUVTeUJWY3pBekQxTTJPXzhjR2xIQnFZaF9Ca0taUjhDVVczcmVWYWo4QWk0dDdWMWU5WWJkZVc2enYxQ3VIMTh0VWtGeDVEamtmaUtFQnhZMS1yVDByOU5YMDZYTUJ0OXhMVkxfN1EzNUo3dEI1c1hieA?oc=5",
-    "title": "Chelsea at Nottingham Forest - EPL Game Summary - Nov 27, 2026",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTVlMclRxV1Z4SUNkSGF3VzRqekp2R3dfVENQYVhWRkQwR3RYT2wwd1NkNDdzSTFYMVJZU1VqQUl4YmFBS3BJZG1lTW1VeUpycTRaOWJMT2ptZEpZOU05TWpwckNmOVVBY0FqNVI3RGc0QndiMkRHZVFWTUVTeUJWY3pBekQxTTJPXzhjR2xIQnFZaF9Ca0taUjhDVVczcmVWYWo4QWk0dDdWMWU5WWJkZVc2enYxQ3VIMTh0VWtGeDVEamtmaUtFQnhZMS1yVDByOU5YMDZYTUJ0OXhMVkxfN1EzNUo3dEI1c1hieA?oc=5",
-    "source": "USA Today",
-    "date": 1795518722000,
-    "added": 1795523744311,
-    "tag": "상대 소식",
-    "titleKo": "첼시 대 노팅엄 포레스트 - EPL 경기 하이라이트 - 2026년 11월 27일"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
+   "title": "'Laughing gas has ended careers' - so how common is it in football?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "group": "영국 언론",
+   "date": 1795673910000,
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0c0a/live/8a3de1f0-e8fc-11f1-a77a-271abcb79951.jpg",
+   "added": 1795674805295,
+   "cat": null,
+   "titleKo": "'웃음 가스가 선수 생활을 끝냈다' - 축구계에서 얼마나 흔한 일인가요?"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/videos/cmj6l1p7e3pko?at_medium=RSS&at_campaign=rss",
+   "title": "Does football have a nitrous oxide problem?",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmj6l1p7e3pko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "group": "영국 언론",
+   "date": 1795673279000,
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/462a/live/17c5cea0-e8ff-11f1-a094-5fdc692f3e33.jpg",
+   "added": 1795674805295,
+   "cat": null,
+   "titleKo": "축구계에 아산화질소 문제가 있나요?"
+  },
+  {
+   "id": "https://www.mirror.co.uk/sport/football/news/manchester-united-january-transfer-news-37915803",
+   "title": "Six Man Utd deals that can happen in January as Chelsea star 'strikes verbal agreement'",
+   "link": "https://www.mirror.co.uk/sport/football/news/manchester-united-january-transfer-news-37915803",
+   "source": "Mirror",
+   "group": "영국 언론",
+   "date": 1795672800000,
+   "image": "https://i2-prod.mirror.co.uk/incoming/article37915967.ece/ALTERNATES/s615/0_Manchester-United-Press-Conference-Jose-Alvalade-Stadium-Tuesday-November-24th.jpg",
+   "added": 1795674805297,
+   "cat": null,
+   "titleKo": "첼시의 스타 선수가 '구두 합의'를 하면서 1월에 성사될 수 있는 맨유의 6건의 이적"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGQ0c0xxeE9yUGl6dTlBSVNKclVPNTJjaVhwZTNLbFNLQ3o1Ui1lZ2RXV3NveXByaEljbEU5RWt2aUkzRnkwUXVxV0Y0NmdpNU16WXkwejE3Z2dXdU9RNjhXMTB2WHoxQ3V1bHJzb3NOeTdNTTJJRnhHNm43Zy1qYjlxT0g2UGlraUFmSGp4Zlc1b2YyRzZwallKcFRxRFRFZEdJ?oc=5",
+   "title": "Nottingham Forest vs Chelsea: Key statistics and facts | News | Official Site",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGQ0c0xxeE9yUGl6dTlBSVNKclVPNTJjaVhwZTNLbFNLQ3o1Ui1lZ2RXV3NveXByaEljbEU5RWt2aUkzRnkwUXVxV0Y0NmdpNU16WXkwejE3Z2dXdU9RNjhXMTB2WHoxQ3V1bHJzb3NOeTdNTTJJRnhHNm43Zy1qYjlxT0g2UGlraUFmSGp4Zlc1b2YyRzZwallKcFRxRFRFZEdJ?oc=5",
+   "source": "Chelsea Football Club",
+   "group": "영국 언론",
+   "date": 1795672800000,
+   "added": 1795674805297,
+   "cat": "오피셜",
+   "titleKo": "노팅엄 포레스트 vs 첼시: 주요 통계 및 정보 | 뉴스 | 공식 사이트"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzQ3TUdTUGpHbVVKaEp1RVBocnVDNlpZYjMwTWhOWElvYUJBSzhFQThIek9XOWlUR0xadzl5MW81cF9wRVdjUG12Yk1hbVNTWGRvMDZPNEVDdUdZMkRtb2FteFJYWWQ5cTBXaGNjOUU2d0N5WlZVblZudk1vZHVtLTU5UU9pUEdCSDJyTkhtdDdHdE9manh5dWd4cDI5VEI1VzlWaVBPaw?oc=5",
    "title": "Man shot and killed at Chelsea High football game, police say",
@@ -919,6 +966,17 @@
    "added": 1795667628788,
    "cat": null,
    "titleKo": "축구 실시간 스코어: 노팅엄 포레스트 vs 첼시, 잉글랜드 프리미어리그, 2026/27 | Nine Wide World of Sports"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU4tUFZnclpHYnpNTjJxU2xWdkthMkVvSWhrdWl2NFNKYnVFUWxLUDVPRE9hNHlRV1VNajBOWE1TVEY3WC11UnhwdWpjd01xVERVMHRraURocDdGNDNGMHBiSU1rUVpjSW1wOUFEbmd2VXhLTkdEbXBqclVCOXlJWE9ER0t1cWx0ZlNBNW1R?oc=5",
+   "title": "Person killed in shooting at Chelsea High School football game",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU4tUFZnclpHYnpNTjJxU2xWdkthMkVvSWhrdWl2NFNKYnVFUWxLUDVPRE9hNHlRV1VNajBOWE1TVEY3WC11UnhwdWpjd01xVERVMHRraURocDdGNDNGMHBiSU1rUVpjSW1wOUFEbmd2VXhLTkdEbXBqclVCOXlJWE9ER0t1cWx0ZlNBNW1R?oc=5",
+   "source": "WHDH",
+   "group": "영국 언론",
+   "date": 1795659168000,
+   "added": 1795674805297,
+   "cat": null,
+   "titleKo": "첼시 고등학교 미식축구 경기 중 총격으로 인한 사망자 발생"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSk5Lb2hsXzE0cExOWFVTNUlJNGdfOHZUcUlHU2podWxjR1JickFUMUZJYmY5M3FyZ0otbm5aZVJ3MmxKMmdRNjg3SU1oc0ZMVkNJSlMzWWY1Qk10SnV6NGRwRUo5VnlfUTRrekpkQXRGV1ozV2I5OVpLd2tnbFczM0hsRDNaRUZTZ0FRcERn?oc=5",
@@ -4212,62 +4270,6 @@
    "added": 1795437075034,
    "cat": null,
    "titleKo": "첼시, 리즈와의 경기에서 발생한 핸드볼 반칙 논란 후 로저스 심판의 페널티 판정에 대한 새로운 검토를 받다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDdxWFFycDlwQnBlZXFjU2RjV3M3MkcxZzNkbDdkLUhqNjdqbkdpRzhjR3dNSjhxYmdlb0ZrM2dSTHlkWFRaRERzZGxxUkF2TmxyblR1TGZHWE9IcmMzQldFY09KOTlUdHdoR3BNdW1hS1MxVkhsOTB4S0lTRHRFWXJ2NFJwWDhNWC1maW1HVnREVlkxUTRSZ3JVTXlqaWM3VTNOTEdIUmxBM29HQnJDREdvU3ZJU2VNU3hpZllaSEtMTi1UUi10aElZUFgxWEl4aHpkQ3J4RFNVRUp5blE?oc=5",
-   "title": "Morgan Rogers: Should Leeds have been given a penalty after Chelsea midfielder handball incident",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDdxWFFycDlwQnBlZXFjU2RjV3M3MkcxZzNkbDdkLUhqNjdqbkdpRzhjR3dNSjhxYmdlb0ZrM2dSTHlkWFRaRERzZGxxUkF2TmxyblR1TGZHWE9IcmMzQldFY09KOTlUdHdoR3BNdW1hS1MxVkhsOTB4S0lTRHRFWXJ2NFJwWDhNWC1maW1HVnREVlkxUTRSZ3JVTXlqaWM3VTNOTEdIUmxBM29HQnJDREdvU3ZJU2VNU3hpZllaSEtMTi1UUi10aElZUFgxWEl4aHpkQ3J4RFNVRUp5blE?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795433930000,
-   "added": 1795442140862,
-   "cat": null,
-   "titleKo": "모건 로저스: 첼시 미드필더의 핸드볼 반칙 이후 리즈에게 페널티킥이 주어졌어야 했을까?"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cwm2m66e8rmzo?at_medium=RSS&at_campaign=rss",
-   "title": "Chelsea striker Emegha has car broken into after first goal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwm2m66e8rmzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "group": "영국 언론",
-   "date": 1795433876000,
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/248a/live/811b1270-e724-11f1-914b-6d226d813a52.jpg",
-   "added": 1795437075032,
-   "cat": null,
-   "titleKo": "첼시의 스트라이커 에메가, 첫 골 이후 차량 파손 피해"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3R2V1I2aXlLVUtFOUdTejIyajBsSHRCRmFUb1ZJSE1pTW9ubGNaT0kwMEhudVk3WTJtQ0NwRHBXU0EzbjFjMHpzdk5nVWFjY29YSDAtRXRZLU9WMWtESUZjR0dkVUh3VFRIYjB3X0p3OTdPSXY1djRkZ01QUjRLaG5raDhJX29FaVdwTg?oc=5",
-   "title": "FA Youth Cup ticket news: Derby County away",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3R2V1I2aXlLVUtFOUdTejIyajBsSHRCRmFUb1ZJSE1pTW9ubGNaT0kwMEhudVk3WTJtQ0NwRHBXU0EzbjFjMHpzdk5nVWFjY29YSDAtRXRZLU9WMWtESUZjR0dkVUh3VFRIYjB3X0p3OTdPSXY1djRkZ01QUjRLaG5raDhJX29FaVdwTg?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795433400000,
-   "added": 1795442140863,
-   "cat": null,
-   "titleKo": "FA 유스컵 티켓 소식: 더비 카운티 원정 경기"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGRoYnlCajN5X1BIdWg0QUItamJ2YlY4el90dnBEczItUXJrV2xCa1Vlb2hPei1HbzhkOVhBMDJwWElnTkhIVUdkT0Z6UHExbk1VaFc5OERtdjVURDYyc1J4MnQyYklEMHBpOFFPSFNmU0NXdFpQNGxEcUxqeDVyNnkzWng5OHBZSC1VNW81UGJLcWJn?oc=5",
-   "title": "Chelsea offer support after Emegha 'robbed' following Leeds defeat",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGRoYnlCajN5X1BIdWg0QUItamJ2YlY4el90dnBEczItUXJrV2xCa1Vlb2hPei1HbzhkOVhBMDJwWElnTkhIVUdkT0Z6UHExbk1VaFc5OERtdjVURDYyc1J4MnQyYklEMHBpOFFPSFNmU0NXdFpQNGxEcUxqeDVyNnkzWng5OHBZSC1VNW81UGJLcWJn?oc=5",
-   "source": "Football London",
-   "group": "영국 언론",
-   "date": 1795432377000,
-   "added": 1795433343970,
-   "cat": null,
-   "titleKo": "첼시, 리즈전 패배 후 에메가가 '강도'를 당한 데 대해 지원 제공"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dmUng4eC1ZNmZmalBxQUYxaWtTQWxkc2Rldmt1YlBtTWdENzdQY2ZYUUppc0oyb1A2N3YxU0VrbTNHMl8wUDZORkxkRGlob1h6RU5zVlhaMVlRN20xblZheWdKaDdqV01XeVNrM2g5bk5nZ3p3Qzg1SVhpLWVJNnFGWlQydFJqTkVWYmhjN0JyQWozc2R0UV9hbw?oc=5",
-   "title": "Will Joao Pedro play against Leeds? Latest after new Chelsea update",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dmUng4eC1ZNmZmalBxQUYxaWtTQWxkc2Rldmt1YlBtTWdENzdQY2ZYUUppc0oyb1A2N3YxU0VrbTNHMl8wUDZORkxkRGlob1h6RU5zVlhaMVlRN20xblZheWdKaDdqV01XeVNrM2g5bk5nZ3p3Qzg1SVhpLWVJNnFGWlQydFJqTkVWYmhjN0JyQWozc2R0UV9hbw?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795432344000,
-   "added": 1795452458511,
-   "cat": null,
-   "titleKo": "주앙 페드로는 리즈와의 경기에서 뛸 수 있을까요? 첼시 관련 새로운 소식 이후의 최신 정보"
   }
  ]
 }
