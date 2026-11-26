@@ -1,15 +1,15 @@
 {
- "updated": 1795690939758,
+ "updated": 1795694429794,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 2,
-  "talkSPORT": 5,
+  "talkSPORT": 4,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 5,
+  "Evening Standard": 4,
   "The Sun": 3,
-  "Mirror": 4,
-  "Daily Mail": 4,
+  "Mirror": 3,
+  "Daily Mail": 5,
   "Telegraph": 4,
   "Independent": 0,
   "Express": 0,
@@ -21,14 +21,14 @@
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 10,
+  "구글뉴스(한국어)": 12,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 53건"
+  "이번 상대": "Nottingham Forest · 새 기사 50건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,36 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEptN1ZGUThlbUZFVkFMNER3QXVqMnFsbzc1bEVZTXY0amtLS1VwbG1KN0RGaUpZZmhwclBSQjg3WlFpY2JQR3JtWlZsaE1rV2FWZm9aQlFkN190UURGVjRKdFNQRW9qM0dLRXNyRmlDbkdyYnpmVGhnMUwxU1VNUEx2b1ZJZ1hmeUF0QjZud0dnTm12cnZFNVMwaDhsaFoxTFlNenhnaU1JQVNSNXZwWVpONHE3OG5oSFhaemo4NFZ1cFJaMjNmdkxmOW1kaGZiQzNrSzFuaVVJZnBkSXVMWXppUm9fYUN5YTFNTUo0a0FNdkVBX3k1Yzl0cHRFY1NWdkFhZVBySQ?oc=5",
+    "title": "Nottingham Forest boss Oliver Glasner calls out players 'who have been here for four years and don't speak English'",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEptN1ZGUThlbUZFVkFMNER3QXVqMnFsbzc1bEVZTXY0amtLS1VwbG1KN0RGaUpZZmhwclBSQjg3WlFpY2JQR3JtWlZsaE1rV2FWZm9aQlFkN190UURGVjRKdFNQRW9qM0dLRXNyRmlDbkdyYnpmVGhnMUwxU1VNUEx2b1ZJZ1hmeUF0QjZud0dnTm12cnZFNVMwaDhsaFoxTFlNenhnaU1JQVNSNXZwWVpONHE3OG5oSFhaemo4NFZ1cFJaMjNmdkxmOW1kaGZiQzNrSzFuaVVJZnBkSXVMWXppUm9fYUN5YTFNTUo0a0FNdkVBX3k1Yzl0cHRFY1NWdkFhZVBySQ?oc=5",
+    "source": "LiveScore",
+    "date": 1795690470000,
+    "added": 1795694417386,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트의 올리버 글라스너 감독이 '4년 동안 이곳에 있었으면서도 영어를 하지 못하는' 선수들을 비판했습니다."
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yOGR4eXhZU3VGakN2QWliczBqNVlPbUhtSXM0OUxOeFNJTEd0LVRvdWRSZDA5QW9jZnRnd0dFbUd6SEFUdFhGekM1dzJ5M3NvNktBMVRFR2hqQk95aUZ4Z3RSd1hfdVhSSjdLdzJzUDNGeVBscVhSdjJR?oc=5",
+    "title": "Ola Aina’s Nottingham Forest vs Chelsea: Preview, team news, tips & H2H",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yOGR4eXhZU3VGakN2QWliczBqNVlPbUhtSXM0OUxOeFNJTEd0LVRvdWRSZDA5QW9jZnRnd0dFbUd6SEFUdFhGekM1dzJ5M3NvNktBMVRFR2hqQk95aUZ4Z3RSd1hfdVhSSjdLdzJzUDNGeVBscVhSdjJR?oc=5",
+    "source": "Afrik-Foot",
+    "date": 1795689292000,
+    "added": 1795694417385,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "올라 아이나의 노팅엄 포레스트 vs 첼시: 프리뷰, 팀 소식, 팁 및 H2H"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY1JpVUFZWDR1dDI5RWVFcWlBQW9hTGxGNU51ZG9TQnZEVHB3TzNSeEhiTU5aYmw5cndnSUs2eDY3NXBPVXNFbDhKdFNKc01IUm15T01sbWM0ekI4U25aU3NJV083S2NTNUpjUmxBTDhvRGR1d3dscExTLWotT2RfNi1QSkJyc0Y4Z0Y4b0hSRzgxcGhiLWpzSkw3ZDkyTlUwZ09MWWFEbGU2YWZGUE9mNmtNdUcwTDg0c1pNSi1Qb0ljdUdMWEVBRnliRFBzX3h3d2hGSXNlNjR4a1RKRlVmSjRhUTI?oc=5",
+    "title": "🚨 Our predicted Forest XI to play Chelsea 👇 What changes would YOU make?",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY1JpVUFZWDR1dDI5RWVFcWlBQW9hTGxGNU51ZG9TQnZEVHB3TzNSeEhiTU5aYmw5cndnSUs2eDY3NXBPVXNFbDhKdFNKc01IUm15T01sbWM0ekI4U25aU3NJV083S2NTNUpjUmxBTDhvRGR1d3dscExTLWotT2RfNi1QSkJyc0Y4Z0Y4b0hSRzgxcGhiLWpzSkw3ZDkyTlUwZ09MWWFEbGU2YWZGUE9mNmtNdUcwTDg0c1pNSi1Qb0ljdUdMWEVBRnliRFBzX3h3d2hGSXNlNjR4a1RKRlVmSjRhUTI?oc=5",
+    "source": "Nottingham Forest News",
+    "date": 1795689098000,
+    "added": 1795694417385,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "🚨 첼시와 경기를 치를 포레스트의 예상 선발 명단 👇 여러분이라면 어떤 변화를 주시겠어요?"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVlFKTHljUHNpUmw5Wks5NjRvUVZ6ZFV6YXJKUzA5Z0lIWWpSN0pTb2ExdThKMVhTeHlYVnRwVTBPOWVIMzNBLTJLeGo3SEtLZE5PMUhzNHVmYUE3MHAyMHNXeENKR0lzT0ptRzB1QlE2WFQ0bTM4RmM5blNtZGNyZjQ4NVk2QVVMbk1sWHV1MlhpVnBGTmI1cXhwWHYzZXpUQzZHaDdmN3Q0aFZlSDJQS0JnT1pKUnFHdVc1MHR5eHpTcE9rQUJCcE1EZTdKTlg1Uzk5V2NpRkRyLVJRZnRfRkY5YnJVaVk?oc=5",
     "title": "Liam Delap has a chance to show Chelsea what they're missing when they travel to Nottingham Forest",
@@ -809,40 +839,141 @@
     "added": 1795581765910,
     "tag": "라인업·팀뉴스",
     "titleKo": "노팅엄 포레스트 대 첼시 경기 예측, 선발 명단 및 팀 소식"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2Vka2c4bTEtZHhqZ05WUENPcHktSTBZMUp4SWFPVUpLVFI1QkgyTjVuT1FOS3FnelNRa1FIVTJVQTFBX1dPNnFid0VYdmVvTE5HT1h2TjF4SFVzaVk5cy1sV1M5ZmxzM1B3TVpyTTR1MkVvaVlWTjVrejBlSTlGMElZanRwY3BKTEwxUXJrZjNDVko4SXBYck9UdDNBVUFYWFVNVEhZbw?oc=5",
-    "title": "Watch Nottingham Forest vs Chelsea",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2Vka2c4bTEtZHhqZ05WUENPcHktSTBZMUp4SWFPVUpLVFI1QkgyTjVuT1FOS3FnelNRa1FIVTJVQTFBX1dPNnFid0VYdmVvTE5HT1h2TjF4SFVzaVk5cy1sV1M5ZmxzM1B3TVpyTTR1MkVvaVlWTjVrejBlSTlGMElZanRwY3BKTEwxUXJrZjNDVko4SXBYck9UdDNBVUFYWFVNVEhZbw?oc=5",
-    "source": "TOD",
-    "date": 1795572764000,
-    "added": 1795588715464,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 vs 첼시 경기 시청하기"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGlDZlZlcE5BMzNfNFBQUTduZEtNeE5kSk9weTloTEg3akYzRXZaSlRSb2ZiekE1VGRGcWpma3hHSXliS19BTTJIMm5TYTZzTkRLbU4xd0xwVXpKOF9CN08wbWJDLXhTVkszUTBIeW5ZNnJpcnFuS3Y4SGYyZEdGNFNLS1JuZ1BmbmdFTW9oVmZyaG1iQVNPVV9PaTl6bnJlcHZ6RTVTSl9OQ2Z6VWNwbEFFUDlYWXZ6b3dPMFdiX3NrbE9UT1lJN0syRmpWOGc0aDhTa3ZPb0twSExHVUNj?oc=5",
-    "title": "'Going To Help Us': Midfielder Issues Chelsea Promise Ahead Of Nottingham Forest Trip",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGlDZlZlcE5BMzNfNFBQUTduZEtNeE5kSk9weTloTEg3akYzRXZaSlRSb2ZiekE1VGRGcWpma3hHSXliS19BTTJIMm5TYTZzTkRLbU4xd0xwVXpKOF9CN08wbWJDLXhTVkszUTBIeW5ZNnJpcnFuS3Y4SGYyZEdGNFNLS1JuZ1BmbmdFTW9oVmZyaG1iQVNPVV9PaTl6bnJlcHZ6RTVTSl9OQ2Z6VWNwbEFFUDlYWXZ6b3dPMFdiX3NrbE9UT1lJN0syRmpWOGc0aDhTa3ZPb0twSExHVUNj?oc=5",
-    "source": "roundtable.io",
-    "date": 1795558917000,
-    "added": 1795562432500,
-    "tag": "상대 소식",
-    "titleKo": "'우리를 도울 것': 노팅엄 포레스트 원정 경기를 앞두고 미드필더가 첼시에 대한 약속을 전함"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVF0MGpFY3lpdjFzdTFPTk4wODBTYnNmS2NlWmdRTzZqQWhtNkVva1V2SVZiYVlJQmNWdEZSQzFXcFloUWZ2WThGNFlDekppZFF1dFJ5V3RiUEtNbFJSTnJVYWItV2VBLTdDNUxhdEdDdkVvUWlrNjBpTHdJTWtjeEhRX0FXcXJ4cmVrREFOWHNBVlV2NndiZHFuMjZZamJjNVQ4M2lfNF81TTJUNE1hZVpETmhQQlU?oc=5",
-    "title": "Chelsea vs Nottingham Forest Picks and Prediction for Friday November 27 2026",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVF0MGpFY3lpdjFzdTFPTk4wODBTYnNmS2NlWmdRTzZqQWhtNkVva1V2SVZiYVlJQmNWdEZSQzFXcFloUWZ2WThGNFlDekppZFF1dFJ5V3RiUEtNbFJSTnJVYWItV2VBLTdDNUxhdEdDdkVvUWlrNjBpTHdJTWtjeEhRX0FXcXJ4cmVrREFOWHNBVlV2NndiZHFuMjZZamJjNVQ4M2lfNF81TTJUNE1hZVpETmhQQlU?oc=5",
-    "source": "StatSalt",
-    "date": 1795551000000,
-    "added": 1795555667070,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "2026년 11월 27일 금요일 첼시 vs 노팅엄 포레스트 경기 예상 및 예측"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.talkchelsea.net/news/neue-spannende-online-casinospiele/",
+   "title": "Neue spannende online Casinospiele",
+   "link": "https://www.talkchelsea.net/news/neue-spannende-online-casinospiele/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795694364000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "새롭고 흥미진진한 온라인 카지노 게임"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/casino-bonus-ohne-einzahlung-beste-boni-im-november-2026/",
+   "title": "Casino Bonus ohne Einzahlung Beste Boni im November 2026",
+   "link": "https://www.talkchelsea.net/news/casino-bonus-ohne-einzahlung-beste-boni-im-november-2026/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795694259000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "2026년 11월 최고의 카지노 보너스(입금 불필요)"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/online-roulette-gratis-spielen-ohne-anmeldung-%e2%ad%90%ef%b8%8f/",
+   "title": "Online Roulette gratis spielen ohne Anmeldung ⭐️",
+   "link": "https://www.talkchelsea.net/news/online-roulette-gratis-spielen-ohne-anmeldung-%e2%ad%90%ef%b8%8f/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795694208000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "온라인 룰렛 무료 플레이, 가입 불필요 ⭐️"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/beste-online-casinos-spielotheken-2026/",
+   "title": "Beste Online Casinos & Spielotheken 2026",
+   "link": "https://www.talkchelsea.net/news/beste-online-casinos-spielotheken-2026/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795694195000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "2026년 최고의 온라인 카지노 및 스필로테켄(Spielotheken)"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/book-of-ra-slot-novomatic-schlusselmerkmale-in-deutschland/",
+   "title": "Book of Ra Slot Novomatic Schlüsselmerkmale in Deutschland",
+   "link": "https://www.talkchelsea.net/news/book-of-ra-slot-novomatic-schlusselmerkmale-in-deutschland/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795694059000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "독일의 Book of Ra 슬롯 Novomatic 주요 특징"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/beste-online-casinos-spielotheken-deutschland-im-vergleich/",
+   "title": "Beste Online Casinos & Spielotheken Deutschland im Vergleich",
+   "link": "https://www.talkchelsea.net/news/beste-online-casinos-spielotheken-deutschland-im-vergleich/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795693940000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "독일 최고의 온라인 카지노 및 스피엘로테켄 비교"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/beste-online-casinos-mit-echtgeld-in-deutschland-2026/",
+   "title": "Beste Online Casinos mit Echtgeld in Deutschland 2026",
+   "link": "https://www.talkchelsea.net/news/beste-online-casinos-mit-echtgeld-in-deutschland-2026/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795693876000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "2026년 독일 최고의 실시간 온라인 카지노"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/online-casinos-mit-echtgeld-die-5-besten-casinos-2026/",
+   "title": "Online Casinos mit Echtgeld Die 5 besten Casinos 2026",
+   "link": "https://www.talkchelsea.net/news/online-casinos-mit-echtgeld-die-5-besten-casinos-2026/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795693874000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "온라인 카지노 mit Echtgeld 2026년 최고의 카지노 5곳"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/freispiele-ohne-einzahlung-die-besten-free-spins-angebote/",
+   "title": "Freispiele ohne Einzahlung Die besten Free Spins Angebote",
+   "link": "https://www.talkchelsea.net/news/freispiele-ohne-einzahlung-die-besten-free-spins-angebote/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795693802000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "입금 없이 무료 스핀 최고의 무료 스핀 혜택"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/legale-seriose-online-casinos-deutschland-2026-95-anbieter/",
+   "title": "Legale & seriöse Online Casinos Deutschland 2026 95 Anbieter",
+   "link": "https://www.talkchelsea.net/news/legale-seriose-online-casinos-deutschland-2026-95-anbieter/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795693668000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "독일의 합법적이고 신뢰할 수 있는 온라인 카지노 2026 95개 업체"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9whBVV95cUxPLUdvVGlrbmYzSlJZSXE4ZHlTcjR4d2Z4R00zLUhiV0I4MDlmQ2N2NzB2dFBLbjYtQzN0bGxFZ2xJX3hIbjVOT3pEX2JrX19KZmJsS1VJaGtXNUFuNUtjaUNJTFBBV3J0bzhCY2h6eUI0Ym9oaHNzM2hfQ1gtWEo5azF1Nk40RkV2c1dkQUcxal83X3VDcWtQUHdWV1laX3NmbkVLbGVTbVJrbGc1UVZfaGVVWTFQbG5YbUdnNGFWMjNGSEc1Yk9sTnIweFFGb3VhYk85cVFWSWszUDB0enFSN1hHaVpiNi0wWXBsY243N3BabEZBNUJkLTVpbXN1M3MxZTFkbjF1S0lrTjlGU0ZZQ2pPaVNjTGdaX0VEajExbDlEYUFaN01PbEJCMnBOclR2X21Dem1wVlNaQWFFVWJlR3dWWDF4VXZJR3NCVDNsa1otV0ZZX1laeWVfb0x0S3lqUXQyaHBCMnN3Yng5bWNtU3c1dWxMQzhrZjR4OHVTRVdlNUtuYXF5VWxLOVotblBDUGJxOHEyWG1UaTdXcExxMVY2LVZCOG9yTDIxUUlMb3BIaTl5QmgwR0sxSDRfMUlsdXM3SXNYdmdvNU5hTWQtVzdOcHpwV0dNc2hKZ01XZy1Ca1hrT1VodXBla2NMZEhoNVluV3JBd2NUWnZUSm1zUUI2NUhKQks5VFVpM1pRZFRKNWF3Z3pnWWJSYlhqRVVidmcxVDY4MEMzcEU1N25URlQxMXN5OGgtbHFaLTJXZmFGQ1JYVm54N1VmZWFqRHFPU3paNzJHZTgybVZsWnVmcl9YUDZTYWg0X3licG1McWxkNTJoWXF0aFNBUWlTanc5eHc2bkNtSjI1VUsyV3UyN01uWmZmSlJ0ZG9jNEtWNjdINjF6ODQ5ZXVaMElxV0NBeDYtZGhPNDZtUU5fSlhjbnNScVNBQzJfcmVJZDBUT1NVeGVKcDNUaWhmRGZQbEl6RTBkeE1UNmp4c05CWnVkOGdBLWhQWUladHJEbHNNc0c4TTJMVDVkUTBROU1tTjlSMWduUUtuek5ZMW5jUm1oMzdtOHVhTGhIRmtES0w0emVOWWxYTXlINzVzeXkzU2Q4Z0J4N3JrWFRtYVNqSm43U2Fpampxb0FiblJMT1c4STN4QzlmWTFObm55ZFZ4ZlM0dnhVd0d0Z1RsRHR3cS1ucmVMMVhSY3UxanpaZ0tyWF9YWlBvQUJkT0M1bEdCc0RraEowVEkxSmtrUmpCMUZsUEhEMHJtbzRMcFd4eTdteW9vQjZlOTM2dGdWUWhqQkJfZnJHeFZONGJTWWRHT2JTQ0lDamZ0VnlGaEZ5UkdsR1RybTFrTUJJN2dBV1FleERSSnFCVmNsSjFpRE93WlVOMzFWMlh0N0pJVEhkYnFSZXg4Q280VFpFRWJEckI3akdBZE01X01PNXk3bVZxc1BmeF9iWWZPZkdJOXlJYlhNRUlfdlhyc040V3U3UjUtRjlVZGJiRVEtaUFkWHlXd1FrRk8zNkZQZWc?oc=5",
+   "title": "‘첼시 감독 교체는 없다!’ 프리미어리그 8위·EFL컵 탈락에도 “구단주 전폭적인 신뢰 받고 있어”",
+   "link": "https://news.google.com/rss/articles/CBMi9whBVV95cUxPLUdvVGlrbmYzSlJZSXE4ZHlTcjR4d2Z4R00zLUhiV0I4MDlmQ2N2NzB2dFBLbjYtQzN0bGxFZ2xJX3hIbjVOT3pEX2JrX19KZmJsS1VJaGtXNUFuNUtjaUNJTFBBV3J0bzhCY2h6eUI0Ym9oaHNzM2hfQ1gtWEo5azF1Nk40RkV2c1dkQUcxal83X3VDcWtQUHdWV1laX3NmbkVLbGVTbVJrbGc1UVZfaGVVWTFQbG5YbUdnNGFWMjNGSEc1Yk9sTnIweFFGb3VhYk85cVFWSWszUDB0enFSN1hHaVpiNi0wWXBsY243N3BabEZBNUJkLTVpbXN1M3MxZTFkbjF1S0lrTjlGU0ZZQ2pPaVNjTGdaX0VEajExbDlEYUFaN01PbEJCMnBOclR2X21Dem1wVlNaQWFFVWJlR3dWWDF4VXZJR3NCVDNsa1otV0ZZX1laeWVfb0x0S3lqUXQyaHBCMnN3Yng5bWNtU3c1dWxMQzhrZjR4OHVTRVdlNUtuYXF5VWxLOVotblBDUGJxOHEyWG1UaTdXcExxMVY2LVZCOG9yTDIxUUlMb3BIaTl5QmgwR0sxSDRfMUlsdXM3SXNYdmdvNU5hTWQtVzdOcHpwV0dNc2hKZ01XZy1Ca1hrT1VodXBla2NMZEhoNVluV3JBd2NUWnZUSm1zUUI2NUhKQks5VFVpM1pRZFRKNWF3Z3pnWWJSYlhqRVVidmcxVDY4MEMzcEU1N25URlQxMXN5OGgtbHFaLTJXZmFGQ1JYVm54N1VmZWFqRHFPU3paNzJHZTgybVZsWnVmcl9YUDZTYWg0X3licG1McWxkNTJoWXF0aFNBUWlTanc5eHc2bkNtSjI1VUsyV3UyN01uWmZmSlJ0ZG9jNEtWNjdINjF6ODQ5ZXVaMElxV0NBeDYtZGhPNDZtUU5fSlhjbnNScVNBQzJfcmVJZDBUT1NVeGVKcDNUaWhmRGZQbEl6RTBkeE1UNmp4c05CWnVkOGdBLWhQWUladHJEbHNNc0c4TTJMVDVkUTBROU1tTjlSMWduUUtuek5ZMW5jUm1oMzdtOHVhTGhIRmtES0w0emVOWWxYTXlINzVzeXkzU2Q4Z0J4N3JrWFRtYVNqSm43U2Fpampxb0FiblJMT1c4STN4QzlmWTFObm55ZFZ4ZlM0dnhVd0d0Z1RsRHR3cS1ucmVMMVhSY3UxanpaZ0tyWF9YWlBvQUJkT0M1bEdCc0RraEowVEkxSmtrUmpCMUZsUEhEMHJtbzRMcFd4eTdteW9vQjZlOTM2dGdWUWhqQkJfZnJHeFZONGJTWWRHT2JTQ0lDamZ0VnlGaEZ5UkdsR1RybTFrTUJJN2dBV1FleERSSnFCVmNsSjFpRE93WlVOMzFWMlh0N0pJVEhkYnFSZXg4Q280VFpFRWJEckI3akdBZE01X01PNXk3bVZxc1BmeF9iWWZPZkdJOXlJYlhNRUlfdlhyc040V3U3UjUtRjlVZGJiRVEtaUFkWHlXd1FrRk8zNkZQZWc?oc=5",
+   "source": "Goal.com",
+   "group": "한국 언론",
+   "date": 1795690935000,
+   "added": 1795694414841,
+   "cat": null,
+   "titleKo": "‘첼시 감독 교체는 없다!’ 프리미어리그 8위·EFL컵 탈락에도 “구단주 전폭적인 신뢰 받고 있어”"
+  },
   {
    "id": "https://www.caughtoffside.com/2026/11/26/chelsea-and-man-united-advised-to-sign-calvin-bassey/",
    "title": "“He’s brilliant” – Chelsea & Man United urged to sign “magnificent” Premier League star",
@@ -854,6 +985,17 @@
    "added": 1795690928843,
    "cat": null,
    "titleKo": "\"그는 정말 대단합니다\" – 첼시와 맨유가 \"훌륭한\" 프리미어리그 스타 영입을 촉구받다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGItX0x1dEk4WEFnaEItYl82dE5HVmM3TmpGWjA0S3hCbHFPZ242X29CSkpSM0lUNXJYWXhqejY5X2JMeWs5b2o0bWFkNFBzMDlBRWotZlQ4akZtd2t5OENzWHdDd2JGZ19xWXQ4LXg3bVQ0clFDSVp4RzJTakpUd2lUcExDdEcyLXBUbFk2VXRibUdVemlr?oc=5",
+   "title": "Bjorn back stronger than ever for club and country",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGItX0x1dEk4WEFnaEItYl82dE5HVmM3TmpGWjA0S3hCbHFPZ242X29CSkpSM0lUNXJYWXhqejY5X2JMeWs5b2o0bWFkNFBzMDlBRWotZlQ4akZtd2t5OENzWHdDd2JGZ19xWXQ4LXg3bVQ0clFDSVp4RzJTakpUd2lUcExDdEcyLXBUbFk2VXRibUdVemlr?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795690800000,
+   "added": 1795694414842,
+   "cat": null,
+   "titleKo": "클럽과 국가대표팀을 위해 어느 때보다 강해진 모습으로 돌아온 비외른"
   },
   {
    "id": "https://www.thesun.co.uk/sport/39471356/chelsea-ticket-deal-price-hotel-premier-league-stamford-bridge/",
@@ -2144,6 +2286,17 @@
    "added": 1795602314864,
    "cat": null,
    "titleKo": "오른스타인: \"라비아의 부상\"은 첼시가 1월에 미드필더를 영입하지 않을 수 있음을 의미합니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTdiTVNES2NCSFlKS3JXZ3h2RERWazlpdHljdXRhR3pOY3B6NE5pYTdoak1naWtCaVhBTWdTT0RselNDZmQyMW8yTm5XNGliVXk3SzNPVEpNUVBIUDljc0doU0loanNWT1FaLUFidnVaYnBNZTBabW81SDIweVZib2VFMmxlN0pmaGstWDMzcW0zMjJDcGtnVGhEbE1KTEpJc18tNmhoMXpEb2FrZGfSAbMBQVVfeXFMT0E4emV3c1Y1QkcxQnB6b19JVmp0UTIxMmZBLWVubmdnZ09yTFc2SDNSTlhndGVsRzJGWVYyWVNCVFhCM3dHTE1yR2ZfNU9oYXd0Z0FEUm5OX1BySG1MUjlveWdPYWF5STF6UF82OS13RVRwcXVNSEkzaGtVZE5pS2FEUFFYbzVxbklWVW1heDVJNG5JRXliX01yRXNTZnNTdkFNSW4weUhjRWtBY3lLNHp4aXc?oc=5",
+   "title": "Shaun Wright-Phillips: Chelsea star must make himself 'hard to ignore' for Xabi Alonso",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTdiTVNES2NCSFlKS3JXZ3h2RERWazlpdHljdXRhR3pOY3B6NE5pYTdoak1naWtCaVhBTWdTT0RselNDZmQyMW8yTm5XNGliVXk3SzNPVEpNUVBIUDljc0doU0loanNWT1FaLUFidnVaYnBNZTBabW81SDIweVZib2VFMmxlN0pmaGstWDMzcW0zMjJDcGtnVGhEbE1KTEpJc18tNmhoMXpEb2FrZGfSAbMBQVVfeXFMT0E4emV3c1Y1QkcxQnB6b19JVmp0UTIxMmZBLWVubmdnZ09yTFc2SDNSTlhndGVsRzJGWVYyWVNCVFhCM3dHTE1yR2ZfNU9oYXd0Z0FEUm5OX1BySG1MUjlveWdPYWF5STF6UF82OS13RVRwcXVNSEkzaGtVZE5pS2FEUFFYbzVxbklWVW1heDVJNG5JRXliX01yRXNTZnNTdkFNSW4weUhjRWtBY3lLNHp4aXc?oc=5",
+   "source": "Metro.co.uk",
+   "group": "영국 언론",
+   "date": 1795600200000,
+   "added": 1795694414840,
+   "cat": null,
+   "titleKo": "숀 라이트-필립스: 첼시의 스타는 사비 알론소 감독에게 '무시하기 어려운' 존재가 되어야 한다"
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/wesley-fofana-controversy-means-one-34962075",
@@ -4117,158 +4270,6 @@
    "added": 1795469001126,
    "cat": null,
    "titleKo": "첼시 구단주, 리즈전 대패 후 알론소 감독의 거취 결정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1pzdVdieUx3aEM5d3dVVlhkQlFtbTNudkpreVBCR3NFcFpWdmRvN2RVb3otWU1GVjNQUW82WFl3MGcxU1hHY2J3WHhubllQZEYwNEhUaWw4cGpqamNkNTlsMzF2bE9mSjZrSG16X04yQl95bUh5OVo4aVJMY2hhUDVlc2lJWWQ1VWY3a0h6MjFEYTZZbmlOYTJkZzRNa2Nnc0VTWDJwY1FJMzZ1SU9nMU93aw?oc=5",
-   "title": "Tom Brady’s Reported Chelsea FC Stake Comes With One Surprising Ownership Restriction",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1pzdVdieUx3aEM5d3dVVlhkQlFtbTNudkpreVBCR3NFcFpWdmRvN2RVb3otWU1GVjNQUW82WFl3MGcxU1hHY2J3WHhubllQZEYwNEhUaWw4cGpqamNkNTlsMzF2bE9mSjZrSG16X04yQl95bUh5OVo4aVJMY2hhUDVlc2lJWWQ1VWY3a0h6MjFEYTZZbmlOYTJkZzRNa2Nnc0VTWDJwY1FJMzZ1SU9nMU93aw?oc=5",
-   "source": "Gridiron Heroics",
-   "group": "영국 언론",
-   "date": 1795458130000,
-   "added": 1795459135779,
-   "cat": null,
-   "titleKo": "톰 브래디의 첼시 FC 지분 취득 소식, 놀라운 소유권 제한 조항이 함께 발표됨"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/toney-to-man-utd-latest-on-potential-january-move-for-premier-league-proven-striker_609707.html",
-   "title": "Ivan Toney to Man United: Latest on potential January move for Premier League-proven centre-forward",
-   "link": "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/toney-to-man-utd-latest-on-potential-january-move-for-premier-league-proven-striker_609707.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795457940000,
-   "image": "https://www.sportsmole.co.uk/thumbor/ULIomRzEdY73w09PWUuankjjp7o=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2025%2F10%2Fns-photo-badge-email-sportmole-6-68fa6cd8bc7d0296816457.jpg",
-   "added": 1795462967485,
-   "cat": null,
-   "titleKo": "이반 토니, 맨유 이적 가능성: 프리미어리그에서 검증된 센터 포워드의 1월 이적 가능성에 대한 최신 소식"
-  },
-  {
-   "id": "https://talksport.com/football/4727040/chelsea-jimmy-floyd-hasslbaink-cole-palmer-joao-pedro/",
-   "title": "Chelsea icon downplays dressing room friction amid Cole Palmer and Joao Pedro row claims",
-   "link": "https://talksport.com/football/4727040/chelsea-jimmy-floyd-hasslbaink-cole-palmer-joao-pedro/",
-   "source": "talkSPORT",
-   "group": "영국 언론",
-   "date": 1795457915000,
-   "added": 1795459135779,
-   "cat": null,
-   "titleKo": "첼시의 아이콘, 콜 파머와 주앙 페드로 간의 갈등설 속에서 라커룸 내 불화설을 축소",
-   "imgTried": true,
-   "image": "https://talksport.com/wp-content/uploads/2026/11/2026-27-match-chelsea-fc-1124882616.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbm1sRjN2MnMzZlZaUmZBczNTMC11cjNvajlKZGQyZ3JuVmNPNzBBVjUzQVZFZktYU3RwMHhvelNzS2ZlWHp5SmV3ZU9USDlia1FTWS0zRzYtMjVoNEpBdGdsN3hMRzJNdm1xbWlfNWs4UkRZYUdYQ1FSVVVCM1h3Vg?oc=5",
-   "title": "Chelsea loan watch: Antwi establishing himself and Sanchez's nightmare Como move",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbm1sRjN2MnMzZlZaUmZBczNTMC11cjNvajlKZGQyZ3JuVmNPNzBBVjUzQVZFZktYU3RwMHhvelNzS2ZlWHp5SmV3ZU9USDlia1FTWS0zRzYtMjVoNEpBdGdsN3hMRzJNdm1xbWlfNWs4UkRZYUdYQ1FSVVVCM1h3Vg?oc=5",
-   "source": "The Irish Sun",
-   "group": "영국 언론",
-   "date": 1795457748000,
-   "added": 1795459135779,
-   "cat": "이적",
-   "titleKo": "첼시 임대 선수 소식: 안트위의 입지 다지기, 산체스의 코모 이적 악몽"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUmlaN0JKU2FmUUhzVGpHR1FObHhTbkxfU1lEdnp2WDNqSVdyNldlOTkyYUE5ZU5kcVhHSDFOTmVDZWllbFplb1FFTDVyM244czBJZTFVaURvdWZTZFVON2lCa0pNanhTTktENkV4bUFNdUI5NVJ3UjZNT1Z4cVVySmpNQWdYMTVhcDBBYzFKY1l0ek5sVmVBc1VzR3VsYzhtdnRCNUdBVTUwT0dqWXgxelJ5bkFlOEE?oc=5",
-   "title": "Cole Palmer risks 'losing Chelsea fans' support' after Leeds United incident",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUmlaN0JKU2FmUUhzVGpHR1FObHhTbkxfU1lEdnp2WDNqSVdyNldlOTkyYUE5ZU5kcVhHSDFOTmVDZWllbFplb1FFTDVyM244czBJZTFVaURvdWZTZFVON2lCa0pNanhTTktENkV4bUFNdUI5NVJ3UjZNT1Z4cVVySmpNQWdYMTVhcDBBYzFKY1l0ek5sVmVBc1VzR3VsYzhtdnRCNUdBVTUwT0dqWXgxelJ5bkFlOEE?oc=5",
-   "source": "Football Insider",
-   "group": "영국 언론",
-   "date": 1795457727000,
-   "added": 1795459135779,
-   "cat": null,
-   "titleKo": "콜 파머, 리즈 유나이티드전 사건 이후 '첼시 팬들의 지지를 잃을' 위험에 처함"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41119569/chelsea-news-loan-players-xabi-alonso/",
-   "title": "Chelsea loan watch: Genesis Antwi making a name for himself and Robert Sanchez’s Como move becoming a nightmare",
-   "link": "https://www.thesun.co.uk/sport/41119569/chelsea-news-loan-players-xabi-alonso/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795457629000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FHB-LOAN-WATCH-ANTWI-SANCHEZ_OP.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795459135779,
-   "cat": "이적",
-   "titleKo": "첼시 임대 선수 소식: 제네시스 안트위, 자신의 이름을 알리고 있으며 로베르트 산체스의 코모 이적은 악몽이 되고 있습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTR0VzllWjFZNkZDRDBVQ1EtUUQyN3YyR2RSVVZZSlFZTTBDQUxmTDlZclZsZnhpZkJReVlOQUhZRVZFdHZTVFNMdGd0STV0c0ZhUkZVTGp0SmQ3X0hyd3dqdGZacUhJSWZfeWtfQkxJOElCYy1tQ1JuTVZrMHFyU2FDRG9EXzJNcG9HaU5mYVN0UnlSdmVn?oc=5",
-   "title": "Chelsea-Man United fight ends in murder, teen jailed 20 years",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTR0VzllWjFZNkZDRDBVQ1EtUUQyN3YyR2RSVVZZSlFZTTBDQUxmTDlZclZsZnhpZkJReVlOQUhZRVZFdHZTVFNMdGd0STV0c0ZhUkZVTGp0SmQ3X0hyd3dqdGZacUhJSWZfeWtfQkxJOElCYy1tQ1JuTVZrMHFyU2FDRG9EXzJNcG9HaU5mYVN0UnlSdmVn?oc=5",
-   "source": "Herald.co.zw",
-   "group": "영국 언론",
-   "date": 1795457586000,
-   "added": 1795459135779,
-   "cat": null,
-   "titleKo": "첼시-맨유 경기 후 발생한 싸움으로 살인 사건 발생, 청소년 20년형 선고"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news-now/merson-claims-chelsea-arent-good-enough-without-key/",
-   "title": "Chelsea “aren’t good enough” without two key players claims Merson",
-   "link": "https://www.talkchelsea.net/news-now/merson-claims-chelsea-arent-good-enough-without-key/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795456800000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Getty-Images-6-414x243.jpg",
-   "added": 1795459135780,
-   "cat": null,
-   "titleKo": "머슨, \"첼시는 두 명의 핵심 선수 없이 '충분히 강하지 않다'\"고 주장"
-  },
-  {
-   "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699083",
-   "title": "[PL POINT] 19위 맨유 수준 수비력...'4경기 3패' 첼시, 20득점 20실점→최악의 수비력에 순위 상승 실패",
-   "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699083",
-   "source": "인터풋볼",
-   "group": "한국 언론",
-   "date": 1795456800000,
-   "added": 1795425892614,
-   "cat": null,
-   "titleKo": "[PL POINT] 19위 맨유 수준 수비력...'4경기 3패' 첼시, 20득점 20실점→최악의 수비력에 순위 상승 실패",
-   "imgTried": true,
-   "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699083_833122_1044_v150.jpg"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-xabi-alonso-problem-b1306064.html",
-   "title": "The Chelsea problem Xabi Alonso cannot ignore - and who is really to blame",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-xabi-alonso-problem-b1306064.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795454279000,
-   "image": "https://static.standard.co.uk/2026/11/23/16/2304145601..?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795455872424,
-   "cat": null,
-   "titleKo": "샤비 알론소가 무시할 수 없는 첼시의 문제 - 그리고 진정한 책임은 누구에게 있는가"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc01KWDNuYm9FSzRBeV84VFhBUzU2ZS1USmRUdnpabFNpUDJ6TEQ3RTgyTHgwZjVVSGFUc1B5OHowdXZGTTVpMnFmMjdGWWkxb2MzcVV0MF9hMlM2Q2pSdmlhQzdmMm1weEs3R0tIQlRUb3daOC1LcDRadUpURlBBbk05QmtDaFlTV3ZyS1d3bw?oc=5",
-   "title": "The Chelsea problem Alonso cannot ignore - and who is really to blame",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc01KWDNuYm9FSzRBeV84VFhBUzU2ZS1USmRUdnpabFNpUDJ6TEQ3RTgyTHgwZjVVSGFUc1B5OHowdXZGTTVpMnFmMjdGWWkxb2MzcVV0MF9hMlM2Q2pSdmlhQzdmMm1weEs3R0tIQlRUb3daOC1LcDRadUpURlBBbk05QmtDaFlTV3ZyS1d3bw?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795454279000,
-   "added": 1795455872425,
-   "cat": null,
-   "titleKo": "알론소가 외면할 수 없는 첼시의 문제 - 그리고 진정한 책임은 누구에게 있는가"
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16314949/chelsea-form-slump-xabi-alonso.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "Chelsea's slump in form unpacked: The stars who badly need to step up from Emi Martinez to Cole Palmer, what defensive horror shows mean for Xabi Alonso's job security - and the players in line to leave in January",
-   "link": "https://www.dailymail.com/sport/football/article-16314949/chelsea-form-slump-xabi-alonso.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795453371000,
-   "image": "https://i.dailymail.com/1s/2026/11/23/15/112678269-0-image-a-10_1795447104933.jpg",
-   "added": 1795455872424,
-   "cat": null,
-   "titleKo": "첼시의 부진 원인 분석: 에미 마르티네스부터 콜 파머까지, 경기력을 끌어올려야 할 선수들, 수비진의 형편없는 경기력이 사비 알론소의 입지에 미치는 영향, 그리고 1월 이적 시장에서 팀을 떠날 가능성이 있는 선수들"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1B1UnJreEZzN1BJbE85TW5PcFVHTElRd0s2ZWE0Mzd6OUhWZ3pkTnJkdEY3RGRpVXpuaGNwTjUyOTkzU0ZwUngtMnd5Z2ZOemxfYVVGTWhfSzJTQjA3d0g3U3E2MnNHekFqQVU0OVRpTVJqQnpXWDlIc0hiR3F6Z2ZLamxOVUF2Rnd4UTdqbDhCeVg0b2w0ZHhoc09XSkhOOUtoRWxyNUc3emExTkY3amlfRWpra0hzaHZZd2pnVlDSAcYBQVVfeXFMT3A5MGVzUXVpVkF3Q0otM1hmSFRsckJQS2h1Y2J1VGRqWE5hbUV6eG9Fbzk1akxYbnR4TUlQRXQ2ZEp4NndMVnNZdXFOMS0za2RhMlViY3dRWkROcklHb3N6SURtNDJNdlJfeXIzdjd2WEVzMFZSREJnWS1GbTgydHM5X3RmUHFjQmRJTkNGRW5FSWRmWi1HUzV5ejNDNlc0NEl4OEhPSDZSbDNpVGZJTlBwYmlXX1AxRFdsUzJhYWJmN01pTDBR?oc=5",
-   "title": "Paul Merson questions Liverpool’s decision over Alonso as Chelsea struggles continue",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1B1UnJreEZzN1BJbE85TW5PcFVHTElRd0s2ZWE0Mzd6OUhWZ3pkTnJkdEY3RGRpVXpuaGNwTjUyOTkzU0ZwUngtMnd5Z2ZOemxfYVVGTWhfSzJTQjA3d0g3U3E2MnNHekFqQVU0OVRpTVJqQnpXWDlIc0hiR3F6Z2ZLamxOVUF2Rnd4UTdqbDhCeVg0b2w0ZHhoc09XSkhOOUtoRWxyNUc3emExTkY3amlfRWpra0hzaHZZd2pnVlDSAcYBQVVfeXFMT3A5MGVzUXVpVkF3Q0otM1hmSFRsckJQS2h1Y2J1VGRqWE5hbUV6eG9Fbzk1akxYbnR4TUlQRXQ2ZEp4NndMVnNZdXFOMS0za2RhMlViY3dRWkROcklHb3N6SURtNDJNdlJfeXIzdjd2WEVzMFZSREJnWS1GbTgydHM5X3RmUHFjQmRJTkNGRW5FSWRmWi1HUzV5ejNDNlc0NEl4OEhPSDZSbDNpVGZJTlBwYmlXX1AxRFdsUzJhYWJmN01pTDBR?oc=5",
-   "source": "Tribuna.com",
-   "group": "영국 언론",
-   "date": 1795453340000,
-   "added": 1795465812948,
-   "cat": null,
-   "titleKo": "폴 머슨, 첼시의 부진이 계속되는 가운데 리버풀의 알론소 영입 결정에 의문을 제기"
   }
  ]
 }
