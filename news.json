@@ -1,13 +1,13 @@
 {
- "updated": 1795728151165,
+ "updated": 1795731696175,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
-  "talkSPORT": 4,
+  "talkSPORT": 5,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 10,
-  "The Sun": 4,
+  "The Sun": 3,
   "Mirror": 2,
   "Daily Mail": 5,
   "Telegraph": 4,
@@ -17,7 +17,7 @@
   "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 71,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 53건"
+  "이번 상대": "Nottingham Forest · 새 기사 46건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -41,6 +41,16 @@
   "state": "pre",
   "items": [
    {
+    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMV9RbWlwRS1hem51VFltc1Q5VHJwanhXR2tnLTA2WXdXZk9CWFhuZzh2WGN4UU03SHhMNVMxazI2RHBndEk2UlBkNnFjSGVBZFJMYXVJa3JGYnBMaDhXTkVrNHhuMlJoSk1KNXlLVFpNOFVFb3plM2Q2OEhpbHdDVzRqZ0NUbHl5bjVVRWpuN29BYUVGYjRaNVQ4aU5JTjg4?oc=5",
+    "title": "Forest-Chelsea: Chelsea arrive with five absences and one doubt",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMV9RbWlwRS1hem51VFltc1Q5VHJwanhXR2tnLTA2WXdXZk9CWFhuZzh2WGN4UU03SHhMNVMxazI2RHBndEk2UlBkNnFjSGVBZFJMYXVJa3JGYnBMaDhXTkVrNHhuMlJoSk1KNXlLVFpNOFVFb3plM2Q2OEhpbHdDVzRqZ0NUbHl5bjVVRWpuN29BYUVGYjRaNVQ4aU5JTjg4?oc=5",
+    "source": "Tu Futbolero",
+    "date": 1795731259000,
+    "added": 1795731690554,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트-첼시: 첼시, 5명의 선수 결장 및 1명의 선수 출전 불확실"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2RTazV4aDRhckRrQ3pZU0tEb1ZKeUhFOU5SQkxlYUhZYjhKWW4zLW1kcmRMTWNGb1ViRGllWWtaclVMcWk2S1pkT1Y3WWIyLVZKOEozYWFKcFlkZzd3T1NPMDhjN3V1WTNST1ZGVW1Ca1prQWlwMnNBQmlHU1NDTTBoaEJWVkU?oc=5",
     "title": "Friday football tip - Delap to score against former club Chelsea",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2RTazV4aDRhckRrQ3pZU0tEb1ZKeUhFOU5SQkxlYUhZYjhKWW4zLW1kcmRMTWNGb1ViRGllWWtaclVMcWk2S1pkT1Y3WWIyLVZKOEozYWFKcFlkZzd3T1NPMDhjN3V1WTNST1ZGVW1Ca1prQWlwMnNBQmlHU1NDTTBoaEJWVkU?oc=5",
@@ -49,6 +59,16 @@
     "added": 1795728140568,
     "tag": "상대 소식",
     "titleKo": "금요일 축구 베팅 팁 - 델라프, 전 소속팀 첼시를 상대로 득점할 것"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmszSFRrQ0QxQ3NiYm9PR3NnTm5MR3dVRWtFd1M2THVQRzVjMGthN1czZlkzNTFpSUl1QV9SS2M2U2c5R3VHZEJsenRaMVgySVRVN25UMHR2cGtQVjZjYUktTUdxd3hOakZ1OVJidEcxQ2VKQ3BKTXpnQWpLWkl2Q09pRnpMLWVaangxRmdaRQ?oc=5",
+    "title": "Three Reasons Why Chelsea Must Beat Nottingham Forest As Pressure Rises On Xabi Alonso",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmszSFRrQ0QxQ3NiYm9PR3NnTm5MR3dVRWtFd1M2THVQRzVjMGthN1czZlkzNTFpSUl1QV9SS2M2U2c5R3VHZEJsenRaMVgySVRVN25UMHR2cGtQVjZjYUktTUdxd3hOakZ1OVJidEcxQ2VKQ3BKTXpnQWpLWkl2Q09pRnpMLWVaangxRmdaRQ?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795726612000,
+    "added": 1795731690554,
+    "tag": "상대 소식",
+    "titleKo": "샤비 알론소 감독에게 가해지는 압박이 커지는 가운데, 첼시가 노팅엄 포레스트를 반드시 이겨야 하는 세 가지 이유"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTBhZ25hdlpjTEVtcV9pUENWdjZGaUozN1lvTVNUYTJRVnV4cXlMVjVZNjN3WWgtbUFGRTZiZ2ZfZi1ZYlJ4NldneElLT1N5eWRQWTY2N083b3RIRFRhUTVOeWZfamJ3bXZpLS1veGdmOGNMNUJtN004d0JGWl91eXNET19wZ2RSZWJTakNDaHBFbEFsU3QzM0FpZlhKcVJXdmM5M2JXUGgyUlJtTy12bTYzcm4wUV9QU1ZWWU83NEhZU1dmUXY4MzAxcmVhalZDSjZNWDl3?oc=5",
@@ -561,6 +581,16 @@
     "titleKo": "노팅엄 포레스트 vs 첼시 경기 예측, 통계 및 팀 소식"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2ZTcDZxT2J0NFUxNE1qR3pkOVRjaHdxelY2UzZUNkRubmVDdkgxdFBubG1LOWZIZXZhNTkwa0YxT0k0MXFhVU4tTE8talhDLUZkSnpvb0NONm1oT0gwNXNMVFc1dFV6SDg4QWhnMVpYeE9JOTdwYjJSQlpUM0xGb0g5VFNfbzhtRWJzMDg0UQ?oc=5",
+    "title": "Nottingham Forest vs Chelsea Premier League Match Centre",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2ZTcDZxT2J0NFUxNE1qR3pkOVRjaHdxelY2UzZUNkRubmVDdkgxdFBubG1LOWZIZXZhNTkwa0YxT0k0MXFhVU4tTE8talhDLUZkSnpvb0NONm1oT0gwNXNMVFc1dFV6SDg4QWhnMVpYeE9JOTdwYjJSQlpUM0xGb0g5VFNfbzhtRWJzMDg0UQ?oc=5",
+    "source": "Dave.Sport",
+    "date": 1795694948000,
+    "added": 1795731690554,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs 첼시 프리미어리그 매치 센터"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDNUa3AxT2hYQ2ZSUFFiaXJMMXhqZkJJM1VwbzhMSWdaSUg1WWxWR3p2TktuRFZWWVVKd19lc1cyT0NqXzRuZlpKX1ZWOElVWDhabkxLcUxPNVZqVU9KdnB3R3RaOE1PQkxKSXZBY042T2lNbkpsblBGaFV5eF9nYjRYaUozSXB3N1gxOVZqdEdURWw3YWlQTXlFcmZsSGdlYy1XdXFiTE9WYVUxZHNVY3hpeU4?oc=5",
     "title": "10 realistic players Nottingham Forest could sign in January as five set to arrive",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDNUa3AxT2hYQ2ZSUFFiaXJMMXhqZkJJM1VwbzhMSWdaSUg1WWxWR3p2TktuRFZWWVVKd19lc1cyT0NqXzRuZlpKX1ZWOElVWDhabkxLcUxPNVZqVU9KdnB3R3RaOE1PQkxKSXZBY042T2lNbkpsblBGaFV5eF9nYjRYaUozSXB3N1gxOVZqdEdURWw3YWlQTXlFcmZsSGdlYy1XdXFiTE9WYVUxZHNVY3hpeU4?oc=5",
@@ -809,40 +839,23 @@
     "added": 1795671365985,
     "tag": "상대 소식",
     "titleKo": "리암 델라프의 첼시 이적, 무엇이 잘못되었으며, 왜 그들이 포레스트의 보복을 두려워할까요?"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1E4bTZjNlZMVEtVZWVFa1V5cW9vbFIxYmFDc2pQSWhFTnVSUTNrM1ZpNDdobDZST0JHa0didGJvMWhwMmlpc2ZSWXphTXdCOGdjcmtiZ0dxZ1dqZkgtQVRicDZHNHl3Q1h0UXR1LWNpNzh1Um54dHpHZ2xtMUZZNGZTZi1BcHBQZHVpV0tuOXZZT29OaXhvNl9wQlZoUFE?oc=5",
-    "title": "Nottingham Forest vs Chelsea predictions: Premier League tips & 12/1 Bet Builder",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1E4bTZjNlZMVEtVZWVFa1V5cW9vbFIxYmFDc2pQSWhFTnVSUTNrM1ZpNDdobDZST0JHa0didGJvMWhwMmlpc2ZSWXphTXdCOGdjcmtiZ0dxZ1dqZkgtQVRicDZHNHl3Q1h0UXR1LWNpNzh1Um54dHpHZ2xtMUZZNGZTZi1BcHBQZHVpV0tuOXZZT29OaXhvNl9wQlZoUFE?oc=5",
-    "source": "Ladbrokes",
-    "date": 1795664352000,
-    "added": 1795711191338,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "노팅엄 포레스트 대 첼시 경기 예측: 프리미어리그 베팅 팁 및 12/1 배당률의 베트 빌더"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaTV1WTBFQndMc0stOFNQb1FlRVQ4V3NXd2ZldkxfLXZNWU03UElvZ1hRTnZBY3dZbG8xOWdKNXItTnJwclg1OWY2SWIzb1VjSXpqdk1idDRiVFoxVEhXS0FhNzlUTHlqeGVRUWI0RTVBRGJqelZ4TFZLQmNNNjRKb1NGOEtrTnUySlZXek1mRWIwV2M?oc=5",
-    "title": "Football Live Scores: Nottingham Forest vs Chelsea, English Premier League, 2026/27 | Nine Wide World of Sports",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaTV1WTBFQndMc0stOFNQb1FlRVQ4V3NXd2ZldkxfLXZNWU03UElvZ1hRTnZBY3dZbG8xOWdKNXItTnJwclg1OWY2SWIzb1VjSXpqdk1idDRiVFoxVEhXS0FhNzlUTHlqeGVRUWI0RTVBRGJqelZ4TFZLQmNNNjRKb1NGOEtrTnUySlZXek1mRWIwV2M?oc=5",
-    "source": "Nine.com.au",
-    "date": 1795660398000,
-    "added": 1795667631527,
-    "tag": "상대 소식",
-    "titleKo": "축구 실시간 스코어: 노팅엄 포레스트 vs 첼시, 잉글랜드 프리미어리그, 2026/27 | Nine Wide World of Sports"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWJQMjFUbk1kWGxCSUNCRkNpLUU0QnVYQ3ZLdVMyV0xkWDBma1hIVDN1MUFiYkpGbVdvWmFYaHhVVWZwSlFYNlRlY3hrb29OdW9EVWpzNXBoa3NCd0JEUXhrUVhwTVd4YWpDMGJPc0UzUnhDejM3ZVpCenpWTEpOWER1RTh0TnBGVnRpY091U0t6c1ZkbV9hRWtQejdwMWJOZzFoOHM2STN1eEhlZ0ZUcXBuZTdUc0U?oc=5",
-    "title": "Hull City vs Nottingham Forest Prediction, Stats & Lineups",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWJQMjFUbk1kWGxCSUNCRkNpLUU0QnVYQ3ZLdVMyV0xkWDBma1hIVDN1MUFiYkpGbVdvWmFYaHhVVWZwSlFYNlRlY3hrb29OdW9EVWpzNXBoa3NCd0JEUXhrUVhwTVd4YWpDMGJPc0UzUnhDejM3ZVpCenpWTEpOWER1RTh0TnBGVnRpY091U0t6c1ZkbV9hRWtQejdwMWJOZzFoOHM2STN1eEhlZ0ZUcXBuZTdUc0U?oc=5",
-    "source": "Squawka",
-    "date": 1795653349000,
-    "added": 1795655386269,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "헐 시티 vs 노팅엄 포레스트 예측, 통계 및 선발 명단"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://talksport.com/football/4734487/xabi-alonso-urged-drop-wesley-fofana/",
+   "title": "Xabi Alonso urged to show no mercy to £70m Chelsea player",
+   "link": "https://talksport.com/football/4734487/xabi-alonso-urged-drop-wesley-fofana/",
+   "source": "talkSPORT",
+   "group": "영국 언론",
+   "date": 1795728854000,
+   "added": 1795731688826,
+   "cat": null,
+   "titleKo": "사비 알론소, 7천만 파운드짜리 첼시 선수에게 자비를 베풀지 말라고 촉구",
+   "imgTried": true,
+   "image": "https://talksport.com/wp-content/uploads/2026/10/crop-4674528.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTBhZ25hdlpjTEVtcV9pUENWdjZGaUozN1lvTVNUYTJRVnV4cXlMVjVZNjN3WWgtbUFGRTZiZ2ZfZi1ZYlJ4NldneElLT1N5eWRQWTY2N083b3RIRFRhUTVOeWZfamJ3bXZpLS1veGdmOGNMNUJtN004d0JGWl91eXNET19wZ2RSZWJTakNDaHBFbEFsU3QzM0FpZlhKcVJXdmM5M2JXUGgyUlJtTy12bTYzcm4wUV9QU1ZWWU83NEhZU1dmUXY4MzAxcmVhalZDSjZNWDl3?oc=5",
    "title": "Caicedo available for Chelsea against Nottingham Forest, but two key players still sidelined",
@@ -4258,18 +4271,6 @@
    "added": 1795545296060,
    "cat": null,
    "titleKo": "'축구를 그만두고 싶었다': 마레스카 감독 체제에서 두 차례 부상을 당한 후 첼시의 8,250만 유로짜리 수비수가 에이전트에게 은퇴 의사를 밝혔다."
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41124613/chelsea-arsenal-willian-transfer-shakhtar-donetsk/",
-   "title": "Chelsea icon, 38, who also played for Arsenal reveals how club tried signing him 18 months BEFORE huge transfer move",
-   "link": "https://www.thesun.co.uk/sport/41124613/chelsea-arsenal-willian-transfer-shakhtar-donetsk/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795520787000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fchelseas-oscar-cesar-azpilicueta-da-791552146.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795523743592,
-   "cat": "이적",
-   "titleKo": "첼시의 아이콘이자 아스널에서도 활약했던 38세의 선수가 대형 이적 18개월 전에 구단이 자신을 영입하려고 시도했던 사실을 밝힙니다."
   }
  ]
 }
