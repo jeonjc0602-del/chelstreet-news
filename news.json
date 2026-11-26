@@ -1,27 +1,27 @@
 {
- "updated": 1795731696175,
+ "updated": 1795735203399,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
   "talkSPORT": 5,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 10,
-  "The Sun": 3,
+  "Evening Standard": 12,
+  "The Sun": 5,
   "Mirror": 2,
   "Daily Mail": 5,
   "Telegraph": 4,
   "Independent": 1,
   "Express": 0,
-  "Sports Mole": 13,
+  "Sports Mole": 12,
   "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 71,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 11,
+  "구글뉴스(한국어)": 12,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -41,6 +41,16 @@
   "state": "pre",
   "items": [
    {
+    "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
+    "title": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
+    "source": "베스트일레븐",
+    "date": 1795734072000,
+    "added": 1795735193998,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMV9RbWlwRS1hem51VFltc1Q5VHJwanhXR2tnLTA2WXdXZk9CWFhuZzh2WGN4UU03SHhMNVMxazI2RHBndEk2UlBkNnFjSGVBZFJMYXVJa3JGYnBMaDhXTkVrNHhuMlJoSk1KNXlLVFpNOFVFb3plM2Q2OEhpbHdDVzRqZ0NUbHl5bjVVRWpuN29BYUVGYjRaNVQ4aU5JTjg4?oc=5",
     "title": "Forest-Chelsea: Chelsea arrive with five absences and one doubt",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMV9RbWlwRS1hem51VFltc1Q5VHJwanhXR2tnLTA2WXdXZk9CWFhuZzh2WGN4UU03SHhMNVMxazI2RHBndEk2UlBkNnFjSGVBZFJMYXVJa3JGYnBMaDhXTkVrNHhuMlJoSk1KNXlLVFpNOFVFb3plM2Q2OEhpbHdDVzRqZ0NUbHl5bjVVRWpuN29BYUVGYjRaNVQ4aU5JTjg4?oc=5",
@@ -49,6 +59,16 @@
     "added": 1795731690554,
     "tag": "라인업·팀뉴스",
     "titleKo": "노팅엄 포레스트-첼시: 첼시, 5명의 선수 결장 및 1명의 선수 출전 불확실"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjNNNjcxRmRyTDlMaER0cmd1eHZvS2tPaXhwb3ZvMUlHcFlvcmpTMkx6blkydTBYRi1aUG85RVdKUXQtZ0hVd1RYU3BTOWJlN0xCbFVJVExXUS1PRUpCV01RTDhXN3F1c2ZQM1l2QTAwaG55RmJvOVBRclhnTlRtV3JSRV90MUVJSXYzSVJhdVFqMWxuT0I0bC1WbGZMQUtoRkdsZklFRFF6ek9nWjdhQlV6aXExYXl3SkE?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Kalshi Promo Code & $55 Bonus",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjNNNjcxRmRyTDlMaER0cmd1eHZvS2tPaXhwb3ZvMUlHcFlvcmpTMkx6blkydTBYRi1aUG85RVdKUXQtZ0hVd1RYU3BTOWJlN0xCbFVJVExXUS1PRUpCV01RTDhXN3F1c2ZQM1l2QTAwaG55RmJvOVBRclhnTlRtV3JSRV90MUVJSXYzSVJhdVFqMWxuT0I0bC1WbGZMQUtoRkdsZklFRFF6ek9nWjdhQlV6aXExYXl3SkE?oc=5",
+    "source": "Squawka",
+    "date": 1795730349000,
+    "added": 1795735193998,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs 첼시: Kalshi 프로모션 코드 및 $55 보너스"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2RTazV4aDRhckRrQ3pZU0tEb1ZKeUhFOU5SQkxlYUhZYjhKWW4zLW1kcmRMTWNGb1ViRGllWWtaclVMcWk2S1pkT1Y3WWIyLVZKOEozYWFKcFlkZzd3T1NPMDhjN3V1WTNST1ZGVW1Ca1prQWlwMnNBQmlHU1NDTTBoaEJWVkU?oc=5",
@@ -819,30 +839,113 @@
     "added": 1795674805968,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 vs 첼시: 주요 통계 및 정보 | 뉴스 | 공식 사이트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVhuaUpBQWc2RDF4UlAycGxSQWZ2aFZLalZZc0lNcE1KNHNqNFlCU1paRDRoV2F2NVN1dzJDbTZsZ0NoTFhNci12NEpZMEZYREowLUFaZU1ZRmY5NDhTWXhDWk9wUWNSQ0gtVzhPOVVDZDlGMTdsajI4TDYyNld4d1pLQUZMR3hOcGVYbHFkdi1RSXhwZG1ocWVkY3l0aVFibHd3ZGllakRKZVc3b05obg?oc=5",
-    "title": "The surprise stat that makes this a value bet in Forest vs Chelsea",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVhuaUpBQWc2RDF4UlAycGxSQWZ2aFZLalZZc0lNcE1KNHNqNFlCU1paRDRoV2F2NVN1dzJDbTZsZ0NoTFhNci12NEpZMEZYREowLUFaZU1ZRmY5NDhTWXhDWk9wUWNSQ0gtVzhPOVVDZDlGMTdsajI4TDYyNld4d1pLQUZMR3hOcGVYbHFkdi1RSXhwZG1ocWVkY3l0aVFibHd3ZGllakRKZVc3b05obg?oc=5",
-    "source": "Goal.com",
-    "date": 1795669500000,
-    "added": 1795707272052,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 대 첼시 경기에서 가치 있는 베팅이 될 수 있는 놀라운 통계"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTlJMHpLcFdscHV2MGJ1Mk9Qbjd6ZzV0SWNqUHNFN1FLMUo1V1VuMm1Vb284Vk9wcXBfQk1qbXV5SlB5RHFoMGxYaU5rR2p6Zy14SmFrMzFnY3NFQmt3Z0JnNWdDYmluaHFTMENvVmhoYk1zZ0UxTldyTWozMXpwT1FaaXlHN2RWWTRxMm4tLXVwbzVpcFI5Y0xaYnZJem8?oc=5",
-    "title": "Liam Delap’s Chelsea exit, what went wrong, and why they’ll fear Forest reprisal",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTlJMHpLcFdscHV2MGJ1Mk9Qbjd6ZzV0SWNqUHNFN1FLMUo1V1VuMm1Vb284Vk9wcXBfQk1qbXV5SlB5RHFoMGxYaU5rR2p6Zy14SmFrMzFnY3NFQmt3Z0JnNWdDYmluaHFTMENvVmhoYk1zZ0UxTldyTWozMXpwT1FaaXlHN2RWWTRxMm4tLXVwbzVpcFI5Y0xaYnZJem8?oc=5",
-    "source": "The New York Times",
-    "date": 1795669424000,
-    "added": 1795671365985,
-    "tag": "상대 소식",
-    "titleKo": "리암 델라프의 첼시 이적, 무엇이 잘못되었으며, 왜 그들이 포레스트의 보복을 두려워할까요?"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-carragher-colwill-fofana-b1306591.html",
+   "title": "Xabi Alonso hits back at Jamie Carragher criticism as ‘responsibility’ claimed for Chelsea defending",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-carragher-colwill-fofana-b1306591.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795734122000,
+   "image": "https://static.standard.co.uk/2026/11/26/17/2306413120..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795735192405,
+   "cat": null,
+   "titleKo": "사비 알론소, 첼시 수비에 대한 '책임'을 주장한 제이미 캐러거의 비판에 반격"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
+   "title": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
+   "source": "베스트일레븐",
+   "group": "한국 언론",
+   "date": 1795734072000,
+   "added": 1795735192405,
+   "cat": "부상",
+   "titleKo": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN21YQm91b1JHYWNTUDcxT0ppMElYaVJaZXcxMkl4T25ZU1pJb3JmS3FLS0l6b0E4WW0tSktaeUx2eGNTWmJUN0ZERWtBYVBzUDB4UHF0cXd0MkRadEpoRkxBQ3l6NUtxOGc5aTN0X3RMRUxsNjRqMnVxSEhiWkNSeXlELUZ1U3RJaVg4eFNMQlNDY2xLWTlfcFRlWTBrN3c?oc=5",
+   "title": "Xabi Alonso hits back at Jamie Carragher's criticism of Chelsea team selection",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN21YQm91b1JHYWNTUDcxT0ppMElYaVJaZXcxMkl4T25ZU1pJb3JmS3FLS0l6b0E4WW0tSktaeUx2eGNTWmJUN0ZERWtBYVBzUDB4UHF0cXd0MkRadEpoRkxBQ3l6NUtxOGc5aTN0X3RMRUxsNjRqMnVxSEhiWkNSeXlELUZ1U3RJaVg4eFNMQlNDY2xLWTlfcFRlWTBrN3c?oc=5",
+   "source": "The Irish Sun",
+   "group": "영국 언론",
+   "date": 1795733252000,
+   "added": 1795735192405,
+   "cat": null,
+   "titleKo": "사비 알론소, 제이미 캐러거의 첼시 팀 선수 선발 비판에 반격"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41166436/xabi-alonso-hits-back-jamie-carragher-fofana-colwill-chelsea/",
+   "title": "Xabi Alonso hits back at Jamie Carragher’s scathing Chelsea criticism that his team selection ‘will never work’",
+   "link": "https://www.thesun.co.uk/sport/41166436/xabi-alonso-hits-back-jamie-carragher-fofana-colwill-chelsea/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795733093000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FLB-OFF-xabi.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795735192405,
+   "cat": null,
+   "titleKo": "사비 알론소, 제이미 캐러거의 첼시 비판에 반격하며 그의 팀 선발이 '절대 성공하지 못할 것'이라고 주장"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjVBRUhaSXU5dld6dzFlaGVWd3hZZ0RuaTZ0R2tKS3N5MWVsUVJfcTJnd016dE5MZWl6SG1pbzB5ZGlWdmVjZTJYNWxVM1VyYmVBTEc1UjVEVnBueHpxWFlHZmhYSldaUlhCdm9Wb1RwV0dqbzYxV2F1R3o3V2tncWFva0l4Vnk3OTFFc0stbUw5NkozbVhGS1R4TllZMGY0YngxckhB?oc=5",
+   "title": "Xabi Alonso issues new Chelsea FC injury update as Joao Pedro return timeline revealed",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjVBRUhaSXU5dld6dzFlaGVWd3hZZ0RuaTZ0R2tKS3N5MWVsUVJfcTJnd016dE5MZWl6SG1pbzB5ZGlWdmVjZTJYNWxVM1VyYmVBTEc1UjVEVnBueHpxWFlHZmhYSldaUlhCdm9Wb1RwV0dqbzYxV2F1R3o3V2tncWFva0l4Vnk3OTFFc0stbUw5NkozbVhGS1R4TllZMGY0YngxckhB?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795732310000,
+   "added": 1795735192405,
+   "cat": "부상",
+   "titleKo": "샤비 알론소, 주앙 페드로의 복귀 시기가 밝혀지면서 첼시 FC의 새로운 부상자 명단을 발표했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWJ5X09tVGVyblZNdUwzQ2xYMEtZaWR1QnpzUVBGX3U4b2ticUF0bDRDdGFuV2JVOWRRTEVrMjNKNHA4bXNUUlN1c1phT1JfY0pwYm5HajE3YXhBQ2JDRHZyT2VDZGtyS3VPa3pnMmxPeXNaNGw3bUpoYlJUdXVrU2tmTFpfVzdybEYxYVoxeFFUT2EybHBUY1lRRlctRUE?oc=5",
+   "title": "Alonso hits back at Carragher claim as Chelsea ‘responsibility’ claimed",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWJ5X09tVGVyblZNdUwzQ2xYMEtZaWR1QnpzUVBGX3U4b2ticUF0bDRDdGFuV2JVOWRRTEVrMjNKNHA4bXNUUlN1c1phT1JfY0pwYm5HajE3YXhBQ2JDRHZyT2VDZGtyS3VPa3pnMmxPeXNaNGw3bUpoYlJUdXVrU2tmTFpfVzdybEYxYVoxeFFUT2EybHBUY1lRRlctRUE?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795732306000,
+   "added": 1795735192405,
+   "cat": null,
+   "titleKo": "알론소, 첼시가 '책임'이 있다는 캐러거의 주장에 반격"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-news-joao-pedro-update-alonso-b1306610.html",
+   "title": "Xabi Alonso issues new Chelsea injury update as Joao Pedro return timeline revealed",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-news-joao-pedro-update-alonso-b1306610.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795732209000,
+   "image": "https://static.standard.co.uk/2026/11/26/20/2299537258..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795735192405,
+   "cat": "부상",
+   "titleKo": "샤비 알론소, 주앙 페드로의 복귀 시기가 밝혀지면서 첼시 부상자 명단에 대한 새로운 소식을 전했습니다."
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41165611/chelsea-news-xabi-alonso-job-sack-culture-war/",
+   "title": "Xabi Alonso demands immediate reaction from Chelsea flops as his future rests on winning Stamford Bridge culture war",
+   "link": "https://www.thesun.co.uk/sport/41165611/chelsea-news-xabi-alonso-job-sack-culture-war/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795732200000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FTM-26-11-Chelsea-Rift_OP.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795735192405,
+   "cat": null,
+   "titleKo": "사비 알론소, 첼시의 부진에 즉각적인 대응을 요구하다. 그의 미래는 스탬퍼드 브리지의 문화 전쟁에서 승리하는 데 달려 있다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1VCaGZqWUJjTVZwYURlRnBHQ3dhYnc1NFcxSm5DWFhuNlJvT0JqVmxEYmhGbDVYODY3eFdWeEZ3bTRnak9kbG0zZ3BMMDJadnU3dlJfWXVnQ29TWlk3TEpDR3J5bVE2NE9Nb2FWN3VobVRfTVBZeHk0NmF5dVNzcFJnbnBlcWxWLVlOQmlJTC00cTAwX0NNMTBtR3FIYUtuYkE?oc=5",
+   "title": "Tom Brady Reportedly Buys Ownership Stake in Chelsea FC",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1VCaGZqWUJjTVZwYURlRnBHQ3dhYnc1NFcxSm5DWFhuNlJvT0JqVmxEYmhGbDVYODY3eFdWeEZ3bTRnak9kbG0zZ3BMMDJadnU3dlJfWXVnQ29TWlk3TEpDR3J5bVE2NE9Nb2FWN3VobVRfTVBZeHk0NmF5dVNzcFJnbnBlcWxWLVlOQmlJTC00cTAwX0NNMTBtR3FIYUtuYkE?oc=5",
+   "source": "Yahoo Sports",
+   "group": "영국 언론",
+   "date": 1795729468000,
+   "added": 1795735192405,
+   "cat": null,
+   "titleKo": "톰 브래디, 첼시 FC 지분 인수 보도"
+  },
   {
    "id": "https://talksport.com/football/4734487/xabi-alonso-urged-drop-wesley-fofana/",
    "title": "Xabi Alonso urged to show no mercy to £70m Chelsea player",
@@ -1771,6 +1874,17 @@
    "added": 1795698975224,
    "cat": "이적",
    "titleKo": "램파드 사촌, 그야말로 파격 주장! \"2년은 더 뛸 수 있다\"…첼시에 리버풀 캡틴 영입 적극 추천"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVNcmhGX3BtbHcyQ0hxNWdQbVJzMFlPdzhobmQwdURxTF96RWQxWVFFd0hPWjFBU1VQTFhZYldaQ0VMbkQxTUFubnZpdnJxRjhCZTJOVVZTTXJxRkcxMVpuMVotaFNCWmV6LW9CbkRoandRMWtCTFJNUHJpX2FZMDRfTFhncldpMFpGZ21lUjQwTl91U0Y3bEtNWTVzMG9QMHpUNFZvLTY?oc=5",
+   "title": "Chavarria: We're going to treat it like it's the last game we play",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVNcmhGX3BtbHcyQ0hxNWdQbVJzMFlPdzhobmQwdURxTF96RWQxWVFFd0hPWjFBU1VQTFhZYldaQ0VMbkQxTUFubnZpdnJxRjhCZTJOVVZTTXJxRkcxMVpuMVotaFNCWmV6LW9CbkRoandRMWtCTFJNUHJpX2FZMDRfTFhncldpMFpGZ21lUjQwTl91U0Y3bEtNWTVzMG9QMHpUNFZvLTY?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795694400000,
+   "added": 1795735192406,
+   "cat": null,
+   "titleKo": "차바리아: 마지막 경기를 치르는 것처럼 임할 겁니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFlRTmh6VkhYcDZYbkZQT2xrT1laSjlFSENjQlItVWZkdjBKXzZzdS1CbjFaYWw3SjF1bEN6M25sQjlkUktrWi1iVm44S1lMcHA4aHRwUWJwYXh2cUEzLXFyUTluanZWOXBHSFdJcUl2eWhwbjFnbEpFR0N3WUxfWkRqS0hxT24xb3FhMDNmYzZEakMzTEYzMzZyc2w1NUU3?oc=5",
@@ -4157,120 +4271,6 @@
    "added": 1795535535116,
    "cat": null,
    "titleKo": "비에른과 브론즈가 'We Are Chelsea'에서 리더십과 더욱 강해져서 돌아오는 방법에 대해 이야기합니다."
-  },
-  {
-   "id": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-manager-transfer-37909894",
-   "title": "Chelsea will back Xabi Alonso in January - he has no excuses to miss out on the top four",
-   "link": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-manager-transfer-37909894",
-   "source": "Mirror",
-   "group": "영국 언론",
-   "date": 1795524463000,
-   "image": "https://i2-prod.mirror.co.uk/incoming/article37909990.ece/ALTERNATES/s615/0_GettyImages-2304127272.jpg",
-   "added": 1795528490588,
-   "cat": null,
-   "titleKo": "첼시는 1월에 사비 알론소를 지지할 것입니다. 그는 상위 4위 안에 들지 못할 변명이 없습니다."
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/news/i-was-serious-gbp75m-chelsea-player-considered-retirement-under-maresca_609755.html",
-   "title": "Chelsea news: £75m player seriously considered retirement under Enzo Maresca",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/news/i-was-serious-gbp75m-chelsea-player-considered-retirement-under-maresca_609755.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795524169000,
-   "image": "https://www.sportsmole.co.uk/thumbor/64eDxytT9Pb40GNWoHo-r524Ym8=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2025%2F09%2Fimago1066841307-68d30e3774d9d581619362.jpg",
-   "added": 1795528490589,
-   "cat": null,
-   "titleKo": "첼시 뉴스: 엔조 마레스카 감독 체제에서 은퇴를 심각하게 고려했던 이적료 7,500만 파운드의 선수"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0ZudVNBZ3E2dW5QMlB4eHBwZDJWM3VtUWNQUmxWMzhGeHRtWi1GZ0V6SGhBUUVCQS1MaEJpOGRONnRfbndqYXZENW1ZbGp2aUVkaUY1TGhjbE02SjR6akZwOFB3bnF5RnNTaDQ0YWxXU0ZOaHlseUs4c3dNQk5KVERaVUN4UE5XUEp6ajZpYzVnWE1PSmc?oc=5",
-   "title": "Why VAR was 'scared' after Leeds United controversy vs Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0ZudVNBZ3E2dW5QMlB4eHBwZDJWM3VtUWNQUmxWMzhGeHRtWi1GZ0V6SGhBUUVCQS1MaEJpOGRONnRfbndqYXZENW1ZbGp2aUVkaUY1TGhjbE02SjR6akZwOFB3bnF5RnNTaDQ0YWxXU0ZOaHlseUs4c3dNQk5KVERaVUN4UE5XUEp6ajZpYzVnWE1PSmc?oc=5",
-   "source": "MOT Leeds News",
-   "group": "영국 언론",
-   "date": 1795523400000,
-   "added": 1795562430894,
-   "cat": null,
-   "titleKo": "리즈 유나이티드와 첼시의 경기에서 VAR이 '겁을 먹은' 이유"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZExDeGc2MjlveWlyUHdOcVM5ZHEtdk9iUzQ3TUVzazFfeG1ITVBsbGZUOVd3MC1SbExFV0Q4bnQ1UkpQRWxncG9tdnh3azVLN1phSTN0ZWNLd3BGcW1XcDFHN1pMeE5XMFoxcWMzX1JWQUVUVlFRbFhFNzZ3clg0OXBqMDM0WEswdEZzZU9DQ0xNUktIVmdUbg?oc=5",
-   "title": "Opinion: Chelsea’s Back Four Experiment Has Run Its Course",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZExDeGc2MjlveWlyUHdOcVM5ZHEtdk9iUzQ3TUVzazFfeG1ITVBsbGZUOVd3MC1SbExFV0Q4bnQ1UkpQRWxncG9tdnh3azVLN1phSTN0ZWNLd3BGcW1XcDFHN1pMeE5XMFoxcWMzX1JWQUVUVlFRbFhFNzZ3clg0OXBqMDM0WEswdEZzZU9DQ0xNUktIVmdUbg?oc=5",
-   "source": "Chelsea FC Online",
-   "group": "영국 언론",
-   "date": 1795523359000,
-   "added": 1795523743592,
-   "cat": null,
-   "titleKo": "의견: 첼시의 포백 실험은 이제 끝났다"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-joao-pedro-warning-scott-transfer-latest-b1306163.html",
-   "title": "Chelsea: Xabi Alonso handed Joao Pedro warning ahead of £100m transfer decision",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-joao-pedro-warning-scott-transfer-latest-b1306163.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795522566000,
-   "image": "https://static.standard.co.uk/2026/11/24/12/59/Xabi-Alonso-Joao-Pedro-Chelsea.jpeg?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795523743592,
-   "cat": "이적",
-   "titleKo": "첼시: 사비 알론소, 1억 파운드 이적 결정에 앞서 주앙 페드로에게 경고"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjhETFZZbVhndzJhVTIwRWNOaEpISkRBRlVPZGctUzkyRXlZWVhubkxLTHNXSmwyRzZjeHNnb3M2eVNoWk9jdHZtS2Y4cWUwQ2ZkUmpOMnlSTFJJNFZyRUtDdnZzcTkxLXdQQTdFdkp6Q05GZzNlMkFOQXBhQ1VMX3NyVkV4UkI2VmhrWHJyUm90V1BuS0FZdkJSSGxBam9DS3FwWGdnQm8yLWc?oc=5",
-   "title": "Chelsea handed Joao Pedro warning ahead of £100m transfer decision",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjhETFZZbVhndzJhVTIwRWNOaEpISkRBRlVPZGctUzkyRXlZWVhubkxLTHNXSmwyRzZjeHNnb3M2eVNoWk9jdHZtS2Y4cWUwQ2ZkUmpOMnlSTFJJNFZyRUtDdnZzcTkxLXdQQTdFdkp6Q05GZzNlMkFOQXBhQ1VMX3NyVkV4UkI2VmhrWHJyUm90V1BuS0FZdkJSSGxBam9DS3FwWGdnQm8yLWc?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795522566000,
-   "added": 1795523743592,
-   "cat": "이적",
-   "titleKo": "첼시, 1억 파운드 이적 결정에 앞서 주앙 페드로에게 경고"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVk1iOWVER2huNjZOSThBVTVJX1pZc3FxSmIwMFpXQjhLdzdUR2dHcE01VF80VHhmQzF4cVFqRFRKbW5uTXZQRGhXbFotdVJfNnJudkFvdXdrRkQxT2xOZm5pa2U1MU5JZGd2UVdzYUJld09ZYUtXUDBFT0hwVnlNS2xQaXgycG1o?oc=5",
-   "title": "Chelsea star reveals he ‘wanted to quit football’ amid injury nightmare",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVk1iOWVER2huNjZOSThBVTVJX1pZc3FxSmIwMFpXQjhLdzdUR2dHcE01VF80VHhmQzF4cVFqRFRKbW5uTXZQRGhXbFotdVJfNnJudkFvdXdrRkQxT2xOZm5pa2U1MU5JZGd2UVdzYUJld09ZYUtXUDBFT0hwVnlNS2xQaXgycG1o?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795522200000,
-   "added": 1795667628788,
-   "cat": "부상",
-   "titleKo": "첼시의 스타 선수가 부상 악몽 속에서 '축구를 그만두고 싶었다'고 털어놓았습니다."
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/steven-gerrard-sends-xabi-alonso-34957642",
-   "title": "Steven Gerrard sends Xabi Alonso clear demand regarding forgotten Chelsea star",
-   "link": "https://www.football.london/chelsea-fc/news/steven-gerrard-sends-xabi-alonso-34957642",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795521692000,
-   "image": "https://i2-prod.football.london/incoming/article34958121.ece/ALTERNATES/s615/0_GettyImages-2305277246.jpg",
-   "added": 1795523743591,
-   "cat": null,
-   "titleKo": "스티븐 제라드, 잊혀진 첼시 스타에 대해 사비 알론소에게 명확한 요구를 보내다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTElNMnRQNlBrckNfQ08tRENleFl0TGhMSEtUSHlIdlU3b3VXVmQ3UEJZc0dSUTVZc004bjFYSlpybC1XYjlxcFJ6RGRpMVVNWkxfS2JGNnE5N3BHbzBhelNlS1dXU3dPUFdCVHY5eTZUbUNwVk9kWVhUT3ZOcEZyeGJ1a1h1TUFLMEpYczBKYng?oc=5",
-   "title": "Former Chelsea and Arsenal star reveals club tried signing him 18 months earlier",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTElNMnRQNlBrckNfQ08tRENleFl0TGhMSEtUSHlIdlU3b3VXVmQ3UEJZc0dSUTVZc004bjFYSlpybC1XYjlxcFJ6RGRpMVVNWkxfS2JGNnE5N3BHbzBhelNlS1dXU3dPUFdCVHY5eTZUbUNwVk9kWVhUT3ZOcEZyeGJ1a1h1TUFLMEpYczBKYng?oc=5",
-   "source": "The Irish Sun",
-   "group": "영국 언론",
-   "date": 1795520864000,
-   "added": 1795523743592,
-   "cat": "인터뷰",
-   "titleKo": "첼시와 아스널의 전 스타 선수가 18개월 전에 구단이 자신을 영입하려고 했다고 밝힘"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOam5uTFpwNzFFV2FXOF9USVVaZTh0YTBCOXVjUTRFa21CdURLVXVnSzNLOHIwVXZYdmZwOHFpbkFuLTdZOHpXOEJfWDVKUnVRZl9NODVwa2wxNzF5UDl6MlBzQXAxZW5PRHZKZ3RiRGl2UEo5VXlfZkdnbzY1Mm5rakxQdFNiaHBGQkRvYkphbTlxUXBEQzZNUXcyQ3J6dw?oc=5",
-   "title": "‘I wanted to quit football’: Chelsea’s €82.5m defender told his agents he was done after two injuries under Maresca",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOam5uTFpwNzFFV2FXOF9USVVaZTh0YTBCOXVjUTRFa21CdURLVXVnSzNLOHIwVXZYdmZwOHFpbkFuLTdZOHpXOEJfWDVKUnVRZl9NODVwa2wxNzF5UDl6MlBzQXAxZW5PRHZKZ3RiRGl2UEo5VXlfZkdnbzY1Mm5rakxQdFNiaHBGQkRvYkphbTlxUXBEQzZNUXcyQ3J6dw?oc=5",
-   "source": "Premier League News Now",
-   "group": "영국 언론",
-   "date": 1795520793000,
-   "added": 1795545296060,
-   "cat": null,
-   "titleKo": "'축구를 그만두고 싶었다': 마레스카 감독 체제에서 두 차례 부상을 당한 후 첼시의 8,250만 유로짜리 수비수가 에이전트에게 은퇴 의사를 밝혔다."
   }
  ]
 }
