@@ -1,5 +1,5 @@
 {
- "updated": 1795667639265,
+ "updated": 1795671371089,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -12,23 +12,23 @@
   "Daily Mail": 3,
   "Telegraph": 4,
   "Independent": 0,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 10,
-  "CaughtOffside": 2,
+  "CaughtOffside": 0,
   "90min": 1,
-  "The Athletic": 4,
-  "구글뉴스(영어)": 68,
+  "The Athletic": 3,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 10,
+  "구글뉴스(한국어)": 11,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 53건"
+  "이번 상대": "Nottingham Forest · 새 기사 59건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTlJMHpLcFdscHV2MGJ1Mk9Qbjd6ZzV0SWNqUHNFN1FLMUo1V1VuMm1Vb284Vk9wcXBfQk1qbXV5SlB5RHFoMGxYaU5rR2p6Zy14SmFrMzFnY3NFQmt3Z0JnNWdDYmluaHFTMENvVmhoYk1zZ0UxTldyTWozMXpwT1FaaXlHN2RWWTRxMm4tLXVwbzVpcFI5Y0xaYnZJem8?oc=5",
+    "title": "Liam Delap’s Chelsea exit, what went wrong, and why they’ll fear Forest reprisal",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTlJMHpLcFdscHV2MGJ1Mk9Qbjd6ZzV0SWNqUHNFN1FLMUo1V1VuMm1Vb284Vk9wcXBfQk1qbXV5SlB5RHFoMGxYaU5rR2p6Zy14SmFrMzFnY3NFQmt3Z0JnNWdDYmluaHFTMENvVmhoYk1zZ0UxTldyTWozMXpwT1FaaXlHN2RWWTRxMm4tLXVwbzVpcFI5Y0xaYnZJem8?oc=5",
+    "source": "The New York Times",
+    "date": 1795669424000,
+    "added": 1795671365985,
+    "tag": "상대 소식",
+    "titleKo": "리암 델라프의 첼시 이적, 무엇이 잘못되었으며, 왜 그들이 포레스트의 보복을 두려워할까요?"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaTV1WTBFQndMc0stOFNQb1FlRVQ4V3NXd2ZldkxfLXZNWU03UElvZ1hRTnZBY3dZbG8xOWdKNXItTnJwclg1OWY2SWIzb1VjSXpqdk1idDRiVFoxVEhXS0FhNzlUTHlqeGVRUWI0RTVBRGJqelZ4TFZLQmNNNjRKb1NGOEtrTnUySlZXek1mRWIwV2M?oc=5",
     "title": "Football Live Scores: Nottingham Forest vs Chelsea, English Premier League, 2026/27 | Nine Wide World of Sports",
@@ -319,6 +329,16 @@
     "added": 1795628186661,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트가 첼시를 상대로 승리하려면 오직 열심히 뛰는 것만이 도움이 될 수 있다 - 글라스너 감독"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSmNEX0pkclp2SlhpU0dLYkpyb3VocWlUbzVfcnVQVmhyT0JOM090d0E1MnNMQnF2cmcwb0hTYVNyb0RqX1NHNUZjd0tNQ1pzaU91clpKLXQ1M3NsM3NkV2lKeVNqZHc1X24yYzBwSGlmZkFabXFjM3BzTUdGbmFIc3ZqR29rcDlNd1FlWS1PZUw4QU8yNjlVZVE1aDRweVJMbmRZS0lEUWxwZEhqQWpOY0I0QjVINXgzN1JPVkNJbW1vY3RJY09xdUIzNGkwdw?oc=5",
+    "title": "Oliver Glasner feels hard work and not magic is needed to improve Nottingham Forest",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSmNEX0pkclp2SlhpU0dLYkpyb3VocWlUbzVfcnVQVmhyT0JOM090d0E1MnNMQnF2cmcwb0hTYVNyb0RqX1NHNUZjd0tNQ1pzaU91clpKLXQ1M3NsM3NkV2lKeVNqZHc1X24yYzBwSGlmZkFabXFjM3BzTUdGbmFIc3ZqR29rcDlNd1FlWS1PZUw4QU8yNjlVZVE1aDRweVJMbmRZS0lEUWxwZEhqQWpOY0I0QjVINXgzN1JPVkNJbW1vY3RJY09xdUIzNGkwdw?oc=5",
+    "source": "Sky Sports",
+    "date": 1795622169000,
+    "added": 1795671365985,
+    "tag": "상대 소식",
+    "titleKo": "올리버 글라스너 감독은 노팅엄 포레스트를 발전시키기 위해서는 마법이 아닌, 뼈를 깎는 노력이 필요하다고 생각합니다."
    },
    {
     "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGpvTTVueVhYZGowSXJzWk9jaFRCU0hmUU9tYUl2VVIzZGxDZS1xWjE4WlFmbWlGOWFoS19FZ3QyTU95SVJULW5FRVN1NS1mQnZFVVk1bHZpODVvTWVndjJuZDdqcVh6LWlvdUFla3Nmdnc2MzRxajh1RDdmdHg0Rm5zN2NRdjJHNXhtRm11ZEJzd0M3aWFDOXBtbkh6WmVBOG40dExka284V0xaLVRveQ?oc=5",
@@ -819,30 +839,43 @@
     "added": 1795523744311,
     "tag": "상대 소식",
     "titleKo": "첼시 대 노팅엄 포레스트 - EPL 경기 하이라이트 - 2026년 11월 27일"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2hRVlhJYW1TRjRIb0JVWU4ydThfTHNCY21oaGVDYjFqSmVfTjZOeTZ2M0tpaTZEcnF1czJLZkhCWEhCYW9DS3g5eTJZUVU3S2k2XzVzQmFzaHZlNEFzMjEtalBMUGZXbHJMNDJOUzgyZU92bF92X1hXbVZjaDBZQWExaHdPbUJWUXZwYVhUeFJmamJ5a3c?oc=5",
-    "title": "Seven memorable moments against Nottingham Forest | News | Official Site",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2hRVlhJYW1TRjRIb0JVWU4ydThfTHNCY21oaGVDYjFqSmVfTjZOeTZ2M0tpaTZEcnF1czJLZkhCWEhCYW9DS3g5eTJZUVU3S2k2XzVzQmFzaHZlNEFzMjEtalBMUGZXbHJMNDJOUzgyZU92bF92X1hXbVZjaDBZQWExaHdPbUJWUXZwYVhUeFJmamJ5a3c?oc=5",
-    "source": "Chelsea Football Club",
-    "date": 1795518000000,
-    "added": 1795519988775,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트와의 7가지 기억에 남는 순간 | 뉴스 | 공식 사이트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWm5LVFNSSHJSQzV3NkJjM0hPQzVURmszNHByUE5OdDMxZDNVZm5FQUY2SV90U0NUV1RtTmVhMHd1UXljUS1ZTnpHLU91dG1yXzQwS2MxeWNXVWhwQUtQamRzTmZqVzczOHJvNWJ1M0dQT2g4VlR5SWJBNF9YQXhoekVPTUVKY1hzTFhrTHJteFJ4Si1fd3NDdWMyR1Zoa1dkaENSTUczcFFqN09maEY0Q2ZpcFdybjVMRFlUNVB6dVRKNzQ?oc=5",
-    "title": "Joe Cole tells Forest boss Oliver Glasner the ‘easiest’ game plan to beat Chelsea",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWm5LVFNSSHJSQzV3NkJjM0hPQzVURmszNHByUE5OdDMxZDNVZm5FQUY2SV90U0NUV1RtTmVhMHd1UXljUS1ZTnpHLU91dG1yXzQwS2MxeWNXVWhwQUtQamRzTmZqVzczOHJvNWJ1M0dQT2g4VlR5SWJBNF9YQXhoekVPTUVKY1hzTFhrTHJteFJ4Si1fd3NDdWMyR1Zoa1dkaENSTUczcFFqN09maEY0Q2ZpcFdybjVMRFlUNVB6dVRKNzQ?oc=5",
-    "source": "Nottingham Forest News",
-    "date": 1795518000000,
-    "added": 1795519988776,
-    "tag": "상대 소식",
-    "titleKo": "조 콜, 노팅엄 포레스트 감독 올리버 글라스너에게 첼시를 이길 수 있는 '가장 쉬운' 경기 전략을 조언하다"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzQ3TUdTUGpHbVVKaEp1RVBocnVDNlpZYjMwTWhOWElvYUJBSzhFQThIek9XOWlUR0xadzl5MW81cF9wRVdjUG12Yk1hbVNTWGRvMDZPNEVDdUdZMkRtb2FteFJYWWQ5cTBXaGNjOUU2d0N5WlZVblZudk1vZHVtLTU5UU9pUEdCSDJyTkhtdDdHdE9manh5dWd4cDI5VEI1VzlWaVBPaw?oc=5",
+   "title": "Man shot and killed at Chelsea High football game, police say",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzQ3TUdTUGpHbVVKaEp1RVBocnVDNlpZYjMwTWhOWElvYUJBSzhFQThIek9XOWlUR0xadzl5MW81cF9wRVdjUG12Yk1hbVNTWGRvMDZPNEVDdUdZMkRtb2FteFJYWWQ5cTBXaGNjOUU2d0N5WlZVblZudk1vZHVtLTU5UU9pUEdCSDJyTkhtdDdHdE9manh5dWd4cDI5VEI1VzlWaVBPaw?oc=5",
+   "source": "Boston.com",
+   "group": "영국 언론",
+   "date": 1795667534000,
+   "added": 1795671363851,
+   "cat": null,
+   "titleKo": "경찰, 첼시 고등학교 미식축구 경기에서 남성 총격 사망 사건 발생했다고 밝혀"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzFLdkdMZTE4QzNkRW0xR01yQnVDaFBjLXFRaDgtVDV3S01aaTg1c3EtMFFEM01wZEJVUnVKR1VVeHRmZXd6UlRQWDI2YUxrczVIWDJaZVBmVHpLeVZKWFUyQ3d4VEtJM0ZwSFd1anNxVlRRQkRBVjM3QnFISFR6ekJNQlM4UnhMYmNjQ2o4cXZBczU3VUNoR2F2WUdQR1NQOTRXbjZhbllpMDhab3FxenNqU3RnbjE2WFHSAcIBQVVfeXFMTTFyZFQxREtoeTNHSEpUTFJwa0hzTjVSZmphcFlaQ0Z0dlRzZ0xoMlAwb0xGb2NURWZ5LVI2b0ZfVkM4SWR0Y1RZeEw2Z1RjcVI3NURxT094LUtTdUVveEdqVllrMzFsd29wdDBWcDdDUUthdWNaM2hsQXQzQ0FaMWhBdlpjeUo2U3B0dS1aOUFFRm9YSk1LWDlrS3hUVTBMU3JwTGpIZlU5NWpIMUZqYUZndHN5NDNqZk9iSVBqYl9YMWc?oc=5",
+   "title": "Man killed in shooting at Chelsea High School football game",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzFLdkdMZTE4QzNkRW0xR01yQnVDaFBjLXFRaDgtVDV3S01aaTg1c3EtMFFEM01wZEJVUnVKR1VVeHRmZXd6UlRQWDI2YUxrczVIWDJaZVBmVHpLeVZKWFUyQ3d4VEtJM0ZwSFd1anNxVlRRQkRBVjM3QnFISFR6ekJNQlM4UnhMYmNjQ2o4cXZBczU3VUNoR2F2WUdQR1NQOTRXbjZhbllpMDhab3FxenNqU3RnbjE2WFHSAcIBQVVfeXFMTTFyZFQxREtoeTNHSEpUTFJwa0hzTjVSZmphcFlaQ0Z0dlRzZ0xoMlAwb0xGb2NURWZ5LVI2b0ZfVkM4SWR0Y1RZeEw2Z1RjcVI3NURxT094LUtTdUVveEdqVllrMzFsd29wdDBWcDdDUUthdWNaM2hsQXQzQ0FaMWhBdlpjeUo2U3B0dS1aOUFFRm9YSk1LWDlrS3hUVTBMU3JwTGpIZlU5NWpIMUZqYUZndHN5NDNqZk9iSVBqYl9YMWc?oc=5",
+   "source": "NBC Boston",
+   "group": "영국 언론",
+   "date": 1795666665000,
+   "added": 1795671363851,
+   "cat": null,
+   "titleKo": "첼시 고등학교 미식축구 경기에서 총격으로 남성 1명 사망"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjVvTUNXRXlsTzZJbWdTVngxRjYtbFVwZGdZaHl2VjRhQkdRZ2RrVFVIMHdDRDBxYXVuMXhJd3hpeDVSVXd0MEwzNS1Jci1USHMyallUdjlMd1JDdGU1X2E2OUdGdnY5WUQ1NHE2eG0xU1otc211bU1oMUdTWVh5ZW5IWHFUdFMwN05VRUVWaw?oc=5",
+   "title": "Man shot and killed on sidelines after Thanksgiving high school football game in Chelsea, Massachusetts",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjVvTUNXRXlsTzZJbWdTVngxRjYtbFVwZGdZaHl2VjRhQkdRZ2RrVFVIMHdDRDBxYXVuMXhJd3hpeDVSVXd0MEwzNS1Jci1USHMyallUdjlMd1JDdGU1X2E2OUdGdnY5WUQ1NHE2eG0xU1otc211bU1oMUdTWVh5ZW5IWHFUdFMwN05VRUVWaw?oc=5",
+   "source": "CBS News",
+   "group": "영국 언론",
+   "date": 1795666488000,
+   "added": 1795671363851,
+   "cat": null,
+   "titleKo": "매사추세츠주 첼시에서 추수감사절 고등학교 미식축구 경기 후 사이드라인에서 남성이 총격을 당해 사망했습니다."
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzVFczZPUkRtLVZuaHAwbjlkV0dtUDVqTVZkZ29BX0xuV0t4dk1ZdHFGOXR2VWhmY20xd21kTF84SkJDb2ZwX1RkOTduNVRhbTNMQnE0WEZ2c2xTcnljbnBwR3FycE5veGxPaDQ5Rm9yMy1YUU9TM3N1OTlIQnNiS3R2ekVQMHNMMHA2Um1MS3pOdGlSQUlTdnNpVnZNWkNUUEJxVXQzaDRwZ9IBrwFBVV95cUxNekZ3X0VfLWE1X2VTbEVGT21GUC11WExHUkJET1J4NmlIWHNmYU1acVI5Qmp6MF9kemF1b2FDckJ1QjE1SWpIUmlhY2NjNFNhbTJVXzJmWDBpNDdhTzdMckZtc2R5eW9pcEVGblZpLTZ3RV9ZZW9CbURDY29xMThMX2dLTHhfUXd0dDNudzBpdm9MalRGWDhLWUxHbXUwamUwNDcwUTc1b2pnaU84dG4w?oc=5",
    "title": "1 dead in shooting at Chelsea High School football game",
@@ -4235,40 +4268,6 @@
    "added": 1795452458511,
    "cat": null,
    "titleKo": "주앙 페드로는 리즈와의 경기에서 뛸 수 있을까요? 첼시 관련 새로운 소식 이후의 최신 정보"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/chelsea-respond-after-emmanuel-emegha-34952428",
-   "title": "Chelsea respond after Emmanuel Emegha 'robbed' following Leeds United defeat",
-   "link": "https://www.football.london/chelsea-fc/news/chelsea-respond-after-emmanuel-emegha-34952428",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795432305000,
-   "image": "https://i2-prod.football.london/incoming/article34952609.ece/ALTERNATES/s615/0_GettyImages-2306210999.jpg",
-   "added": 1795433343969,
-   "cat": null,
-   "titleKo": "첼시, 리즈 유나이티드전 패배 후 에마뉘엘 에메가가 '강탈'당한 데 대해 대응"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUzE2UElRS2JOeFBYLUdwMWotZS1GQmdkUU10bWVqLUZMN2FmUVdyLXNVNTNvSDZXd3RBX3o1YWt3bHFWSzZScnBaRUpEYjZHTW0xREVPam9MUUU0NXV5STlpV2R5dG45MmFHS1ZzR3F1OC1vaWVlU0UzNG1Vdzl6SUJ2SjRLQUVsXzlTRFNsejlkYllvY01LcmJabGdHdnNOTnh0RUQwLXRNR0Q2ekVZNnJJZHg?oc=5",
-   "title": "Chelsea Women international call-ups and schedules for November/December 2026",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUzE2UElRS2JOeFBYLUdwMWotZS1GQmdkUU10bWVqLUZMN2FmUVdyLXNVNTNvSDZXd3RBX3o1YWt3bHFWSzZScnBaRUpEYjZHTW0xREVPam9MUUU0NXV5STlpV2R5dG45MmFHS1ZzR3F1OC1vaWVlU0UzNG1Vdzl6SUJ2SjRLQUVsXzlTRFNsejlkYllvY01LcmJabGdHdnNOTnh0RUQwLXRNR0Q2ekVZNnJJZHg?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795431600000,
-   "added": 1795442140863,
-   "cat": null,
-   "titleKo": "첼시 여자팀 2026년 11월/12월 국가대표팀 차출 및 일정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0RrR3phZEp5MGp0TDlmN3FSSGYycmY4cnNGZFJmLWgxcDJUZG96TUNwNXFUOTJEcXpaUkZrcDBXOXR2RWs0aXk1ZGF4dUhKeEFlcU9WWUp6cGkxU3dHNjdiSTRSdG1LR1dyd2VscFZzSU9oUURmSTNvUkZhSnlfeFB3T3RyMldQSFEzcEpMQloybFBKV1FMYkY2Z2lTU1RsM0huMklkS0tsN1RlSHlWLWw5cTF2ZUM1eWJoS1Naci1VVE16TjVJ?oc=5",
-   "title": "Alonso and Lavia urge Chelsea calm after Leeds woe",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0RrR3phZEp5MGp0TDlmN3FSSGYycmY4cnNGZFJmLWgxcDJUZG96TUNwNXFUOTJEcXpaUkZrcDBXOXR2RWs0aXk1ZGF4dUhKeEFlcU9WWUp6cGkxU3dHNjdiSTRSdG1LR1dyd2VscFZzSU9oUURmSTNvUkZhSnlfeFB3T3RyMldQSFEzcEpMQloybFBKV1FMYkY2Z2lTU1RsM0huMklkS0tsN1RlSHlWLWw5cTF2ZUM1eWJoS1Naci1VVE16TjVJ?oc=5",
-   "source": "DAZN",
-   "group": "영국 언론",
-   "date": 1795429800000,
-   "added": 1795433343970,
-   "cat": null,
-   "titleKo": "알론소와 라비아가 리즈전 패배 후 첼시 팬들에게 침착함을 당부했습니다."
   }
  ]
 }
