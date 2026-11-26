@@ -1,5 +1,5 @@
 {
- "updated": 1795659830517,
+ "updated": 1795663449124,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
@@ -17,18 +17,18 @@
   "CaughtOffside": 2,
   "90min": 1,
   "The Athletic": 4,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 1,
-  "구글뉴스(한국어)": 10,
+  "구글뉴스(한국어)": 11,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 61건"
+  "이번 상대": "Nottingham Forest · 새 기사 42건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -409,6 +409,16 @@
     "added": 1795609802722,
     "tag": "라인업·팀뉴스",
     "titleKo": "노팅엄 포레스트 vs 첼시: 첼시 팀 소식 이후 델라프 지지"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cjJqTFI0UjFJN2EwOXV2RWVsNDd0UUNzN2lKUUlNOXNvc0VOZmdaOXZmYmwtNXR2RXBiTFVlRThCVFo1UjV5cw?oc=5",
+    "title": "프리미어리그: ‘카이세도 부상’ 첼시, 노팅엄 원정서 승점 3점 추가 노린다",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cjJqTFI0UjFJN2EwOXV2RWVsNDd0UUNzN2lKUUlNOXNvc0VOZmdaOXZmYmwtNXR2RXBiTFVlRThCVFo1UjV5cw?oc=5",
+    "source": "티스토리",
+    "date": 1795607313000,
+    "added": 1795663447857,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "프리미어리그: ‘카이세도 부상’ 첼시, 노팅엄 원정서 승점 3점 추가 노린다"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWU8yN0c3U1N3WDRhbHBmNWRLd3dUWGIwZWxZVWtJbV9xdXZlT2VLV1ViY3lXRTJBbENpbGpLX3Y1YXVvbFR3MXVJODVJZmMydFItcWJPNU0tSXdkbUhsR09TbF9fejdBRUttY0hxWUt4bGM1MUN5NFo3cExIWTZ2M1RybnZGc2hLVExCQk9zUXQ?oc=5",
@@ -829,16 +839,6 @@
     "added": 1795516693604,
     "tag": "라인업·팀뉴스",
     "titleKo": "노팅엄 포레스트와의 경기에서 첼시의 부상, 출장 정지 명단 및 복귀 일정: 모이세스 카이세도, 주앙 페드로 최근 소식"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekpkQVQxa191WDFQNHJEUnlIVXhGNGFPUGc2YVpJc0liUHFsTEhKaTJuVHA3eExmaUdlNFNNREVJcDFsakg0Tjd3OG5EcmlkNUgxVkVyMEVobnliVnQ3ZXo1bENjWVVSMVhnMDhYMFdoV3FLS2k3MWdCelJZWnFaRnpaelQ1RExLaDFnaFZ0MEh4TkczTEhsZVhSaWxxSkdaa0tFejMwSjg?oc=5",
-    "title": "Hudson-Odoi, Dominguez, Savona - Nottingham Forest injury latest ahead of crunch Chelsea clash",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekpkQVQxa191WDFQNHJEUnlIVXhGNGFPUGc2YVpJc0liUHFsTEhKaTJuVHA3eExmaUdlNFNNREVJcDFsakg0Tjd3OG5EcmlkNUgxVkVyMEVobnliVnQ3ZXo1bENjWVVSMVhnMDhYMFdoV3FLS2k3MWdCelJZWnFaRnpaelQ1RExLaDFnaFZ0MEh4TkczTEhsZVhSaWxxSkdaa0tFejMwSjg?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795515948000,
-    "added": 1795516693604,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "허드슨-오도이, 도밍게스, 사보나 - 첼시와의 중요한 맞대결을 앞둔 노팅엄 포레스트의 부상자 소식"
    }
   ]
  },
@@ -864,6 +864,17 @@
    "added": 1795659821229,
    "cat": "인터뷰",
    "titleKo": "지방검사가 전한 바에 따르면, 첼시 고등학교에서 열린 축구 경기 후 1명이 총격을 당했다고 합니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFR5WFRUQzdPd2lOZkgxY0dQMjhnUGlZQVJ5TmlYT0g3WUh4M2tXbzVEeFdnaUNIUlRyRWJOSVpINFJZMHBJbHlnRmVwU2FYcVFBRUZYTGtSQTJtNXRrZzBXalZaSEFTbkZWYVBObDFlY1lqVTNyRkNtS0VOdWZlMXVFRmt0ZWRLTEk1ekFSNHUzbGxNV2ZEbTVodS03SDNyd0hXUTc4clpMRk5ENkpMb0JBZGh4R3RpdkJtanp3T2U4RElMekdQQTA0ZUw3SkxEdUVqY1Q5OWo5dw?oc=5",
+   "title": "A person was injured on Wednesday night after a reported shooting at a Chelsea High School football game.",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFR5WFRUQzdPd2lOZkgxY0dQMjhnUGlZQVJ5TmlYT0g3WUh4M2tXbzVEeFdnaUNIUlRyRWJOSVpINFJZMHBJbHlnRmVwU2FYcVFBRUZYTGtSQTJtNXRrZzBXalZaSEFTbkZWYVBObDFlY1lqVTNyRkNtS0VOdWZlMXVFRmt0ZWRLTEk1ekFSNHUzbGxNV2ZEbTVodS03SDNyd0hXUTc4clpMRk5ENkpMb0JBZGh4R3RpdkJtanp3T2U4RElMekdQQTA0ZUw3SkxEdUVqY1Q5OWo5dw?oc=5",
+   "source": "Facebook",
+   "group": "영국 언론",
+   "date": 1795658834000,
+   "added": 1795663446070,
+   "cat": "부상",
+   "titleKo": "수요일 밤, 첼시 고등학교 미식축구 경기에서 총격 사건이 발생했다는 신고가 접수된 후 한 명이 부상을 입었습니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDR6NXZiMUZJekR4bUZwbVNXcGRKRlV5ZVBLWXJ4VUlkd00yYjJQdzBrSGRTMTF0SFdESFBRUm5hdFZMRzU4WllOa3R5OTVxVnVObmxsSTlOdTVuNFpucnNuYzh5QnNta1lOQVFsTmV3TjNRcU1kelM5SHRqM0FwNkxkVkxnV0VNM0hiMGFlVEhxVUtFOXByRGVpNDZUM3RDNFVpQXJTSnVhVWFWY3lTSmpxUU9SNkNLb0HSAcIBQVVfeXFMTjJPZS1qVEJrSnA2cTFQTUJDTnNUNlhuWDJqQVc3SnVSSTdXM21tMUpxdk1MMExPenpXLWlqd00wWmdTRkpoMF9hTmZaakpGNGMtci1LcFU4b2FhaWNOZ0pSZU5Cd2l6ZFdKWW1uOEhoc0Y1cTdLQl92RTM0Z0tSM1R6YU0tYlRvcGNyUWtjRFAtR1M5TEVGakZBZDNSanJHY3NscXA2ZTJ1aFpsaUdHZUlGZ3kzQld3eW5Qcm1QZ0RVRWc?oc=5",
@@ -1449,6 +1460,17 @@
    "added": 1795609800640,
    "cat": "인터뷰",
    "titleKo": "\"아이들처럼\" – 제이미 캐러거, 첼시가 1월에 영입하지 않으면 챔피언스리그 진출권이 위험하다고 말하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cjJqTFI0UjFJN2EwOXV2RWVsNDd0UUNzN2lKUUlNOXNvc0VOZmdaOXZmYmwtNXR2RXBiTFVlRThCVFo1UjV5cw?oc=5",
+   "title": "프리미어리그: ‘카이세도 부상’ 첼시, 노팅엄 원정서 승점 3점 추가 노린다",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cjJqTFI0UjFJN2EwOXV2RWVsNDd0UUNzN2lKUUlNOXNvc0VOZmdaOXZmYmwtNXR2RXBiTFVlRThCVFo1UjV5cw?oc=5",
+   "source": "티스토리",
+   "group": "한국 언론",
+   "date": 1795607313000,
+   "added": 1795663446070,
+   "cat": "부상",
+   "titleKo": "프리미어리그: ‘카이세도 부상’ 첼시, 노팅엄 원정서 승점 3점 추가 노린다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlhRLXNSMjg3eUo0eEJMS1hPRnpJNXNTYzJvdzBIOXAwSmIyNzVyRFZWc0xISXpZQWs0U2JyUlRmTmxhOXBsanZwanR6X3M1U3FEZ0NTQjQ0eUpfX3pjamhuT0xFU01CZXNQdl8tejFqcE1vZzhJRzVnbnJLbDlXS2NOemZNdUZKX0sxN1RHTFZXTTFwM21scUd6dlpOUXlCaVNDQ0FlONIBrAFBVV95cUxORDNCd1p1b2w3dTBmVHdVQV9FalYyZGNEcUljT25YWk1VUU1hWmllSE1obE4wVTFzM0NnenNrZzFZSWZhOEpKMHBYcW1rcGZWNGMwZ2dmNENWX1RacWlsYmFxaXJ6aXNodV9BTWdnMjZreFAyYlhlbF96dGZpYzV0RGp1VFl4ZjVfTEd1XzlVUVNDa214MFlGa09Ea2VSS19nRTlrTGdQUDVrSDRZ?oc=5",
@@ -4249,29 +4271,6 @@
    "added": 1795459135779,
    "cat": "인터뷰",
    "titleKo": "로메오 라비아, 리즈전 패배 후에도 첼시에 위기는 없다고 주장"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/chelsea-player-emegha-completed-two-passes/",
-   "title": "Chelsea player completed two passes in an hour – Alonso’s tactical challenge clear",
-   "link": "https://www.talkchelsea.net/news/chelsea-player-emegha-completed-two-passes/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795428000000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Emmanuel-Emegha-heatmap-414x275.jpg",
-   "added": 1795430111844,
-   "cat": "오피셜",
-   "titleKo": "첼시 선수, 1시간 동안 패스 2회 성공 – 알론소의 전술적 도전 과제 명확"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFFsaG05SGtnM05ISmlETmxFYnpGWS16U0hBR1RnMm5Ub2NKaWpfcTZYRGlsZ25zbkhmSlFfaWEwZy1fcEQ1anhYUUlWS2o3UzdqVFhlZW9yVjZCSGxiVmp2UG9LR3NETm5yMExoaHZPWGQwM1hPeHZKZ1ZZVEhoVDF4RWVlTXZhSnZ5eHdFV0dLNGpNOUR2Qi1pUVEwTUE?oc=5",
-   "title": "Pressure grows on Xabi Alonso after Chelsea’s collapse against Leeds",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFFsaG05SGtnM05ISmlETmxFYnpGWS16U0hBR1RnMm5Ub2NKaWpfcTZYRGlsZ25zbkhmSlFfaWEwZy1fcEQ1anhYUUlWS2o3UzdqVFhlZW9yVjZCSGxiVmp2UG9LR3NETm5yMExoaHZPWGQwM1hPeHZKZ1ZZVEhoVDF4RWVlTXZhSnZ5eHdFV0dLNGpNOUR2Qi1pUVEwTUE?oc=5",
-   "source": "Footie Central",
-   "group": "영국 언론",
-   "date": 1795426065000,
-   "added": 1795437075034,
-   "cat": null,
-   "titleKo": "첼시의 리즈전 대패 후 사비 알론소 감독에 대한 압박이 커지고 있습니다."
   }
  ]
 }
