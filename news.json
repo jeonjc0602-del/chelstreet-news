@@ -1,5 +1,5 @@
 {
- "updated": 1795738548928,
+ "updated": 1795743736003,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
@@ -12,15 +12,15 @@
   "Daily Mail": 3,
   "Telegraph": 4,
   "Independent": 1,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 12,
   "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 0,
   "풋볼리스트": 0,
-  "베스트일레븐": 1,
+  "베스트일레븐": 2,
   "구글뉴스(한국어)": 12,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 49건"
+  "이번 상대": "Nottingham Forest · 새 기사 37건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,16 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnhBR3BIUFpackRTWTJhcVBuTU94dHluUDhHbDE5amszcW5kZ0MzUkNOYkNyT1dIV0xwczRSMnNkUVR0bnFySHo3bWJiTWJXSFlRUFljUkh6MEp1MVBqUzRGTktIRWhMaDRtQXAwRkVTVE9uVUxTMmxrYXJCNElaTTMwa196b1p0U0RpbHFNd0FRVGRmb3MxLW53?oc=5",
+    "title": "Nottingham Forest vs. Chelsea Predictions: Crisis Threatens to Worsen for Xabi Alonso",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnhBR3BIUFpackRTWTJhcVBuTU94dHluUDhHbDE5amszcW5kZ0MzUkNOYkNyT1dIV0xwczRSMnNkUVR0bnFySHo3bWJiTWJXSFlRUFljUkh6MEp1MVBqUzRGTktIRWhMaDRtQXAwRkVTVE9uVUxTMmxrYXJCNElaTTMwa196b1p0U0RpbHFNd0FRVGRmb3MxLW53?oc=5",
+    "source": "Sports Illustrated",
+    "date": 1795741200000,
+    "added": 1795743729088,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시 경기 예측: 샤비 알론소 감독, 위기 심화 우려"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
     "title": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발",
@@ -829,20 +839,56 @@
     "added": 1795679942937,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 - 첼시 실시간 - 프리미어리그: 축구 스코어 및 하이라이트 - 2026년 11월 27일"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXhQUUlUV2laeUxSY2ZoTDVJNGlVM0FXWk5TNUlXQVFjclFMc2RwRmZoZEsxaWw3eEM3aW5qM25TWFVYSUxzQnBGQTk5NUFrNWpHQWNfSEhxSUJwSUhDY01zbGJRcU5EekhwbU8yaWl2cjZkSGdnemdIYllmb1ZsbDU3RnRhVlVDQXB3VA?oc=5",
-    "title": "Cole Palmer disagreement and Wesley Fofana dropped - Chelsea line-ups for Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXhQUUlUV2laeUxSY2ZoTDVJNGlVM0FXWk5TNUlXQVFjclFMc2RwRmZoZEsxaWw3eEM3aW5qM25TWFVYSUxzQnBGQTk5NUFrNWpHQWNfSEhxSUJwSUhDY01zbGJRcU5EekhwbU8yaWl2cjZkSGdnemdIYllmb1ZsbDU3RnRhVlVDQXB3VA?oc=5",
-    "source": "AOL.co.uk",
-    "date": 1795676400000,
-    "added": 1795679942938,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "콜 파머의 불만과 웨슬리 포파나의 제외 - 노팅엄 포레스트전을 위한 첼시 선발 명단"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.besteleven.com/news/articleView.html?idxno=314385",
+   "title": "PK 내주고 승부차기까지 실축했는데 웃음이 나와? 첼시 포파나 인터뷰 논란, 사비 알론소 감독 “다시 반복하지 마” 경고",
+   "link": "https://www.besteleven.com/news/articleView.html?idxno=314385",
+   "source": "베스트일레븐",
+   "group": "한국 언론",
+   "date": 1795772915000,
+   "added": 1795743727003,
+   "cat": "인터뷰",
+   "titleKo": "PK 내주고 승부차기까지 실축했는데 웃음이 나와? 첼시 포파나 인터뷰 논란, 사비 알론소 감독 “다시 반복하지 마” 경고",
+   "imgTried": true,
+   "image": "https://cdn.besteleven.com/news/photo/202611/314385_245520_4650.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnJUSEFlWTVubE5vWTI1cjJoUzdzYlBlZnpqblFCNV9mSmJ5aWRac09EUDdhQ1VGVU1Fb0RpbWlJZmdfWFplRGJtemtOMWI3SkJHZEdGUHYtajBwdHVhQy1EYkY5X0ZsUndqQk9MODBCaWdEZklZTzNuTWpCZmRLcVBBMWJZcWZ6VW1yUWFtU01DOThCdWstajRVNA?oc=5",
+   "title": "Chelsea vs. Leeds: Preview, Predictions, Talking Points",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnJUSEFlWTVubE5vWTI1cjJoUzdzYlBlZnpqblFCNV9mSmJ5aWRac09EUDdhQ1VGVU1Fb0RpbWlJZmdfWFplRGJtemtOMWI3SkJHZEdGUHYtajBwdHVhQy1EYkY5X0ZsUndqQk9MODBCaWdEZklZTzNuTWpCZmRLcVBBMWJZcWZ6VW1yUWFtU01DOThCdWstajRVNA?oc=5",
+   "source": "Forza Football",
+   "group": "영국 언론",
+   "date": 1795741200000,
+   "added": 1795743727003,
+   "cat": "프리뷰",
+   "titleKo": "첼시 vs. 리즈: 프리뷰, 예측, 주요 논점"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3NrbTRlUzRjdWtoUDJZZmVkM0VObkJzWTkwRDNrWktMUWw5NFQ0T1BZMUJvcFBGNm9fSmRkTFpXOTV4bW9TbDkwXzJoNGxrMThaQlhqdzFvdHo0X2d4QmdwbnkwVDRmTzVUckh0M01FcF8wVENnY2k3Mi04cnR3UEtfOXdROHNuYnJPclgxelJZQ0RuMm9Pd012TWQ3ZEt3cWxFTEU2RTJHSzRiRHZNdVhhc01acHlDMmxkbmk2dTFaY3RE?oc=5",
+   "title": "Chelsea latest: Xabi Alonso calls on players to bounce back from Leeds defeat",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3NrbTRlUzRjdWtoUDJZZmVkM0VObkJzWTkwRDNrWktMUWw5NFQ0T1BZMUJvcFBGNm9fSmRkTFpXOTV4bW9TbDkwXzJoNGxrMThaQlhqdzFvdHo0X2d4QmdwbnkwVDRmTzVUckh0M01FcF8wVENnY2k3Mi04cnR3UEtfOXdROHNuYnJPclgxelJZQ0RuMm9Pd012TWQ3ZEt3cWxFTEU2RTJHSzRiRHZNdVhhc01acHlDMmxkbmk2dTFaY3RE?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795740975000,
+   "added": 1795743727003,
+   "cat": null,
+   "titleKo": "첼시 최신 소식: 사비 알론소, 선수들에게 리즈전 패배에서 벗어나라고 촉구"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
+   "title": "Man shot and killed at Chelsea high school football game identified",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
+   "source": "NBC Boston",
+   "group": "영국 언론",
+   "date": 1795737006000,
+   "added": 1795743727003,
+   "cat": null,
+   "titleKo": "첼시 고등학교 미식축구 경기에서 총격을 당해 사망한 남성의 신원이 확인되었습니다."
+  },
   {
    "id": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-carragher-colwill-fofana-b1306591.html",
    "title": "Xabi Alonso hits back at Jamie Carragher criticism as ‘responsibility’ claimed for Chelsea defending",
@@ -2028,6 +2074,17 @@
    "added": 1795698975224,
    "cat": "인터뷰",
    "titleKo": "\"필 포든처럼\" – 전문가가 첼시의 스타 선수가 더 분발해야 한다고 말하며 \"변명을 하고 있다\"고 말했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEkxNEktelpQNkhVMXp4WmRoeDVFOUdXN1B5WXR3aFI3Q0RkcDlpU0MxUUQzelpzR3BSek9iVEZaR3dmVUpHX2o1MW9kRG9XajFRb2lmYkdzeThPLVJPb0YyaDFIa05LMmdXLVpsV080ZnhVWDlHRGFmc1oxM29RUVZDTy1yVFpZ?oc=5",
+   "title": "Unlock Stamford Bridge this Blue Friday",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEkxNEktelpQNkhVMXp4WmRoeDVFOUdXN1B5WXR3aFI3Q0RkcDlpU0MxUUQzelpzR3BSek9iVEZaR3dmVUpHX2o1MW9kRG9XajFRb2lmYkdzeThPLVJPb0YyaDFIa05LMmdXLVpsV080ZnhVWDlHRGFmc1oxM29RUVZDTy1yVFpZ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795691700000,
+   "added": 1795743727004,
+   "cat": null,
+   "titleKo": "이번 블루 프라이데이에 스탬퍼드 브리지의 문을 열어보세요"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85TFNJQ21YSDBDUnBsT3kwY1lVa0pWNHZET1I2YVhtbnpUZjc4b1FnNS1fVHcwd29zUllTa3ZZNk9YU3puX2Y4Mlg2c043b0M2elBIR1NYWHFNRXE4dlRqdjMyekZMWGpha0ppTVpEdm5MbjUwbE51bmVnQ25iZw?oc=5",
@@ -4212,65 +4269,6 @@
    "added": 1795528490589,
    "cat": null,
    "titleKo": "리즈가 '큰 약점'을 드러내자 첼시, 리바이 콜윌에 '불만'"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news-now/chelsea-most-likely-destination-premier-league-midfielder/",
-   "title": "Chelsea “most likely” destination for Premier League midfielder with potential massive January move on the way",
-   "link": "https://www.talkchelsea.net/news-now/chelsea-most-likely-destination-premier-league-midfielder/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795527308000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/07/arsenal-v-bournemouth-premier-league-550x367.jpg",
-   "added": 1795528490589,
-   "cat": null,
-   "titleKo": "프리미어리그 미드필더가 1월 이적 시장에서 대규모 이적을 통해 \"가장 가능성 높은\" 행선지로 첼시를 선택할 전망"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/wesley-fofana-risks-wrath-chelsea-34958284",
-   "title": "Wesley Fofana risks wrath of Chelsea fans with sensational quit claim in bombshell interview",
-   "link": "https://www.football.london/chelsea-fc/news/wesley-fofana-risks-wrath-chelsea-34958284",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795526769000,
-   "image": "https://i2-prod.football.london/incoming/article34958417.ece/ALTERNATES/s615/0_GettyImages-2303010817.jpg",
-   "added": 1795528490588,
-   "cat": "인터뷰",
-   "titleKo": "웨슬리 포파나, 폭탄 발언 인터뷰에서 충격적인 은퇴 선언으로 첼시 팬들의 분노를 살 위험에 처하다"
-  },
-  {
-   "id": "https://www.independent.co.uk/sport/football/jamie-carragher-chelsea-levi-colwill-wesley-fofana-b3090646.html",
-   "title": "Jamie Carragher says Chelsea have ‘no chance of achieving anything’ with current defence",
-   "link": "https://www.independent.co.uk/sport/football/jamie-carragher-chelsea-levi-colwill-wesley-fofana-b3090646.html",
-   "source": "Independent",
-   "group": "영국 언론",
-   "date": 1795525998000,
-   "image": "https://static.independent.co.uk/2026/11/24/13/2303010798..?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795528490589,
-   "cat": "인터뷰",
-   "titleKo": "제이미 캐러거, \"첼시는 현재의 수비진으로는 아무것도 이룰 수 없다\"고 말해"
-  },
-  {
-   "id": "https://www.dailymail.com/sport/football/article-16318177/Chelsea-Wesley-Fofana-Liverpool-penalty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "title": "Chelsea star Wesley Fofana risks angering Blues fans as he LAUGHS off penalty miss against Liverpool and reveals he considered quitting football - before being reminded of his £200,000-per-week contract",
-   "link": "https://www.dailymail.com/sport/football/article-16318177/Chelsea-Wesley-Fofana-Liverpool-penalty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795525510000,
-   "image": "https://i.dailymail.com/1s/2026/11/24/12/112697027-0-image-a-12_1795524965456.jpg",
-   "added": 1795528490588,
-   "cat": "인터뷰",
-   "titleKo": "첼시의 스타 선수 웨슬리 포파나가 리버풀과의 경기에서 페널티킥을 실축한 것을 비웃으며 축구를 그만두는 것을 고려했다고 밝혀 첼시 팬들의 분노를 살 위험에 처했습니다. 하지만 그는 주급 20만 파운드의 계약이 있다는 사실을 상기하게 되었습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlRlME45OHI5M1NIbnNuRFUzVXlYQ1c0UlRpN1BJWDQ5bF9YMnhFWDVqOGstZTY4QVlEbGZSdlJ0cUlMTm96UnF6U245Q2xRMVNQUUpVZjhKdF9Qbkx0enUxQ3BwZEJ6SUtfOHpGaW0tSnQtYVVFV3ZRaXRrV005aXpIOUF1blMxZUxEZVdBTmpxLUY4ZFFvQkREUy05dlV1eGJwNw?oc=5",
-   "title": "Chelsea star Fofana risks angering Blues as he LAUGHS off penalty miss",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlRlME45OHI5M1NIbnNuRFUzVXlYQ1c0UlRpN1BJWDQ5bF9YMnhFWDVqOGstZTY4QVlEbGZSdlJ0cUlMTm96UnF6U245Q2xRMVNQUUpVZjhKdF9Qbkx0enUxQ3BwZEJ6SUtfOHpGaW0tSnQtYVVFV3ZRaXRrV005aXpIOUF1blMxZUxEZVdBTmpxLUY4ZFFvQkREUy05dlV1eGJwNw?oc=5",
-   "source": "Daily Mail",
-   "group": "영국 언론",
-   "date": 1795525217000,
-   "added": 1795528490589,
-   "cat": null,
-   "titleKo": "첼시의 스타 포파나, 페널티킥 실축을 비웃으며 구단 팬들의 분노를 자극할 위험에 처함"
   }
  ]
 }
