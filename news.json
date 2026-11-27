@@ -1,13 +1,13 @@
 {
- "updated": 1795771227141,
+ "updated": 1795775229398,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 3,
+  "Sky Sports": 4,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 13,
-  "The Sun": 5,
+  "Evening Standard": 12,
+  "The Sun": 4,
   "Mirror": 2,
   "Daily Mail": 4,
   "Telegraph": 4,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 53건"
+  "이번 상대": "Nottingham Forest · 새 기사 52건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,46 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGotVXZSTUhOMFkyYmZLZHR5R1dvWTUzYkxwblZhZzZvaHFvenpjemRHTEQxZGFKLUt4cTVuUnNsNnhQZnJ5TGxNMmV0RmxOX2FYZlpKUWU1NzVkSlF3bUZnRHhJbzFZR0pIMmRETExaRnQ5bVRXQ3BzZnFPWnlTTlIyUUVRMFhPVzlVSUZLbmVsOEJkbkppc1FuRkIwODFDVjZXS05xRU1PQVNTcUEtRGI4eHllMGZaX2xnbm9wRDdUWDVBQkE?oc=5",
+    "title": "Nottingham Forest vs. Chelsea: Former Blues eye win",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGotVXZSTUhOMFkyYmZLZHR5R1dvWTUzYkxwblZhZzZvaHFvenpjemRHTEQxZGFKLUt4cTVuUnNsNnhQZnJ5TGxNMmV0RmxOX2FYZlpKUWU1NzVkSlF3bUZnRHhJbzFZR0pIMmRETExaRnQ5bVRXQ3BzZnFPWnlTTlIyUUVRMFhPVzlVSUZLbmVsOEJkbkppc1FuRkIwODFDVjZXS05xRU1PQVNTcUEtRGI4eHllMGZaX2xnbm9wRDdUWDVBQkE?oc=5",
+    "source": "DAZN",
+    "date": 1795773600000,
+    "added": 1795775220871,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs. 첼시: 전 첼시 선수들의 승리 기대"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnN1MDZMRHJSNlRremtiNjVkZEJ3UUd4eTZwZFhQYkJfOVliMTI4Q3ZYZk1aMGVxR2taUFpDbUZvRU9kVDN4NU1aWFFRdEJxZ1hfeWZ3TkJFMzJxT2dsaG0yakxBdU11Y0E5Y0VzVUNIOGpTR0dvdzhZNjVRQmpydll3S2tTaVJvb0FCY1ZVc0pCLUZLOWdBanBRUS05Vmh3bktTNjhEM3g1T0pjdGxLamhR?oc=5",
+    "title": "Nottingham Forest v Chelsea Preview: Predictions, Team News & H2H Record",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnN1MDZMRHJSNlRremtiNjVkZEJ3UUd4eTZwZFhQYkJfOVliMTI4Q3ZYZk1aMGVxR2taUFpDbUZvRU9kVDN4NU1aWFFRdEJxZ1hfeWZ3TkJFMzJxT2dsaG0yakxBdU11Y0E5Y0VzVUNIOGpTR0dvdzhZNjVRQmpydll3S2tTaVJvb0FCY1ZVc0pCLUZLOWdBanBRUS05Vmh3bktTNjhEM3g1T0pjdGxLamhR?oc=5",
+    "source": "news.bet365.com",
+    "date": 1795773232000,
+    "added": 1795775220871,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시 경기 프리뷰: 예측, 팀 소식 및 상대 전적"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWTVpUEpOekRkX3RIcGdZc0ItZkpxbnl0TmlVcjIzRW53RlhaSV9oSHduUms4UjNGLTF6UHhIS3FEYXZYMVhSdWo4aVA1Tk9EaTNRRzcyWl9pOF84Z0RldVB2R2wzRm9EaENiZ2xfU3Bad3c4dFYtMGJCOGRFRFNSRnc4UWRFSnI2OWJiZUVMVjJINjJicVVBVm5LVkg2MEs0MjdvLUxucEc4LW4zejBjSFg3MlpTNk1seTlqeF9DaGc3YzV4RXh3RWRRTExUX2Y2ZXNkd2Jydjk4dWVwWW1fSEpSYmZ3QQ?oc=5",
+    "title": "Nottingham Forest vs Chelsea: How to watch, TV channel, live stream, NOW TV, team news and score prediction",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWTVpUEpOekRkX3RIcGdZc0ItZkpxbnl0TmlVcjIzRW53RlhaSV9oSHduUms4UjNGLTF6UHhIS3FEYXZYMVhSdWo4aVA1Tk9EaTNRRzcyWl9pOF84Z0RldVB2R2wzRm9EaENiZ2xfU3Bad3c4dFYtMGJCOGRFRFNSRnc4UWRFSnI2OWJiZUVMVjJINjJicVVBVm5LVkg2MEs0MjdvLUxucEc4LW4zejBjSFg3MlpTNk1seTlqeF9DaGc3YzV4RXh3RWRRTExUX2Y2ZXNkd2Jydjk4dWVwWW1fSEpSYmZ3QQ?oc=5",
+    "source": "Sky Sports",
+    "date": 1795771927000,
+    "added": 1795775220871,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시: 시청 방법, TV 채널, 라이브 스트리밍, NOW TV, 팀 소식 및 예상 점수"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTLUpsY25KMTFQRzREWHlFOTN0dFJJdHBKUFdteW9mTjRTZWFXOF95RGN3aGJ4U0xDdF9VOEFjZi12NmZMQ1JQdVl2bG43WlhlZlQ0OU0zdTJGYVpaOWoweUhZUXhVd1N0Z0xtNlJKY0lfUQ?oc=5",
+    "title": "[if.preview] ‘11경기 9골 빈공’ 노팅엄 vs ‘20실점 수비 붕괴’ 첼시, 부진 탈출에 성공할 팀은?",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTLUpsY25KMTFQRzREWHlFOTN0dFJJdHBKUFdteW9mTjRTZWFXOF95RGN3aGJ4U0xDdF9VOEFjZi12NmZMQ1JQdVl2bG43WlhlZlQ0OU0zdTJGYVpaOWoweUhZUXhVd1N0Z0xtNlJKY0lfUQ?oc=5",
+    "source": "www.fourfourtwo.co.kr",
+    "date": 1795770741000,
+    "added": 1795775220872,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "[if.preview] ‘11경기 9골 빈공’ 노팅엄 vs ‘20실점 수비 붕괴’ 첼시, 부진 탈출에 성공할 팀은?"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JeXUzdGoyTGtBNnBidmNpeEtlWmpjbjhVOERtSWRfTkVtRlRucjdRV1ZkX3FLTldZa05oRTJ1RmN5a19KTG9DVTZ1UUJLQldrWXpwODNURktxbkxPTG1zSEVncUROUQ?oc=5",
     "title": "\"멋진 슈팅을 골대 위로 날려 보냈다, 내 슈팅을 봤는가?\" 승부차기 실축하고 실없는 농담…첼시 센터백 향한 극대노! 선수단 제외 주장",
@@ -799,50 +839,22 @@
     "added": 1795707272052,
     "tag": "라인업·팀뉴스",
     "titleKo": "샤비 알론소가 첼시와의 협상, 주앙 페드로의 부상, 웨슬리 포파나 인터뷰에 대해 한 모든 말"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1g3QWo0U1VPZk5PSWpyemxacWI5S0JVdG1GYmFlaUNjdjdIanFRdV9oQ1kzb2QwSTloeDItLUVIQk5qTWo4Ung5VlNFR0E0TGxhRElBQWg2ZzdhbmR3OVNDbWt3MFVLaDZWOG1tMkoxMVZ6QTVrRWdSWkhLblM5V3Y2VQ?oc=5",
-    "title": "Chelsea XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest for Premier League",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1g3QWo0U1VPZk5PSWpyemxacWI5S0JVdG1GYmFlaUNjdjdIanFRdV9oQ1kzb2QwSTloeDItLUVIQk5qTWo4Ung5VlNFR0E0TGxhRElBQWg2ZzdhbmR3OVNDbWt3MFVLaDZWOG1tMkoxMVZ6QTVrRWdSWkhLblM5V3Y2VQ?oc=5",
-    "source": "AOL.co.uk",
-    "date": 1795703823000,
-    "added": 1795707272052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식, 예상 선발 명단 및 프리미어리그 부상자 최신 소식"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVQtS2VPNi1YRGFmZnMwNVlZWUFvdVpOTXJEdldVNlVCNmxYMEtrWEtWa2lQd1dRdVU5ak4zWHhpNW9JbFltellfc2lvRFM0cHJMSkRfVVpnUEUyWkJCSHQxR3l0NmRjYTRHOWEyQVBlaHJIWjBpYlNvQ0Z0MWRXLVR0cUdYbG0tSVpzaXdRN0FyUHVyN3hwaA?oc=5",
-    "title": "Chelsea handed boost ahead of Nottingham Forest clash – but Joao Pedro still out",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVQtS2VPNi1YRGFmZnMwNVlZWUFvdVpOTXJEdldVNlVCNmxYMEtrWEtWa2lQd1dRdVU5ak4zWHhpNW9JbFltellfc2lvRFM0cHJMSkRfVVpnUEUyWkJCSHQxR3l0NmRjYTRHOWEyQVBlaHJIWjBpYlNvQ0Z0MWRXLVR0cUdYbG0tSVpzaXdRN0FyUHVyN3hwaA?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795703280000,
-    "added": 1795707272052,
-    "tag": "상대 소식",
-    "titleKo": "첼시, 노팅엄 포레스트와의 경기를 앞두고 전력 보강 – 하지만 주앙 페드로는 여전히 결장"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRk1JVHBJbks5a0g4ZU9PNnI4MVdBcEg0TXNsTXZuRXc3QW1iWUZNUkthWUZPMHdHWTdtd2g4czdCYWw3SGswZjBXN0F2dEtQOXhPcHhJVGx4cV9lXzVEcmlTcGVNT1h3NzIxNlduQUk5dmE1b3UzekhtS2ZJb0NJTnBRenhzRlN1?oc=5",
-    "title": "Xabi Alonso provides double Chelsea injury update on Joao Pedro and Moises Caicedo",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRk1JVHBJbks5a0g4ZU9PNnI4MVdBcEg0TXNsTXZuRXc3QW1iWUZNUkthWUZPMHdHWTdtd2g4czdCYWw3SGswZjBXN0F2dEtQOXhPcHhJVGx4cV9lXzVEcmlTcGVNT1h3NzIxNlduQUk5dmE1b3UzekhtS2ZJb0NJTnBRenhzRlN1?oc=5",
-    "source": "AOL.co.uk",
-    "date": 1795701976000,
-    "added": 1795707272052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "사비 알론소, 주앙 페드로와 모이세스 카이세도의 첼시 부상 소식 전해"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUlWajZuREdGbzhBUW1TbHl5R2lsLTFMamdYQTdQdTR5SlFiUDNQdUV5WFNEMWdndGh0QVM5TllwY01PRHlfQUxTSUN2OThVbi1BdkdsUzBvSXFCTFZWU3FvRnVIN1pLS2JrTkJBY0tETXdudWg4U2tGcy03MjJrZDZWcFdCRjROanN3NmNJY3Y5dVVIeHg2YUxUYVp4dU9CX2ktWHM5bw?oc=5",
-    "title": "Joao Pedro and Caicedo injury latest as Chelsea issue three-man update",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUlWajZuREdGbzhBUW1TbHl5R2lsLTFMamdYQTdQdTR5SlFiUDNQdUV5WFNEMWdndGh0QVM5TllwY01PRHlfQUxTSUN2OThVbi1BdkdsUzBvSXFCTFZWU3FvRnVIN1pLS2JrTkJBY0tETXdudWg4U2tGcy03MjJrZDZWcFdCRjROanN3NmNJY3Y5dVVIeHg2YUxUYVp4dU9CX2ktWHM5bw?oc=5",
-    "source": "London Evening Standard",
-    "date": 1795701975000,
-    "added": 1795714444599,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "조앙 페드로와 카이세도의 부상 소식: 첼시가 3명의 선수에 대한 업데이트를 발표했습니다."
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.talkchelsea.net/news-now/alonso-how-summer-signing-chelsea-tonight/",
+   "title": "Xabi Alonso on how summer signing can help Chelsea in his second game",
+   "link": "https://www.talkchelsea.net/news-now/alonso-how-summer-signing-chelsea-tonight/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795773600000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Xabi-Alonso-speaks-in-his-presser-414x268.jpg",
+   "added": 1795775220330,
+   "cat": null,
+   "titleKo": "샤비 알론소, 여름 이적 시장에서 영입한 선수가 두 번째 경기에서 첼시를 어떻게 도울 수 있을지에 대해 이야기하다"
+  },
   {
    "id": "https://www.besteleven.com/news/articleView.html?idxno=314385",
    "title": "PK 내주고 승부차기까지 실축했는데 웃음이 나와? 첼시 포파나 인터뷰 논란, 사비 알론소 감독 “다시 반복하지 마” 경고",
@@ -855,6 +867,29 @@
    "titleKo": "PK 내주고 승부차기까지 실축했는데 웃음이 나와? 첼시 포파나 인터뷰 논란, 사비 알론소 감독 “다시 반복하지 마” 경고",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314385_245520_4650.jpg"
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/xabi-alonso-jamie-carragher-criticism-34973752",
+   "title": "Xabi Alonso hits back at Jamie Carragher over criticism of two Chelsea stars",
+   "link": "https://www.football.london/chelsea-fc/news/xabi-alonso-jamie-carragher-criticism-34973752",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795772158000,
+   "image": "https://i2-prod.football.london/incoming/article34973758.ece/ALTERNATES/s615/0_GettyImages-2306413206.jpg",
+   "added": 1795775220329,
+   "cat": null,
+   "titleKo": "사비 알론소, 첼시의 두 스타 선수에 대한 제이미 캐러거의 비판에 반격"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTLUpsY25KMTFQRzREWHlFOTN0dFJJdHBKUFdteW9mTjRTZWFXOF95RGN3aGJ4U0xDdF9VOEFjZi12NmZMQ1JQdVl2bG43WlhlZlQ0OU0zdTJGYVpaOWoweUhZUXhVd1N0Z0xtNlJKY0lfUQ?oc=5",
+   "title": "[if.preview] ‘11경기 9골 빈공’ 노팅엄 vs ‘20실점 수비 붕괴’ 첼시, 부진 탈출에 성공할 팀은?",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTLUpsY25KMTFQRzREWHlFOTN0dFJJdHBKUFdteW9mTjRTZWFXOF95RGN3aGJ4U0xDdF9VOEFjZi12NmZMQ1JQdVl2bG43WlhlZlQ0OU0zdTJGYVpaOWoweUhZUXhVd1N0Z0xtNlJKY0lfUQ?oc=5",
+   "source": "www.fourfourtwo.co.kr",
+   "group": "한국 언론",
+   "date": 1795770741000,
+   "added": 1795775220330,
+   "cat": "프리뷰",
+   "titleKo": "[if.preview] ‘11경기 9골 빈공’ 노팅엄 vs ‘20실점 수비 붕괴’ 첼시, 부진 탈출에 성공할 팀은?"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JeXUzdGoyTGtBNnBidmNpeEtlWmpjbjhVOERtSWRfTkVtRlRucjdRV1ZkX3FLTldZa05oRTJ1RmN5a19KTG9DVTZ1UUJLQldrWXpwODNURktxbkxPTG1zSEVncUROUQ?oc=5",
@@ -915,6 +950,18 @@
    "titleKo": "첼시 XI vs 노팅엄 포레스트: 예상 선발 명단 및 확정된 팀 소식"
   },
   {
+   "id": "https://chelsea.news/2026/11/marescas-winless-city-visit-leaders-arsenal-as-chelsea-watch-the-top-four-race/",
+   "title": "Maresca’s winless City visit leaders Arsenal as Chelsea watch the top-four race",
+   "link": "https://chelsea.news/2026/11/marescas-winless-city-visit-leaders-arsenal-as-chelsea-watch-the-top-four-race/",
+   "source": "Chelsea News",
+   "group": "팬 블로그",
+   "date": 1795769911000,
+   "image": "https://chelsea.news/wp-content/uploads/2026/11/emirates-stadium.jpg",
+   "added": 1795775220330,
+   "cat": null,
+   "titleKo": "마레스카 감독의 무승 행진을 이어가는 맨체스터 시티가 선두 아스널을 방문하고, 첼시는 빅4 경쟁을 지켜봅니다."
+  },
+  {
    "id": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-nottingham-forest-predicted-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1306376.html",
    "title": "Chelsea XI vs Nottingham Forest: Predicted lineup, confirmed team news, injury latest for Premier League today",
    "link": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-nottingham-forest-predicted-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1306376.html",
@@ -971,6 +1018,28 @@
    "added": 1795771203452,
    "cat": "프리뷰",
    "titleKo": "노팅엄 포레스트와의 경기를 앞둔 첼시 팬들의 선호 라인업: 포파나는 몇 표를 받았을까요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGR1UFVUeTBkNGpZWldqUmVOMGNTWHNkd1RCQ25nVWNIVzFRWThDaGdqMmZRQl8tS1l0WXRueDBDVDdJMER0ZlQwNjBmX3M4eFZ2QlMxYTdnVnROTmlqM2ZHYy1ROWdmU2IybktCdDZPbWQzRkVBM0tibkNpSkxWZVN0a3BpMU44Wms5N2RubE94Z2E5RGNv?oc=5",
+   "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGR1UFVUeTBkNGpZWldqUmVOMGNTWHNkd1RCQ25nVWNIVzFRWThDaGdqMmZRQl8tS1l0WXRueDBDVDdJMER0ZlQwNjBmX3M4eFZ2QlMxYTdnVnROTmlqM2ZHYy1ROWdmU2IybktCdDZPbWQzRkVBM0tibkNpSkxWZVN0a3BpMU44Wms5N2RubE94Z2E5RGNv?oc=5",
+   "source": "The Guardian",
+   "group": "영국 언론",
+   "date": 1795766400000,
+   "added": 1795775220329,
+   "cat": null,
+   "titleKo": "리암 델라프의 어려움은 첼시의 이탈률이 높다는 것을 상징합니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVF3XzRlNzNNNHpWTW5ReU5UaWJ2ak9wckRaVEU3Vkl6a204cUFwN0tFUU51a2dKdzJuX1llT29vbVdhYXhhbU9lXzRKSlNZam1pLW1RdTE3N0s5WXZkbFdkb2hKQ0JldmZHcUl4bVdGb0x2SW9iMmFvVzgzSTlyeFgtN3lOeVpsbW40WnM5ZnRDRjZjYVk0?oc=5",
+   "title": "Chelsea 2027 Transfer DealSheet – Interest in Alex Scott but Zubimendi not currently an option",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVF3XzRlNzNNNHpWTW5ReU5UaWJ2ak9wckRaVEU3Vkl6a204cUFwN0tFUU51a2dKdzJuX1llT29vbVdhYXhhbU9lXzRKSlNZam1pLW1RdTE3N0s5WXZkbFdkb2hKQ0JldmZHcUl4bVdGb0x2SW9iMmFvVzgzSTlyeFgtN3lOeVpsbW40WnM5ZnRDRjZjYVk0?oc=5",
+   "source": "The New York Times",
+   "group": "영국 언론",
+   "date": 1795765227000,
+   "added": 1795775220329,
+   "cat": "이적",
+   "titleKo": "첼시 2027년 이적 협상 – 알렉스 스콧에 대한 관심은 있지만, 수비멘디는 현재 고려 대상이 아님"
   },
   {
    "id": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-man-utd-chelsea-liverpool-nico-paz-araujo-b1303142.html",
@@ -1086,6 +1155,18 @@
    "added": 1795761869056,
    "cat": null,
    "titleKo": "노팅엄 포레스트 대 첼시 경기 시청 방법: 오늘 프리미어리그 경기 TV 채널 및 라이브 스트리밍"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/11095/13613312/nottingham-forest-vs-chelsea-how-to-watch-tv-channel-live-stream-now-tv-team-news-and-score-prediction",
+   "title": "How to watch Nottingham Forest vs Chelsea",
+   "link": "https://www.skysports.com/football/news/11095/13613312/nottingham-forest-vs-chelsea-how-to-watch-tv-channel-live-stream-now-tv-team-news-and-score-prediction",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795759200000,
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-now-tv-premier-league_7417665.jpg?20261127092004",
+   "added": 1795775220329,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트 대 첼시 경기 시청 방법"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYkVRN2NDcVZIVUdYdHRselF3ZUNNMmZPSDZTMXRsSHVXYVJCYXdKZ1RyRlBuMnF6VG42SThzZVk4SXFsQnQxbl9sMHA2SVNpYlpQRjcxT3pKa1AtTzVBOHkwQTZ5SWJtQjNfTXNQWkFqVWM3SlBGR2haS1czUmVNMWY2dU1RQ0NJVVlvdVNMRU8yU1E4QWk4OV9Vem01dw?oc=5",
@@ -2968,6 +3049,17 @@
    "titleKo": "첼시 고등학교 미식축구 경기장 밖에서 총격 사건 발생 후 1명 사망"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOYk1JYjJlTE1hNmROSDhkYnFsb210eFRZYWlPNU1UNjFZak1hWFNrYl8yMjZxMDZPUWpmNEpVX3I3VDNmWlFBUzFXVU1DWGtNLUdsdk14LXFpc08zbkFnQ1BXd0pGT2VLWWhxLTktOVcwcmVITmFqSUkwWGZ3VVp2blBTdnQ4enBXazdwU1hTTUxad2VJcnR5S2I2UnVfTExtcm5QcExiQXAzbldRdTRpbmtsV3U4RGY2RTVUTGVBaTFSZDMzcF9aMlpRM0IxM3V1d1NneDVlbVZYNEFHaVB0S0ViNVBJdmhMbVdzNEQ1WEEwT2pKQzNUMFRwNGhLWWx2MFpmX3JVQXZWWU1Yck1QS2VqZGhGalE1VXN3UEs4MXhjTTJRSmc?oc=5",
+   "title": "Chelsea Cup Nike Goalkeeper Stadium Shirt 2026-27 with Penders 39 printing",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOYk1JYjJlTE1hNmROSDhkYnFsb210eFRZYWlPNU1UNjFZak1hWFNrYl8yMjZxMDZPUWpmNEpVX3I3VDNmWlFBUzFXVU1DWGtNLUdsdk14LXFpc08zbkFnQ1BXd0pGT2VLWWhxLTktOVcwcmVITmFqSUkwWGZ3VVp2blBTdnQ4enBXazdwU1hTTUxad2VJcnR5S2I2UnVfTExtcm5QcExiQXAzbldRdTRpbmtsV3U4RGY2RTVUTGVBaTFSZDMzcF9aMlpRM0IxM3V1d1NneDVlbVZYNEFHaVB0S0ViNVBJdmhMbVdzNEQ1WEEwT2pKQzNUMFRwNGhLWWx2MFpmX3JVQXZWWU1Yck1QS2VqZGhGalE1VXN3UEs4MXhjTTJRSmc?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795662336000,
+   "added": 1795775220331,
+   "cat": null,
+   "titleKo": "첼시 컵 Nike 골키퍼 스타디움 유니폼 상의 2026-27, 펜더스 39 프린트"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejdtVEgzM2tYY1hqVjJPY2FBZlR3aUllUkJaT3RfTXpyRWs2SHI4c29ISHJBdXlJWDItU3pSTW0xTnR6SVB6SGNQMEpUTmZEVlNCUzlnRFlVa0swU1Bsb0tSenhUUUtneFZsc2tHTWFoMThlV3lTNXptZGhyZFFuMVc2eWJLRFZZVThZaDhqdnltLXp3WUZqREIydHNjUkE0eU1kenY3TXBHSXByTFJwS1M0Z040VVkyZUV6MmxVcGZlTFZ1ZGVhTWtha0lKYndSRDVHM1FSaw?oc=5",
    "title": "Shooting reported at Chelsea High School football stadium after Thanksgiving Eve game",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejdtVEgzM2tYY1hqVjJPY2FBZlR3aUllUkJaT3RfTXpyRWs2SHI4c29ISHJBdXlJWDItU3pSTW0xTnR6SVB6SGNQMEpUTmZEVlNCUzlnRFlVa0swU1Bsb0tSenhUUUtneFZsc2tHTWFoMThlV3lTNXptZGhyZFFuMVc2eWJLRFZZVThZaDhqdnltLXp3WUZqREIydHNjUkE0eU1kenY3TXBHSXByTFJwS1M0Z040VVkyZUV6MmxVcGZlTFZ1ZGVhTWtha0lKYndSRDVHM1FSaw?oc=5",
@@ -4183,96 +4275,6 @@
    "added": 1795634719109,
    "cat": null,
    "titleKo": "- 첼시 축구 클럽"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTDE3WVNXRnl4RnB0amRpdllhRExqTmRHNERPYXpyUXI5MVBUTmFwdjJydkc1U3JCVDlqRUtxczVTcUNXbEQwdGswRTVZdFphMWdfS2RKNGdBS1YtTVdWZkNnNWZBUk52c3p5X3lyN3ZoX2RpdnFneVhRR3luX254RFBjWmg2X3ptV1JiNVdPbHdIVFdsT1dhVVRlTVJTdjNWWWljYmYxcm5iY2FibnlDSEZLb2tWX0JIc250S1JwMDRCNExZZERsVklFcDhFWDR5bm1hdmN1bGtjV2tBZ0VidEVfV190eFpYcUtraVE5LXFrUnFwNHVkdXNxbDNPVDVvWjU0WVgtazdDdVdv?oc=5",
-   "title": "Chelsea WSL Nike Home Stadium Shirt 2026-27 - Womens with Björn 14 printing",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTDE3WVNXRnl4RnB0amRpdllhRExqTmRHNERPYXpyUXI5MVBUTmFwdjJydkc1U3JCVDlqRUtxczVTcUNXbEQwdGswRTVZdFphMWdfS2RKNGdBS1YtTVdWZkNnNWZBUk52c3p5X3lyN3ZoX2RpdnFneVhRR3luX254RFBjWmg2X3ptV1JiNVdPbHdIVFdsT1dhVVRlTVJTdjNWWWljYmYxcm5iY2FibnlDSEZLb2tWX0JIc250S1JwMDRCNExZZERsVklFcDhFWDR5bm1hdmN1bGtjV2tBZ0VidEVfV190eFpYcUtraVE5LXFrUnFwNHVkdXNxbDNPVDVvWjU0WVgtazdDdVdv?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795553336000,
-   "added": 1795621636186,
-   "cat": null,
-   "titleKo": "첼시 WSL 나이키 홈경기장 유니폼 상의 2026/27 - 여성용, 비외른(Björn) 14 프린트"
-  },
-  {
-   "id": "https://www.caughtoffside.com/2026/11/24/alonso-faces-crucial-five-game-test-as-chelsea-keep-39-year-old-alternative-in-mind/",
-   "title": "Alonso faces crucial five-game test as Chelsea keep 39-year-old alternative in mind",
-   "link": "https://www.caughtoffside.com/2026/11/24/alonso-faces-crucial-five-game-test-as-chelsea-keep-39-year-old-alternative-in-mind/",
-   "source": "CaughtOffside",
-   "group": "영국 언론",
-   "date": 1795552219000,
-   "image": "https://icdn.caughtoffside.com/2026/10/COS-Featured_Hero-Image-Templates-1793254025.jpg",
-   "added": 1795562430894,
-   "cat": null,
-   "titleKo": "알론소 감독, 첼시가 39세의 대체자를 염두에 두고 있는 가운데 중요한 5경기 시험대에 직면"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HN3FyNEU0WFpGczBsYl8yVkU1VWRjVjQ5YnplQjRUNDdNQVZBMDBYVkIwRnp4Y0U4a1RsV3pNVl9sWGJTUm9UQTJfS0stWWltbnhZX21tYXhnYUZZbGlUMER1S18wbm1CN0liMm1aUFltdw?oc=5",
-   "title": "Chelsea - Leeds 1-4",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HN3FyNEU0WFpGczBsYl8yVkU1VWRjVjQ5YnplQjRUNDdNQVZBMDBYVkIwRnp4Y0U4a1RsV3pNVl9sWGJTUm9UQTJfS0stWWltbnhZX21tYXhnYUZZbGlUMER1S18wbm1CN0liMm1aUFltdw?oc=5",
-   "source": "Soccerway",
-   "group": "영국 언론",
-   "date": 1795548986000,
-   "added": 1795648461960,
-   "cat": null,
-   "titleKo": "첼시 - 리즈 1-4"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXd1TFNfalZ5UnZoR19rbnpyQmhpYmdjb3NkS05BaTNOSkNyWTR4WEdNODRtYkVaNV91VHNMS3RCZTlVN2YzV1FFaEs3Ql9HSGNlejJoRnZWYjZzRFRfSHE4SXpUQUE1WjZfUjVIZERqRDJKNlBhSFdSLWRDS21sSGJNZWllZ3kzTFN5d2RlQzZZLVlDbTRmd0wxaVlwbmJ2TUd4dUlITQ?oc=5",
-   "title": "Chelsea Weigh January Swoop for Everton’s Harrison Armstrong: Reports",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXd1TFNfalZ5UnZoR19rbnpyQmhpYmdjb3NkS05BaTNOSkNyWTR4WEdNODRtYkVaNV91VHNMS3RCZTlVN2YzV1FFaEs3Ql9HSGNlejJoRnZWYjZzRFRfSHE4SXpUQUE1WjZfUjVIZERqRDJKNlBhSFdSLWRDS21sSGJNZWllZ3kzTFN5d2RlQzZZLVlDbTRmd0wxaVlwbmJ2TUd4dUlITQ?oc=5",
-   "source": "Chelsea FC Online",
-   "group": "영국 언론",
-   "date": 1795548711000,
-   "added": 1795648461961,
-   "cat": null,
-   "titleKo": "첼시, 1월 이적 시장에서 에버턴의 해리슨 암스트롱 영입 고려: 보도"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmRQQWhvT015akYyX2ZNUFpiU0g2emN5eHB0bHpVOGJwRkdrTFlJNmZGVXIxUTBEd0d6bWtvNlFMa3FNaXhVNjFuVE9PZWx1d2lwdVZyU1pmWFkwN3U2SGRqbk1wREs4cDNwQ1FzbEJfckZ3a29DSUh5eDV4Z0R1LWZjeXpWMUdJQmp5OE9ydkxoTDFXeDkwaA?oc=5",
-   "title": "Chelsea Join Newcastle in Race for Hearts Winger: Reports",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmRQQWhvT015akYyX2ZNUFpiU0g2emN5eHB0bHpVOGJwRkdrTFlJNmZGVXIxUTBEd0d6bWtvNlFMa3FNaXhVNjFuVE9PZWx1d2lwdVZyU1pmWFkwN3U2SGRqbk1wREs4cDNwQ1FzbEJfckZ3a29DSUh5eDV4Z0R1LWZjeXpWMUdJQmp5OE9ydkxoTDFXeDkwaA?oc=5",
-   "source": "Chelsea FC Online",
-   "group": "영국 언론",
-   "date": 1795548711000,
-   "added": 1795641657314,
-   "cat": null,
-   "titleKo": "첼시, 하츠 윙어 영입 경쟁에서 뉴캐슬과 합류: 보도"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41131620/chelsea-maxence-lacroix-hamstring-new-year-leeds-united/",
-   "title": "Chelsea in potential injury boost with Maxence Lacroix hoping to return early from hamstring KO",
-   "link": "https://www.thesun.co.uk/sport/41131620/chelsea-maxence-lacroix-hamstring-new-year-leeds-united/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795547690000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F10%2Fcrop-40860599.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795549168552,
-   "cat": "부상",
-   "titleKo": "첼시, 막상스 라크루아의 햄스트링 부상 조기 회복으로 전력 보강 가능성"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNM2M2ekd5SnlCa3NFWmh0LTRVaWJoU0R3TXktRGtBUGhQMV9xcVhWRm9DUEJsaXpFU0JlSXktWmg0dzhzdkRxRFN6ODZOVHhSZU9tWkl1WWtGZHhiYjZsNkR2QUlDM1E4Wi1GUmdhMFV4bHE2SEV0R19JTWZiZVpmZ2dJRXBqdC1sMXR3WTBsSlF5bVZrMkdnY1hBQ2hLVWZFWjVJS216NU5tVkh6ajc4YkNYZGs4YnVHZ2xtOWpJanlBUVdTOUJBOEJrOW5Gbk1hUHIwckRZU0Q3ZzZCMGY1aURWd1FYMXJsbFEydGcxZlZ4REpzcF91ZEp3?oc=5",
-   "title": "Chelsea Cup Nike Away Stadium Shirt 2026-27 - Womens with Jones 34 printing",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNM2M2ekd5SnlCa3NFWmh0LTRVaWJoU0R3TXktRGtBUGhQMV9xcVhWRm9DUEJsaXpFU0JlSXktWmg0dzhzdkRxRFN6ODZOVHhSZU9tWkl1WWtGZHhiYjZsNkR2QUlDM1E4Wi1GUmdhMFV4bHE2SEV0R19JTWZiZVpmZ2dJRXBqdC1sMXR3WTBsSlF5bVZrMkdnY1hBQ2hLVWZFWjVJS216NU5tVkh6ajc4YkNYZGs4YnVHZ2xtOWpJanlBUVdTOUJBOEJrOW5Gbk1hUHIwckRZU0Q3ZzZCMGY1aURWd1FYMXJsbFEydGcxZlZ4REpzcF91ZEp3?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795547450000,
-   "added": 1795621636186,
-   "cat": null,
-   "titleKo": "첼시컵 나이키 원정 경기장 유니폼 상의 2026-27 - 여성용, 존스 34 프린트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNanpSNjczeGJsdHdjN3hVME5aUVEyNTRJYmI1ODZ6bUNRMUgxVHJsSlMySmU4ckxGVGdtSVZiNmlPajdYMUd5ZkdGZnlYS2Q3TzdadjY4N2ZrM096UGhVRVQzX09Uc3pmSGpjMUJRZFpvVnRaWklVMVdiZVJpMlhkaFFDYXRIY2ZVeVU4dFRpZnVEMy1rNDd0LWIzdjNqb0FveWQxenZ3OUpya1EzTFNIRTRWS01iZ0RyZ2ZIUU1yTUdWaVFOV2NYOEV5dmUzUDlkRXp0bE9rVm1PVlVO?oc=5",
-   "title": "Chelsea Brxlz Crest",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNanpSNjczeGJsdHdjN3hVME5aUVEyNTRJYmI1ODZ6bUNRMUgxVHJsSlMySmU4ckxGVGdtSVZiNmlPajdYMUd5ZkdGZnlYS2Q3TzdadjY4N2ZrM096UGhVRVQzX09Uc3pmSGpjMUJRZFpvVnRaWklVMVdiZVJpMlhkaFFDYXRIY2ZVeVU4dFRpZnVEMy1rNDd0LWIzdjNqb0FveWQxenZ3OUpya1EzTFNIRTRWS01iZ0RyZ2ZIUU1yTUdWaVFOV2NYOEV5dmUzUDlkRXp0bE9rVm1PVlVO?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795547376000,
-   "added": 1795588713872,
-   "cat": null,
-   "titleKo": "첼시 Brxlz 문장"
   }
  ]
 }
