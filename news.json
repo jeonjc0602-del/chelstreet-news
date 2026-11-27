@@ -1,5 +1,5 @@
 {
- "updated": 1795747315882,
+ "updated": 1795750848353,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
@@ -13,18 +13,18 @@
   "Telegraph": 4,
   "Independent": 1,
   "Express": 0,
-  "Sports Mole": 12,
+  "Sports Mole": 13,
   "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 67,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 12,
+  "구글뉴스(한국어)": 13,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
-  "The Chelsea Blog": 10,
+  "The Chelsea Blog": "실패: fetch failed",
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
@@ -301,6 +301,16 @@
     "titleKo": "노팅엄 포레스트는 2천만 파운드 미만의 금액으로 영입 대상을 확보할 수 있으며, 이 선수는 글라스너 감독에게 완벽한 선수입니다."
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmt6V05jVzNmdWZ6X0VVdHFjSi1XQkljZDA1cDF6bllXOTRkYkZCWFltM2kxR1JOck9GUXF5Z2F2U3hDbmtKUTNkd3NIQmNyVGk2TEluTjFQRHlMUnRTb2hfbDVObFIyMUpNeDRCTmZOLTNXeDN1M3VoVFlINnUxOGo1NHppUQ?oc=5",
+    "title": "Nottingham Forest - Chelsea",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmt6V05jVzNmdWZ6X0VVdHFjSi1XQkljZDA1cDF6bllXOTRkYkZCWFltM2kxR1JOck9GUXF5Z2F2U3hDbmtKUTNkd3NIQmNyVGk2TEluTjFQRHlMUnRTb2hfbDVObFIyMUpNeDRCTmZOLTNXeDN1M3VoVFlINnUxOGo1NHppUQ?oc=5",
+    "source": "Flashscore.com",
+    "date": 1795715989000,
+    "added": 1795750845488,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 - 첼시"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDZPLWZsTDRUZmFhM19RWHN3Qi05Y2xoRHhMOFpxTzRDV1RlNWRkR1dsNFBKcG1WWkJaMTFvZjVTcDFCMEpnMXVGLTRBS01UdE8yY0htRVBsTEFMMnkzamFMZE45Y0V5TzhuejlCVTJEX0lITFpZMGx5Wkw1bUNOV052YWhhVGE2UzdVYnpUeWNCSHlHTkJ5bjByNktZUXJ6SmxnYWJtcmVFTE1qLW5qTlFBSzdaS3Y1ZGc3UHYzSnFMMTNVZURtRTlsTHpZM0VNblU0TjZfXzVJZG9PS1hDZTltLWt1QlRU?oc=5",
     "title": "Nottingham Forest vs. Chelsea: Prediction, date, venue, and how to watch Premier League match",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDZPLWZsTDRUZmFhM19RWHN3Qi05Y2xoRHhMOFpxTzRDV1RlNWRkR1dsNFBKcG1WWkJaMTFvZjVTcDFCMEpnMXVGLTRBS01UdE8yY0htRVBsTEFMMnkzamFMZE45Y0V5TzhuejlCVTJEX0lITFpZMGx5Wkw1bUNOV052YWhhVGE2UzdVYnpUeWNCSHlHTkJ5bjByNktZUXJ6SmxnYWJtcmVFTE1qLW5qTlFBSzdaS3Y1ZGc3UHYzSnFMMTNVZURtRTlsTHpZM0VNblU0TjZfXzVJZG9PS1hDZTltLWt1QlRU?oc=5",
@@ -449,6 +459,16 @@
     "added": 1795714444599,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식 및 예상 선발 명단"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0JKZjdIcDJ2alRPODRGel92V2NyeE1oRzRhRzByNWFvYk1yRmhTdzNEX0tOb0h5cVNna1czcGxLWlFjWlBKY0kzRjdUVmhVOTBmbVVZSk5QQTR1M2hJU0U0YzRid3ZsTHpRT0xjTVJodF9PVlM0QTBKWEttalBUMVZlamhJZU1LVUI4TW9fcEZfOUM4OEtkUFBueDYtWmM?oc=5",
+    "title": "Alonso demands robust response from 'fragile' Chelsea",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0JKZjdIcDJ2alRPODRGel92V2NyeE1oRzRhRzByNWFvYk1yRmhTdzNEX0tOb0h5cVNna1czcGxLWlFjWlBKY0kzRjdUVmhVOTBmbVVZSk5QQTR1M2hJU0U0YzRid3ZsTHpRT0xjTVJodF9PVlM0QTBKWEttalBUMVZlamhJZU1LVUI4TW9fcEZfOUM4OEtkUFBueDYtWmM?oc=5",
+    "source": "France 24",
+    "date": 1795706115000,
+    "added": 1795750845488,
+    "tag": "상대 소식",
+    "titleKo": "알론소, '취약한' 첼시에 강력한 대응을 요구하다"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWWQ1R1pxT1pIMkdzNFF0TUNDSHV3cXBTX29kTWpsYXVYc3FpUXp5cnJacmZfRzRLQWZDNkFOZ21KZ2luc1FFdmt2M2FGbnhiZ0o4ZEVEX1JjSUFEeE1HZjB6cWo1eUxHR0RZU0xUUXlqR0t4eE9ra3JKUVVZY2lteXNjU3hldTRkc0hpU1d2SmhCQnByZmlVUUE2QjdMdV9WekJLS09mTkZ2VkNRdkxlWUhJdldGamlTYVpucVZWSlNhb1gyeUhDYWRWWl9hTlJ4RzVqaUxJdV8?oc=5",
@@ -819,26 +839,6 @@
     "added": 1795679942938,
     "tag": "라인업·팀뉴스",
     "titleKo": "노팅엄 포레스트 대 첼시 경기 예측: 프리미어리그 프리뷰"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTDY1aG5oNXBlY1ZiLWkyVmM3VWNCaTAtUXFXZDRuWncydUVxRl9UWE4wMEpKQkozNy02cjNHNGdzVjNkRDJTRUpmY0labWNuUFJpYWFnTGZTbzgzb3F6c1NPaEp1M2Y1RWlPV0VpLTA4QmlhQ2N4RlR3ZGNDMTA2OUw5RTlZbkctOHZCWWNNaEJkYUpoNl9zdnhYTU9IbTdmdHgzVXhPeVV6Z3diRWp5alBoVWQwME8yX0tvQXVNbG0yQmptQlVyVy1fbHdNZw?oc=5",
-    "title": "Glasner criticises Nottingham Forest players yet to learn English",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTDY1aG5oNXBlY1ZiLWkyVmM3VWNCaTAtUXFXZDRuWncydUVxRl9UWE4wMEpKQkozNy02cjNHNGdzVjNkRDJTRUpmY0labWNuUFJpYWFnTGZTbzgzb3F6c1NPaEp1M2Y1RWlPV0VpLTA4QmlhQ2N4RlR3ZGNDMTA2OUw5RTlZbkctOHZCWWNNaEJkYUpoNl9zdnhYTU9IbTdmdHgzVXhPeVV6Z3diRWp5alBoVWQwME8yX0tvQXVNbG0yQmptQlVyVy1fbHdNZw?oc=5",
-    "source": "Flashscore UK",
-    "date": 1795678710000,
-    "added": 1795728140568,
-    "tag": "상대 소식",
-    "titleKo": "글라스너 감독, 아직 영어를 배우지 못한 노팅엄 포레스트 선수들을 비판"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXpRRkF5OHV2VWNBbHoxVWNhc00yX056akx6c1hXZ0w5VkNNQXFIMUNfeXJjLUVBTnhGclRwenluck0tT0llRGcxQXdHWUZ3djlVTkZfQVpqQ0RpUHhBRnZyX0FkajhKT3ZMMUlWMnNhR19iaHZPZFdsTFZiRDZYU1BfTlRIU3prYjBfUll5Zk14YjhnRDBtQWhaSjFjUGdUcGt6N25CeC1oQkQ0ei14dXBuY0w?oc=5",
-    "title": "How should Chelsea line up against Nottingham Forest?",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXpRRkF5OHV2VWNBbHoxVWNhc00yX056akx6c1hXZ0w5VkNNQXFIMUNfeXJjLUVBTnhGclRwenluck0tT0llRGcxQXdHWUZ3djlVTkZfQVpqQ0RpUHhBRnZyX0FkajhKT3ZMMUlWMnNhR19iaHZPZFdsTFZiRDZYU1BfTlRIU3prYjBfUll5Zk14YjhnRDBtQWhaSjFjUGdUcGt6N25CeC1oQkQ0ei14dXBuY0w?oc=5",
-    "source": "We Ain't Got No History",
-    "date": 1795678380000,
-    "added": 1795679942938,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "첼시는 노팅엄 포레스트를 상대로 어떤 선발 명단을 내세워야 할까요?"
    }
   ]
  },
@@ -855,6 +855,18 @@
    "titleKo": "PK 내주고 승부차기까지 실축했는데 웃음이 나와? 첼시 포파나 인터뷰 논란, 사비 알론소 감독 “다시 반복하지 마” 경고",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314385_245520_4650.jpg"
+  },
+  {
+   "id": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/cb-solution-chelsea-monitor-boca-starlet-after-continental-triumph_609974.html",
+   "title": "Chelsea transfer news: Blues 'closely monitor' Boca Juniors centre-back ahead of 2027",
+   "link": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/cb-solution-chelsea-monitor-boca-starlet-after-continental-triumph_609974.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795745471000,
+   "image": "https://www.sportsmole.co.uk/thumbor/NG1HQ_pUtRA5dRgA-1QpgPPpaXY=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ffacundo-herrera-r-of-boca-juniors-reacts-on-november-7-2026-alejandro-pagni-6b08e2e7a3852564128529.jpg",
+   "added": 1795750843952,
+   "cat": "이적",
+   "titleKo": "첼시 이적 소식: 2027년을 앞두고 '블루스'가 보카 주니어스의 센터백을 '주목'"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUhFRWN1YXNfZ3NsMWRPTWx6VWIwTkp3c2VXQjhKdFkwWmlSVkdfN2l4Yjc1cVBYYUVlb3BaSU00NHdZbDZ0TU9LUjd2V0xBZW5vWUdfYllJRDJhZ2pla09iSFNlVklFQlZkWEpwcG8zNElmSEFWSW91aUt4c0dlcWpqYw?oc=5",
@@ -4257,17 +4269,6 @@
    "added": 1795648461961,
    "cat": null,
    "titleKo": "제이미 캐러거, 콜윌과 포파나를 비판하며 첼시에 강력한 센터백 영입 촉구"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HUmpELUJBOVNBQW1IOHBVMVE1eEN3aEhGNHEyeHRmMkxTWkhlNmx6VEtVenRGR0VuYmNrOEN6bnVOanJmaWt0UVBLSXdMaFItUDNQajRGYndoV2dSQ0M4NWViWGFYVUdaMlh5cEx4blJTUQ?oc=5",
-   "title": "'알론소 결국 경질 엔딩?'…'HERE WE GO' 로마노 직접 컨펌! 최근 5경기 단 1승에도 첼시의 선택은 달랐다 \"여전히 감독을 신뢰하고 있다\"",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HUmpELUJBOVNBQW1IOHBVMVE1eEN3aEhGNHEyeHRmMkxTWkhlNmx6VEtVenRGR0VuYmNrOEN6bnVOanJmaWt0UVBLSXdMaFItUDNQajRGYndoV2dSQ0M4NWViWGFYVUdaMlh5cEx4blJTUQ?oc=5",
-   "source": "포포투",
-   "group": "한국 언론",
-   "date": 1795530300000,
-   "added": 1795531779908,
-   "cat": "이적",
-   "titleKo": "'알론소 결국 경질 엔딩?'…'HERE WE GO' 로마노 직접 컨펌! 최근 5경기 단 1승에도 첼시의 선택은 달랐다 \"여전히 감독을 신뢰하고 있다\""
   }
  ]
 }
