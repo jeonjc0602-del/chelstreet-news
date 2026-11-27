@@ -1,15 +1,15 @@
 {
- "updated": 1795790339433,
+ "updated": 1795793908901,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 2,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 12,
-  "The Sun": 4,
+  "Evening Standard": 10,
+  "The Sun": 2,
   "Mirror": 2,
-  "Daily Mail": 4,
+  "Daily Mail": 5,
   "Telegraph": 4,
   "Independent": 1,
   "Express": 0,
@@ -17,18 +17,18 @@
   "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 15,
+  "구글뉴스(한국어)": 14,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 54건"
+  "이번 상대": "Nottingham Forest · 새 기사 50건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -59,6 +59,16 @@
     "added": 1795790331208,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 - 첼시 실시간 - 프리미어리그: 축구 스코어 및 하이라이트 - 2026년 11월 27일"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3NYTWZEREVnSUZaa2REX09EVERPREw2NFM2OHJrMnBHcmFEMC16ZXBsZFlDdUJKbmxBd1dyamp2dktsOFE1UVlTV3V3TWpZa1J4S2pZNC05eURzaXhHZ3c5WUtueUpKUmVpQ2pSSzZjVDlQd3JReDJhcjZkTUFDblJIMVFhWjV6NDRyYXZ0OA?oc=5",
+    "title": "Nottingham Forest vs Chelsea - Prediction, where to watch, kick-off time and line-ups 27-11-2026",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3NYTWZEREVnSUZaa2REX09EVERPREw2NFM2OHJrMnBHcmFEMC16ZXBsZFlDdUJKbmxBd1dyamp2dktsOFE1UVlTV3V3TWpZa1J4S2pZNC05eURzaXhHZ3c5WUtueUpKUmVpQ2pSSzZjVDlQd3JReDJhcjZkTUFDblJIMVFhWjV6NDRyYXZ0OA?oc=5",
+    "source": "OneFootball",
+    "date": 1795786325000,
+    "added": 1795793903300,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시 - 경기 예측, 시청 방법, 킥오프 시간 및 선발 명단 2026년 11월 27일"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZy0xWTZEMUVfaFNUNHVVR3IxRjV1YWpnY3FLeWV5aGgtZk9DRUdWOG1RblZmMFh4OHFocXMxQjFoSGx3RDFPcDBjd1pWb2ZOdjBjXzMxb3hRWGhlaVAwYmtrRTFwV1NHMWM4THFNZFM1QTVqQUZJOWVrQ1RFYzU4VFlJMzFqd0pyUHNkZlRSU3lCdlFnNlViMw?oc=5",
@@ -259,6 +269,16 @@
     "added": 1795771205633,
     "tag": "라인업·팀뉴스",
     "titleKo": "서튼의 예측: 노팅엄 포레스트 vs 첼시"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GeXlNZFA4TEQtQ0VPaTYwVFlBa0ZLc2lzLTA0UnRZMmpIUmpYN0FrUUFjVjFRa3RoQV9IbldBMkdZT3NGX0ZBdjVhR21RZ2RXS2ZORFJRcm1ESXA1TzVyNE9yVndTZjItR0R3?oc=5",
+    "title": "Nottingham Forest vs Chelsea predictions: Chris Sutton on Premier League game",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GeXlNZFA4TEQtQ0VPaTYwVFlBa0ZLc2lzLTA0UnRZMmpIUmpYN0FrUUFjVjFRa3RoQV9IbldBMkdZT3NGX0ZBdjVhR21RZ2RXS2ZORFJRcm1ESXA1TzVyNE9yVndTZjItR0R3?oc=5",
+    "source": "BBC",
+    "date": 1795768375000,
+    "added": 1795793903299,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시 경기 예측: 크리스 서튼이 전망하는 프리미어리그 경기"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzN3bXlCVU00eTNQOHgwVXBQeGRqTnlNNTZzeWFac0NhTm1kc0g3bFVsejFEa2FVTy1nZThBU3d5V0VqY3lOS2xxdllJWXNrRWNEWnVqLU5rWmUtTmZMenZSdU5PSUN0alhVWnByMEVFLTNSSkhWbHBwRnA5YS04ZVVhYXc3RVpMZUJtLTBiSHktbHZtN053WENLMGxTRVkwVkFRSw?oc=5",
@@ -791,6 +811,16 @@
     "titleKo": "노팅엄 포레스트 대 첼시: 프리미어리그 프리뷰, 예상, 팀 소식 및 TV 정보"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZmJtbG01bXNlNlR2V1IzVHAxU3NUQUFTTDEtMW82b0w3d1BIX1RObTdUNlpMY2lDcGZQYUFCODc3bW5OOEFQOXlqQVM0WXNsVWdYNkd3VHN5RmotdVc4Tlpwak41amFkTzlhNjBQdHlKaVVxWmgzSHl6X3pkQQ?oc=5",
+    "title": "FPL 2026/27: Chelsea Gameweek 12 | News | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZmJtbG01bXNlNlR2V1IzVHAxU3NUQUFTTDEtMW82b0w3d1BIX1RObTdUNlpMY2lDcGZQYUFCODc3bW5OOEFQOXlqQVM0WXNsVWdYNkd3VHN5RmotdVc4Tlpwak41amFkTzlhNjBQdHlKaVVxWmgzSHl6X3pkQQ?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795713042000,
+    "added": 1795793903300,
+    "tag": "상대 소식",
+    "titleKo": "FPL 2026/27: 첼시 12라운드 | 뉴스 | 공식 사이트"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdWg4bmVMX3A5dndpWnBoSkNIWF9MbkEyNVhLN0J4ZHBVdUw4VkwzQUtwTHNXQjEtVWJIaXN6WXFfY3pZQnNVZWZzNG5kcm9IdklXVzZLcTFFY0FQcUZsdVlCQk9Fd2ZubVQtcEN3?oc=5",
     "title": "Moisés Caicedo injury: Alonso confirms Chelsea midfielder is fit for Nottingham Forest",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdWg4bmVMX3A5dndpWnBoSkNIWF9MbkEyNVhLN0J4ZHBVdUw4VkwzQUtwTHNXQjEtVWJIaXN6WXFfY3pZQnNVZWZzNG5kcm9IdklXVzZLcTFFY0FQcUZsdVlCQk9Fd2ZubVQtcEN3?oc=5",
@@ -809,36 +839,6 @@
     "added": 1795738544724,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 대 첼시 경기에서 가치 있는 베팅이 되는 놀라운 통계"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOclhWUEU4TEpTMHRReHplNGhac0pYZlJlVklEcm93aFZqQ0JSYkdqT0hWNEVjV3dOQW1ZNjZsaHNwcmc2SzdxTDhsckxmYnpLdVVKV2QxeUMzMGZxck4tQi1xVTFteE9HeUZIOGk2T3g5eU9GZC1zbnVpU1VwckxTZ2ROOTJRQzd3ZXNyVlpUenYxTTg0UU15cHJib2ZBa0piMDdmUWdiY3RHTndXMkFIR20zODFhUEVuOTdIamJBOFl5cmdZajFEX0FnTERiVWJzbmdfcmIxUEFQMTM1aWpQeUxBSGFRRkFjWmRvVURXRWM5Mm9JZi1VVFR3?oc=5",
-    "title": "Premier League predictions & Jones Knows' best bets: Nottingham Forest vs Chelsea, Arsenal vs Manchester City and more!",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOclhWUEU4TEpTMHRReHplNGhac0pYZlJlVklEcm93aFZqQ0JSYkdqT0hWNEVjV3dOQW1ZNjZsaHNwcmc2SzdxTDhsckxmYnpLdVVKV2QxeUMzMGZxck4tQi1xVTFteE9HeUZIOGk2T3g5eU9GZC1zbnVpU1VwckxTZ2ROOTJRQzd3ZXNyVlpUenYxTTg0UU15cHJib2ZBa0piMDdmUWdiY3RHTndXMkFIR20zODFhUEVuOTdIamJBOFl5cmdZajFEX0FnTERiVWJzbmdfcmIxUEFQMTM1aWpQeUxBSGFRRkFjWmRvVURXRWM5Mm9JZi1VVFR3?oc=5",
-    "source": "Sky Sports",
-    "date": 1795712321000,
-    "added": 1795714444599,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "프리미어리그 예측 및 존스 노우스(Jones Knows)의 베스트 베팅: 노팅엄 포레스트 vs 첼시, 아스널 vs 맨체스터 시티 등!"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTE5keTRZOVc3S3VWeW9nYUlmeTBYdEI4QjVub1F2NnpSc2lIQ0dDUnVJdDJ4dHJEVkZ6WGdlTVhtWlFUTFJHTEN6UUJZWHZJYkRaVC1zR25XZG52Rlg4endHQ1JsN0wyeUh5ZHZ2b3pHVy11b1Q1RVA1ei04QXJZUzB2TjNJbUFtOW9DVXVTbFZCYW4tT2sxcFNGU2t0Y0h0TXZJelk4dFBqdw?oc=5",
-    "title": "Seven players set to miss crunch Nottingham Forest vs Chelsea clash",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTE5keTRZOVc3S3VWeW9nYUlmeTBYdEI4QjVub1F2NnpSc2lIQ0dDUnVJdDJ4dHJEVkZ6WGdlTVhtWlFUTFJHTEN6UUJZWHZJYkRaVC1zR25XZG52Rlg4endHQ1JsN0wyeUh5ZHZ2b3pHVy11b1Q1RVA1ei04QXJZUzB2TjNJbUFtOW9DVXVTbFZCYW4tT2sxcFNGU2t0Y0h0TXZJelk4dFBqdw?oc=5",
-    "source": "Nottingham Post",
-    "date": 1795711477000,
-    "added": 1795714444599,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트와 첼시의 중요한 맞대결에 7명의 선수가 결장할 예정입니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUYzQVZaWk1FSURLOGM4dFV2a0xJU1FaYmNaMUdxV1A0OWhvU2xMRkFWb29uYzVXajFqbDByc25CMnljN3dTWGNPLVNVNU9IT0hvVDhkQjFBLTE0dDd2OEhuLXJLUEx5T1c3QVU4aV8zdW9tUEJ3NGVzQWlFSnVRalkyZDBleFdrcWpTMjBfX2NPdnpMSWdHSnMxNFNVdWdNWGdoWGRRYw?oc=5",
-    "title": "Xabi Alonso speaks on Fofana drama, injuries, and Nottingham Forest challenge",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUYzQVZaWk1FSURLOGM4dFV2a0xJU1FaYmNaMUdxV1A0OWhvU2xMRkFWb29uYzVXajFqbDByc25CMnljN3dTWGNPLVNVNU9IT0hvVDhkQjFBLTE0dDd2OEhuLXJLUEx5T1c3QVU4aV8zdW9tUEJ3NGVzQWlFSnVRalkyZDBleFdrcWpTMjBfX2NPdnpMSWdHSnMxNFNVdWdNWGdoWGRRYw?oc=5",
-    "source": "The Pride of London",
-    "date": 1795710900000,
-    "added": 1795714444599,
-    "tag": "상대 소식",
-    "titleKo": "사비 알론소, 포파나 사태, 부상, 노팅엄 포레스트와의 경기에 대해 이야기하다"
    }
   ]
  },
@@ -899,6 +899,17 @@
    "added": 1795786919077,
    "cat": null,
    "titleKo": "첼시의 풀백, \"노팅엄 포레스트와의 경기를 마치 마지막 경기인 것처럼 임할 것\"이라고 밝히며 의욕을 드러냄"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmQ4UjJJNXFqSU56ak9UMTVFWUtQMHVtdGFLbkJMMkRpZmh5T2plSlV0QTludnlGd3IwM0wtdk1lSm5sTjdfOEk4aU5kWkVSSE83OUg1d3d5OG0tSG9tVG1mZ3pCUmJyVEFnS0RXTXRrUkVDclA3dHFhNEpCZWkwUWlxQ21BQzRVMmZBckU1cTZ2T2NUMnhfczIzQ1FDTktqQUFreFJUc3ZKVXhhT2FuM3BDWUtzMG9wLWJFZUV3?oc=5",
+   "title": "'As I understand it...' - Stefan Borson explains what Tom Brady will bring to Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmQ4UjJJNXFqSU56ak9UMTVFWUtQMHVtdGFLbkJMMkRpZmh5T2plSlV0QTludnlGd3IwM0wtdk1lSm5sTjdfOEk4aU5kWkVSSE83OUg1d3d5OG0tSG9tVG1mZ3pCUmJyVEFnS0RXTXRrUkVDclA3dHFhNEpCZWkwUWlxQ21BQzRVMmZBckU1cTZ2T2NUMnhfczIzQ1FDTktqQUFreFJUc3ZKVXhhT2FuM3BDWUtzMG9wLWJFZUV3?oc=5",
+   "source": "Football Insider",
+   "group": "영국 언론",
+   "date": 1795782600000,
+   "added": 1795793901407,
+   "cat": null,
+   "titleKo": "'제가 이해한 바로는...' - 스테판 보르손이 톰 브래디가 첼시에 가져올 변화에 대해 설명합니다."
   },
   {
    "id": "https://www.sportsmole.co.uk/football/chelsea/feature/i-didnt-expect-joo-pedro-to-fulfil-his-potential-so-quickly--former-coach-praises-brazilians-progress_610010.html",
@@ -980,6 +991,17 @@
    "added": 1795781950812,
    "cat": null,
    "titleKo": "'잘못된 일이었다': 첼시의 스타 선수가 리즈전 대패에 대한 태도를 비난하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3VXY3JNaWY5a25jdUNOQ05DbnBjTTVseDdWS0ltN0p2TGdlb0d5dTRyeUVyZjg0QTk2N3lrLU9wZVoxMWhhcndhTTEydEhTUFNldUhqcHBDZ0thWFh3MmQwUU9QY3hFY0M1U3lpbnNaaTdOVi1ZRURxTTFIcmhmRnZmb0JBY1lVWnIxSW1UZmRLWmdBTno5NlpOMnEyUHcyVmc?oc=5",
+   "title": "Chelsea vs Nottingham Forest Predicted Lineups & Team News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3VXY3JNaWY5a25jdUNOQ05DbnBjTTVseDdWS0ltN0p2TGdlb0d5dTRyeUVyZjg0QTk2N3lrLU9wZVoxMWhhcndhTTEydEhTUFNldUhqcHBDZ0thWFh3MmQwUU9QY3hFY0M1U3lpbnNaaTdOVi1ZRURxTTFIcmhmRnZmb0JBY1lVWnIxSW1UZmRLWmdBTno5NlpOMnEyUHcyVmc?oc=5",
+   "source": "Last Word On Sports",
+   "group": "영국 언론",
+   "date": 1795778610000,
+   "added": 1795793901407,
+   "cat": "프리뷰",
+   "titleKo": "첼시 vs 노팅엄 포레스트 예상 선발 명단 및 팀 소식"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDdtZmRERk9xSm00eFU5SUlBek43aXRzaFAyN1VRc1djZDIwRVktVEJBeVJNaXBhXzBNSkpBWW1ISEF4U2JvalZ3OHp3aEl1ejFrWkZ1OUFRSFAwQWl6R2xKdTdKNEhqdzN3TU1zMGlNSnJwVzk3akxSOUEyRFhSZTZueEs0em5tTWxkZ3pxWjRQTG44dWF4cFN6OA?oc=5",
@@ -1644,6 +1666,17 @@
    "added": 1795781950813,
    "cat": null,
    "titleKo": "- 첼시 축구 클럽"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12X3FkTUZSYV9IWUhFOVRPZGtsVzA4NDk4RmV1TEt5clk0XzhVUWFacnhQcXlsclVEZjczNjJYZEJtV0xzWHZDNVhfdkU4MzhIUE1hUW56UXh0OGhkSTFqdA?oc=5",
+   "title": "Chelsea News, Scores, Highlights and More",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12X3FkTUZSYV9IWUhFOVRPZGtsVzA4NDk4RmV1TEt5clk0XzhVUWFacnhQcXlsclVEZjczNjJYZEJtV0xzWHZDNVhfdkU4MzhIUE1hUW56UXh0OGhkSTFqdA?oc=5",
+   "source": "GiveMeSport",
+   "group": "영국 언론",
+   "date": 1795723778000,
+   "added": 1795793901407,
+   "cat": null,
+   "titleKo": "첼시 뉴스, 득점, 하이라이트 등"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0dLYThWNUVrU3hVZ01nN3U2eUFCbHg5Rl9ybHIxX19Lb1dmc2VVOHdqZEdsRjJvc2ZtQTE1ZVZOZm9Jb1U5aTRWWnhDNmJxbW1yajZYLVphLXQ3eVZiSVppVE51V3ZvRERtM3JKUnpVTV9vZjVUUkxEbWI0b2RTbEhwanE0dzVfclVncjJZcFlQZG5Xb3QxVXp4REpXNFdUMlE2Qkp3V29mT0N5em5WNjVHenVMTWYwR3FJNFpFWnQ2Um94YjljRk9DYTlzUEFSVkE3cHlDZElObE1xaU8tcVhaLVhrd21yTHZQOFlXWXpNakNzclcyR2k3enNBUVMwOEE?oc=5",
@@ -4239,40 +4272,6 @@
    "added": 1795602314864,
    "cat": null,
    "titleKo": "오른스타인: \"라비아의 부상\"은 첼시가 1월에 미드필더를 영입하지 않을 수 있음을 의미합니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTdiTVNES2NCSFlKS3JXZ3h2RERWazlpdHljdXRhR3pOY3B6NE5pYTdoak1naWtCaVhBTWdTT0RselNDZmQyMW8yTm5XNGliVXk3SzNPVEpNUVBIUDljc0doU0loanNWT1FaLUFidnVaYnBNZTBabW81SDIweVZib2VFMmxlN0pmaGstWDMzcW0zMjJDcGtnVGhEbE1KTEpJc18tNmhoMXpEb2FrZGfSAbMBQVVfeXFMT0E4emV3c1Y1QkcxQnB6b19JVmp0UTIxMmZBLWVubmdnZ09yTFc2SDNSTlhndGVsRzJGWVYyWVNCVFhCM3dHTE1yR2ZfNU9oYXd0Z0FEUm5OX1BySG1MUjlveWdPYWF5STF6UF82OS13RVRwcXVNSEkzaGtVZE5pS2FEUFFYbzVxbklWVW1heDVJNG5JRXliX01yRXNTZnNTdkFNSW4weUhjRWtBY3lLNHp4aXc?oc=5",
-   "title": "Shaun Wright-Phillips: Chelsea star must make himself 'hard to ignore' for Xabi Alonso",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTdiTVNES2NCSFlKS3JXZ3h2RERWazlpdHljdXRhR3pOY3B6NE5pYTdoak1naWtCaVhBTWdTT0RselNDZmQyMW8yTm5XNGliVXk3SzNPVEpNUVBIUDljc0doU0loanNWT1FaLUFidnVaYnBNZTBabW81SDIweVZib2VFMmxlN0pmaGstWDMzcW0zMjJDcGtnVGhEbE1KTEpJc18tNmhoMXpEb2FrZGfSAbMBQVVfeXFMT0E4emV3c1Y1QkcxQnB6b19JVmp0UTIxMmZBLWVubmdnZ09yTFc2SDNSTlhndGVsRzJGWVYyWVNCVFhCM3dHTE1yR2ZfNU9oYXd0Z0FEUm5OX1BySG1MUjlveWdPYWF5STF6UF82OS13RVRwcXVNSEkzaGtVZE5pS2FEUFFYbzVxbklWVW1heDVJNG5JRXliX01yRXNTZnNTdkFNSW4weUhjRWtBY3lLNHp4aXc?oc=5",
-   "source": "Metro.co.uk",
-   "group": "영국 언론",
-   "date": 1795600200000,
-   "added": 1795694414840,
-   "cat": null,
-   "titleKo": "숀 라이트-필립스: 첼시의 스타는 사비 알론소 감독에게 '무시하기 어려운' 존재가 되어야 한다"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/wesley-fofana-controversy-means-one-34962075",
-   "title": "Wesley Fofana controversy means one thing has to happen from Xabi Alonso and Chelsea",
-   "link": "https://www.football.london/chelsea-fc/news/wesley-fofana-controversy-means-one-34962075",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795598299000,
-   "image": "https://i2-prod.football.london/incoming/article34962085.ece/ALTERNATES/s615/0_GettyImages-2301988220.jpg",
-   "added": 1795602314863,
-   "cat": null,
-   "titleKo": "웨슬리 포파나 논란은 사비 알론소와 첼시에게 한 가지 일이 일어나야 한다는 것을 의미합니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlBUdWVqMmhSRU9Nb1Q5a1BMOG9wRDNMSWV6UkNJSWdxVXVLZmo4QndzUjFtQ2RYR00xQVhBU1M2MTNkZUtMQnVkRTl4Vm9UbVVqX05mNU5Zc3FYMFo5azhjOXA3UDAyWFNIS0dQcUQyS01DQVdIakp3MnNNLWZBVE1HLXZCZ2Rq?oc=5",
-   "title": "Terry Venables: A born leader remembered",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlBUdWVqMmhSRU9Nb1Q5a1BMOG9wRDNMSWV6UkNJSWdxVXVLZmo4QndzUjFtQ2RYR00xQVhBU1M2MTNkZUtMQnVkRTl4Vm9UbVVqX05mNU5Zc3FYMFo5azhjOXA3UDAyWFNIS0dQcUQyS01DQVdIakp3MnNNLWZBVE1HLXZCZ2Rq?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795597200000,
-   "added": 1795648461961,
-   "cat": null,
-   "titleKo": "테리 베너블스: 타고난 리더를 추모하며"
   }
  ]
 }
