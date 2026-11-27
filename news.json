@@ -1,34 +1,34 @@
 {
- "updated": 1795804162521,
+ "updated": 1795807863456,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 2,
-  "talkSPORT": 7,
+  "Sky Sports": 3,
+  "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 9,
   "The Sun": 1,
   "Mirror": 1,
-  "Daily Mail": 5,
+  "Daily Mail": 6,
   "Telegraph": 4,
   "Independent": 0,
   "Express": 0,
   "Sports Mole": 16,
-  "CaughtOffside": 0,
+  "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 67,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 17,
+  "구글뉴스(한국어)": 18,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 46건"
+  "이번 상대": "Nottingham Forest · 새 기사 52건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,116 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbThJV0hVQWFES2ZlTHJ3S1ZVWXFJLUdYOVFMYkFMeXdCTjVXQXI2ZWtWZHZqUGVHVXNaVVFhM2hkbmhPTC0xOXVHUGtXM0NzZlpzNXlWMGdqbGs5WktEdDZOM1p6bUt5UEEycHhWNjBoR3dLRmdVTHQ1VzBlT200TDhkSlBNdWpWLW5vcnNKVk9ZOHlPSWpvLU11OA?oc=5",
+    "title": "Nottingham Forest vs Chelsea LIVE: Fans slam Alonso's line-up for huge fixture",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbThJV0hVQWFES2ZlTHJ3S1ZVWXFJLUdYOVFMYkFMeXdCTjVXQXI2ZWtWZHZqUGVHVXNaVVFhM2hkbmhPTC0xOXVHUGtXM0NzZlpzNXlWMGdqbGs5WktEdDZOM1p6bUt5UEEycHhWNjBoR3dLRmdVTHQ1VzBlT200TDhkSlBNdWpWLW5vcnNKVk9ZOHlPSWpvLU11OA?oc=5",
+    "source": "The Sun",
+    "date": 1795806360000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시 라이브: 팬들이 중요한 경기를 앞두고 알론소의 선발 명단에 비난을 쏟아냅니다"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YQjFOcGRlbFFMVEk2Z2ZMenBSTVR0b0F3SjFqV0NaQ2lOSXIteTZkS3M2M2p0Q1hfVDFLSFo0NlFCQUVFaWIwblVGWXduaTA0V3ZkNGROSW5jNDhLcUFGdkRWT3kwTzJFdEdmM01tYWpYOHVmRmM4LTdHXzM?oc=5",
+    "title": "Nottingham Forest vs Chelsea confirmed line-ups as Welbeck starts and Colwill drops out",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YQjFOcGRlbFFMVEk2Z2ZMenBSTVR0b0F3SjFqV0NaQ2lOSXIteTZkS3M2M2p0Q1hfVDFLSFo0NlFCQUVFaWIwblVGWXduaTA0V3ZkNGROSW5jNDhLcUFGdkRWT3kwTzJFdEdmM01tYWpYOHVmRmM4LTdHXzM?oc=5",
+    "source": "Dave.Sport",
+    "date": 1795806357000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시 확정 선발 명단: 웰벡 선발, 콜윌 제외"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9qenhNTEF3OFVRT0V2ZVpRZU0xVmRlVG1yM3dSRmd4Qjl0QjA1cWRCdDBDN0M5cG96dTNz?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Confirmed Starting XIs For Premier League Clash",
+    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9qenhNTEF3OFVRT0V2ZVpRZU0xVmRlVG1yM3dSRmd4Qjl0QjA1cWRCdDBDN0M5cG96dTNz?oc=5",
+    "source": "Howl.Link",
+    "date": 1795806189000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시: 프리미어리그 맞대결 확정 선발 명단"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSk1TWkZaZGRKZi1nbl90S3k3UkJ2QVI3cVNuOV9JTk5rR3I0OEl2b1RnNEpvS0E3azBWTlhia3BxR3lnN1MwWExOTkpKX21OWUJadXRCUExNU2RSZF84bmZCRlhSdUMwcTE1TkJfTVVEd0dhTHhYRHFxSkI5VEFocHBNTmt3VVp1UU9FdFE1U2NNQVRUZXZnMTZiV3NfMWQ0UndRSUFBSmdpTHpkZmZBQXljQmVKZkpnVWlwU0FmMWpOZw?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Confirmed Lineups & Match Prediction",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSk1TWkZaZGRKZi1nbl90S3k3UkJ2QVI3cVNuOV9JTk5rR3I0OEl2b1RnNEpvS0E3azBWTlhia3BxR3lnN1MwWExOTkpKX21OWUJadXRCUExNU2RSZF84bmZCRlhSdUMwcTE1TkJfTVVEd0dhTHhYRHFxSkI5VEFocHBNTmt3VVp1UU9FdFE1U2NNQVRUZXZnMTZiV3NfMWQ0UndRSUFBSmdpTHpkZmZBQXljQmVKZkpnVWlwU0FmMWpOZw?oc=5",
+    "source": "Oddschecker",
+    "date": 1795805760000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시: 확정된 선발 명단 및 경기 예측"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVV4dlRVeW5Oc1o4YXJ4T2VVVnFyR3BJb2hNbHBoaUZ5LVMyOWV2LVFEamswUVRXaXppMmF1VFVRODRRTHQtV2E5TGpaWjlJTFE3aWJDMkJCWGU2QmZWMUhEOGJHYldGRXFlUGNpRUp5cDhnNE1hZjFnMWtBSHYySDdVbUctLU5kay1KX2dzS3RtVXQ0QUNRTGdQWFYzd1RQLWpKck00Tnc0dUxBeC1DQThZRmlzRWdiR1QwZFNvVEt0Mk1nYW5BaUxzaw?oc=5",
+    "title": "Nottingham Forest vs Chelsea Confirmed Lineups",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVV4dlRVeW5Oc1o4YXJ4T2VVVnFyR3BJb2hNbHBoaUZ5LVMyOWV2LVFEamswUVRXaXppMmF1VFVRODRRTHQtV2E5TGpaWjlJTFE3aWJDMkJCWGU2QmZWMUhEOGJHYldGRXFlUGNpRUp5cDhnNE1hZjFnMWtBSHYySDdVbUctLU5kay1KX2dzS3RtVXQ0QUNRTGdQWFYzd1RQLWpKck00Tnc0dUxBeC1DQThZRmlzRWdiR1QwZFNvVEt0Mk1nYW5BaUxzaw?oc=5",
+    "source": "WhoScored.com",
+    "date": 1795805700000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시 확정 선발 명단"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXBVbllIS2JBSEVXaDBLVWthRXFuOVZqc2doQWRXYWg4ZVItWnZpNm5lUVd4cTJuR1NRcE5WcGRNOUJ2NlFuUWFJSEdRZGNSODRTSHh1N0ZkNGMtV0wzLU5yYUwxZkl0ZGtYUUJ6T3l3M01RY1pzYnF6WFdfUmNXUmN1bUEtREM4YklJbmZ2Q2pvdHV5VVZnVlhnSkQ2NUxEZjFkZnBvaXhIclM0dE1LZXVabXJjZ1RmS3piR3RpelBpUDRjZmV3ZnN6ZWxwNkRzZnc?oc=5",
+    "title": "Nottingham Forest vs. Chelsea, Premier League: Confirmed lineups; how to watch",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXBVbllIS2JBSEVXaDBLVWthRXFuOVZqc2doQWRXYWg4ZVItWnZpNm5lUVd4cTJuR1NRcE5WcGRNOUJ2NlFuUWFJSEdRZGNSODRTSHh1N0ZkNGMtV0wzLU5yYUwxZkl0ZGtYUUJ6T3l3M01RY1pzYnF6WFdfUmNXUmN1bUEtREM4YklJbmZ2Q2pvdHV5VVZnVlhnSkQ2NUxEZjFkZnBvaXhIclM0dE1LZXVabXJjZ1RmS3piR3RpelBpUDRjZmV3ZnN6ZWxwNkRzZnc?oc=5",
+    "source": "We Ain't Got No History",
+    "date": 1795805583000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시, 프리미어리그: 확정된 선발 명단, 시청 방법"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZU5BOVcyM0RDczZiSTBkSWFpT3dfUk42RFVrRXM4bGpnNUZqV0hlNXBIZW14N0tnSVpQVXlxdjZwMV9pYTExMHdmYVNUTjB3OFNOaFVoV1QxNEE3VFBpYVVKbjN4R09rRmNHMl9haThLSmlCdllBRU1yZkZoMWdKdFlHR0dxRHNxVzlLNnFacUxNUHJ6dWFfZWowZjNwenFWd3VYNzlSZTgxdE5tWkJTWGx2azZPUzV5UUZ2dG00MDRSQ2c1RHlkYVhVSGVuMWswSnJGbWl1OHpSd3lUX0QtU3VTLV90WjUwMUFQbkVpa2ZSN2VRNVZ4OTRn?oc=5",
+    "title": "Chelsea XI vs Nottingham Forest: Starting lineup and confirmed team news",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZU5BOVcyM0RDczZiSTBkSWFpT3dfUk42RFVrRXM4bGpnNUZqV0hlNXBIZW14N0tnSVpQVXlxdjZwMV9pYTExMHdmYVNUTjB3OFNOaFVoV1QxNEE3VFBpYVVKbjN4R09rRmNHMl9haThLSmlCdllBRU1yZkZoMWdKdFlHR0dxRHNxVzlLNnFacUxNUHJ6dWFfZWowZjNwenFWd3VYNzlSZTgxdE5tWkJTWGx2azZPUzV5UUZ2dG00MDRSQ2c1RHlkYVhVSGVuMWswSnJGbWl1OHpSd3lUX0QtU3VTLV90WjUwMUFQbkVpa2ZSN2VRNVZ4OTRn?oc=5",
+    "source": "London Evening Standard",
+    "date": 1795805568000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "첼시 XI vs 노팅엄 포레스트: 선발 명단 및 확정된 팀 소식"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOak1vd2w2Z2Q4cll3UWx5OEVRejI5bkh5ellNaWNoZDgwbjhBenV3YUFIWE5pYTBlOFVDMUJ5aUZxMTlFQlRBQWQzSWFURVhqclhJZHFlTklDbW1OX1hrVk85SmRrRERLTExkMnBPci1RWkp6UGItSWxabVNUWWQ1SHVrT1NBS0FuTHlYeUQxNG1BVlN3NG9VQlRKRXo4Z1BNbGo1alZUd1NKM3JNTkV4SHFIMldtczJr?oc=5",
+    "title": "Nottingham Forest v Chelsea confirmed lineups and team news",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOak1vd2w2Z2Q4cll3UWx5OEVRejI5bkh5ellNaWNoZDgwbjhBenV3YUFIWE5pYTBlOFVDMUJ5aUZxMTlFQlRBQWQzSWFURVhqclhJZHFlTklDbW1OX1hrVk85SmRrRERLTExkMnBPci1RWkp6UGItSWxabVNUWWQ1SHVrT1NBS0FuTHlYeUQxNG1BVlN3NG9VQlRKRXo4Z1BNbGo1alZUd1NKM3JNTkV4SHFIMldtczJr?oc=5",
+    "source": "news.bet365.com",
+    "date": 1795805412000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 대 첼시 확정 선발 명단 및 팀 소식"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1lSaFdqTDNxMTgxUUpsaUozQV9sZnE2M1ZwRG1STEhSSW9rWmhId1ZjSk5EYzAzMkN3U2RIOEhMajdXUnI2dmhSTzg2YmVSVG1YcFJEbENZNHR3ckhHMFB1OFJCV2YxaXY3Vi1FTnVrY0NKbmZyeWktTGJkSFRIT2FVQ3VjVUVXRWVpczR5Sk9OZEpIa2ZGNjM1cw?oc=5",
+    "title": "Confirmed Chelsea line up vs Nottingham Forest | News | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1lSaFdqTDNxMTgxUUpsaUozQV9sZnE2M1ZwRG1STEhSSW9rWmhId1ZjSk5EYzAzMkN3U2RIOEhMajdXUnI2dmhSTzg2YmVSVG1YcFJEbENZNHR3ckhHMFB1OFJCV2YxaXY3Vi1FTnVrY0NKbmZyeWktTGJkSFRIT2FVQ3VjVUVXRWVpczR5Sk9OZEpIa2ZGNjM1cw?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795805139000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트와의 경기 선발 명단 확정 | 뉴스 | 공식 사이트"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTU1ObWY3T3R4MkUwODFucnRMSndIWEtuenpqUTF2cUVWaXY1UVFQRHd1UVhneTlVY0JCdEgtNVhIY1RKT253eXM2NEN5VkE2My1hVFJUWFhMWTNGQ19Ubms2T21NR3U3VkJ5NDB1bDdjMGd3dXo5YlFhRzNOLXRZNXlVamlsNXUwWjdrWDlidFVCaXhPNHB2Q2ZuQVZHZS0w?oc=5",
+    "title": "Surprising stat shows difference between Chelsea and Nottingham Forest",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTU1ObWY3T3R4MkUwODFucnRMSndIWEtuenpqUTF2cUVWaXY1UVFQRHd1UVhneTlVY0JCdEgtNVhIY1RKT253eXM2NEN5VkE2My1hVFJUWFhMWTNGQ19Ubms2T21NR3U3VkJ5NDB1bDdjMGd3dXo5YlFhRzNOLXRZNXlVamlsNXUwWjdrWDlidFVCaXhPNHB2Q2ZuQVZHZS0w?oc=5",
+    "source": "The Pride of London",
+    "date": 1795804822000,
+    "added": 1795807844175,
+    "tag": "상대 소식",
+    "titleKo": "첼시와 노팅엄 포레스트의 차이를 보여주는 놀라운 통계"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1haN0tBV084YVZpSm55X2hId2ppN25BdnROMEZnV2JPZzEzTFBUM2g2NTdyV2xCQzhNZHJvZ01SNlk4RTZTWWhsNV9BYmFGeXlwa1pCUzNqbGpLMXBaaThsYlBsZWVmb3N2bzZGaXQ5N3dLbzlKSHFZcFhQVjVqd3NmNnlaZW9pZnMzMTN3czRrdkJpU2RIOTM3RFVmcTc1Z3FrZXJzLThxLVl2WXZ6SWFJTWo0YXp1eWFaa2ZZdnJ0c3Nsc291WlBCQXVVZFBqbkhPVzZoMzNnY3J1MWluOQ?oc=5",
+    "title": "Nottingham Forest vs Chelsea LIVE! Premier League match updates, free highlights, news and score",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1haN0tBV084YVZpSm55X2hId2ppN25BdnROMEZnV2JPZzEzTFBUM2g2NTdyV2xCQzhNZHJvZ01SNlk4RTZTWWhsNV9BYmFGeXlwa1pCUzNqbGpLMXBaaThsYlBsZWVmb3N2bzZGaXQ5N3dLbzlKSHFZcFhQVjVqd3NmNnlaZW9pZnMzMTN3czRrdkJpU2RIOTM3RFVmcTc1Z3FrZXJzLThxLVl2WXZ6SWFJTWo0YXp1eWFaa2ZZdnJ0c3Nsc291WlBCQXVVZFBqbkhPVzZoMzNnY3J1MWluOQ?oc=5",
+    "source": "Sky Sports",
+    "date": 1795804472000,
+    "added": 1795807844175,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs 첼시 라이브! 프리미어리그 경기 업데이트, 무료 하이라이트, 뉴스 및 스코어"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEY1SGJmdHJzYk1Ycl94M2s5S2FwV2p2b2ludTZVTXlBdW40cmZlcUd4cTRONFg1SGptQVZRQWJPRVdmNWhnZmUzYXpOR2Vsb1VOQ3FObWNYYXZlOVBCNkJyLU5UMWpPZ1Y2alN4QXh3bEhJc2VXN0JNZkZnS3h3NGtCSWRUNXN5bkpTTWpqYzVYSzk3NnpoUWMtbmxxV1RaY09kVklvOEdEMEFYb2VTSnNtNGFMd3ZIUlMtZGFOTE5LY1NiSXJHVHNaSQ?oc=5",
     "title": "Nottingham Forest vs Chelsea live updates: Can Xabi Alonso's Blues stop slide, get back on track?",
@@ -99,6 +209,16 @@
     "added": 1795801119867,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시의 노팅엄 포레스트전 예상 선발 명단: 모이세스 카이세도가 출전할까?"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjNGVk5zWmQ2bWxYYzg4Y1l1VWF2dlY2Wkg0alFkUlczcWxTOG4yYWJtOW9KNXJCVjJGODlTMWNKajBMVmpUUjVkYjlPY1FNNUZHUVJ2WWlOcTlEZl9uVkgxS2Y3QzFKdkM3Y0NjOHM4eWdNamgzUXpjbWtTd2JyTnZsWG00RmxnNmxsZVF1aS1menFjRVdIT2tCSHE2UlM1dkJRWEp1ZUx5b2k5bTA5V3dRS1pJZw?oc=5",
+    "title": "Nottingham Forest vs Chelsea preview: TV channel, kick-off time and how to watch | News | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjNGVk5zWmQ2bWxYYzg4Y1l1VWF2dlY2Wkg0alFkUlczcWxTOG4yYWJtOW9KNXJCVjJGODlTMWNKajBMVmpUUjVkYjlPY1FNNUZHUVJ2WWlOcTlEZl9uVkgxS2Y3QzFKdkM3Y0NjOHM4eWdNamgzUXpjbWtTd2JyTnZsWG00RmxnNmxsZVF1aS1menFjRVdIT2tCSHE2UlM1dkJRWEp1ZUx5b2k5bTA5V3dRS1pJZw?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795795200000,
+    "added": 1795807844175,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "노팅엄 포레스트 vs 첼시 경기 프리뷰: TV 채널, 킥오프 시간 및 시청 방법 | 뉴스 | 공식 사이트"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZDJPYl8zV0cwWVE0TnZQUlNpYUp6Z2l6VExpbWppd19qaDUtSzMxT0dmMHBnS2ZFWFIwWmh0dkxJUTVIY016RTFKeVI3UzhycU1NbmlUNkFfdzE1OV9PM0gzLWc4UlVSaU5LZElfTzVJS2puVmhZTERoNWlpZlYtOTYzU2JjOGw2aEl5enk4T0pJbms?oc=5",
@@ -719,130 +839,114 @@
     "added": 1795728140568,
     "tag": "라인업·팀뉴스",
     "titleKo": "헨더슨과 네투 선발 출전 | 노팅엄 포레스트전 예상 선발 명단(4-2-3-1)"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1pYbGtFVTNnYUhpTk9qWTVfSW1JMXIwRmJRRmd3STByOENYMk8wdEltZzg0WHllVVpUamxMbWgzZkpKNTFjUUVBdlhuLTRWNVU2UE9DTU44U2hMQmY1NERFN3VZbndpLXBWVVZLNTc2RWUzMnNhUGt4RUVWQnNIMVh1SnlVVVRjaHBXbUlBUVZtOFdmTFVYU1N2akg4Vkl5YzJRRWMzQWhIdUlqVVhF0gG0AUFVX3lxTE5OT0ZIRXdTSVB6M1dzVFEycjNMbVkwM0kzNURIUzdCLWZUMTBxOFc4Nmd3cmx6S18tMVBXazB6VHNXMlUyaWhkVWt3YUIwSGxENVREMzg3LVgyeUpMclVPRGNQbnh5WkZSc3BaUzJoVERjamNpU0Nsc3RfN3BNYmttR3JmWkNIUVg4eDE4RjhfOWk4LUtCcG1WZXBPVUg5RThJQlV0cjhEdlZHSE5PVkgydGlUMg?oc=5",
-    "title": "EPL: Joao Pedro to Miss Chelseas Clash Against Nottingham Forest – Alonso",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1pYbGtFVTNnYUhpTk9qWTVfSW1JMXIwRmJRRmd3STByOENYMk8wdEltZzg0WHllVVpUamxMbWgzZkpKNTFjUUVBdlhuLTRWNVU2UE9DTU44U2hMQmY1NERFN3VZbndpLXBWVVZLNTc2RWUzMnNhUGt4RUVWQnNIMVh1SnlVVVRjaHBXbUlBUVZtOFdmTFVYU1N2akg4Vkl5YzJRRWMzQWhIdUlqVVhF0gG0AUFVX3lxTE5OT0ZIRXdTSVB6M1dzVFEycjNMbVkwM0kzNURIUzdCLWZUMTBxOFc4Nmd3cmx6S18tMVBXazB6VHNXMlUyaWhkVWt3YUIwSGxENVREMzg3LVgyeUpMclVPRGNQbnh5WkZSc3BaUzJoVERjamNpU0Nsc3RfN3BNYmttR3JmWkNIUVg4eDE4RjhfOWk4LUtCcG1WZXBPVUg5RThJQlV0cjhEdlZHSE5PVkgydGlUMg?oc=5",
-    "source": "Nigerian Voice",
-    "date": 1795723980000,
-    "added": 1795724838012,
-    "tag": "상대 소식",
-    "titleKo": "EPL: 주앙 페드로, 노팅엄 포레스트와의 경기 결장 – 알론소"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01OVlFLUtycHVwOXF2dzc4UVhRZVdWRFc2S1plM0NkZS1wNUdHMTg3WUlXQlVkcC1veWNmb3FpRktoTFZxOGNHM00wWUFwVXZ0TGw3MzhWV2NkY2NhenFMRG1xYzR2SWtwRWpDd3J1aw?oc=5",
-    "title": "Nottingham Forest injury news as Hudson-Odoi boosts options",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01OVlFLUtycHVwOXF2dzc4UVhRZVdWRFc2S1plM0NkZS1wNUdHMTg3WUlXQlVkcC1veWNmb3FpRktoTFZxOGNHM00wWUFwVXZ0TGw3MzhWV2NkY2NhenFMRG1xYzR2SWtwRWpDd3J1aw?oc=5",
-    "source": "Dave.Sport",
-    "date": 1795723767000,
-    "added": 1795724838012,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "허드슨-오도이가 옵션을 강화하면서 전해진 노팅엄 포레스트 부상 소식"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc1hjOGgwdU9ZQk5Ja0dzVmxZWnJVSWkyYWstb3hjUjhBcjl5RXJTZk1jVmkwdThwbUt5clpweWRHa2VqQ1FnbEdzeTBuWW1yMTdwTzNxU0JfN3ZMRzBVOENYa09sS1hXWUV6cUdnSk02UXFsazdKdVRHSHBiWGRrZXF0TDBBY3pMWlNjZGFkMk9HbFlKYUw3cmo3ZlduWWlZWWJ4Z18wZHZ3M2NTRF9KbGplRWFlellNN1JGSHlvbU54dHpoYkRmNlBxUmdwS3NOR1pMay1lVDIzQ2NrcnNTQWx2SUJhRUFjS1Z3?oc=5",
-    "title": "Team News: Nottingham Forest vs. Chelsea injury, suspension list, predicted XIs",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc1hjOGgwdU9ZQk5Ja0dzVmxZWnJVSWkyYWstb3hjUjhBcjl5RXJTZk1jVmkwdThwbUt5clpweWRHa2VqQ1FnbEdzeTBuWW1yMTdwTzNxU0JfN3ZMRzBVOENYa09sS1hXWUV6cUdnSk02UXFsazdKdVRHSHBiWGRrZXF0TDBBY3pMWlNjZGFkMk9HbFlKYUw3cmo3ZlduWWlZWWJ4Z18wZHZ3M2NTRF9KbGplRWFlellNN1JGSHlvbU54dHpoYkRmNlBxUmdwS3NOR1pMay1lVDIzQ2NrcnNTQWx2SUJhRUFjS1Z3?oc=5",
-    "source": "Sports Mole",
-    "date": 1795723200000,
-    "added": 1795728140568,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "팀 소식: 노팅엄 포레스트 대 첼시 부상, 출장 정지 명단, 예상 선발 명단"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVpCSnJxeHpIeUlpcDFxZGJzaFhpOG5leFFEQjg3UDJVOUlXdEoyZ0NPSU5IcmRDS0JaR0xuSnNjVkwzSFNEejQ3YmQzSld6ZVlHbG9aQnRDR2VDZWJfc29pLWdYVnJxNFY1b3VIbWNxVFB2Q3A4WGIzZmZlQ2tVTTJ6M2d6UQ?oc=5",
-    "title": "Nottingham Forest v Chelsea LIVE 27/11/2026 | Soccer",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVpCSnJxeHpIeUlpcDFxZGJzaFhpOG5leFFEQjg3UDJVOUlXdEoyZ0NPSU5IcmRDS0JaR0xuSnNjVkwzSFNEejQ3YmQzSld6ZVlHbG9aQnRDR2VDZWJfc29pLWdYVnJxNFY1b3VIbWNxVFB2Q3A4WGIzZmZlQ2tVTTJ6M2d6UQ?oc=5",
-    "source": "Flashscore.co.za",
-    "date": 1795722084000,
-    "added": 1795754673936,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 대 첼시 라이브 2026/11/27 | 축구"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcnUxX3kxY2RLM0FIbjlmelBKZGM2VV81X0tFRS1qSG5SQW5iRkFzeFRRU0NXYk5JM2x0dE54MnZqSHRobGZscUFOamVlTWhmcjZVVkpCSVlSS2dwYTZUU25WellCZ1ZQeWJrSXZtLXNHVHpoT0Yw?oc=5",
-    "title": "Chelsea predicted line-up as Caicedo boosts hopes of away win in 4-2-3-1",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcnUxX3kxY2RLM0FIbjlmelBKZGM2VV81X0tFRS1qSG5SQW5iRkFzeFRRU0NXYk5JM2x0dE54MnZqSHRobGZscUFOamVlTWhmcjZVVkpCSVlSS2dwYTZUU25WellCZ1ZQeWJrSXZtLXNHVHpoT0Yw?oc=5",
-    "source": "Dave.Sport",
-    "date": 1795720602000,
-    "added": 1795721382474,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "카이세도가 4-2-3-1 포메이션으로 원정 승리 가능성을 높인 첼시의 예상 선발 명단"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdkhGbFo4bFUwbUgwUXJBS2hJWjdkbVFnUVVYamE5T2xlTE1qT1JTU2xZZFpvVGd5bDZyWC1wNXlDOXFPRzJCVDNBTVhwcUFwT1ZyUVJBZ1FjSDZQZ09ST0dyN1MyVW9scW5WdThQYWlFZw?oc=5",
-    "title": "Nottingham Forest vs Chelsea prediction: why I’m backing 1-1",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdkhGbFo4bFUwbUgwUXJBS2hJWjdkbVFnUVVYamE5T2xlTE1qT1JTU2xZZFpvVGd5bDZyWC1wNXlDOXFPRzJCVDNBTVhwcUFwT1ZyUVJBZ1FjSDZQZ09ST0dyN1MyVW9scW5WdThQYWlFZw?oc=5",
-    "source": "Dave.Sport",
-    "date": 1795719757000,
-    "added": 1795721382474,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "노팅엄 포레스트 대 첼시 경기 예측: 1-1 무승부를 예상하는 이유"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHFneHRDSU1SWVFLSVBZbThwUEdBZ2RWYzdxVTVxTEhlNlBXQ0FLVVVNTGFqaDVuRS05QUpYZS1fNmk0bkNTQS1KNGpnSWszSVNqVmlYbDFoOUdHSmZUZkRsU3FaQ0tOUHVQZWs3ODVfNHNBTjk4T25KUU9OWFRudVlubkZ0eU1PbkJ2MDZBNFhkaFVSRnVmNFQxVzItcmVLR29BSG5IVm0zMUl2WmpmcWtYc1dVQQ?oc=5",
-    "title": "Zach Abbott reveals what former Nottingham Forest player has told him",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHFneHRDSU1SWVFLSVBZbThwUEdBZ2RWYzdxVTVxTEhlNlBXQ0FLVVVNTGFqaDVuRS05QUpYZS1fNmk0bkNTQS1KNGpnSWszSVNqVmlYbDFoOUdHSmZUZkRsU3FaQ0tOUHVQZWs3ODVfNHNBTjk4T25KUU9OWFRudVlubkZ0eU1PbkJ2MDZBNFhkaFVSRnVmNFQxVzItcmVLR29BSG5IVm0zMUl2WmpmcWtYc1dVQQ?oc=5",
-    "source": "Nottingham Forest News",
-    "date": 1795719600000,
-    "added": 1795721382475,
-    "tag": "상대 소식",
-    "titleKo": "잭 애벗이 전 노팅엄 포레스트 선수에게 들은 이야기를 공개합니다."
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTNyWXA3Rnl3bTVTMUYxTk5DNUJmUG9qcGpsTXZXM1dIWGdqWlgzQ2tKNmlvWlBNM2JsT0pjY3pkNEQ0dVNlX1FyMjJKY2wwNDFGZERKM0JwUUowWjZLU2g3djhydy1qem5mRGF1NDlWUXNqQTc3X2hTU3BQZUsxYWRWVm1MXzJST3RtWUc0ZkVOYXNSVHc1OHZXTU8?oc=5",
-    "title": "What kit are Chelsea wearing against Nottingham Forest? | News | Official Site",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTNyWXA3Rnl3bTVTMUYxTk5DNUJmUG9qcGpsTXZXM1dIWGdqWlgzQ2tKNmlvWlBNM2JsT0pjY3pkNEQ0dVNlX1FyMjJKY2wwNDFGZERKM0JwUUowWjZLU2g3djhydy1qem5mRGF1NDlWUXNqQTc3X2hTU3BQZUsxYWRWVm1MXzJST3RtWUc0ZkVOYXNSVHc1OHZXTU8?oc=5",
-    "source": "Chelsea Football Club",
-    "date": 1795719337000,
-    "added": 1795721382474,
-    "tag": "상대 소식",
-    "titleKo": "첼시는 노팅엄 포레스트와의 경기에서 어떤 유니폼을 입을까요? | 뉴스 | 공식 사이트"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDJESEM1eGJNWHNJRzYzcXpuQkh6Q1NNX1haLXZjd1lWSWlpalFqaUxqV1p2N0pkSnpsSVM5ZnlORFdzVF9mUzlzT1d5UWZBeVVaWGpUS3BNSEpFbXRZZzVoNWR0azNpWUl0NWdxcnFZWGRVcXhvQ2xuQmJtVi1oTVFCV0NpLVlrbXE5U1BUQ3I3SS1HLXNUT09sOU82RHRvY2QyX21tbUtuWjIzOTNuWGRRUkh2ZFdsNW4xaUpxbnAxSFYz?oc=5",
-    "title": "Nottingham Forest vs Chelsea predictions: Beleaguered Blues to suffer another setback",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDJESEM1eGJNWHNJRzYzcXpuQkh6Q1NNX1haLXZjd1lWSWlpalFqaUxqV1p2N0pkSnpsSVM5ZnlORFdzVF9mUzlzT1d5UWZBeVVaWGpUS3BNSEpFbXRZZzVoNWR0azNpWUl0NWdxcnFZWGRVcXhvQ2xuQmJtVi1oTVFCV0NpLVlrbXE5U1BUQ3I3SS1HLXNUT09sOU82RHRvY2QyX21tbUtuWjIzOTNuWGRRUkh2ZFdsNW4xaUpxbnAxSFYz?oc=5",
-    "source": "LiveScore",
-    "date": 1795719113000,
-    "added": 1795724838012,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "노팅엄 포레스트 vs 첼시 경기 예측: 위기에 처한 블루스가 또다시 패배할 것"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFvMVZ2SlFfQUFvZzJFV0piTXhYRXVsMHA4OC1DbFR5aG5WeWtLYzdtdkE1cURZaWFDanV0SVZtLU5vMlhCVWRVbWRyY3AtYmU2LWtTTmtnXzZZQkxZeE0xelZ6bzctdy1rcWlDV0Y1cVVGQ1hBdHJKQjVmWVJxVnVTTlUzRjRiZzhkaFF6YmcyS0kxNUtZ?oc=5",
-    "title": "Predicted Chelsea Line-Up vs Nottingham Forest: Emegha Starts, Estevao Dropped & Centre-Back Dilemma",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFvMVZ2SlFfQUFvZzJFV0piTXhYRXVsMHA4OC1DbFR5aG5WeWtLYzdtdkE1cURZaWFDanV0SVZtLU5vMlhCVWRVbWRyY3AtYmU2LWtTTmtnXzZZQkxZeE0xelZ6bzctdy1rcWlDV0Y1cVVGQ1hBdHJKQjVmWVJxVnVTTlUzRjRiZzhkaFF6YmcyS0kxNUtZ?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795718771000,
-    "added": 1795721382474,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "첼시의 노팅엄 포레스트전 예상 선발 명단: 에메가 선발, 에스테바오 제외 및 센터백 딜레마"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVNXazYyNDNVYkozOUFDSGo3amFNQWMwVi10cjdkX3F2cGQtM3FBR2FPRGFqR1Fic29zU2xlQS15VXNQYnV1ZXRQeHZJWkt3Vjc3NW9nTV83U1N5VEVVNGI1MnZoUzdIYmUwWXlWQ1JjRGczUkZ2aFBlZElPNU4tT2xwMEVKbE90dVF1ejVnUXl6bFV6VEdF?oc=5",
-    "title": "Moisés Caicedo, Wesley Fofana available for selection for Chelsea against Nottingham Forest",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVNXazYyNDNVYkozOUFDSGo3amFNQWMwVi10cjdkX3F2cGQtM3FBR2FPRGFqR1Fic29zU2xlQS15VXNQYnV1ZXRQeHZJWkt3Vjc3NW9nTV83U1N5VEVVNGI1MnZoUzdIYmUwWXlWQ1JjRGczUkZ2aFBlZElPNU4tT2xwMEVKbE90dVF1ejVnUXl6bFV6VEdF?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795718523000,
-    "added": 1795721382474,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "모이세스 카이세도, 웨슬리 포파나, 노팅엄 포레스트와의 경기에서 첼시 출전 가능"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGQ2NHhXWXB4bUgzMjgxTC1jQ3lJWEZEdEhxbkFSVWk3ZTJPZHpNZTBTaHJadk42VEw3SHV3dXA0ckpIR2ZZSHkzb1AtZy1oRVRSdjlaUGduOG5nRlhkWDktSVFIOFhlYVJ5ejRTNWFTUG55M2hlcjZlenVsT2lGQU41eXdWMWNLSURTaXZXNA?oc=5",
-    "title": "Nottingham Forest tensions arise over four-player January transfer plan",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGQ2NHhXWXB4bUgzMjgxTC1jQ3lJWEZEdEhxbkFSVWk3ZTJPZHpNZTBTaHJadk42VEw3SHV3dXA0ckpIR2ZZSHkzb1AtZy1oRVRSdjlaUGduOG5nRlhkWDktSVFIOFhlYVJ5ejRTNWFTUG55M2hlcjZlenVsT2lGQU41eXdWMWNLSURTaXZXNA?oc=5",
-    "source": "Yahoo Sports",
-    "date": 1795717800000,
-    "added": 1795738544725,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트, 1월 이적 시장에서 4명의 선수 영입 계획으로 긴장 고조"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://www.dailymail.com/sport/football/article-16324527/Nottingham-Forest-vs-Chelsea-Premier-League-Live-scores-team-news-updates-Blues-look-return-winning-ways-ease-pressure-fire-Xabi-Alonso.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Nottingham Forest vs Chelsea - Premier League: Xabi Alonso makes THREE changes from thrashing by Leeds as Moises Caicedo is given unfamiliar role",
+   "link": "https://www.dailymail.com/sport/football/article-16324527/Nottingham-Forest-vs-Chelsea-Premier-League-Live-scores-team-news-updates-Blues-look-return-winning-ways-ease-pressure-fire-Xabi-Alonso.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795807109000,
+   "image": "https://i.dailymail.com/1s/2026/11/27/18/112771015-0-image-a-33_1795805230677.jpg",
+   "added": 1795807841749,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트 대 첼시 - 프리미어리그: 하비 알론소가 리즈에게 대패한 후 세 곳을 변경, 모이세스 카이세도에게 익숙하지 않은 역할 부여"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVV4dlRVeW5Oc1o4YXJ4T2VVVnFyR3BJb2hNbHBoaUZ5LVMyOWV2LVFEamswUVRXaXppMmF1VFVRODRRTHQtV2E5TGpaWjlJTFE3aWJDMkJCWGU2QmZWMUhEOGJHYldGRXFlUGNpRUp5cDhnNE1hZjFnMWtBSHYySDdVbUctLU5kay1KX2dzS3RtVXQ0QUNRTGdQWFYzd1RQLWpKck00Tnc0dUxBeC1DQThZRmlzRWdiR1QwZFNvVEt0Mk1nYW5BaUxzaw?oc=5",
+   "title": "Nottingham Forest vs Chelsea Confirmed Lineups",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVV4dlRVeW5Oc1o4YXJ4T2VVVnFyR3BJb2hNbHBoaUZ5LVMyOWV2LVFEamswUVRXaXppMmF1VFVRODRRTHQtV2E5TGpaWjlJTFE3aWJDMkJCWGU2QmZWMUhEOGJHYldGRXFlUGNpRUp5cDhnNE1hZjFnMWtBSHYySDdVbUctLU5kay1KX2dzS3RtVXQ0QUNRTGdQWFYzd1RQLWpKck00Tnc0dUxBeC1DQThZRmlzRWdiR1QwZFNvVEt0Mk1nYW5BaUxzaw?oc=5",
+   "source": "WhoScored.com",
+   "group": "영국 언론",
+   "date": 1795805700000,
+   "added": 1795807841749,
+   "cat": "오피셜",
+   "titleKo": "노팅엄 포레스트 vs 첼시 확정 선발 명단"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXBVbllIS2JBSEVXaDBLVWthRXFuOVZqc2doQWRXYWg4ZVItWnZpNm5lUVd4cTJuR1NRcE5WcGRNOUJ2NlFuUWFJSEdRZGNSODRTSHh1N0ZkNGMtV0wzLU5yYUwxZkl0ZGtYUUJ6T3l3M01RY1pzYnF6WFdfUmNXUmN1bUEtREM4YklJbmZ2Q2pvdHV5VVZnVlhnSkQ2NUxEZjFkZnBvaXhIclM0dE1LZXVabXJjZ1RmS3piR3RpelBpUDRjZmV3ZnN6ZWxwNkRzZnc?oc=5",
+   "title": "Nottingham Forest vs. Chelsea, Premier League: Confirmed lineups; how to watch",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXBVbllIS2JBSEVXaDBLVWthRXFuOVZqc2doQWRXYWg4ZVItWnZpNm5lUVd4cTJuR1NRcE5WcGRNOUJ2NlFuUWFJSEdRZGNSODRTSHh1N0ZkNGMtV0wzLU5yYUwxZkl0ZGtYUUJ6T3l3M01RY1pzYnF6WFdfUmNXUmN1bUEtREM4YklJbmZ2Q2pvdHV5VVZnVlhnSkQ2NUxEZjFkZnBvaXhIclM0dE1LZXVabXJjZ1RmS3piR3RpelBpUDRjZmV3ZnN6ZWxwNkRzZnc?oc=5",
+   "source": "We Ain't Got No History",
+   "group": "영국 언론",
+   "date": 1795805583000,
+   "added": 1795807841749,
+   "cat": "오피셜",
+   "titleKo": "노팅엄 포레스트 vs 첼시, 프리미어리그: 확정된 선발 명단, 시청 방법"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZU5BOVcyM0RDczZiSTBkSWFpT3dfUk42RFVrRXM4bGpnNUZqV0hlNXBIZW14N0tnSVpQVXlxdjZwMV9pYTExMHdmYVNUTjB3OFNOaFVoV1QxNEE3VFBpYVVKbjN4R09rRmNHMl9haThLSmlCdllBRU1yZkZoMWdKdFlHR0dxRHNxVzlLNnFacUxNUHJ6dWFfZWowZjNwenFWd3VYNzlSZTgxdE5tWkJTWGx2azZPUzV5UUZ2dG00MDRSQ2c1RHlkYVhVSGVuMWswSnJGbWl1OHpSd3lUX0QtU3VTLV90WjUwMUFQbkVpa2ZSN2VRNVZ4OTRn?oc=5",
+   "title": "Chelsea XI vs Nottingham Forest: Starting lineup and confirmed team news",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZU5BOVcyM0RDczZiSTBkSWFpT3dfUk42RFVrRXM4bGpnNUZqV0hlNXBIZW14N0tnSVpQVXlxdjZwMV9pYTExMHdmYVNUTjB3OFNOaFVoV1QxNEE3VFBpYVVKbjN4R09rRmNHMl9haThLSmlCdllBRU1yZkZoMWdKdFlHR0dxRHNxVzlLNnFacUxNUHJ6dWFfZWowZjNwenFWd3VYNzlSZTgxdE5tWkJTWGx2azZPUzV5UUZ2dG00MDRSQ2c1RHlkYVhVSGVuMWswSnJGbWl1OHpSd3lUX0QtU3VTLV90WjUwMUFQbkVpa2ZSN2VRNVZ4OTRn?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795805568000,
+   "added": 1795807841749,
+   "cat": "오피셜",
+   "titleKo": "첼시 XI vs 노팅엄 포레스트: 선발 명단 및 확정된 팀 소식"
+  },
+  {
+   "id": "https://www.talkchelsea.net/team-news-line-ups/alonso-drops-regular-potential-formation-change/",
+   "title": "Team News: Alonso drops regular starter and uses potential formation change with Caicedo out of position",
+   "link": "https://www.talkchelsea.net/team-news-line-ups/alonso-drops-regular-potential-formation-change/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795805486000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Working-copy-of-CNFeatured_Hero-Image-Templates-2-1-414x233.jpg",
+   "added": 1795807841750,
+   "cat": null,
+   "titleKo": "팀 소식: 알론소 감독이 주전 선수를 제외하고, 카이세도가 원래 포지션이 아닌 곳에 배치되는 등 포메이션 변경 가능성"
+  },
+  {
+   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-nottingham-forest-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1306376.html",
+   "title": "Chelsea XI vs Nottingham Forest: Starting lineup, confirmed team news, injury latest for Premier League today",
+   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-nottingham-forest-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1306376.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795805432000,
+   "image": "https://static.standard.co.uk/2026/11/27/18/2307154008..?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795807841749,
+   "cat": "오피셜",
+   "titleKo": "첼시 XI vs 노팅엄 포레스트: 선발 명단, 확정된 팀 소식, 오늘 프리미어리그 부상 소식"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1lSaFdqTDNxMTgxUUpsaUozQV9sZnE2M1ZwRG1STEhSSW9rWmhId1ZjSk5EYzAzMkN3U2RIOEhMajdXUnI2dmhSTzg2YmVSVG1YcFJEbENZNHR3ckhHMFB1OFJCV2YxaXY3Vi1FTnVrY0NKbmZyeWktTGJkSFRIT2FVQ3VjVUVXRWVpczR5Sk9OZEpIa2ZGNjM1cw?oc=5",
+   "title": "Confirmed Chelsea line up vs Nottingham Forest | News | Official Site",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1lSaFdqTDNxMTgxUUpsaUozQV9sZnE2M1ZwRG1STEhSSW9rWmhId1ZjSk5EYzAzMkN3U2RIOEhMajdXUnI2dmhSTzg2YmVSVG1YcFJEbENZNHR3ckhHMFB1OFJCV2YxaXY3Vi1FTnVrY0NKbmZyeWktTGJkSFRIT2FVQ3VjVUVXRWVpczR5Sk9OZEpIa2ZGNjM1cw?oc=5",
+   "source": "Chelsea Football Club",
+   "group": "영국 언론",
+   "date": 1795805139000,
+   "added": 1795807841749,
+   "cat": "오피셜",
+   "titleKo": "노팅엄 포레스트와의 경기 선발 명단 확정 | 뉴스 | 공식 사이트"
+  },
+  {
+   "id": "https://www.caughtoffside.com/2026/11/27/chelsea-face-barcelona-competition-for-highly-rated-argentine-defender/",
+   "title": "Chelsea face Barcelona competition for highly-rated Argentine defender",
+   "link": "https://www.caughtoffside.com/2026/11/27/chelsea-face-barcelona-competition-for-highly-rated-argentine-defender/",
+   "source": "CaughtOffside",
+   "group": "영국 언론",
+   "date": 1795804242000,
+   "image": "https://icdn.caughtoffside.com/2026/11/COS-FeaturedHero-Image-Templates-49.jpg",
+   "added": 1795807841749,
+   "cat": null,
+   "titleKo": "첼시, 높은 평가를 받는 아르헨티나 수비수를 놓고 바르셀로나와 경쟁"
+  },
+  {
+   "id": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
+   "title": "Caicedo playing at centre-back for Chelsea at Forest LIVE!",
+   "link": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795804200000,
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7414211.jpg?20261123092717",
+   "added": 1795807841749,
+   "cat": null,
+   "titleKo": "카이세도가 포레스트와의 경기에서 첼시의 센터백으로 활약하는 모습(라이브 중계)!"
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVFBVaERZNlZFcjB4dzZKNG8wVWJNV2ZNdWI1ZElRaEhLcVJvbkZSaEl0OFRZWklTSVV3UWJlMkdSZE1SWV9XYzZPNEN5bkRrdTZhcnQ4cDlnWFlkbDRJdl83R0V0bmRBY2UtSU1YM09xZndHNlg1azVxU1NKRFBod3pOTk02dV96RU5KaWdQcjRTbDdGZHVFOXhSek90c2EzMmxsYU1lSlUzTElZeGVFNFc4WlFYd2RoUnJBUXdBMjN3a3lLQTVv?oc=5",
    "title": "Liverpool handed new suspension risk ahead of Chelsea clash",
@@ -913,6 +1017,17 @@
    "titleKo": "첼시, 공을 차기도 전에 자매 구단에서 10대 원더키드를 영입하다",
    "imgTried": true,
    "image": "https://talksport.com/wp-content/uploads/2026/11/mohamed-zongo-burkina-faso-takes-1125907518.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFZVNlVKQUNPV3djYUxBQktPa3ZKSzc3SHNKWGRKZkFvcFJKWXZZZi00Wlc1VnNWYWFBUmdCM1MzMUJmbm56YXhGZFNNa1NOTmhjTTJwaTBQb0p3MFR5b0FTRVVzX1FjS1o0S3BGdlV4QnpGNGRLUHg2SDgtUkhmdVpoS2pyQTJFZnZ3RVp2MUgwTnBZUTJaY0tIbFV0c21zNk5DWEhPaXhIc3JjNk1oWmQtLUFtVUhiYUV3cS1zeFc4NlVWRUZzZTJlNzNpLUltUWZXMVlBU1FDS2c3QlVLUWUtWQ?oc=5",
+   "title": "Chelsea FC | Tours",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFZVNlVKQUNPV3djYUxBQktPa3ZKSzc3SHNKWGRKZkFvcFJKWXZZZi00Wlc1VnNWYWFBUmdCM1MzMUJmbm56YXhGZFNNa1NOTmhjTTJwaTBQb0p3MFR5b0FTRVVzX1FjS1o0S3BGdlV4QnpGNGRLUHg2SDgtUkhmdVpoS2pyQTJFZnZ3RVp2MUgwTnBZUTJaY0tIbFV0c21zNk5DWEhPaXhIc3JjNk1oWmQtLUFtVUhiYUV3cS1zeFc4NlVWRUZzZTJlNzNpLUltUWZXMVlBU1FDS2c3QlVLUWUtWQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795798368000,
+   "added": 1795807841750,
+   "cat": null,
+   "titleKo": "첼시 FC | 투어"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3dmUlJoSEQ3Y2U1b1BPMWQyTU5wSWtfdWhxelplWEZ3OU9vZGI4UXBqeWdLei1uRWhZQThyQ1R0TEY0V29IQUxDSGQxTGtTeFZ6WUhrVmgzSnRRNl9xMGlpcDYzUkNOQThqNElmS3UzdjhrLVE3WEtBSFRHa0tRWTAyNkVNc3RodnNEU0ltbFdhRXg5NDRMd2Nn?oc=5",
@@ -2233,6 +2348,17 @@
    "added": 1795717398489,
    "cat": "인터뷰",
    "titleKo": "첼시의 알론소 감독, 페널티킥 농담 후 포파나에게 사과했다고 밝혀"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWROa2I2aXp1QnBtU3llb3JmZjNyc1BFTkF4UDJ3TlRXa0g3V0picmIwM3BnNUN0U05iUF90V0dfcjhORlVHWHNfX1ZnMjBJSEJqam85cER6MGJqdmQxTW5ZQWYwbEZicWk1OUpzdmd5dzhqQVBCd2cwRXFhSDFuREFUMFpTLVBST2ZUYTFNeGx1VVFRTU1IRk9HVFVGN3lTT19UVDBRN0lzUQ?oc=5",
+   "title": "Why Xabi Alonso’s vision and Chelsea’s reality remain worlds apart",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWROa2I2aXp1QnBtU3llb3JmZjNyc1BFTkF4UDJ3TlRXa0g3V0picmIwM3BnNUN0U05iUF90V0dfcjhORlVHWHNfX1ZnMjBJSEJqam85cER6MGJqdmQxTW5ZQWYwbEZicWk1OUpzdmd5dzhqQVBCd2cwRXFhSDFuREFUMFpTLVBST2ZUYTFNeGx1VVFRTU1IRk9HVFVGN3lTT19UVDBRN0lzUQ?oc=5",
+   "source": "London Evening Standard",
+   "group": "영국 언론",
+   "date": 1795711776000,
+   "added": 1795807841750,
+   "cat": null,
+   "titleKo": "샤비 알론소의 비전과 첼시의 현실이 여전히 전혀 다른 이유"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fUFBFOXNXYnlqcGU4TFFvanZnaGNQR1FBY3paN3dsSXh2MnZFSmFMUllENkQ4bUQtc0ltaFBSNTBNU29ERFVsc19PUUdTaEEzS2VYZTBfbzFndXd0NHhzQlJjRExIem1UakZF?oc=5",
@@ -4148,129 +4274,6 @@
    "added": 1795683540982,
    "cat": null,
    "titleKo": "웨슬리 포파나, 첼시의 카라바오컵 탈락을 초래한 페널티킥 실축에 대한 비판을 웃어넘기다"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-nottingham-forest-confirmed-team-news-predicted-lineup-2026-injury-latest-b1306376.html",
-   "title": "Chelsea XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest for Premier League",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-nottingham-forest-confirmed-team-news-predicted-lineup-2026-injury-latest-b1306376.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795621145000,
-   "image": "https://static.standard.co.uk/2026/10/30/15/15/ChelseapredictedXI2627.png?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795621636184,
-   "cat": "오피셜",
-   "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식, 예상 선발 명단 및 프리미어리그 부상자 최신 소식"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSkJwckhYenVOLVJndHhyclRuY1FUSHNZYVduYVQwckRPbW84UHowZlF6YXMtc19PWUdpX2dnazJvWUhJQUVUUFZQUm1nY2NraXNtQmVrN3dYMW1nZ0t5dVlYMDh4UTllVEZUcllyTVB0blhUOHBETGZNRlFtQXhBMklMSlpuanZaN3dWeTFJR2dVYUI3ODNUSk9WNV9qV2VUMF9FTnI1TzJTaUdPYzRiX19EU0tjVkNWR0Y4dk5JNkxhTG8wSjdGNXZSQ0JVZ2NPVWlSZXRNcHBkS0RQMXNB?oc=5",
-   "title": "Chelsea XI vs Nottm Forest: Confirmed team news and predicted lineup",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSkJwckhYenVOLVJndHhyclRuY1FUSHNZYVduYVQwckRPbW84UHowZlF6YXMtc19PWUdpX2dnazJvWUhJQUVUUFZQUm1nY2NraXNtQmVrN3dYMW1nZ0t5dVlYMDh4UTllVEZUcllyTVB0blhUOHBETGZNRlFtQXhBMklMSlpuanZaN3dWeTFJR2dVYUI3ODNUSk9WNV9qV2VUMF9FTnI1TzJTaUdPYzRiX19EU0tjVkNWR0Y4dk5JNkxhTG8wSjdGNXZSQ0JVZ2NPVWlSZXRNcHBkS0RQMXNB?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795620711000,
-   "added": 1795621636184,
-   "cat": "오피셜",
-   "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식 및 예상 선발 명단"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlotbTFoNUhDSG9NQjlBNTJNbkFIZWp6ckh3Wkc5U25lN3NiWnEzM3RQbG84MjMxSEdwR0dIMHBsbHYyS3VoZElXUkdrOHFSRTV4R2U2azBJMHBVaVVFSmhraURFU0E5cmE0UEtyWUQzYUNfYThhSkhnSURQeDhkSTk1NndaS3ZfU1Vn?oc=5",
-   "title": "The Unauthorized Wesley Fofana Interview That Has Angered Chelsea Fans",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlotbTFoNUhDSG9NQjlBNTJNbkFIZWp6ckh3Wkc5U25lN3NiWnEzM3RQbG84MjMxSEdwR0dIMHBsbHYyS3VoZElXUkdrOHFSRTV4R2U2azBJMHBVaVVFSmhraURFU0E5cmE0UEtyWUQzYUNfYThhSkhnSURQeDhkSTk1NndaS3ZfU1Vn?oc=5",
-   "source": "Sports Illustrated",
-   "group": "영국 언론",
-   "date": 1795618802000,
-   "added": 1795645171338,
-   "cat": "인터뷰",
-   "titleKo": "첼시 팬들을 화나게 한 무단 웨슬리 포파나 인터뷰"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDFmTFdUVEx1d1YyNS1KRjlwZk14b2lFSDR2V3NfdTM0cVpNVlFuM2hMcVBNRFBxaFZQNm83T2paZGRWN0Qtamw2RnB5V01wTnVCZ01CbFZsbGZNM04tVlBGRGNRS2RQU0xValM2c0hiX2dlc3hVUW9pTHhFcjlfY21tdjY3SXFJWGlzZEtsN3hUTmJlUFU3Tm9RQlBWSHlQS2s5M3BWcjFJSTA5Rnc?oc=5",
-   "title": "Chelsea Fans Left Seething Over Unauthorised Wesley Fofana Interview",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDFmTFdUVEx1d1YyNS1KRjlwZk14b2lFSDR2V3NfdTM0cVpNVlFuM2hMcVBNRFBxaFZQNm83T2paZGRWN0Qtamw2RnB5V01wTnVCZ01CbFZsbGZNM04tVlBGRGNRS2RQU0xValM2c0hiX2dlc3hVUW9pTHhFcjlfY21tdjY3SXFJWGlzZEtsN3hUTmJlUFU3Tm9RQlBWSHlQS2s5M3BWcjFJSTA5Rnc?oc=5",
-   "source": "Forza Football",
-   "group": "영국 언론",
-   "date": 1795618802000,
-   "added": 1795625399341,
-   "cat": "인터뷰",
-   "titleKo": "첼시 팬들, 무단으로 진행된 웨슬리 포파나 인터뷰에 분노"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TVElJOGZvUWJqN1dWZFE1YTh4RlNmTTBsTGkxODNrRFpEdVlSZEJkYjdtSGZZZmpDN3BSWW9kYkJTc0kxNFpwR25BRQ?oc=5",
-   "title": "첼시 포파나 잦은 부상에 은퇴 고민…에이전트 설득에 잔류 : 스포츠",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TVElJOGZvUWJqN1dWZFE1YTh4RlNmTTBsTGkxODNrRFpEdVlSZEJkYjdtSGZZZmpDN3BSWW9kYkJTc0kxNFpwR25BRQ?oc=5",
-   "source": "재경일보",
-   "group": "한국 언론",
-   "date": 1795618800000,
-   "added": 1795621636184,
-   "cat": "부상",
-   "titleKo": "첼시 포파나 잦은 부상에 은퇴 고민…에이전트 설득에 잔류 : 스포츠"
-  },
-  {
-   "id": "https://chelsea.news/2026/11/emery-leaves-garnacho-out-at-galatasaray-putting-chelseas-43m-sale-to-villa-in-doubt/",
-   "title": "Emery leaves Garnacho out at Galatasaray, putting Chelsea’s £43m sale to Villa in doubt",
-   "link": "https://chelsea.news/2026/11/emery-leaves-garnacho-out-at-galatasaray-putting-chelseas-43m-sale-to-villa-in-doubt/",
-   "source": "Chelsea News",
-   "group": "팬 블로그",
-   "date": 1795618108000,
-   "image": "https://chelsea.news/wp-content/uploads/2026/11/rams-park.jpg",
-   "added": 1795625399342,
-   "cat": null,
-   "titleKo": "에메리 감독, 갈라타사라이전에서 가르나초 제외... 첼시에서 아스톤 빌라로의 4,300만 파운드 이적에 의구심 제기"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUl9zQjlCSThNTlI4N0hxbFREb0Q1Q2hMdGhDTVVGWXJsNXZTSlZwQ05qOFRtVll2d0hPQUtkSTVfellwNXNZdjY1UnZiOGx1UGJsb3k0cFBGM09FRWpacGNfY2R2WVFKZm5sNXRORnJ6SXNYNW4tRmM5MXpyZXNSellONnNiMU5qZWJhbmQ0ZHl2REsxVTZTbXEzNnlTbmdZNU1HU015eldya2tiTXk2bw?oc=5",
-   "title": "Entertainment for the whole family – Join us for Families at the Bridge!",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUl9zQjlCSThNTlI4N0hxbFREb0Q1Q2hMdGhDTVVGWXJsNXZTSlZwQ05qOFRtVll2d0hPQUtkSTVfellwNXNZdjY1UnZiOGx1UGJsb3k0cFBGM09FRWpacGNfY2R2WVFKZm5sNXRORnJ6SXNYNW4tRmM5MXpyZXNSellONnNiMU5qZWJhbmQ0ZHl2REsxVTZTbXEzNnlTbmdZNU1HU015eldya2tiTXk2bw?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795617000000,
-   "added": 1795618298753,
-   "cat": null,
-   "titleKo": "온 가족을 위한 엔터테인먼트 – 브리지에서 온 가족이 함께 즐기는 시간을 보내세요!"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUhCNDUxdDZLX0RMcm1BSk0zLXF3eFd6emtXNERpYXBTX2p3LXM4R0Q3Q0pMcFByeHJBMXhhd1p3V3pOaU9FUTdobGk4SXdiaXp3UUg5SkdLWGs0ZUhIYzJhWFVFa3FlSm00TVJLY2RIb1dCLWRlQUpraDVqNW5FMk52d0JWWEVUSjAwWnVObWVyTUNIZVlib2tRNTc2eE8zaVHSAacBQVVfeXFMTWVwUkFwd1hnNGxLTVFXYXktUm1oWWU5YUZibTB5QlAyMUFUQ0RTUGZraS03a09GZmtVY1RYY0hObncwX0YzSUpybkUta2FBdWtOUVRXNExVLTFJSVpwc2pJLXZvRU5YUG9XVzluVFR3d19xbnlZa2VDdThQbW5rSWE3Nk9ycW1QZDNxWGowa3lsNmFtSzlIdTRONVY4RE5YdXc0a1VwczA?oc=5",
-   "title": "Man Utd urged to avoid transfer move for £75m Chelsea star: 'It would be crazy'",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUhCNDUxdDZLX0RMcm1BSk0zLXF3eFd6emtXNERpYXBTX2p3LXM4R0Q3Q0pMcFByeHJBMXhhd1p3V3pOaU9FUTdobGk4SXdiaXp3UUg5SkdLWGs0ZUhIYzJhWFVFa3FlSm00TVJLY2RIb1dCLWRlQUpraDVqNW5FMk52d0JWWEVUSjAwWnVObWVyTUNIZVlib2tRNTc2eE8zaVHSAacBQVVfeXFMTWVwUkFwd1hnNGxLTVFXYXktUm1oWWU5YUZibTB5QlAyMUFUQ0RTUGZraS03a09GZmtVY1RYY0hObncwX0YzSUpybkUta2FBdWtOUVRXNExVLTFJSVpwc2pJLXZvRU5YUG9XVzluVFR3d19xbnlZa2VDdThQbW5rSWE3Nk9ycW1QZDNxWGowa3lsNmFtSzlIdTRONVY4RE5YdXc0a1VwczA?oc=5",
-   "source": "Metro.co.uk",
-   "group": "영국 언론",
-   "date": 1795616220000,
-   "added": 1795625399341,
-   "cat": "이적",
-   "titleKo": "맨유, 7,500만 파운드의 첼시 스타 영입을 피하라는 촉구: '그건 미친 짓일 겁니다'"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lclJZUWR5TXJFOXBDb2VSWGQzZ09KZi05QTloVEY3bGFGOTIweEZPd0E5ZGc2NjNDWGpUem9Nal9iZU5tbGxVVkpQemNRczdfdjNQNmhMT2lCM3ZRRldGMkFEcURQMTFzNXFTdV9qUnA5VDhlVHEtQVZwbVk3YUU?oc=5",
-   "title": "Inside the life of Becky Spencer",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lclJZUWR5TXJFOXBDb2VSWGQzZ09KZi05QTloVEY3bGFGOTIweEZPd0E5ZGc2NjNDWGpUem9Nal9iZU5tbGxVVkpQemNRczdfdjNQNmhMT2lCM3ZRRldGMkFEcURQMTFzNXFTdV9qUnA5VDhlVHEtQVZwbVk3YUU?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795615516000,
-   "added": 1795618298753,
-   "cat": null,
-   "titleKo": "베키 스펜서의 삶 속으로"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXotM01MRUt4MUpWQVRGeVk4Ylc1a1J5enhyM2t4dHJBdUVnZFphRlBCY21YV2lIbEY2ZlBtcFJCQl84VnE4cW9lQ1ZadjUtNnlRc0JPUVMydHVRM28ydXgxTTQ5eXhnendrRm1GdXVqVGpkZXN6MDhSVmZGelRlVVdNdjgyMk05VW9fQWxlXzBNeVFQZFh1Ml8wamIwUzZmUXUzOFF5ZEhTRHVSM1lNcklScWt3Y0lhV3RrS0ZR?oc=5",
-   "title": "Emegha 'would do anything to win' at Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXotM01MRUt4MUpWQVRGeVk4Ylc1a1J5enhyM2t4dHJBdUVnZFphRlBCY21YV2lIbEY2ZlBtcFJCQl84VnE4cW9lQ1ZadjUtNnlRc0JPUVMydHVRM28ydXgxTTQ5eXhnendrRm1GdXVqVGpkZXN6MDhSVmZGelRlVVdNdjgyMk05VW9fQWxlXzBNeVFQZFh1Ml8wamIwUzZmUXUzOFF5ZEhTRHVSM1lNcklScWt3Y0lhV3RrS0ZR?oc=5",
-   "source": "beIN SPORTS",
-   "group": "영국 언론",
-   "date": 1795614936000,
-   "added": 1795690928843,
-   "cat": null,
-   "titleKo": "에메가, \"첼시에서 우승을 위해 무엇이든 할 것\""
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzMtRmVaZFl1S0QxV2JMcGFRamptY3BIZE12U0hIdkVaSllEYWpVVWxSdHFrQXdOVW1iRGlPM1kyUnRsZnZUZzZwR0JXSHRJZDZXaTdhX1VjTTdnWFdGMnBqVnk4d2dMYkRzR2dqRWI1Yll0TWNJRUxjakpvVUNDRXcwYVZrc1doZEFOX2R2RmViMDRHSkhiSXNJazBLeTllU0xLdmJ2ZlpXUV9oR3fSAbMBQVVfeXFMUHRWdENaOE9pa2wyU2JITjVHYXlmS3lUV2IxMFB1dmZ0dXJfZG8xTzZYRmFETmlwMjduekZ2a1hPd1ZXdzFRazlJRkxCZ0taVXMzXzJBYWZrWTJteUFfRTRRbWFocU9aSmlGQnpPQlQydmVwZWFUNmFTeHNJaFpkQW1KYnVfRzdtOTNGd1VBal9HZ3BIa2JRblN3eDVQTjItbkZQNG1ac0NPcFBPRnFON0pPVHM?oc=5",
-   "title": "Emmanuel Emegha reveals what impressed him most after joining Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzMtRmVaZFl1S0QxV2JMcGFRamptY3BIZE12U0hIdkVaSllEYWpVVWxSdHFrQXdOVW1iRGlPM1kyUnRsZnZUZzZwR0JXSHRJZDZXaTdhX1VjTTdnWFdGMnBqVnk4d2dMYkRzR2dqRWI1Yll0TWNJRUxjakpvVUNDRXcwYVZrc1doZEFOX2R2RmViMDRHSkhiSXNJazBLeTllU0xLdmJ2ZlpXUV9oR3fSAbMBQVVfeXFMUHRWdENaOE9pa2wyU2JITjVHYXlmS3lUV2IxMFB1dmZ0dXJfZG8xTzZYRmFETmlwMjduekZ2a1hPd1ZXdzFRazlJRkxCZ0taVXMzXzJBYWZrWTJteUFfRTRRbWFocU9aSmlGQnpPQlQydmVwZWFUNmFTeHNJaFpkQW1KYnVfRzdtOTNGd1VBal9HZ3BIa2JRblN3eDVQTjItbkZQNG1ac0NPcFBPRnFON0pPVHM?oc=5",
-   "source": "Tribuna.com",
-   "group": "영국 언론",
-   "date": 1795612583000,
-   "added": 1795638048061,
-   "cat": "인터뷰",
-   "titleKo": "에마뉘엘 에메가가 첼시에 입단한 후 가장 인상 깊었던 점을 밝힙니다."
   }
  ]
 }
