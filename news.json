@@ -1,5 +1,5 @@
 {
- "updated": 1795754675807,
+ "updated": 1795758206519,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
@@ -21,14 +21,14 @@
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
-  "구글뉴스(한국어)": 15,
+  "구글뉴스(한국어)": 14,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 50건"
+  "이번 상대": "Nottingham Forest · 새 기사 51건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -79,6 +79,16 @@
     "added": 1795735193998,
     "tag": "라인업·팀뉴스",
     "titleKo": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0Jqcy1VTGZDVm5LYXFrZjNJVk1RSlRfLUIybTJycWFLQ1VQTTdzMEVmQ2xHU0ttRG96RGJHdWJpVnc5MUs1NzFESnVOcXRzSzB2djFxRTFfdFpuOTJ6OEVqcGstT0lkdXg3RGNtVDFKdVhEUThUeGxFWVRTU3laeXAxNE5xRHhRWlE?oc=5",
+    "title": "Xabi Alonso issues new Chelsea injury update as Joao Pedro return timeline revealed",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0Jqcy1VTGZDVm5LYXFrZjNJVk1RSlRfLUIybTJycWFLQ1VQTTdzMEVmQ2xHU0ttRG96RGJHdWJpVnc5MUs1NzFESnVOcXRzSzB2djFxRTFfdFpuOTJ6OEVqcGstT0lkdXg3RGNtVDFKdVhEUThUeGxFWVRTU3laeXAxNE5xRHhRWlE?oc=5",
+    "source": "Yahoo Sports",
+    "date": 1795732209000,
+    "added": 1795758204886,
+    "tag": "라인업·팀뉴스",
+    "titleKo": "샤비 알론소, 주앙 페드로의 복귀 시점이 밝혀지면서 첼시 부상자 명단에 대한 새로운 소식을 전했습니다."
    },
    {
     "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR01TZXhpaUY2cFl2RlluODhqaFVCR0RMR3R6c3BNcExoS3cxWUwzNnZVXzA4MklRbTN1bFZyMnpuRHRLNE1NN3lLNkIyck9acE1CSlJ4Y2hXbEpXV3U1SmcwUUQ3RDFuV1dJeGV0cjl5Y180LVQ4UXYybjZ0YUJibzRPQ1FTYm5wTEFHbGZ0Mk1TNVVEdElmei1kRQ?oc=5",
@@ -829,16 +839,6 @@
     "added": 1795683541897,
     "tag": "상대 소식",
     "titleKo": "노팅엄 포레스트 대 첼시 FC: 전반전 정확한 스코어"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE80MjVDeDVYQnJ5aFYwVkJOMXJWRDZYUTJxWW5JMTdjeEhUSnEtUjltOXlEbWFqY1k4LXRHWGZMdGtKV3l5UzlYWGVrYndiRWF1bUlWanhEdkoyaFh2WjJEdVEzOW54N290OW5hMEk4cEhxdnZYUmliZHphY3BRRGx6RWIyaHJjUGJ6dEZKZ1RVR3pKMW9VcWFOUVBPY1FRM2tmQQ?oc=5",
-    "title": "Nottingham Forest vs Chelsea Lineups and Team News: Emegha Has to Start",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE80MjVDeDVYQnJ5aFYwVkJOMXJWRDZYUTJxWW5JMTdjeEhUSnEtUjltOXlEbWFqY1k4LXRHWGZMdGtKV3l5UzlYWGVrYndiRWF1bUlWanhEdkoyaFh2WjJEdVEzOW54N290OW5hMEk4cEhxdnZYUmliZHphY3BRRGx6RWIyaHJjUGJ6dEZKZ1RVR3pKMW9VcWFOUVBPY1FRM2tmQQ?oc=5",
-    "source": "The False 9",
-    "date": 1795680016000,
-    "added": 1795683541897,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "노팅엄 포레스트 대 첼시 선발 명단 및 팀 소식: 에메가가 선발 출전해야 합니다"
    }
   ]
  },
