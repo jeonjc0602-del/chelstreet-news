@@ -1,8 +1,8 @@
 {
- "updated": 1795775229398,
+ "updated": 1795778392879,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 4,
+  "Sky Sports": 2,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
@@ -12,12 +12,12 @@
   "Daily Mail": 4,
   "Telegraph": 4,
   "Independent": 1,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 12,
   "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 69,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 52건"
+  "이번 상대": "Nottingham Forest · 새 기사 50건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -40,6 +40,26 @@
   "kickoff": 1795809600000,
   "state": "pre",
   "items": [
+   {
+    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDdtZmRERk9xSm00eFU5SUlBek43aXRzaFAyN1VRc1djZDIwRVktVEJBeVJNaXBhXzBNSkpBWW1ISEF4U2JvalZ3OHp3aEl1ejFrWkZ1OUFRSFAwQWl6R2xKdTdKNEhqdzN3TU1zMGlNSnJwVzk3akxSOUEyRFhSZTZueEs0em5tTWxkZ3pxWjRQTG44dWF4cFN6OA?oc=5",
+    "title": "Cobham Unseen: pre-Nottingham Forest (a) | Video | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDdtZmRERk9xSm00eFU5SUlBek43aXRzaFAyN1VRc1djZDIwRVktVEJBeVJNaXBhXzBNSkpBWW1ISEF4U2JvalZ3OHp3aEl1ejFrWkZ1OUFRSFAwQWl6R2xKdTdKNEhqdzN3TU1zMGlNSnJwVzk3akxSOUEyRFhSZTZueEs0em5tTWxkZ3pxWjRQTG44dWF4cFN6OA?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795778121000,
+    "added": 1795778387725,
+    "tag": "상대 소식",
+    "titleKo": "코범 비하인드: 노팅엄 포레스트 원정 경기 전(a) | 동영상 | 공식 사이트"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjQySWw1ckRzMFFFWVU3dVVjT1VqWkhQbEpXMTZqSzVSNHBabXIwaG1kY19wWnVqOVpIWTNTOXNZLTc3UHNOLU51YUlxblpyQzN0N1pVU1I1b0tRS2c5Mk51c3hsNE9wbG45aU1WZ0huT2d4YzdKTk1uR1N1RzlGck1waUhlR040c1BpamszSQ?oc=5",
+    "title": "Nottingham Forest vs Chelsea | Focused on three points | Video | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjQySWw1ckRzMFFFWVU3dVVjT1VqWkhQbEpXMTZqSzVSNHBabXIwaG1kY19wWnVqOVpIWTNTOXNZLTc3UHNOLU51YUlxblpyQzN0N1pVU1I1b0tRS2c5Mk51c3hsNE9wbG45aU1WZ0huT2d4YzdKTk1uR1N1RzlGck1waUhlR040c1BpamszSQ?oc=5",
+    "source": "Chelsea Football Club",
+    "date": 1795775721000,
+    "added": 1795778387725,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs 첼시 | 승점 3점에 집중 | 동영상 | 공식 사이트"
+   },
    {
     "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGotVXZSTUhOMFkyYmZLZHR5R1dvWTUzYkxwblZhZzZvaHFvenpjemRHTEQxZGFKLUt4cTVuUnNsNnhQZnJ5TGxNMmV0RmxOX2FYZlpKUWU1NzVkSlF3bUZnRHhJbzFZR0pIMmRETExaRnQ5bVRXQ3BzZnFPWnlTTlIyUUVRMFhPVzlVSUZLbmVsOEJkbkppc1FuRkIwODFDVjZXS05xRU1PQVNTcUEtRGI4eHllMGZaX2xnbm9wRDdUWDVBQkE?oc=5",
     "title": "Nottingham Forest vs. Chelsea: Former Blues eye win",
@@ -819,30 +839,32 @@
     "added": 1795707272052,
     "tag": "라인업·팀뉴스",
     "titleKo": "노팅엄 포레스트 vs 첼시 경기 예측: 델라프가 전 소속팀을 침몰시킬 것"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZzRkWFVjdlJqbTZ5U0ZDOTl2cFJfZDBOSGhJZkp5bk0tdE1ZUnI3bFV2ZndINHNxY0xibmlUSXZvZF9aV085RklZbHBodWluR2ZLemlWV3B4NXQzdndweC1OdTkydHZESXMzcFBoejh3YjBQVVFWenhRN3pYVHFBQTdkc2sxRHI3U2VlWGxzbHBVYUl1aUl2a0c2RndNYzlnaURDaEg5LUs5eWlwRWFjUGFoUFNubVBUN2xmeFE5TmtpcmFqRnVkV1JlZnZvdXhMaUpWVExnNlJlVXBMNXFvSVBxUnpFYkk5M3BTcFBXVTc3QQ?oc=5",
-    "title": "Xabi Alonso press conference: Nottingham Forest vs Chelsea",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZzRkWFVjdlJqbTZ5U0ZDOTl2cFJfZDBOSGhJZkp5bk0tdE1ZUnI3bFV2ZndINHNxY0xibmlUSXZvZF9aV085RklZbHBodWluR2ZLemlWV3B4NXQzdndweC1OdTkydHZESXMzcFBoejh3YjBQVVFWenhRN3pYVHFBQTdkc2sxRHI3U2VlWGxzbHBVYUl1aUl2a0c2RndNYzlnaURDaEg5LUs5eWlwRWFjUGFoUFNubVBUN2xmeFE5TmtpcmFqRnVkV1JlZnZvdXhMaUpWVExnNlJlVXBMNXFvSVBxUnpFYkk5M3BTcFBXVTc3QQ?oc=5",
-    "source": "BBC",
-    "date": 1795704113000,
-    "added": 1795707272052,
-    "tag": "상대 소식",
-    "titleKo": "사비 알론소 기자회견: 노팅엄 포레스트 vs 첼시"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFcydTBzR1N0RWF4WWxSZGdnekhQLXh0YW5FQ01CZWNIUm9EZjhBc1o3SWUtRkVnc1BucExiYndqRkFOQWRmV1lJNGNNQmhJMlRseGNsbi1YTGJQZDZ5c2N4a3ZLTy1nVVozQ0NYbzVxZmpYU2VnVzhmNjNJaVNuT0QzSWhDSkE?oc=5",
-    "title": "Every word Xabi Alonso said on Chelsea talks, Joao Pedro injury and Wesley Fofana interview",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFcydTBzR1N0RWF4WWxSZGdnekhQLXh0YW5FQ01CZWNIUm9EZjhBc1o3SWUtRkVnc1BucExiYndqRkFOQWRmV1lJNGNNQmhJMlRseGNsbi1YTGJQZDZ5c2N4a3ZLTy1nVVozQ0NYbzVxZmpYU2VnVzhmNjNJaVNuT0QzSWhDSkE?oc=5",
-    "source": "Football London",
-    "date": 1795704004000,
-    "added": 1795707272052,
-    "tag": "라인업·팀뉴스",
-    "titleKo": "샤비 알론소가 첼시와의 협상, 주앙 페드로의 부상, 웨슬리 포파나 인터뷰에 대해 한 모든 말"
    }
   ]
  },
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDdtZmRERk9xSm00eFU5SUlBek43aXRzaFAyN1VRc1djZDIwRVktVEJBeVJNaXBhXzBNSkpBWW1ISEF4U2JvalZ3OHp3aEl1ejFrWkZ1OUFRSFAwQWl6R2xKdTdKNEhqdzN3TU1zMGlNSnJwVzk3akxSOUEyRFhSZTZueEs0em5tTWxkZ3pxWjRQTG44dWF4cFN6OA?oc=5",
+   "title": "Cobham Unseen: pre-Nottingham Forest (a) | Video",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDdtZmRERk9xSm00eFU5SUlBek43aXRzaFAyN1VRc1djZDIwRVktVEJBeVJNaXBhXzBNSkpBWW1ISEF4U2JvalZ3OHp3aEl1ejFrWkZ1OUFRSFAwQWl6R2xKdTdKNEhqdzN3TU1zMGlNSnJwVzk3akxSOUEyRFhSZTZueEs0em5tTWxkZ3pxWjRQTG44dWF4cFN6OA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795778121000,
+   "added": 1795778386140,
+   "cat": null,
+   "titleKo": "코범 비하인드: 노팅엄 포레스트 원정 경기 전(a) | 동영상"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjQySWw1ckRzMFFFWVU3dVVjT1VqWkhQbEpXMTZqSzVSNHBabXIwaG1kY19wWnVqOVpIWTNTOXNZLTc3UHNOLU51YUlxblpyQzN0N1pVU1I1b0tRS2c5Mk51c3hsNE9wbG45aU1WZ0huT2d4YzdKTk1uR1N1RzlGck1waUhlR040c1BpamszSQ?oc=5",
+   "title": "Nottingham Forest vs Chelsea | Focused on three points | Video",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjQySWw1ckRzMFFFWVU3dVVjT1VqWkhQbEpXMTZqSzVSNHBabXIwaG1kY19wWnVqOVpIWTNTOXNZLTc3UHNOLU51YUlxblpyQzN0N1pVU1I1b0tRS2c5Mk51c3hsNE9wbG45aU1WZ0huT2d4YzdKTk1uR1N1RzlGck1waUhlR040c1BpamszSQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795775721000,
+   "added": 1795778386140,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트 vs 첼시 | 3점 획득에 집중 | 동영상"
+  },
   {
    "id": "https://www.talkchelsea.net/news-now/alonso-how-summer-signing-chelsea-tonight/",
    "title": "Xabi Alonso on how summer signing can help Chelsea in his second game",
@@ -1348,6 +1370,17 @@
    "added": 1795735192405,
    "cat": "부상",
    "titleKo": "샤비 알론소, 주앙 페드로의 복귀 시기가 밝혀지면서 첼시 부상자 명단에 대한 새로운 소식을 전했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR01TZXhpaUY2cFl2RlluODhqaFVCR0RMR3R6c3BNcExoS3cxWUwzNnZVXzA4MklRbTN1bFZyMnpuRHRLNE1NN3lLNkIyck9acE1CSlJ4Y2hXbEpXV3U1SmcwUUQ3RDFuV1dJeGV0cjl5Y180LVQ4UXYybjZ0YUJibzRPQ1FTYm5wTEFHbGZ0Mk1TNVVEdElmei1kRQ?oc=5",
+   "title": "‘Chelsea standards not acceptable’ — but can Xabi Alonso deliver change?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR01TZXhpaUY2cFl2RlluODhqaFVCR0RMR3R6c3BNcExoS3cxWUwzNnZVXzA4MklRbTN1bFZyMnpuRHRLNE1NN3lLNkIyck9acE1CSlJ4Y2hXbEpXV3U1SmcwUUQ3RDFuV1dJeGV0cjl5Y180LVQ4UXYybjZ0YUJibzRPQ1FTYm5wTEFHbGZ0Mk1TNVVEdElmei1kRQ?oc=5",
+   "source": "The Times",
+   "group": "영국 언론",
+   "date": 1795732200000,
+   "added": 1795778386138,
+   "cat": null,
+   "titleKo": "'첼시의 수준은 용납할 수 없다' — 하지만 사비 알론소가 변화를 가져올 수 있을까요?"
   },
   {
    "id": "https://www.thesun.co.uk/sport/41165611/chelsea-news-xabi-alonso-job-sack-culture-war/",
@@ -3493,6 +3526,17 @@
    "titleKo": "에메가가 부상으로 인한 어려움을 털어놓고 첼시의 체력 강화 약속을 밝혔습니다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3gtV1NlbXRJOWk2c0I5dGM1MGQ5Tm5wSTlxODI1azFsQ19weUtVMlkzYk9KWU5pZFV1a3J4eXNob1Z6UVhZTTV6SWtmelpQM3NUX0R4WmZLQlpXSFBEd3hpYVozSXNjbGpmTE44akEwYXhwUXk4aUNtRnpRLUlDNzNB?oc=5",
+   "title": "Chelsea FC Women Tables & Standings - 2026/2027",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3gtV1NlbXRJOWk2c0I5dGM1MGQ5Tm5wSTlxODI1azFsQ19weUtVMlkzYk9KWU5pZFV1a3J4eXNob1Z6UVhZTTV6SWtmelpQM3NUX0R4WmZLQlpXSFBEd3hpYVozSXNjbGpmTE44akEwYXhwUXk4aUNtRnpRLUlDNzNB?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795626000000,
+   "added": 1795778386139,
+   "cat": null,
+   "titleKo": "첼시 FC 여자팀 순위표 및 순위 - 2026/2027"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0l3YmxJZmx5ZUNsVmRkZ1l3Q3FZdnlIZFFYZGticm9QZ0FjNG41SDFqd1JvTHl1cmROOVhrb2oyY0g2MlRYc05ZamY0Mnd4QTZ0NDBBeWtvNl9KVzNfNURUS0FvbHdhMEllNjhwLWtrdG9UaUlPY0lrZGgtb2phU0luakxTcWhuTzdSVg?oc=5",
    "title": "Training gallery: Focused on Forest",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0l3YmxJZmx5ZUNsVmRkZ1l3Q3FZdnlIZFFYZGticm9QZ0FjNG41SDFqd1JvTHl1cmROOVhrb2oyY0g2MlRYc05ZamY0Mnd4QTZ0NDBBeWtvNl9KVzNfNURUS0FvbHdhMEllNjhwLWtrdG9UaUlPY0lrZGgtb2phU0luakxTcWhuTzdSVg?oc=5",
@@ -4229,52 +4273,6 @@
    "added": 1795562430894,
    "cat": null,
    "titleKo": "애스턴 빌라 뉴스: 우나이 에메리 감독, 갈라타사라이전 패배 후 알레한드로 가르나초에 대한 솔직한 답변 내놔"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEVTQTRMVUd1MHRINmlRdzBTNEdza1J5X19UNTlzVlQ1Xy1JejNvc3piNlBnZC0yaFFBZDd1clJla0Z4ZXZSRGo0YjlVbHFqVlNkZ0hfTnhWcTdoLXJ2ZFpFQXZ5RktqblJDdHdqTGx5dlp1VENsUnZSV0szd2lsUXR3alV5V19wbllDS1hpRTQ0d0ZvUXo4TUJKU1RuNkxxSVpOY3ZFVGFyVWVubGxSWVktQW1xWFJuTGZJb9IBwgFBVV95cUxNeTAyT2R3OUZfM2N2Q0xKUEdvQ08zU2ZZRmtuX2YyNlNKOU85cDNKRmZTaEVqcncwbUdGSk1hQ0dfbVFRTWZEOTBLdkFuVk50OHM3SHE3bFV2aGRHOWJwYVIwNnRBVEFPWGRXWG0yRTNXWGhLYVBkOW45bkRxMDByTW5mSXRIS0hUYXRURW95WFZqeDVHa2JZb3FxOHhsbjV6TENDdFRBcFJBVnREcjBadlBtZkZKaVRQd08weFdUUWxkZw?oc=5",
-   "title": "Jamie Gittens pictured back in Chelsea first-team training after injury struggles",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEVTQTRMVUd1MHRINmlRdzBTNEdza1J5X19UNTlzVlQ1Xy1JejNvc3piNlBnZC0yaFFBZDd1clJla0Z4ZXZSRGo0YjlVbHFqVlNkZ0hfTnhWcTdoLXJ2ZFpFQXZ5RktqblJDdHdqTGx5dlp1VENsUnZSV0szd2lsUXR3alV5V19wbllDS1hpRTQ0d0ZvUXo4TUJKU1RuNkxxSVpOY3ZFVGFyVWVubGxSWVktQW1xWFJuTGZJb9IBwgFBVV95cUxNeTAyT2R3OUZfM2N2Q0xKUEdvQ08zU2ZZRmtuX2YyNlNKOU85cDNKRmZTaEVqcncwbUdGSk1hQ0dfbVFRTWZEOTBLdkFuVk50OHM3SHE3bFV2aGRHOWJwYVIwNnRBVEFPWGRXWG0yRTNXWGhLYVBkOW45bkRxMDByTW5mSXRIS0hUYXRURW95WFZqeDVHa2JZb3FxOHhsbjV6TENDdFRBcFJBVnREcjBadlBtZkZKaVRQd08weFdUUWxkZw?oc=5",
-   "source": "Tribuna.com",
-   "group": "영국 언론",
-   "date": 1795560240000,
-   "added": 1795585223668,
-   "cat": "부상",
-   "titleKo": "부상으로 어려움을 겪은 후 첼시 1군 훈련에 복귀한 제이미 기텐스 선수의 모습"
-  },
-  {
-   "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699175",
-   "title": "토트넘 손흥민 기습 숭배!...8년전, 첼시 상대로 50m 질주 원더골 조명→\"센세이셔널 SONNY\"",
-   "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699175",
-   "source": "인터풋볼",
-   "group": "한국 언론",
-   "date": 1795557900000,
-   "added": 1795528490589,
-   "cat": null,
-   "titleKo": "토트넘 손흥민 기습 숭배!...8년전, 첼시 상대로 50m 질주 원더골 조명→\"센세이셔널 SONNY\"",
-   "imgTried": true,
-   "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699175_833332_5757_v150.jpg"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDVBdllTSC1PTUVhNGZDVDNJRnBGb2t0U2xYeDNoY1dkUWlSaWNlTm45M3NTR2tHUmluSWJsNmJUWEJ0SHNUcWdqTnRMRWZKbDZHUldEaUFCb0t2LUF6d3hoanpIa2MyY052YTc0S0lISE9MVnkwQ1IzSXc1TlRRWFI2aUthRUZzcmxITjZMV09MRnZJRmdfZWpZejZrMjFwTmVSZlZwMXR2QVZjY3ROTUgxS3ZvR1JNU3hYdG8xRTNiMWdrdC1fdQ?oc=5",
-   "title": "Chelsea injury update: Caicedo, Joao Pedro, James latest return dates",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDVBdllTSC1PTUVhNGZDVDNJRnBGb2t0U2xYeDNoY1dkUWlSaWNlTm45M3NTR2tHUmluSWJsNmJUWEJ0SHNUcWdqTnRMRWZKbDZHUldEaUFCb0t2LUF6d3hoanpIa2MyY052YTc0S0lISE9MVnkwQ1IzSXc1TlRRWFI2aUthRUZzcmxITjZMV09MRnZJRmdfZWpZejZrMjFwTmVSZlZwMXR2QVZjY3ROTUgxS3ZvR1JNU3hYdG8xRTNiMWdrdC1fdQ?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795555901000,
-   "added": 1795651227696,
-   "cat": "부상",
-   "titleKo": "첼시 부상자 소식: 카이세도, 주앙 페드로, 제임스의 최근 복귀일"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bVROQXlycExSMElsU01TcG9Uc05pQVZXaFIwUEI5ZC1DbEVPQ09rYVRDal82Y1pOMUZMZUctNnlYeWNZbFVtc1UzX2dhRmR2ekFLMWFWWUNvX3lydmZXRUJmT3dQeFFTMEV4aGNWbHF2RFZJTVp1ZjFB?oc=5",
-   "title": "- Chelsea Football Club",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bVROQXlycExSMElsU01TcG9Uc05pQVZXaFIwUEI5ZC1DbEVPQ09rYVRDal82Y1pOMUZMZUctNnlYeWNZbFVtc1UzX2dhRmR2ekFLMWFWWUNvX3lydmZXRUJmT3dQeFFTMEV4aGNWbHF2RFZJTVp1ZjFB?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795553361000,
-   "added": 1795634719109,
-   "cat": null,
-   "titleKo": "- 첼시 축구 클럽"
   }
  ]
 }
