@@ -1,18 +1,18 @@
 {
- "updated": 1795811246927,
+ "updated": 1795814775085,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 4,
-  "talkSPORT": 7,
+  "Sky Sports": 3,
+  "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 9,
   "The Sun": 2,
-  "Mirror": 1,
+  "Mirror": 2,
   "Daily Mail": 6,
   "Telegraph": 4,
   "Independent": 0,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 16,
   "CaughtOffside": 1,
   "90min": 1,
@@ -844,6 +844,88 @@
  },
  "items": [
   {
+   "id": "https://www.talkchelsea.net/news/fofana-dreadful-errors-in-five-seconds/",
+   "title": "Wesley Fofana makes two dreadful errors in five seconds – but Alonso is also to blame",
+   "link": "https://www.talkchelsea.net/news/fofana-dreadful-errors-in-five-seconds/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795814538000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Getty-Images-15-414x265.jpg",
+   "added": 1795814766284,
+   "cat": null,
+   "titleKo": "웨슬리 포파나가 5초 동안 두 번의 끔찍한 실수를 저질렀지만, 알론소에게도 책임이 있습니다."
+  },
+  {
+   "id": "https://www.skysports.com/watch/video/13617352/goal-e-emegha-54-nottm-forest-2-1-chelsea",
+   "title": "Lifeline for Chelsea! Emegha issues immediate response",
+   "link": "https://www.skysports.com/watch/video/13617352/goal-e-emegha-54-nottm-forest-2-1-chelsea",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795814160000,
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-emmanuel-emegha-chelsea_7418237.jpg?20261127212050",
+   "added": 1795814766283,
+   "cat": null,
+   "titleKo": "첼시에게 주어진 기회! 에메가가 즉각적인 대응을 보여줍니다."
+  },
+  {
+   "id": "https://www.mirror.co.uk/sport/football/news/chelsea-wesley-fofana-chant-interview-37924346",
+   "title": "Chelsea fans turn on Wesley Fofana with brutal chant after interview controversy",
+   "link": "https://www.mirror.co.uk/sport/football/news/chelsea-wesley-fofana-chant-interview-37924346",
+   "source": "Mirror",
+   "group": "영국 언론",
+   "date": 1795813742000,
+   "image": "https://i2-prod.mirror.co.uk/sport/football/news/article37924345.ece/ALTERNATES/s615/0_GettyImages-2301988220.jpg",
+   "added": 1795814766283,
+   "cat": "인터뷰",
+   "titleKo": "첼시 팬들이 인터뷰 논란 후 웨슬리 포파나를 향해 가혹한 노래를 부르다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcW56ZzJPWEQ2NUJXbkJnUlBtYUFMRzU2NXN5czd2U3dlSHo2S01sYXc1SFRPYlBmaHlyN3ZkQ2poT25VcHhxZGpsaTBhckpmNEtpbWtEVlRYUHllZk1QbVlxWjdJX2lVeUlzOWFKdDNWcllSZTN6M3Y4V3lyeWZjc2Vrb2JiZGhROUpKN1NJTQ?oc=5",
+   "title": "Chelsea police seek video in deadly shooting after football game",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcW56ZzJPWEQ2NUJXbkJnUlBtYUFMRzU2NXN5czd2U3dlSHo2S01sYXc1SFRPYlBmaHlyN3ZkQ2poT25VcHhxZGpsaTBhckpmNEtpbWtEVlRYUHllZk1QbVlxWjdJX2lVeUlzOWFKdDNWcllSZTN6M3Y4V3lyeWZjc2Vrb2JiZGhROUpKN1NJTQ?oc=5",
+   "source": "WCVB",
+   "group": "영국 언론",
+   "date": 1795813260000,
+   "added": 1795814766284,
+   "cat": null,
+   "titleKo": "첼시 경찰, 축구 경기 후 발생한 치명적인 총격 사건 관련 동영상 수색"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/chelsea-stats-terrible-horrific-sum-up/",
+   "title": "Two horrific stats which sum up Chelsea’s terrible first half against Nottingham Forest",
+   "link": "https://www.talkchelsea.net/news/chelsea-stats-terrible-horrific-sum-up/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795813214000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Getty-Images-13-414x285.jpg",
+   "added": 1795814766284,
+   "cat": "프리뷰",
+   "titleKo": "노팅엄 포레스트와의 경기에서 첼시가 보여준 끔찍한 전반전을 요약하는 두 가지 충격적인 통계"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41176685/chelsea-caicedo-centre-back-nottingham-forest-xabi-alonso/",
+   "title": "‘Alonso has lost the plot’ – Chelsea fans can’t believe where Moises Caicedo ended up playing in Nottingham Forest clash",
+   "link": "https://www.thesun.co.uk/sport/41176685/chelsea-caicedo-centre-back-nottingham-forest-xabi-alonso/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795812048000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41177043.jpg?quality%3D90%26strip%3Dall%261795812035%261795812035",
+   "added": 1795814766283,
+   "cat": null,
+   "titleKo": "'알론소, 정신 나갔나' – 첼시 팬들은 모이세스 카이세도가 노팅엄 포레스트와의 경기에서 어떤 포지션으로 뛰었는지 믿을 수 없습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFVNSUdtUmk3THRZc1Y5d2syMWl5NklPb0ZfN1I5SWRDMW44amJ3SG1FSE91R21uQ21wTHg1Q0lqMVdYRGJ1SldEMndUaEFIMU1vb1BiWE1zNC1vUWJVZDI4RDZxcTFTSmhxTFpIbFRsOHdDRTYxNTBVUTVuY2M2UjFFemU0WF91eFNjMEc1MW0zU0k?oc=5",
+   "title": "Nottingham Forest vs Chelsea: Igor Jesus volleys home stunning opener",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFVNSUdtUmk3THRZc1Y5d2syMWl5NklPb0ZfN1I5SWRDMW44amJ3SG1FSE91R21uQ21wTHg1Q0lqMVdYRGJ1SldEMndUaEFIMU1vb1BiWE1zNC1vUWJVZDI4RDZxcTFTSmhxTFpIbFRsOHdDRTYxNTBVUTVuY2M2UjFFemU0WF91eFNjMEc1MW0zU0k?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795810486000,
+   "added": 1795814766283,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트 vs 첼시: 이고르 제수스의 멋진 선제골"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1haN0tBV084YVZpSm55X2hId2ppN25BdnROMEZnV2JPZzEzTFBUM2g2NTdyV2xCQzhNZHJvZ01SNlk4RTZTWWhsNV9BYmFGeXlwa1pCUzNqbGpLMXBaaThsYlBsZWVmb3N2bzZGaXQ5N3dLbzlKSHFZcFhQVjVqd3NmNnlaZW9pZnMzMTN3czRrdkJpU2RIOTM3RFVmcTc1Z3FrZXJzLThxLVl2WXZ6SWFJTWo0YXp1eWFaa2ZZdnJ0c3Nsc291WlBCQXVVZFBqbkhPVzZoMzNnY3J1MWluOQ?oc=5",
    "title": "Nottingham Forest vs Chelsea LIVE! Premier League match updates, free highlights, news and score",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1haN0tBV084YVZpSm55X2hId2ppN25BdnROMEZnV2JPZzEzTFBUM2g2NTdyV2xCQzhNZHJvZ01SNlk4RTZTWWhsNV9BYmFGeXlwa1pCUzNqbGpLMXBaaThsYlBsZWVmb3N2bzZGaXQ5N3dLbzlKSHFZcFhQVjVqd3NmNnlaZW9pZnMzMTN3czRrdkJpU2RIOTM3RFVmcTc1Z3FrZXJzLThxLVl2WXZ6SWFJTWo0YXp1eWFaa2ZZdnJ0c3Nsc291WlBCQXVVZFBqbkhPVzZoMzNnY3J1MWluOQ?oc=5",
@@ -889,6 +971,17 @@
    "added": 1795811232710,
    "cat": "인터뷰",
    "titleKo": "첼시 팬들이 수비수의 충격적인 인터뷰 후 '꺼져라 포파나, 여기서는 환영받지 못한다'고 노래하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tOEJuQkxqQlRGU1dQbjZobjg3U09vT0pDNTVfa1QtZWNwN1ZKT1hIYVdpbHcxVkMyRXVRSGcycFVNT2s1SUg1ZEFBSmo0NGtyUG01TjNlWm9mU1VGTEljTkVNVjlRekY2eHFoRG1PX0hVMlh1ZjB1V2lxM0FSY1E?oc=5",
+   "title": "Nottm Forest vs. Chelsea (27 Nov, 2026) Team Stats",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tOEJuQkxqQlRGU1dQbjZobjg3U09vT0pDNTVfa1QtZWNwN1ZKT1hIYVdpbHcxVkMyRXVRSGcycFVNT2s1SUg1ZEFBSmo0NGtyUG01TjNlWm9mU1VGTEljTkVNVjlRekY2eHFoRG1PX0hVMlh1ZjB1V2lxM0FSY1E?oc=5",
+   "source": "ESPN",
+   "group": "영국 언론",
+   "date": 1795809671000,
+   "added": 1795814766283,
+   "cat": "프리뷰",
+   "titleKo": "노팅엄 포레스트 대 첼시(2026년 11월 27일) 팀 기록"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51Z3N2V2RhR19SRmxadXRBTmtmYUs0VGNiT2tUT0t4Z0xaMjQxcU5tc3BEc2xLRmdoLUVaMWcxdFpSWnNiLUhqWVA2V1hveE9RZTloTVJBRnM2MFp2QmYzNkJVSXZhUVk?oc=5",
@@ -4176,100 +4269,6 @@
    "added": 1795641657314,
    "cat": "프리뷰",
    "titleKo": "노팅엄 포레스트 vs 첼시: 예상 선발 명단, 팀 소식, 부상자"
-  },
-  {
-   "id": "https://www.caughtoffside.com/2026/11/25/chelsea-and-man-united-eye-19-year-old-winger-who-could-cost-e60m/",
-   "title": "Chelsea and Man United eye 19-year-old winger who could cost €60m",
-   "link": "https://www.caughtoffside.com/2026/11/25/chelsea-and-man-united-eye-19-year-old-winger-who-could-cost-e60m/",
-   "source": "CaughtOffside",
-   "group": "영국 언론",
-   "date": 1795633201000,
-   "image": "https://icdn.caughtoffside.com/2026/10/chelsea-fc-v-manchester-united-premier-league-2026-27-2.jpg",
-   "added": 1795641657313,
-   "cat": null,
-   "titleKo": "첼시와 맨유, 6천만 유로에 달할 수 있는 19세 윙어에 관심을 보이고 있습니다."
-  },
-  {
-   "id": "https://www.talkchelsea.net/transfers/chelsea-january-loan-deal-return-player/",
-   "title": "Chelsea could agree January deal to return loan player after another disaster 6 months",
-   "link": "https://www.talkchelsea.net/transfers/chelsea-january-loan-deal-return-player/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795633200000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/09/hull-city-v-aston-villa-fc-premier-league-2026-27-550x367.jpg",
-   "added": 1795634719108,
-   "cat": "이적",
-   "titleKo": "첼시, 또 다른 6개월간의 참사 후 임대 선수의 복귀에 대한 1월 이적에 합의할 수 있음"
-  },
-  {
-   "id": "https://talksport.com/football/4731976/chelsea-alejandro-garnacho-transfer-zoom-simon-jordan/",
-   "title": "Simon Jordan reveals how Chelsea signed Alejandro Garnacho for £40m after Zoom interview",
-   "link": "https://talksport.com/football/4731976/chelsea-alejandro-garnacho-transfer-zoom-simon-jordan/",
-   "source": "talkSPORT",
-   "group": "영국 언론",
-   "date": 1795632563000,
-   "added": 1795634719108,
-   "cat": "오피셜",
-   "titleKo": "사이먼 조던, 첼시가 줌(Zoom) 인터뷰 후 알레한드로 가르나초를 4천만 파운드에 영입한 과정을 공개",
-   "imgTried": true,
-   "image": "https://talksport.com/wp-content/uploads/2026/11/alejandro-garnacho-aston-villa-looks-1125435154.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-  },
-  {
-   "id": "https://www.caughtoffside.com/2026/11/25/chelsea-and-manchester-united-keep-close-watch-on-e6-5m-a-year-striker/",
-   "title": "Chelsea and Manchester United keep close watch on €6.5m-a-year striker",
-   "link": "https://www.caughtoffside.com/2026/11/25/chelsea-and-manchester-united-keep-close-watch-on-e6-5m-a-year-striker/",
-   "source": "CaughtOffside",
-   "group": "영국 언론",
-   "date": 1795629638000,
-   "image": "https://icdn.caughtoffside.com/2025/10/COS-FeaturedHero-Image-Templates-11-2.jpg",
-   "added": 1795641657313,
-   "cat": null,
-   "titleKo": "첼시와 맨체스터 유나이티드, 연봉 650만 유로의 스트라이커를 면밀히 주시"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1FoakczNEh6NmtQT09xWmhIcU1CczlXVlQ3TjZsck42aU9GQjhRZm9LRExrRWV5RE9NRFdXd2EtdUxlMldYMzNUdUEyemZiazNuQjZpcHRnZkdCaFMwdjQ2bE5RZjhINWtQWUtYa0FlaVVDQzVYQTJ1bTVzSTJTY090aUk3MllRazNsX0p0M3RjZEhpMW9SSUd4b214MEY3RDd2RzFNdVNrSGNhVy1CSElxUkFCWGROdmNjN0U3LVhNbjR4?oc=5",
-   "title": "Cole Palmer 'doesn't believe in Xabi Alonso project' - expert raises Chelsea alarm bells",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1FoakczNEh6NmtQT09xWmhIcU1CczlXVlQ3TjZsck42aU9GQjhRZm9LRExrRWV5RE9NRFdXd2EtdUxlMldYMzNUdUEyemZiazNuQjZpcHRnZkdCaFMwdjQ2bE5RZjhINWtQWUtYa0FlaVVDQzVYQTJ1bTVzSTJTY090aUk3MllRazNsX0p0M3RjZEhpMW9SSUd4b214MEY3RDd2RzFNdVNrSGNhVy1CSElxUkFCWGROdmNjN0U3LVhNbjR4?oc=5",
-   "source": "Football Insider",
-   "group": "영국 언론",
-   "date": 1795629600000,
-   "added": 1795631061693,
-   "cat": null,
-   "titleKo": "콜 파머, '샤비 알론소의 프로젝트를 믿지 않는다' - 전문가가 첼시에 경고"
-  },
-  {
-   "id": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-liverpool-van-dijk-future-37915715",
-   "title": "Chelsea urged to sign Virgil van Dijk this summer with Liverpool future uncertain",
-   "link": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-liverpool-van-dijk-future-37915715",
-   "source": "Mirror",
-   "group": "영국 언론",
-   "date": 1795629555000,
-   "image": "https://i2-prod.mirror.co.uk/sport/football/news/article37901749.ece/ALTERNATES/s615/0_GettyImages-2303671675.jpg",
-   "added": 1795631061693,
-   "cat": null,
-   "titleKo": "첼시, 리버풀의 미래가 불확실한 가운데 올여름 버질 판 다이크 영입을 촉구"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1lCdWFaRElSTlNKSXJRMW1QaVZkSXg2QTlqZEFtNEFGclhLNUlxeWpWZHE0b2VLXzBWRDlWREhkb2VZdDRqbmhGRFR2dFFNVXgzTU10VTlIay1vU2ZXTlVVdnlGbGg1VFZJYTdKX2RZMFRyNEZZSzNVQlVobEY0QlV4RUtSRkZrN3dBcWZ3VFVuc1BPdTBhamFILXZTUTk3b1cyT3pkb1V0aHpaNHRIVTJJSFp2UdIBuwFBVV95cUxOaUdNbzdPcXFwNXppbmZvMEFNWWFuYW5wMTNJOWlGOTdJMTNBUnJzTnpHOWtBVG5MaE5xb1dMZ2JxNlZjcDBDdGRwSXRuRWJsRWtSaHJFcDROalgybEgzRWNlcUh0RGlUMVc0elc2eXE3WFBLeTFJY2V2blJDMVJ1U1dyUjNJVFRvSUNxUWxkTHpVUXBzVHhldjNDUWtaTEhtUFczQVFfSEVYMlByQ2lLaW5aWkt1bU8teUhJ?oc=5",
-   "title": "Emmanuel Emegha admits Chelsea training standards exceeded his expectations",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1lCdWFaRElSTlNKSXJRMW1QaVZkSXg2QTlqZEFtNEFGclhLNUlxeWpWZHE0b2VLXzBWRDlWREhkb2VZdDRqbmhGRFR2dFFNVXgzTU10VTlIay1vU2ZXTlVVdnlGbGg1VFZJYTdKX2RZMFRyNEZZSzNVQlVobEY0QlV4RUtSRkZrN3dBcWZ3VFVuc1BPdTBhamFILXZTUTk3b1cyT3pkb1V0aHpaNHRIVTJJSFp2UdIBuwFBVV95cUxOaUdNbzdPcXFwNXppbmZvMEFNWWFuYW5wMTNJOWlGOTdJMTNBUnJzTnpHOWtBVG5MaE5xb1dMZ2JxNlZjcDBDdGRwSXRuRWJsRWtSaHJFcDROalgybEgzRWNlcUh0RGlUMVc0elc2eXE3WFBLeTFJY2V2blJDMVJ1U1dyUjNJVFRvSUNxUWxkTHpVUXBzVHhldjNDUWtaTEhtUFczQVFfSEVYMlByQ2lLaW5aWkt1bU8teUhJ?oc=5",
-   "source": "Tribuna.com",
-   "group": "영국 언론",
-   "date": 1795628473000,
-   "added": 1795645171338,
-   "cat": "인터뷰",
-   "titleKo": "에마뉘엘 에메가가 첼시의 훈련 수준이 자신의 기대를 뛰어넘었다고 인정했습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3dSQkxhUmVDQ0RCakhqdnNYN1BBaFBrRWFhSVplaEtvZjlvb25PblY3anFaR19zaVA4Mi02Vk5EMG5YMXB3SFo1X0d1LXd4TXpUelFGbU1KWlBZRkFIX1ZwMktoVFVoSDA1TkFBSjMyVjB1RXZHdTdPVjRLYm1EOU4xWVBfVUEzbWdwbzV5NTRkamRWemJNZkd1dDZuN2ZiSWgxeWZBeFRnaG1ybXFFQdIBtgFBVV95cUxOaFF5YmJfVWp2TkhTWjg4YmxiMlNDTUNETjJCWjFtRnRzUFpDUklkYzlGZF9wMjh3aTBsSHd0SDVTZlZzSkNQZXloSWJwV3FUTWdvWVIzZElxdEJheGNpOXR1bjJNbUJyUTFYNnlPSkp0LTRjdDdfcjJGcjZsMl84b0lhYlUydmZSWHYyaU96dDR4bjFVWDNacUpHT2REYWtzM2s3cFhZSG9UY2p0Y1RHUHZwWlRFdw?oc=5",
-   "title": "Ornstein reveals Chelsea's stance on recruitment model under Xabi Alonso",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3dSQkxhUmVDQ0RCakhqdnNYN1BBaFBrRWFhSVplaEtvZjlvb25PblY3anFaR19zaVA4Mi02Vk5EMG5YMXB3SFo1X0d1LXd4TXpUelFGbU1KWlBZRkFIX1ZwMktoVFVoSDA1TkFBSjMyVjB1RXZHdTdPVjRLYm1EOU4xWVBfVUEzbWdwbzV5NTRkamRWemJNZkd1dDZuN2ZiSWgxeWZBeFRnaG1ybXFFQdIBtgFBVV95cUxOaFF5YmJfVWp2TkhTWjg4YmxiMlNDTUNETjJCWjFtRnRzUFpDUklkYzlGZF9wMjh3aTBsSHd0SDVTZlZzSkNQZXloSWJwV3FUTWdvWVIzZElxdEJheGNpOXR1bjJNbUJyUTFYNnlPSkp0LTRjdDdfcjJGcjZsMl84b0lhYlUydmZSWHYyaU96dDR4bjFVWDNacUpHT2REYWtzM2s3cFhZSG9UY2p0Y1RHUHZwWlRFdw?oc=5",
-   "source": "Tribuna.com",
-   "group": "영국 언론",
-   "date": 1795628473000,
-   "added": 1795645171338,
-   "cat": "인터뷰",
-   "titleKo": "오른스타인이 밝힌 샤비 알론소 감독 체제 하의 첼시 영입 모델에 대한 입장"
   }
  ]
 }
