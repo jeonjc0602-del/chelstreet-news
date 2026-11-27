@@ -1,5 +1,5 @@
 {
- "updated": 1795743736003,
+ "updated": 1795747315882,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 3,
@@ -17,7 +17,7 @@
   "CaughtOffside": 3,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 67,
   "인터풋볼": 0,
   "풋볼리스트": 0,
   "베스트일레븐": 2,
@@ -28,7 +28,7 @@
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
   "FotMob": 10,
-  "이번 상대": "Nottingham Forest · 새 기사 37건"
+  "이번 상대": "Nottingham Forest · 새 기사 50건"
  },
  "match": {
   "id": "8409236075870545232",
@@ -51,6 +51,16 @@
     "titleKo": "노팅엄 포레스트 대 첼시 경기 예측: 샤비 알론소 감독, 위기 심화 우려"
    },
    {
+    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWJlLXM3Y3ZOb0lCd2kwTzFfWW5ka1FYRUNOWG03RFVJbDYyRklMb0traFJZT1NfUHN2MkpadjVGWVhEWWpVYVdlRVRDTkFZYTZLcHo0dkN3eGZCdzB5M3pzRkhjVE9xREtfRlBleXZYaHdkRFhOdHlLaUctWm16M3NTbEdmaGV6ekJGQXdRNzZJU0tHUXZHNGFxTy1JaWZsYzBVcWRnRlhMeWpRTXllV0FjSQ?oc=5",
+    "title": "Nottingham Forest vs Chelsea: Where to Watch, Live Stream, TV Channel and Kick-off Time",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWJlLXM3Y3ZOb0lCd2kwTzFfWW5ka1FYRUNOWG03RFVJbDYyRklMb0traFJZT1NfUHN2MkpadjVGWVhEWWpVYVdlRVRDTkFZYTZLcHo0dkN3eGZCdzB5M3pzRkhjVE9xREtfRlBleXZYaHdkRFhOdHlLaUctWm16M3NTbEdmaGV6ekJGQXdRNzZJU0tHUXZHNGFxTy1JaWZsYzBVcWRnRlhMeWpRTXllV0FjSQ?oc=5",
+    "source": "Goal.com",
+    "date": 1795738282000,
+    "added": 1795747310726,
+    "tag": "상대 소식",
+    "titleKo": "노팅엄 포레스트 vs 첼시: 시청 방법, 라이브 스트리밍, TV 채널 및 킥오프 시간"
+   },
+   {
     "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
     "title": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
@@ -59,6 +69,16 @@
     "added": 1795735193998,
     "tag": "라인업·팀뉴스",
     "titleKo": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발"
+   },
+   {
+    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR01TZXhpaUY2cFl2RlluODhqaFVCR0RMR3R6c3BNcExoS3cxWUwzNnZVXzA4MklRbTN1bFZyMnpuRHRLNE1NN3lLNkIyck9acE1CSlJ4Y2hXbEpXV3U1SmcwUUQ3RDFuV1dJeGV0cjl5Y180LVQ4UXYybjZ0YUJibzRPQ1FTYm5wTEFHbGZ0Mk1TNVVEdElmei1kRQ?oc=5",
+    "title": "‘Chelsea standards not acceptable’ — but can Xabi Alonso deliver change?",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR01TZXhpaUY2cFl2RlluODhqaFVCR0RMR3R6c3BNcExoS3cxWUwzNnZVXzA4MklRbTN1bFZyMnpuRHRLNE1NN3lLNkIyck9acE1CSlJ4Y2hXbEpXV3U1SmcwUUQ3RDFuV1dJeGV0cjl5Y180LVQ4UXYybjZ0YUJibzRPQ1FTYm5wTEFHbGZ0Mk1TNVVEdElmei1kRQ?oc=5",
+    "source": "The Times",
+    "date": 1795732200000,
+    "added": 1795747310726,
+    "tag": "상대 소식",
+    "titleKo": "'첼시의 수준은 용납할 수 없다' — 하지만 사비 알론소가 변화를 가져올 수 있을까요?"
    },
    {
     "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMV9RbWlwRS1hem51VFltc1Q5VHJwanhXR2tnLTA2WXdXZk9CWFhuZzh2WGN4UU03SHhMNVMxazI2RHBndEk2UlBkNnFjSGVBZFJMYXVJa3JGYnBMaDhXTkVrNHhuMlJoSk1KNXlLVFpNOFVFb3plM2Q2OEhpbHdDVzRqZ0NUbHl5bjVVRWpuN29BYUVGYjRaNVQ4aU5JTjg4?oc=5",
@@ -819,26 +839,6 @@
     "added": 1795679942938,
     "tag": "라인업·팀뉴스",
     "titleKo": "첼시는 노팅엄 포레스트를 상대로 어떤 선발 명단을 내세워야 할까요?"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWsxa1dHUVAwSmNYbHllekRtZmdJVXQxNjdjREhEYTkzTHdFd0NjZndLN2tJeHdJZEtCQmV5WmJfRjd3TEJ5eFczMU1pdFpZWkNHYnJINzY1eDNaNklpYmQ2Sk1ndVQyaW9WbU1IUHN0a3lIVjJqRFhJNklQdGFVTUc4YVlsVDhUNTgxNDBXdEk2SGFHYnR3eVVMckszN05jQjRvRVhRWFN1QVRybTg3djBTZ0UydFVqYkVrYg?oc=5",
-    "title": "Hull City vs Nottingham Forest: Kalshi Promo Code & $55 Bonus",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWsxa1dHUVAwSmNYbHllekRtZmdJVXQxNjdjREhEYTkzTHdFd0NjZndLN2tJeHdJZEtCQmV5WmJfRjd3TEJ5eFczMU1pdFpZWkNHYnJINzY1eDNaNklpYmQ2Sk1ndVQyaW9WbU1IUHN0a3lIVjJqRFhJNklQdGFVTUc4YVlsVDhUNTgxNDBXdEk2SGFHYnR3eVVMckszN05jQjRvRVhRWFN1QVRybTg3djBTZ0UydFVqYkVrYg?oc=5",
-    "source": "Squawka",
-    "date": 1795678154000,
-    "added": 1795679942938,
-    "tag": "상대 소식",
-    "titleKo": "헐 시티 vs 노팅엄 포레스트: Kalshi 프로모션 코드 및 $55 보너스"
-   },
-   {
-    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVG9SMFlNazRZbDc1eXd6TDMzbEs5b0ZCVk1EWDN2VzNBN2oxRUF2LXFxSlFiLXl1X2ZNR2dETkFiQmpJc1d3a2NUZGloVS04ZFItMmlBRFFmNDhlQ0hRRE9iZkdrMlJjVkJ1cHBTbU5tU3l6MVpaLXlxVGpPN3F1eFl2eGxvRDlRUVJPd3ZGazA4eTlUMUtFczUxV1JUWUppUUhuenNfcy1mZGQ0eGNr?oc=5",
-    "title": "Nottingham Forest - Chelsea Live - Premier League: Football Scores & Highlights - 27/11/2026",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVG9SMFlNazRZbDc1eXd6TDMzbEs5b0ZCVk1EWDN2VzNBN2oxRUF2LXFxSlFiLXl1X2ZNR2dETkFiQmpJc1d3a2NUZGloVS04ZFItMmlBRFFmNDhlQ0hRRE9iZkdrMlJjVkJ1cHBTbU5tU3l6MVpaLXlxVGpPN3F1eFl2eGxvRDlRUVJPd3ZGazA4eTlUMUtFczUxV1JUWUppUUhuenNfcy1mZGQ0eGNr?oc=5",
-    "source": "TNT Sports",
-    "date": 1795676656000,
-    "added": 1795679942937,
-    "tag": "상대 소식",
-    "titleKo": "노팅엄 포레스트 - 첼시 실시간 - 프리미어리그: 축구 스코어 및 하이라이트 - 2026년 11월 27일"
    }
   ]
  },
@@ -855,6 +855,17 @@
    "titleKo": "PK 내주고 승부차기까지 실축했는데 웃음이 나와? 첼시 포파나 인터뷰 논란, 사비 알론소 감독 “다시 반복하지 마” 경고",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314385_245520_4650.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUhFRWN1YXNfZ3NsMWRPTWx6VWIwTkp3c2VXQjhKdFkwWmlSVkdfN2l4Yjc1cVBYYUVlb3BaSU00NHdZbDZ0TU9LUjd2V0xBZW5vWUdfYllJRDJhZ2pla09iSFNlVklFQlZkWEpwcG8zNElmSEFWSW91aUt4c0dlcWpqYw?oc=5",
+   "title": "Chelsea FC vs. Nottingham Forest - November 27, 2026",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUhFRWN1YXNfZ3NsMWRPTWx6VWIwTkp3c2VXQjhKdFkwWmlSVkdfN2l4Yjc1cVBYYUVlb3BaSU00NHdZbDZ0TU9LUjd2V0xBZW5vWUdfYllJRDJhZ2pla09iSFNlVklFQlZkWEpwcG8zNElmSEFWSW91aUt4c0dlcWpqYw?oc=5",
+   "source": "Bleacher Report",
+   "group": "영국 언론",
+   "date": 1795743163000,
+   "added": 1795747308681,
+   "cat": null,
+   "titleKo": "첼시 FC 대 노팅엄 포레스트 - 2026년 11월 27일"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnJUSEFlWTVubE5vWTI1cjJoUzdzYlBlZnpqblFCNV9mSmJ5aWRac09EUDdhQ1VGVU1Fb0RpbWlJZmdfWFplRGJtemtOMWI3SkJHZEdGUHYtajBwdHVhQy1EYkY5X0ZsUndqQk9MODBCaWdEZklZTzNuTWpCZmRLcVBBMWJZcWZ6VW1yUWFtU01DOThCdWstajRVNA?oc=5",
@@ -877,6 +888,17 @@
    "added": 1795743727003,
    "cat": null,
    "titleKo": "첼시 최신 소식: 사비 알론소, 선수들에게 리즈전 패배에서 벗어나라고 촉구"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFAzOThmTTVJNWhqc3JuMDVHU2FIeVJCRkljeXNLWmk2OVMwbnJPclRVcHJQaUpJYTBhTDUtOTQ1WUJsQjU3UnVlaThXLTE4d2dBZ051ejFEZVBnMUs0TS1HMVJkUEpTX0xUNWx2V1BEcnFRTll2azRmTUI3aGI4bmtuOXZrSzJ6dnFn?oc=5",
+   "title": "첼시: 새 감독 부임, 유럽 대회 불참에도 불구하고 고질적인 문제들은 여전히 ​​남아 있다.",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFAzOThmTTVJNWhqc3JuMDVHU2FIeVJCRkljeXNLWmk2OVMwbnJPclRVcHJQaUpJYTBhTDUtOTQ1WUJsQjU3UnVlaThXLTE4d2dBZ051ejFEZVBnMUs0TS1HMVJkUEpTX0xUNWx2V1BEcnFRTll2azRmTUI3aGI4bmtuOXZrSzJ6dnFn?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795740299000,
+   "added": 1795747308681,
+   "cat": null,
+   "titleKo": "첼시: 새 감독 부임, 유럽 대회 불참에도 불구하고 고질적인 문제들은 여전히 ​​남아 있다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
@@ -1474,6 +1496,18 @@
    "added": 1795728139152,
    "cat": null,
    "titleKo": "알론소의 다음 영입 선수는? 첼시, 맨유의 1월 이적 시장 드림 영입을 가로채라는 촉구 받아"
+  },
+  {
+   "id": "https://www.dailymail.com/sport/football/article-16318177/Chelsea-Wesley-Fofana-Liverpool-penalty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Chelsea star Wesley Fofana apologises for interview laughing off Liverpool penalty miss and admitting his £200,000-per-week deal stopped him from quitting - as Xabi Alonso warns star 'to take things seriously",
+   "link": "https://www.dailymail.com/sport/football/article-16318177/Chelsea-Wesley-Fofana-Liverpool-penalty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795705836000,
+   "image": "https://i.dailymail.com/1s/2026/11/24/12/112697027-0-image-a-12_1795524965456.jpg",
+   "added": 1795747308681,
+   "cat": "인터뷰",
+   "titleKo": "첼시의 스타 선수 웨슬리 포파나가 리버풀의 페널티킥 실축을 비웃고 주급 20만 파운드의 계약 때문에 팀을 떠나지 못했다고 인정한 인터뷰에 대해 사과했습니다. 이에 자비 알론소가 이 스타 선수에게 '사안을 심각하게 받아들이라'고 경고했습니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWWQ1R1pxT1pIMkdzNFF0TUNDSHV3cXBTX29kTWpsYXVYc3FpUXp5cnJacmZfRzRLQWZDNkFOZ21KZ2luc1FFdmt2M2FGbnhiZ0o4ZEVEX1JjSUFEeE1HZjB6cWo1eUxHR0RZU0xUUXlqR0t4eE9ra3JKUVVZY2lteXNjU3hldTRkc0hpU1d2SmhCQnByZmlVUUE2QjdMdV9WekJLS09mTkZ2VkNRdkxlWUhJdldGamlTYVpucVZWSlNhb1gyeUhDYWRWWl9hTlJ4RzVqaUxJdV8?oc=5",
@@ -2622,6 +2656,17 @@
    "added": 1795667628788,
    "cat": null,
    "titleKo": "축구 실시간 스코어: 노팅엄 포레스트 vs 첼시, 잉글랜드 프리미어리그, 2026/27 | Nine Wide World of Sports"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0w4M1pMMktDOUFqN2JPZ0VoRlh2Q1hyejZuWHZvY3JTZHNqWHhYVmZCci1QMnNkR1FQMTBUVjhLcF9GM2hVcGt6bkpVbGNnbnJsTTFfTGFxUGRDbkR1NmYxSmNJWTU5akJqVGQxMnp6bFhvMzFfRHlONzdSRWF1VXdvNVJyYUd2SF8zUUd1QVMyV3dIM2hTWGNR?oc=5",
+   "title": "29-year-old man killed in shooting at Chelsea High School football game",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0w4M1pMMktDOUFqN2JPZ0VoRlh2Q1hyejZuWHZvY3JTZHNqWHhYVmZCci1QMnNkR1FQMTBUVjhLcF9GM2hVcGt6bkpVbGNnbnJsTTFfTGFxUGRDbkR1NmYxSmNJWTU5akJqVGQxMnp6bFhvMzFfRHlONzdSRWF1VXdvNVJyYUd2SF8zUUd1QVMyV3dIM2hTWGNR?oc=5",
+   "source": "WHDH",
+   "group": "영국 언론",
+   "date": 1795659168000,
+   "added": 1795747308681,
+   "cat": null,
+   "titleKo": "첼시 고등학교 미식축구 경기에서 총격으로 29세 남성 사망"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU4tUFZnclpHYnpNTjJxU2xWdkthMkVvSWhrdWl2NFNKYnVFUWxLUDVPRE9hNHlRV1VNajBOWE1TVEY3WC11UnhwdWpjd01xVERVMHRraURocDdGNDNGMHBiSU1rUVpjSW1wOUFEbmd2VXhLTkdEbXBqclVCOXlJWE9ER0t1cWx0ZlNBNW1R?oc=5",
@@ -4223,52 +4268,6 @@
    "added": 1795531779908,
    "cat": "이적",
    "titleKo": "'알론소 결국 경질 엔딩?'…'HERE WE GO' 로마노 직접 컨펌! 최근 5경기 단 1승에도 첼시의 선택은 달랐다 \"여전히 감독을 신뢰하고 있다\""
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41124940/cole-palmer-struggles-xabi-alonso-chelsea/",
-   "title": "Cole Palmer is worse under Xabi Alonso than any other Chelsea boss – but stats offer hope he can return to top form",
-   "link": "https://www.thesun.co.uk/sport/41124940/cole-palmer-struggles-xabi-alonso-chelsea/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795530176000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcole-palmer-chelsea-receives-pressure-1124749601.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795531779908,
-   "cat": "프리뷰",
-   "titleKo": "콜 파머는 사비 알론소 감독 아래에서 다른 어떤 첼시 감독보다도 부진했지만, 통계 수치는 그가 최고의 기량을 되찾을 수 있다는 희망을 보여줍니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPazhzaDFIRVdPcjFYRFRVVGRRam5XMkxxWmFXQ2NwUXRIZ2phTE1SOFZEVUdNeGc5ZFBqQTVWMU5hblZoOE9kY1BEbW9CZ1NpVlczOVQyTWEweWx5VWYzb3ZPaUxyQVpETTF6R203WXBNWFY2S010RlhYYmFTM2JqZzB4YUxnQlR3TUE5cGtQQ1RSRTdWTjcxVWtBZy1QMFJrRjJESkd6MnN1R1VId2lrVG5MV291THI1TnVITEgxckpqaFRRbWo5V2Zkd2x6QQ?oc=5",
-   "title": "Fofana talked out of retirement because he has ‘so much money left to take’ from Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPazhzaDFIRVdPcjFYRFRVVGRRam5XMkxxWmFXQ2NwUXRIZ2phTE1SOFZEVUdNeGc5ZFBqQTVWMU5hblZoOE9kY1BEbW9CZ1NpVlczOVQyTWEweWx5VWYzb3ZPaUxyQVpETTF6R203WXBNWFY2S010RlhYYmFTM2JqZzB4YUxnQlR3TUE5cGtQQ1RSRTdWTjcxVWtBZy1QMFJrRjJESkd6MnN1R1VId2lrVG5MV291THI1TnVITEgxckpqaFRRbWo5V2Zkd2x6QQ?oc=5",
-   "source": "101 Great Goals",
-   "group": "영국 언론",
-   "date": 1795529346000,
-   "added": 1795573850183,
-   "cat": null,
-   "titleKo": "포파나는 첼시로부터 '받을 돈이 너무 많다'며 은퇴를 번복했습니다."
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41127223/luca-williams-barnett-snubs-chelsea-man-utd-tottenham-deal/",
-   "title": "Tottenham breakout star Luca Williams-Barnett set to snub Chelsea and Man Utd transfer interest with bumper new deal",
-   "link": "https://www.thesun.co.uk/sport/41127223/luca-williams-barnett-snubs-chelsea-man-utd-tottenham-deal/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795528447000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41119175.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795528490588,
-   "cat": "이적",
-   "titleKo": "토트넘의 떠오르는 스타 루카 윌리엄스-바넷, 대박 새 계약으로 첼시와 맨유의 영입 관심을 거절할 예정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkd4QVZyNjJLYnJMYWlKRlBGNmlJN3llZGRjT0FBbUtIM3NFaWZWOW5EeWlxTHlibVk1eGp4empoaGhzM24ydGdLQ0tYa1hib2Mwa1dWc2pKb1lwTTl3WU8xSEZieHhVOG01eFVwR191amFlVFJtX084N1NXWGNyUmVrQXh3M2hsd0pxd3VKYzFhbmhqNzZDUG5uY0h3MVJiZEl2eWZIVklxdw?oc=5",
-   "title": "Chelsea 'unhappy' with Levi Colwill as Leeds expose 'huge weakness'",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkd4QVZyNjJLYnJMYWlKRlBGNmlJN3llZGRjT0FBbUtIM3NFaWZWOW5EeWlxTHlibVk1eGp4empoaGhzM24ydGdLQ0tYa1hib2Mwa1dWc2pKb1lwTTl3WU8xSEZieHhVOG01eFVwR191amFlVFJtX084N1NXWGNyUmVrQXh3M2hsd0pxd3VKYzFhbmhqNzZDUG5uY0h3MVJiZEl2eWZIVklxdw?oc=5",
-   "source": "Football Insider",
-   "group": "영국 언론",
-   "date": 1795527900000,
-   "added": 1795528490589,
-   "cat": null,
-   "titleKo": "리즈가 '큰 약점'을 드러내자 첼시, 리바이 콜윌에 '불만'"
   }
  ]
 }
