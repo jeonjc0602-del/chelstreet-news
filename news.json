@@ -1,23 +1,23 @@
 {
- "updated": 1795864542378,
+ "updated": 1795867352229,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 13,
+  "Evening Standard": 12,
   "The Sun": 7,
   "Mirror": 3,
   "Daily Mail": 9,
   "Telegraph": 5,
   "Independent": 3,
-  "Express": 0,
+  "Express": "실패: 403",
   "Sports Mole": 15,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
@@ -857,6 +857,18 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699422_833866_742_v150.jpg"
   },
   {
+   "id": "https://www.talkchelsea.net/news/alonso-fails-answer-basic-question-chelseas-issues/",
+   "title": "Alonso fails to answer basic question about Chelsea’s issues against Forest",
+   "link": "https://www.talkchelsea.net/news/alonso-fails-answer-basic-question-chelseas-issues/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795867200000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/Xabi-Alonso-waffling-in-a-presser-414x275.jpg",
+   "added": 1795867346421,
+   "cat": null,
+   "titleKo": "알론소, 노팅엄 포레스트와의 경기에서 첼시가 겪은 문제에 대한 기본적인 질문에 답하지 못함"
+  },
+  {
    "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699419",
    "title": "19위 맨유와 실점 동률-11월 전패 충격...알론소, 첼시서 조기 경질 위기! \"달라질 수 있다\" 극복 의지 밝혀",
    "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699419",
@@ -868,6 +880,29 @@
    "titleKo": "19위 맨유와 실점 동률-11월 전패 충격...알론소, 첼시서 조기 경질 위기! \"달라질 수 있다\" 극복 의지 밝혀",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699419_833858_4143_v150.jpg"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
+   "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "group": "영국 언론",
+   "date": 1795866780000,
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dc45/live/56fecdd0-e8da-11f1-a3b9-79c60ec9ab33.jpg",
+   "added": 1795867346420,
+   "cat": null,
+   "titleKo": "2024년 버전의 팔머가 첼시에서 다시 등장할 수 있을까요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFFxOUlIYmNsNnA0cl9Nci1GR003WE1kOE4za2d0S3FkNUs2VUtzelhUNlVaVHpVMGtZNlhTdnhrVkg3Q19mNkhxQm1mQVYyQU05YmJRUVRnaUxUODMxSjltaHV0bmtEazJwY0drMzNuQkdhdmJGaXVFWUhPaEJCQTAzRjVwV1BkTmFoc19WelBzWHJnQ2VScXVXZ2U3N0h6RXFzT0hPNTc?oc=5",
+   "title": "The 11 problems that under-fire Chelsea are facing",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFFxOUlIYmNsNnA0cl9Nci1GR003WE1kOE4za2d0S3FkNUs2VUtzelhUNlVaVHpVMGtZNlhTdnhrVkg3Q19mNkhxQm1mQVYyQU05YmJRUVRnaUxUODMxSjltaHV0bmtEazJwY0drMzNuQkdhdmJGaXVFWUhPaEJCQTAzRjVwV1BkTmFoc19WelBzWHJnQ2VScXVXZ2U3N0h6RXFzT0hPNTc?oc=5",
+   "source": "The Telegraph",
+   "group": "영국 언론",
+   "date": 1795865160000,
+   "added": 1795867346421,
+   "cat": null,
+   "titleKo": "비난을 받고 있는 첼시가 직면한 11가지 문제"
   },
   {
    "id": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-man-utd-chelsea-liverpool-nico-paz-fresneda-forbs-b1303142.html",
@@ -3178,6 +3213,17 @@
    "titleKo": "첼시의 스타 케이티 맥케이프, WSL 이달의 선수 후보에 오르다"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGFqMmc1cWVSR01ncG52aklNclBteGpkR0NWVklhZ1Vjay1VMFFjY2Y5R3FQcVVhOFVoZjgySmEtcFpxTjNONWVXSlp4bVVnU1hKWE9NOHBHRVBnb2ZhX2NEOEpXVFUxWTJZZTdVR2JzcVllcjkyTHVNWmhMTlNEV0k3VTNjUXpvR2ZYVlNQcDluNE85UjFuODVaaGlRWjh2alFjN2FlNUpyYTQxdi1BaHNVbVVUR1gzWjlXWXljRUxXbHFqZ1loUEFrRS1ROVVmVkE3eVNKdl9Xd2FZX280aUExbDF0ZDZ3SmZ6Ug?oc=5",
+   "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGFqMmc1cWVSR01ncG52aklNclBteGpkR0NWVklhZ1Vjay1VMFFjY2Y5R3FQcVVhOFVoZjgySmEtcFpxTjNONWVXSlp4bVVnU1hKWE9NOHBHRVBnb2ZhX2NEOEpXVFUxWTJZZTdVR2JzcVllcjkyTHVNWmhMTlNEV0k3VTNjUXpvR2ZYVlNQcDluNE85UjFuODVaaGlRWjh2alFjN2FlNUpyYTQxdi1BaHNVbVVUR1gzWjlXWXljRUxXbHFqZ1loUEFrRS1ROVVmVkE3eVNKdl9Xd2FZX280aUExbDF0ZDZ3SmZ6Ug?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795775933000,
+   "added": 1795867346421,
+   "cat": "이적",
+   "titleKo": "첼시 이적 소식, 루머 및 가십: 이적, 영입, 임대 및 계약에 대한 실시간 업데이트와 최신 소식"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjQySWw1ckRzMFFFWVU3dVVjT1VqWkhQbEpXMTZqSzVSNHBabXIwaG1kY19wWnVqOVpIWTNTOXNZLTc3UHNOLU51YUlxblpyQzN0N1pVU1I1b0tRS2c5Mk51c3hsNE9wbG45aU1WZ0huT2d4YzdKTk1uR1N1RzlGck1waUhlR040c1BpamszSQ?oc=5",
    "title": "Nottingham Forest vs Chelsea | Focused on three points | Video",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjQySWw1ckRzMFFFWVU3dVVjT1VqWkhQbEpXMTZqSzVSNHBabXIwaG1kY19wWnVqOVpIWTNTOXNZLTc3UHNOLU51YUlxblpyQzN0N1pVU1I1b0tRS2c5Mk51c3hsNE9wbG45aU1WZ0huT2d4YzdKTk1uR1N1RzlGck1waUhlR040c1BpamszSQ?oc=5",
@@ -4063,6 +4109,17 @@
    "titleKo": "모이세스 카이세도, 웨슬리 포파나, 노팅엄 포레스트와의 경기에서 첼시 출전 가능"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnQ1YmV1azA4ZFZMOXJRM3ZUeWZMTFlZcDBsMnV1ZE5OT3o4eGZaX0FIMXhzNkYtcG9KUENFSkRkSWNSZlFsOS1DZ2FrOG9xZ1ZkdUl6eVVLYW1zZHNtYXBSOFdodE5sRktZRGxJSHVMUk9qRFZqeDFKUFpBbVEwZ3RZRUc2c29oNEc0elBseVRPRUFESlU0NVN3SVluTEVMNEZ6MTh5RjZUVU5QbkJZUXFR?oc=5",
+   "title": "Ibrahim Rabbaj helps Morocco into knockout stage at Under-17 World Cup",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnQ1YmV1azA4ZFZMOXJRM3ZUeWZMTFlZcDBsMnV1ZE5OT3o4eGZaX0FIMXhzNkYtcG9KUENFSkRkSWNSZlFsOS1DZ2FrOG9xZ1ZkdUl6eVVLYW1zZHNtYXBSOFdodE5sRktZRGxJSHVMUk9qRFZqeDFKUFpBbVEwZ3RZRUc2c29oNEc0elBseVRPRUFESlU0NVN3SVluTEVMNEZ6MTh5RjZUVU5QbkJZUXFR?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795718155000,
+   "added": 1795867346422,
+   "cat": null,
+   "titleKo": "이브라힘 라바지, 모로코의 U-17 월드컵 녹아웃 스테이지 진출에 기여"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmNEQnp5RWJtNU1IZE91Ym0yT011V0pEc0RiaFlYSzFvcFRRT2pUcHdiNEJjVmZub3dFdmd4Vktya1JlUTUzd0dEV0pyQWN5V24zQ0JVdnRzRjI1TlVQRjdtdmUzZHRtbnhqS2oxeGxFZzcteXp6WklsbF9nLTRiTUI3OXd4clRETVVqWFZCa1hET3RvbFJPQVRPUHlTOWIyTW0tWldKNTJjQVRNNnM5MS1yNEJRWlVMeTdrc1VONHZOU3dtV2Y1ajV0bk5TUi1yS1VHY0J2bm8?oc=5",
    "title": "Nottingham Forest vs. Chelsea Predicted Lineups: Palmer Under Pressure to Deliver",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmNEQnp5RWJtNU1IZE91Ym0yT011V0pEc0RiaFlYSzFvcFRRT2pUcHdiNEJjVmZub3dFdmd4Vktya1JlUTUzd0dEV0pyQWN5V24zQ0JVdnRzRjI1TlVQRjdtdmUzZHRtbnhqS2oxeGxFZzcteXp6WklsbF9nLTRiTUI3OXd4clRETVVqWFZCa1hET3RvbFJPQVRPUHlTOWIyTW0tWldKNTJjQVRNNnM5MS1yNEJRWlVMeTdrc1VONHZOU3dtV2Y1ajV0bk5TUi1yS1VHY0J2bm8?oc=5",
@@ -4196,64 +4253,6 @@
    "added": 1795855074987,
    "cat": null,
    "titleKo": "첼시 Nike 아카데미 공 - 메탈릭 실버"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjRaNFZPNjJkUGs1WW5JNHdBQ2ZHMnp5ajhDaFpNRjFpeERfbDhDWFZQYVBudm9SRk1NU2lqRzNYLXNnLV9ETjUxM3ptSHpTYlcxbFN5TThOQ2pOSGFNSThlbGc1cUlkMldreXNaT0FnLWV0WDVIdGpKTGJfVkZLQVlTQ0JwYThRLUlZcWkzeFdKWXZ4ZTNVaFh1S2dQSDBQdVJscS1sUEp0V2ZkaXN1SFBqalp3M1FES29VYWZkLTBlYUQyd0VXc3R6X0pzbDBvMl8wdm9pYzVYQQ?oc=5",
-   "title": "Chelsea Official 2026 Slim Diary",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjRaNFZPNjJkUGs1WW5JNHdBQ2ZHMnp5ajhDaFpNRjFpeERfbDhDWFZQYVBudm9SRk1NU2lqRzNYLXNnLV9ETjUxM3ptSHpTYlcxbFN5TThOQ2pOSGFNSThlbGc1cUlkMldreXNaT0FnLWV0WDVIdGpKTGJfVkZLQVlTQ0JwYThRLUlZcWkzeFdKWXZ4ZTNVaFh1S2dQSDBQdVJscS1sUEp0V2ZkaXN1SFBqalp3M1FES29VYWZkLTBlYUQyd0VXc3R6X0pzbDBvMl8wdm9pYzVYQQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795712823000,
-   "added": 1795855074987,
-   "cat": "오피셜",
-   "titleKo": "첼시 공식 2026 슬림 다이어리"
-  },
-  {
-   "id": "https://talksport.com/football/4733690/tottenham-chelsea-card-cop-store-tosin/",
-   "title": "Tottenham and Chelsea stars come together to launch Card Cop store with community at its heart",
-   "link": "https://talksport.com/football/4733690/tottenham-chelsea-card-cop-store-tosin/",
-   "source": "talkSPORT",
-   "group": "영국 언론",
-   "date": 1795712756000,
-   "added": 1795714442779,
-   "cat": null,
-   "titleKo": "토트넘과 첼시의 스타들이 한자리에 모여 커뮤니티를 중심으로 한 Card Cop 스토어를 론칭합니다.",
-   "imgTried": true,
-   "image": "https://talksport.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-13.27.42.png?strip=all&quality=100&w=1920&h=1080&crop=1"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXlBN1ZxRmlPODBRRTJISC1QbXFqbVEyX09BR0lPbjY2U0NOekJpT0ZvZUloVm5rQzc4LW5ScTJaODlicjQ3MW0yS3V2bXRCcFFqcTNGXzl4WGI3dlpybF9WbUdsZkxIYzRpSjREU2VmNzloQi04RnNNWldTbFFCM2tCQXRjRmxMc1ZqWlFEMzVFZEJhSHhlbmhCVUd4Tzds?oc=5",
-   "title": "MK Dons v Chelsea U21 | Match",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXlBN1ZxRmlPODBRRTJISC1QbXFqbVEyX09BR0lPbjY2U0NOekJpT0ZvZUloVm5rQzc4LW5ScTJaODlicjQ3MW0yS3V2bXRCcFFqcTNGXzl4WGI3dlpybF9WbUdsZkxIYzRpSjREU2VmNzloQi04RnNNWldTbFFCM2tCQXRjRmxMc1ZqWlFEMzVFZEJhSHhlbmhCVUd4Tzds?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795712585000,
-   "added": 1795721381015,
-   "cat": null,
-   "titleKo": "MK 돈스 vs 첼시 U21 | 경기"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/ex-chelsea-star-jumps-cole-34964511",
-   "title": "Ex-Chelsea star jumps to Cole Palmer defence and agrees with Morgan Rogers",
-   "link": "https://www.football.london/chelsea-fc/news/ex-chelsea-star-jumps-cole-34964511",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795712400000,
-   "image": "https://i2-prod.football.london/incoming/article34964725.ece/ALTERNATES/s615/0_GettyImages-2306316452.jpg",
-   "added": 1795714442779,
-   "cat": null,
-   "titleKo": "첼시의 전 스타 선수가 콜 파머를 옹호하며 모건 로저스의 의견에 동의합니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZmJtbG01bXNlNlR2V1IzVHAxU3NUQUFTTDEtMW82b0w3d1BIX1RObTdUNlpMY2lDcGZQYUFCODc3bW5OOEFQOXlqQVM0WXNsVWdYNkd3VHN5RmotdVc4Tlpwak41amFkTzlhNjBQdHlKaVVxWmgzSHl6X3pkQQ?oc=5",
-   "title": "FPL 2026/27: Chelsea Gameweek 12 | News | Official Site",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZmJtbG01bXNlNlR2V1IzVHAxU3NUQUFTTDEtMW82b0w3d1BIX1RObTdUNlpMY2lDcGZQYUFCODc3bW5OOEFQOXlqQVM0WXNsVWdYNkd3VHN5RmotdVc4Tlpwak41amFkTzlhNjBQdHlKaVVxWmgzSHl6X3pkQQ?oc=5",
-   "source": "Chelsea Football Club",
-   "group": "영국 언론",
-   "date": 1795712400000,
-   "added": 1795714442779,
-   "cat": "오피셜",
-   "titleKo": "FPL 2026/27: 첼시 12라운드 | 뉴스 | 공식 사이트"
   }
  ]
 }
