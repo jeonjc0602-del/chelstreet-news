@@ -1,5 +1,5 @@
 {
- "updated": 1795824674079,
+ "updated": 1795829150231,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -12,16 +12,16 @@
   "Daily Mail": 7,
   "Telegraph": 5,
   "Independent": 2,
-  "Express": 0,
-  "Sports Mole": 15,
+  "Express": "실패: 403",
+  "Sports Mole": 14,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 3,
-  "구글뉴스(영어)": 68,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 1,
   "풋볼리스트": 0,
-  "베스트일레븐": 3,
-  "구글뉴스(한국어)": 24,
+  "베스트일레븐": 4,
+  "구글뉴스(한국어)": 29,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -844,6 +844,19 @@
  },
  "items": [
   {
+   "id": "https://www.besteleven.com/news/articleView.html?idxno=314407",
+   "title": "“우리는 네가 여기 있는 것을 원하지 않는다”… 논란의 인터뷰에 페널티킥까지 헌납한 포파나, 첼시 원정 팬들로부터 뭇매",
+   "link": "https://www.besteleven.com/news/articleView.html?idxno=314407",
+   "source": "베스트일레븐",
+   "group": "한국 언론",
+   "date": 1795858319000,
+   "added": 1795829141013,
+   "cat": "인터뷰",
+   "titleKo": "“우리는 네가 여기 있는 것을 원하지 않는다”… 논란의 인터뷰에 페널티킥까지 헌납한 포파나, 첼시 원정 팬들로부터 뭇매",
+   "imgTried": true,
+   "image": "https://cdn.besteleven.com/news/photo/202611/314407_245601_3130.jpg"
+  },
+  {
    "id": "https://www.besteleven.com/news/articleView.html?idxno=314403",
    "title": "11월 치른 모든 경기 ‘패배’라니… 알론소 감독이 이끄는 첼시, 노팅엄에 3골 내주며 3연패→ EPL 최근 5경기 1승 4패",
    "link": "https://www.besteleven.com/news/articleView.html?idxno=314403",
@@ -868,6 +881,83 @@
    "titleKo": "[PL REVIEW] '알론소 거품이었나'...8위 첼시, 에메하 멀티골에도 노팅엄에 2-3 패! 3연패+5경기 4패",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699414_833843_539_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVlUZU1XcjdEal9zcTAtbzlnNlBid1NGZXo3QWdtS0s3TTNhSG8tc1hDb3BDeVhxX0cwU0NxSVJReGg4MDZ4TFN4VzJ3MFlXNGYxNkdUdlRhcnFycF9MUWRzOTFZOUR6LUU5emxvMHhVOWxvdXY4bXBBNHpZZWZYSkFILTlUM2pmRUhwaA?oc=5",
+   "title": "첼시는 시티 그라운드에서 패배를 당했고, 사비 알론소는 현재 비난의 중심에 서 있다.",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVlUZU1XcjdEal9zcTAtbzlnNlBid1NGZXo3QWdtS0s3TTNhSG8tc1hDb3BDeVhxX0cwU0NxSVJReGg4MDZ4TFN4VzJ3MFlXNGYxNkdUdlRhcnFycF9MUWRzOTFZOUR6LUU5emxvMHhVOWxvdXY4bXBBNHpZZWZYSkFILTlUM2pmRUhwaA?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795828878000,
+   "added": 1795829141013,
+   "cat": null,
+   "titleKo": "첼시는 시티 그라운드에서 패배를 당했고, 사비 알론소는 현재 비난의 중심에 서 있다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdEg4LWUya1pidjYyTWRZMjJJX2hpODE4Y3Y4U0NwU0RvbDNVc3JsU1RTNktMelZHS3hXVzdaUTBUSWhTb0pNVzlRbmVYb3IxVGpjQWR1NDV0eEJjUnFxalctN0cwQnJuVktwdVBWaGduWVBwVEhjWnZHdlVzdFRSMDF5Q2szM0hoQzNXdzl1czNTemZlY0NaUXE2LWJUSUVBVVF6ZjRSaU9TdmZzcnJNTk5UR1NMc0NweW5v?oc=5",
+   "title": "11월 28일 축구 경기 결과 및 일정: 첼시 패배, 호앙 안 지아 라이 감독은 어려운 경기를 앞두고 있습니다.",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdEg4LWUya1pidjYyTWRZMjJJX2hpODE4Y3Y4U0NwU0RvbDNVc3JsU1RTNktMelZHS3hXVzdaUTBUSWhTb0pNVzlRbmVYb3IxVGpjQWR1NDV0eEJjUnFxalctN0cwQnJuVktwdVBWaGduWVBwVEhjWnZHdlVzdFRSMDF5Q2szM0hoQzNXdzl1czNTemZlY0NaUXE2LWJUSUVBVVF6ZjRSaU9TdmZzcnJNTk5UR1NMc0NweW5v?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795828878000,
+   "added": 1795829141013,
+   "cat": null,
+   "titleKo": "11월 28일 축구 경기 결과 및 일정: 첼시 패배, 호앙 안 지아 라이 감독은 어려운 경기를 앞두고 있습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU05xNFFjWGdEbVZZZGNoaTFtOV9CRVpOR0JKNjJ2UTRTRTgzcy1pTS1sb2tRV2diRWVvQ0hDQlZnWDY1ZGl6VW94VFRTREVscW82VHFyTFFQbVRIVDBYcHhEeGE0WWNUTHhYRUFfUThfRUphRUp0bDVaOU1OZmYwcXN5NFR2Rl91clhvSkZabzQ2Q3ppZERlNW9tWFJzb3hvaFpLenN3Mkk?oc=5",
+   "title": "PL Extended: Nottingham Forest 3-2 Chelsea | Video | Official Site",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU05xNFFjWGdEbVZZZGNoaTFtOV9CRVpOR0JKNjJ2UTRTRTgzcy1pTS1sb2tRV2diRWVvQ0hDQlZnWDY1ZGl6VW94VFRTREVscW82VHFyTFFQbVRIVDBYcHhEeGE0WWNUTHhYRUFfUThfRUphRUp0bDVaOU1OZmYwcXN5NFR2Rl91clhvSkZabzQ2Q3ppZERlNW9tWFJzb3hvaFpLenN3Mkk?oc=5",
+   "source": "Chelsea Football Club",
+   "group": "영국 언론",
+   "date": 1795828237000,
+   "added": 1795829141013,
+   "cat": "오피셜",
+   "titleKo": "프리미어리그 연장전: 노팅엄 포레스트 3-2 첼시 | 동영상 | 공식 사이트"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmR4VVhjQWNYTEZaenRnV3pMTUxTd1F3SzVQLXEyOHdpeG5odGlkX1p3NEZuaW1MMkw0bHRWa2piUHdvMUstZmZHQVg1aFJOc1dHbXpKcEJhOC1qMHkydzFwM0VMcHpFTlhNN21FY2V5TkpzV2FhQTFIMHlCNVNzVHFyVEVYRi1YTWVwMmpUazBEOUdGTE1zVzZtMXo4SFJG?oc=5",
+   "title": "'Not many things are going our way' | Video",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmR4VVhjQWNYTEZaenRnV3pMTUxTd1F3SzVQLXEyOHdpeG5odGlkX1p3NEZuaW1MMkw0bHRWa2piUHdvMUstZmZHQVg1aFJOc1dHbXpKcEJhOC1qMHkydzFwM0VMcHpFTlhNN21FY2V5TkpzV2FhQTFIMHlCNVNzVHFyVEVYRi1YTWVwMmpUazBEOUdGTE1zVzZtMXo4SFJG?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795827638000,
+   "added": 1795829141014,
+   "cat": null,
+   "titleKo": "'우리가 원하는 대로 되는 일이 많지 않아요' | 동영상"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVJDU3lOemt2VTJfQmpMWVZYdlpTTWJ0R2JoZWw2US05RDB2NDB2OF9vUV92TENxb0RoT1cwb1pYZ3pSTlgxTm9mbkdNbGNYQnpSRDlZRFJUSWdsRHJzQ2hTclZ3SWRFMzNMaENxLTR1bWhhNDVsbE1MZjVBa2R5OW42RHplTkU?oc=5",
+   "title": "노팅엄 포레스트의 패배로 첼시는 더욱 심각한 위기에 빠졌다.",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVJDU3lOemt2VTJfQmpMWVZYdlpTTWJ0R2JoZWw2US05RDB2NDB2OF9vUV92TENxb0RoT1cwb1pYZ3pSTlgxTm9mbkdNbGNYQnpSRDlZRFJUSWdsRHJzQ2hTclZ3SWRFMzNMaENxLTR1bWhhNDVsbE1MZjVBa2R5OW42RHplTkU?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795827552000,
+   "added": 1795829141013,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트의 패배로 첼시는 더욱 심각한 위기에 빠졌다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXg5MDRYdldwdndvWkRxcVdkaXBHQUhkajkxZ044WnZlTlByVVdLVGFfZ1hLbjhuRWZpeUZzN2FVSnhfVk5helU4MU9fR2x0ZGQwVV85UGg4LVA1V2g4OXI4TXc0U0RSZC14VVM2TlpJamZ1WDFzM09fcEZkamlJWEdaOVlYQUpMTmUwcXY2aUo3dDNGNkpjT1VoZ2w2eXRzUV9Zdy1Sdw?oc=5",
+   "title": "‘A damn shame’: Co-workers at Home Depot mourn man killed in Chelsea high school football game shooting",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXg5MDRYdldwdndvWkRxcVdkaXBHQUhkajkxZ044WnZlTlByVVdLVGFfZ1hLbjhuRWZpeUZzN2FVSnhfVk5helU4MU9fR2x0ZGQwVV85UGg4LVA1V2g4OXI4TXc0U0RSZC14VVM2TlpJamZ1WDFzM09fcEZkamlJWEdaOVlYQUpMTmUwcXY2aUo3dDNGNkpjT1VoZ2w2eXRzUV9Zdy1Sdw?oc=5",
+   "source": "The Boston Globe",
+   "group": "영국 언론",
+   "date": 1795825251000,
+   "added": 1795829141013,
+   "cat": null,
+   "titleKo": "'정말 안타깝습니다': 홈디포(Home Depot)의 동료 직원들이 첼시 고등학교 미식축구 경기에서 총격으로 사망한 남성을 애도했습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk5WcW9fOUI3c216TFR4aUxlR2dpNlJkd3htZnRxYXpBRjRiZWZkVlhZLVZlYzNacVVBeE9KZ2FRQ1dxSTlVbXJDQ3NpZ29GRW1fMFhQejA0QnZBOUNkUGlQVDF6VkN1RFFTYU5yX0JKZWlsUDBBNzIwdzc1SnFqRWYxaVA5NFZSSnRIN1Y2bEdRR3dRcDNQLWUwTWNQX2x2Q01haEpJbExVYVE?oc=5",
+   "title": "첼시, 3연패, 사비 알론소 압박 받아",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk5WcW9fOUI3c216TFR4aUxlR2dpNlJkd3htZnRxYXpBRjRiZWZkVlhZLVZlYzNacVVBeE9KZ2FRQ1dxSTlVbXJDQ3NpZ29GRW1fMFhQejA0QnZBOUNkUGlQVDF6VkN1RFFTYU5yX0JKZWlsUDBBNzIwdzc1SnFqRWYxaVA5NFZSSnRIN1Y2bEdRR3dRcDNQLWUwTWNQX2x2Q01haEpJbExVYVE?oc=5",
+   "source": "Laodong.vn",
+   "group": "한국 언론",
+   "date": 1795824920000,
+   "added": 1795829141013,
+   "cat": null,
+   "titleKo": "첼시, 3연패, 사비 알론소 압박 받아"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUViUkRFTmZzUkxWRThQNWlPNEFtUFBjVTN4QVVBalh1UjRZa280ZWZXeWJ4eUhzWVlKcEtrQTQ2bXFmSENDTnRJQ0xnUU9yUnN0TTVyZDZWUW05MUR6ZlVPSUVhenBfOE55eEYwcmllLV9TYWFfdHhub1lMRy16WXh2X2JnbEJFVTkwdWJadnhjV19FdTBKVDdsb0tYSmRXZHFIM1YzNXQ0Ynd0emxJ?oc=5",
@@ -1063,6 +1153,17 @@
    "added": 1795821721926,
    "cat": "인터뷰",
    "titleKo": "웨슬리 포파나를 향한 야유와 조롱, 첼시전 패배, 부진한 경기력에 대한 사비 알론소의 모든 발언"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUw3QmkyZFNLLXV3Y3Uzb3BTdjdZSjdWcXNHYVFsRDVlcjlzMC1VMEx1YTNkOEd3RUxhWW9aTFVyUmJxZnVpYUlUM1VTbDU5SHRIVEthTlZuS18yYlBLeWRZbzVqOENoV3h4T3FWVWhlYjNEUGlXaFIxSkRWaU1tNC1OVV9wQTd2SFUxOGd1Skg4X3JUcHdVS25FYUlJQi1jZnZWSTg5aGU2d2Y0enNoYXAtQWdkUQ?oc=5",
+   "title": "Chelsea player ratings vs Nottm Forest: Emmanuel Emegha brace not enough to stop the rot in defeat",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUw3QmkyZFNLLXV3Y3Uzb3BTdjdZSjdWcXNHYVFsRDVlcjlzMC1VMEx1YTNkOEd3RUxhWW9aTFVyUmJxZnVpYUlUM1VTbDU5SHRIVEthTlZuS18yYlBLeWRZbzVqOENoV3h4T3FWVWhlYjNEUGlXaFIxSkRWaU1tNC1OVV9wQTd2SFUxOGd1Skg4X3JUcHdVS25FYUlJQi1jZnZWSTg5aGU2d2Y0enNoYXAtQWdkUQ?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795819393000,
+   "added": 1795829141013,
+   "cat": "프리뷰",
+   "titleKo": "첼시 선수 평점(노팅엄 포레스트전): 에마뉘엘 에메가의 멀티골에도 불구하고 패배를 막지 못함"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkNRMF83bXYydDBFUExJeC1BZkRldzZMbFFUejU3U3JQOUpZSzFrdjBTMVpCM1VaZFJzYlRFdmF2MVhMWUhsbVJZcG1DcXN3dHVvb2tzQ1doYWo3cGpkeDQ5TkZOU2R4aGtGUFQ3Q1MxYmRyY0gwellJZzdLOGR3RkVwMzRlUmtZc1RUdzdB?oc=5",
@@ -1456,6 +1557,17 @@
    "titleKo": "첼시 고등학교, 경찰이 치명적인 축구 경기 총격 사건의 영상을 확보하려는 가운데 추모 행사를 계획하다"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGQ1d1UTVUTlo1WGZIdHhWLWZvTDFodFlpQ0dFR0QyVlBvWDNzdGJNWXJrTkgyVDUtVUpVSDN3WTBNWng0SHU3RDdvWklLSGFvRWxJaGxtNlE3bkhIWnNibkZyZzBvY3dLV09n?oc=5",
+   "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGQ1d1UTVUTlo1WGZIdHhWLWZvTDFodFlpQ0dFR0QyVlBvWDNzdGJNWXJrTkgyVDUtVUpVSDN3WTBNWng0SHU3RDdvWklLSGFvRWxJaGxtNlE3bkhIWnNibkZyZzBvY3dLV09n?oc=5",
+   "source": "BBC",
+   "group": "영국 언론",
+   "date": 1795815114000,
+   "added": 1795829141013,
+   "cat": null,
+   "titleKo": "'여기서 환영받지 못할 겁니다' - 첼시 팬들이 포파나를 비난하다"
+  },
+  {
    "id": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
    "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
@@ -1570,6 +1682,17 @@
    "added": 1795814766283,
    "cat": null,
    "titleKo": "'알론소, 정신 나갔나' – 첼시 팬들은 모이세스 카이세도가 노팅엄 포레스트와의 경기에서 어떤 포지션으로 뛰었는지 믿을 수 없습니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0JEdV9kSExtbjRWUXRZVkprT0Y3dzBseDdCTnNYN0Jxa1A2eHVpUklydlNsZmswMlpock80WlRkaFZENVFDRjJGUDUwd3JhcWJWQlRwYktzMVVHQVdpV3l1bk41Tk44RmU0VlFmRmlWa3czRjJRY2R0SWtKVVBSaDdJQVhLMTlFMnljMVpkMFdnOWZJQXFSeURESzM2Qzg?oc=5",
+   "title": "Chelsea fans can't believe where Caicedo ended up playing vs Nottingham Forest",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0JEdV9kSExtbjRWUXRZVkprT0Y3dzBseDdCTnNYN0Jxa1A2eHVpUklydlNsZmswMlpock80WlRkaFZENVFDRjJGUDUwd3JhcWJWQlRwYktzMVVHQVdpV3l1bk41Tk44RmU0VlFmRmlWa3czRjJRY2R0SWtKVVBSaDdJQVhLMTlFMnljMVpkMFdnOWZJQXFSeURESzM2Qzg?oc=5",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795812000000,
+   "added": 1795829141013,
+   "cat": null,
+   "titleKo": "첼시 팬들은 카이세도가 노팅엄 포레스트와 경기를 하게 된 곳을 믿을 수 없습니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFVNSUdtUmk3THRZc1Y5d2syMWl5NklPb0ZfN1I5SWRDMW44amJ3SG1FSE91R21uQ21wTHg1Q0lqMVdYRGJ1SldEMndUaEFIMU1vb1BiWE1zNC1vUWJVZDI4RDZxcTFTSmhxTFpIbFRsOHdDRTYxNTBVUTVuY2M2UjFFemU0WF91eFNjMEc1MW0zU0k?oc=5",
@@ -3075,6 +3198,17 @@
    "titleKo": "노팅엄 포레스트 vs 첼시 부상, 출장 정지 명단, 예상 선발 명단"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3Wkw0VllZUXJSZ2o3NC1JYkNmWXp2LTQ4T3EtUUYyc1gwRVNlQ3c1Uk5OR1AxYTdQRmJ3d2tEbks0NVgxYVZWanAzQ2VBVnphMnJRYkI0dkEtTnRjOEFkV01WUy1WelJ4MFJwY08xWlVqajhkNXF0ZnRRaw?oc=5",
+   "title": "첼시 전 공동소유주 보일리, 고수익 감당…부실 신용 다음인가?",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3Wkw0VllZUXJSZ2o3NC1JYkNmWXp2LTQ4T3EtUUYyc1gwRVNlQ3c1Uk5OR1AxYTdQRmJ3d2tEbks0NVgxYVZWanAzQ2VBVnphMnJRYkI0dkEtTnRjOEFkV01WUy1WelJ4MFJwY08xWlVqajhkNXF0ZnRRaw?oc=5",
+   "source": "BeInCrypto",
+   "group": "한국 언론",
+   "date": 1795723104000,
+   "added": 1795829141013,
+   "cat": null,
+   "titleKo": "첼시 전 공동소유주 보일리, 고수익 감당…부실 신용 다음인가?"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzVqdHZHcDV0dm11TlpmTGpUanl5Y2RzLWxaR2U3ZlpkVVc1dDF4TzBqMHJnOUpxX21qSjk2MlU1ZjZSbTlNYk83X1dmQVZqSjFseGxUR2xNdG80WkxpYmtZaFZHVVBkTWVNU0ZLVFF5eWlmYTV3dG5hUUVJNy03X0lzd0dRMU9tM3cwanFIN1lROElFb25OcHdFbTRxQ1JJek01RThHTTFyd9IBvgFBVV95cUxORllIT0NLTTFweGhrWE1CLTh6RHRxUHNWMk5jYzlVb21SU2ppYmt3clJ5bmpmMUZUUlhMNGhDcGc3UXZzM2JIaXhwWXJ2Z3hvSnR6Mk9OWTFiVlBvVDNCdzJocVFEUnhUck9WcExzRjZYelU1MUEtZUlVbG5zY3A5cURXT0djTm9rY1Bxa0pDc2pCYVpJUFR3MmRycnlUTXkyMThoeTZ0X2VQVUE1U28wNW9jV3N3SFlQRkFuSlVR?oc=5",
    "title": "Man killed at Chelsea Thanksgiving Eve football game identified",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzVqdHZHcDV0dm11TlpmTGpUanl5Y2RzLWxaR2U3ZlpkVVc1dDF4TzBqMHJnOUpxX21qSjk2MlU1ZjZSbTlNYk83X1dmQVZqSjFseGxUR2xNdG80WkxpYmtZaFZHVVBkTWVNU0ZLVFF5eWlmYTV3dG5hUUVJNy03X0lzd0dRMU9tM3cwanFIN1lROElFb25OcHdFbTRxQ1JJek01RThHTTFyd9IBvgFBVV95cUxORllIT0NLTTFweGhrWE1CLTh6RHRxUHNWMk5jYzlVb21SU2ppYmt3clJ5bmpmMUZUUlhMNGhDcGc3UXZzM2JIaXhwWXJ2Z3hvSnR6Mk9OWTFiVlBvVDNCdzJocVFEUnhUck9WcExzRjZYelU1MUEtZUlVbG5zY3A5cURXT0djTm9rY1Bxa0pDc2pCYVpJUFR3MmRycnlUTXkyMThoeTZ0X2VQVUE1U28wNW9jV3N3SFlQRkFuSlVR?oc=5",
@@ -4134,147 +4268,6 @@
    "added": 1795694414841,
    "cat": null,
    "titleKo": "2026년 11월 최고의 카지노 보너스(입금 불필요)"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/online-roulette-gratis-spielen-ohne-anmeldung-%e2%ad%90%ef%b8%8f/",
-   "title": "Online Roulette gratis spielen ohne Anmeldung ⭐️",
-   "link": "https://www.talkchelsea.net/news/online-roulette-gratis-spielen-ohne-anmeldung-%e2%ad%90%ef%b8%8f/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795694208000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "온라인 룰렛 무료 플레이, 가입 불필요 ⭐️"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/beste-online-casinos-spielotheken-2026/",
-   "title": "Beste Online Casinos & Spielotheken 2026",
-   "link": "https://www.talkchelsea.net/news/beste-online-casinos-spielotheken-2026/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795694195000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "2026년 최고의 온라인 카지노 및 스필로테켄(Spielotheken)"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/book-of-ra-slot-novomatic-schlusselmerkmale-in-deutschland/",
-   "title": "Book of Ra Slot Novomatic Schlüsselmerkmale in Deutschland",
-   "link": "https://www.talkchelsea.net/news/book-of-ra-slot-novomatic-schlusselmerkmale-in-deutschland/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795694059000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "독일의 Book of Ra 슬롯 Novomatic 주요 특징"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/beste-online-casinos-spielotheken-deutschland-im-vergleich/",
-   "title": "Beste Online Casinos & Spielotheken Deutschland im Vergleich",
-   "link": "https://www.talkchelsea.net/news/beste-online-casinos-spielotheken-deutschland-im-vergleich/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795693940000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "독일 최고의 온라인 카지노 및 스피엘로테켄 비교"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/beste-online-casinos-mit-echtgeld-in-deutschland-2026/",
-   "title": "Beste Online Casinos mit Echtgeld in Deutschland 2026",
-   "link": "https://www.talkchelsea.net/news/beste-online-casinos-mit-echtgeld-in-deutschland-2026/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795693876000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "2026년 독일 최고의 실시간 온라인 카지노"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/online-casinos-mit-echtgeld-die-5-besten-casinos-2026/",
-   "title": "Online Casinos mit Echtgeld Die 5 besten Casinos 2026",
-   "link": "https://www.talkchelsea.net/news/online-casinos-mit-echtgeld-die-5-besten-casinos-2026/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795693874000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "온라인 카지노 mit Echtgeld 2026년 최고의 카지노 5곳"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/freispiele-ohne-einzahlung-die-besten-free-spins-angebote/",
-   "title": "Freispiele ohne Einzahlung Die besten Free Spins Angebote",
-   "link": "https://www.talkchelsea.net/news/freispiele-ohne-einzahlung-die-besten-free-spins-angebote/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795693802000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "입금 없이 무료 스핀 최고의 무료 스핀 혜택"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/legale-seriose-online-casinos-deutschland-2026-95-anbieter/",
-   "title": "Legale & seriöse Online Casinos Deutschland 2026 95 Anbieter",
-   "link": "https://www.talkchelsea.net/news/legale-seriose-online-casinos-deutschland-2026-95-anbieter/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795693668000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "독일의 합법적이고 신뢰할 수 있는 온라인 카지노 2026 95개 업체"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news-now/phil-foden-pundit-making-excuses-cole-palmer/",
-   "title": "“Like Phil Foden” – Pundit says he’s “making excuses” for Chelsea star who needs to step up",
-   "link": "https://www.talkchelsea.net/news-now/phil-foden-pundit-making-excuses-cole-palmer/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795693271000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Pat-Nevin-speaks-as-a-pundit-414x276.jpg",
-   "added": 1795698975224,
-   "cat": "인터뷰",
-   "titleKo": "\"필 포든처럼\" – 전문가가 첼시의 스타 선수가 더 분발해야 한다고 말하며 \"변명을 하고 있다\"고 말했습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEkxNEktelpQNkhVMXp4WmRoeDVFOUdXN1B5WXR3aFI3Q0RkcDlpU0MxUUQzelpzR3BSek9iVEZaR3dmVUpHX2o1MW9kRG9XajFRb2lmYkdzeThPLVJPb0YyaDFIa05LMmdXLVpsV080ZnhVWDlHRGFmc1oxM29RUVZDTy1yVFpZ?oc=5",
-   "title": "Unlock Stamford Bridge this Blue Friday",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEkxNEktelpQNkhVMXp4WmRoeDVFOUdXN1B5WXR3aFI3Q0RkcDlpU0MxUUQzelpzR3BSek9iVEZaR3dmVUpHX2o1MW9kRG9XajFRb2lmYkdzeThPLVJPb0YyaDFIa05LMmdXLVpsV080ZnhVWDlHRGFmc1oxM29RUVZDTy1yVFpZ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795691700000,
-   "added": 1795743727004,
-   "cat": null,
-   "titleKo": "이번 블루 프라이데이에 스탬퍼드 브리지의 문을 열어보세요"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85TFNJQ21YSDBDUnBsT3kwY1lVa0pWNHZET1I2YVhtbnpUZjc4b1FnNS1fVHcwd29zUllTa3ZZNk9YU3puX2Y4Mlg2c043b0M2elBIR1NYWHFNRXE4dlRqdjMyekZMWGpha0ppTVpEdm5MbjUwbE51bmVnQ25iZw?oc=5",
-   "title": "Chelsea - Noah 8-0",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85TFNJQ21YSDBDUnBsT3kwY1lVa0pWNHZET1I2YVhtbnpUZjc4b1FnNS1fVHcwd29zUllTa3ZZNk9YU3puX2Y4Mlg2c043b0M2elBIR1NYWHFNRXE4dlRqdjMyekZMWGpha0ppTVpEdm5MbjUwbE51bmVnQ25iZw?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795691069000,
-   "added": 1795698975223,
-   "cat": null,
-   "titleKo": "첼시 - 노아 8-0"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi9whBVV95cUxPLUdvVGlrbmYzSlJZSXE4ZHlTcjR4d2Z4R00zLUhiV0I4MDlmQ2N2NzB2dFBLbjYtQzN0bGxFZ2xJX3hIbjVOT3pEX2JrX19KZmJsS1VJaGtXNUFuNUtjaUNJTFBBV3J0bzhCY2h6eUI0Ym9oaHNzM2hfQ1gtWEo5azF1Nk40RkV2c1dkQUcxal83X3VDcWtQUHdWV1laX3NmbkVLbGVTbVJrbGc1UVZfaGVVWTFQbG5YbUdnNGFWMjNGSEc1Yk9sTnIweFFGb3VhYk85cVFWSWszUDB0enFSN1hHaVpiNi0wWXBsY243N3BabEZBNUJkLTVpbXN1M3MxZTFkbjF1S0lrTjlGU0ZZQ2pPaVNjTGdaX0VEajExbDlEYUFaN01PbEJCMnBOclR2X21Dem1wVlNaQWFFVWJlR3dWWDF4VXZJR3NCVDNsa1otV0ZZX1laeWVfb0x0S3lqUXQyaHBCMnN3Yng5bWNtU3c1dWxMQzhrZjR4OHVTRVdlNUtuYXF5VWxLOVotblBDUGJxOHEyWG1UaTdXcExxMVY2LVZCOG9yTDIxUUlMb3BIaTl5QmgwR0sxSDRfMUlsdXM3SXNYdmdvNU5hTWQtVzdOcHpwV0dNc2hKZ01XZy1Ca1hrT1VodXBla2NMZEhoNVluV3JBd2NUWnZUSm1zUUI2NUhKQks5VFVpM1pRZFRKNWF3Z3pnWWJSYlhqRVVidmcxVDY4MEMzcEU1N25URlQxMXN5OGgtbHFaLTJXZmFGQ1JYVm54N1VmZWFqRHFPU3paNzJHZTgybVZsWnVmcl9YUDZTYWg0X3licG1McWxkNTJoWXF0aFNBUWlTanc5eHc2bkNtSjI1VUsyV3UyN01uWmZmSlJ0ZG9jNEtWNjdINjF6ODQ5ZXVaMElxV0NBeDYtZGhPNDZtUU5fSlhjbnNScVNBQzJfcmVJZDBUT1NVeGVKcDNUaWhmRGZQbEl6RTBkeE1UNmp4c05CWnVkOGdBLWhQWUladHJEbHNNc0c4TTJMVDVkUTBROU1tTjlSMWduUUtuek5ZMW5jUm1oMzdtOHVhTGhIRmtES0w0emVOWWxYTXlINzVzeXkzU2Q4Z0J4N3JrWFRtYVNqSm43U2Fpampxb0FiblJMT1c4STN4QzlmWTFObm55ZFZ4ZlM0dnhVd0d0Z1RsRHR3cS1ucmVMMVhSY3UxanpaZ0tyWF9YWlBvQUJkT0M1bEdCc0RraEowVEkxSmtrUmpCMUZsUEhEMHJtbzRMcFd4eTdteW9vQjZlOTM2dGdWUWhqQkJfZnJHeFZONGJTWWRHT2JTQ0lDamZ0VnlGaEZ5UkdsR1RybTFrTUJJN2dBV1FleERSSnFCVmNsSjFpRE93WlVOMzFWMlh0N0pJVEhkYnFSZXg4Q280VFpFRWJEckI3akdBZE01X01PNXk3bVZxc1BmeF9iWWZPZkdJOXlJYlhNRUlfdlhyc040V3U3UjUtRjlVZGJiRVEtaUFkWHlXd1FrRk8zNkZQZWc?oc=5",
-   "title": "‘첼시 감독 교체는 없다!’ 프리미어리그 8위·EFL컵 탈락에도 “구단주 전폭적인 신뢰 받고 있어”",
-   "link": "https://news.google.com/rss/articles/CBMi9whBVV95cUxPLUdvVGlrbmYzSlJZSXE4ZHlTcjR4d2Z4R00zLUhiV0I4MDlmQ2N2NzB2dFBLbjYtQzN0bGxFZ2xJX3hIbjVOT3pEX2JrX19KZmJsS1VJaGtXNUFuNUtjaUNJTFBBV3J0bzhCY2h6eUI0Ym9oaHNzM2hfQ1gtWEo5azF1Nk40RkV2c1dkQUcxal83X3VDcWtQUHdWV1laX3NmbkVLbGVTbVJrbGc1UVZfaGVVWTFQbG5YbUdnNGFWMjNGSEc1Yk9sTnIweFFGb3VhYk85cVFWSWszUDB0enFSN1hHaVpiNi0wWXBsY243N3BabEZBNUJkLTVpbXN1M3MxZTFkbjF1S0lrTjlGU0ZZQ2pPaVNjTGdaX0VEajExbDlEYUFaN01PbEJCMnBOclR2X21Dem1wVlNaQWFFVWJlR3dWWDF4VXZJR3NCVDNsa1otV0ZZX1laeWVfb0x0S3lqUXQyaHBCMnN3Yng5bWNtU3c1dWxMQzhrZjR4OHVTRVdlNUtuYXF5VWxLOVotblBDUGJxOHEyWG1UaTdXcExxMVY2LVZCOG9yTDIxUUlMb3BIaTl5QmgwR0sxSDRfMUlsdXM3SXNYdmdvNU5hTWQtVzdOcHpwV0dNc2hKZ01XZy1Ca1hrT1VodXBla2NMZEhoNVluV3JBd2NUWnZUSm1zUUI2NUhKQks5VFVpM1pRZFRKNWF3Z3pnWWJSYlhqRVVidmcxVDY4MEMzcEU1N25URlQxMXN5OGgtbHFaLTJXZmFGQ1JYVm54N1VmZWFqRHFPU3paNzJHZTgybVZsWnVmcl9YUDZTYWg0X3licG1McWxkNTJoWXF0aFNBUWlTanc5eHc2bkNtSjI1VUsyV3UyN01uWmZmSlJ0ZG9jNEtWNjdINjF6ODQ5ZXVaMElxV0NBeDYtZGhPNDZtUU5fSlhjbnNScVNBQzJfcmVJZDBUT1NVeGVKcDNUaWhmRGZQbEl6RTBkeE1UNmp4c05CWnVkOGdBLWhQWUladHJEbHNNc0c4TTJMVDVkUTBROU1tTjlSMWduUUtuek5ZMW5jUm1oMzdtOHVhTGhIRmtES0w0emVOWWxYTXlINzVzeXkzU2Q4Z0J4N3JrWFRtYVNqSm43U2Fpampxb0FiblJMT1c4STN4QzlmWTFObm55ZFZ4ZlM0dnhVd0d0Z1RsRHR3cS1ucmVMMVhSY3UxanpaZ0tyWF9YWlBvQUJkT0M1bEdCc0RraEowVEkxSmtrUmpCMUZsUEhEMHJtbzRMcFd4eTdteW9vQjZlOTM2dGdWUWhqQkJfZnJHeFZONGJTWWRHT2JTQ0lDamZ0VnlGaEZ5UkdsR1RybTFrTUJJN2dBV1FleERSSnFCVmNsSjFpRE93WlVOMzFWMlh0N0pJVEhkYnFSZXg4Q280VFpFRWJEckI3akdBZE01X01PNXk3bVZxc1BmeF9iWWZPZkdJOXlJYlhNRUlfdlhyc040V3U3UjUtRjlVZGJiRVEtaUFkWHlXd1FrRk8zNkZQZWc?oc=5",
-   "source": "Goal.com",
-   "group": "한국 언론",
-   "date": 1795690935000,
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "‘첼시 감독 교체는 없다!’ 프리미어리그 8위·EFL컵 탈락에도 “구단주 전폭적인 신뢰 받고 있어”"
   }
  ]
 }
