@@ -1,27 +1,27 @@
 {
- "updated": 1795874433644,
+ "updated": 1795877313005,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 5,
+  "Sky Sports": 6,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 11,
-  "The Sun": 5,
-  "Mirror": 3,
+  "The Sun": 0,
+  "Mirror": 4,
   "Daily Mail": 9,
   "Telegraph": 5,
   "Independent": 3,
   "Express": 0,
   "Sports Mole": 14,
-  "CaughtOffside": 1,
+  "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 72,
+  "구글뉴스(영어)": 71,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 45,
+  "구글뉴스(한국어)": 46,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -844,6 +844,40 @@
  },
  "items": [
   {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3FaQzM3bFdMaFdRRW40dWlxVm1mbUNXNTFPNE1LWEphc2wyZURXdlF1TDBfRkhFSk41VXV6anlGa3NhR2pBWkJabUJvZ1BOLXlhWWJpM3hWdnpzTjJyZ1hyYmhRdDhHeVd1Z2FYQWQ3WnpYdlgtMXo5Vzk2bEdnUWp2QmxEN216TXh1QmhBbC1aZ1BoYW5nRHc5QkZMMEVDckZMTTBXT2VhX1doZUpV?oc=5",
+   "title": "U18 PL Highlights: Crystal Palace U18 vs Chelsea U18 | Video",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3FaQzM3bFdMaFdRRW40dWlxVm1mbUNXNTFPNE1LWEphc2wyZURXdlF1TDBfRkhFSk41VXV6anlGa3NhR2pBWkJabUJvZ1BOLXlhWWJpM3hWdnpzTjJyZ1hyYmhRdDhHeVd1Z2FYQWQ3WnpYdlgtMXo5Vzk2bEdnUWp2QmxEN216TXh1QmhBbC1aZ1BoYW5nRHc5QkZMMEVDckZMTTBXT2VhX1doZUpV?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795876830000,
+   "added": 1795877307319,
+   "cat": null,
+   "titleKo": "U18 PL 하이라이트: 크리스털 팰리스 U18 vs 첼시 U18 | 동영상"
+  },
+  {
+   "id": "https://www.mirror.co.uk/sport/football/news/chelsea-wesley-fofana-social-media-37925245",
+   "title": "Wesley Fofana takes immediate action on social media hours after Chelsea supporters booed him",
+   "link": "https://www.mirror.co.uk/sport/football/news/chelsea-wesley-fofana-social-media-37925245",
+   "source": "Mirror",
+   "group": "영국 언론",
+   "date": 1795875470000,
+   "image": "https://i2-prod.mirror.co.uk/sport/football/news/article37925244.ece/ALTERNATES/s615/2_Nottingham-Forest-FC-v-Chelsea-FC-Premier-League-202627.jpg",
+   "added": 1795877307318,
+   "cat": null,
+   "titleKo": "웨슬리 포파나, 첼시 서포터들의 야유를 받은 지 몇 시간 만에 소셜 미디어에서 즉각적인 조치를 취하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBORHp0VGhHQ0Z6U0NQWGx0OUxvNEtuUk8tYW5jRFhOb09sc1RsMXFpQjRhWjIyYzNlMVNxNFp1YllpR1UwLUlCNmlQcGd0a3J1VXJRTXNWWk9vbkpzRVZpMWtrMVQ?oc=5",
+   "title": "Chelsea lập loạt kỷ lục buồn",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBORHp0VGhHQ0Z6U0NQWGx0OUxvNEtuUk8tYW5jRFhOb09sc1RsMXFpQjRhWjIyYzNlMVNxNFp1YllpR1UwLUlCNmlQcGd0a3J1VXJRTXNWWk9vbkpzRVZpMWtrMVQ?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795874791000,
+   "added": 1795877307319,
+   "cat": null,
+   "titleKo": "첼시, 불명예스러운 기록을 연달아 세우다"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEd5QUYyZm05NGxQT003T0RTcEJ1SmtETmtaMGJtSHhFZG5IZnNfZWRNckd3YlRUNnFUb2Z4S0dnWmNtSjJJUFJ4eGwyWnJUZDFUNW9KcllicGNfYksyRkdmTVB6ekNnS09pYjNVeEpjdGNfQlRla2VZZXQ5akZFNFlGQm9tQQ?oc=5",
    "title": "Chelsea legend Joe Cole demands Xabi Alonso axing for Wesley Fofana after brutal fan chants",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEd5QUYyZm05NGxQT003T0RTcEJ1SmtETmtaMGJtSHhFZG5IZnNfZWRNckd3YlRUNnFUb2Z4S0dnWmNtSjJJUFJ4eGwyWnJUZDFUNW9KcllicGNfYksyRkdmTVB6ekNnS09pYjNVeEpjdGNfQlRla2VZZXQ5akZFNFlGQm9tQQ?oc=5",
@@ -877,6 +911,29 @@
    "added": 1795874422712,
    "cat": null,
    "titleKo": "아마존 배송 기사가 첼시의 노팅엄 포레스트전 패배 후 상자에 적힌 가혹한 메시지로 제이슨 컨디를 조롱했습니다."
+  },
+  {
+   "id": "https://www.skysports.com/football/news/11095/13617492/chelsea-must-beat-crystal-palace-but-are-the-players-behind-under-fire-boss-xabi-alonso-asks-paul-merson",
+   "title": "Merson: Chelsea must beat Palace, but are the players behind Alonso?",
+   "link": "https://www.skysports.com/football/news/11095/13617492/chelsea-must-beat-crystal-palace-but-are-the-players-behind-under-fire-boss-xabi-alonso-asks-paul-merson",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795872660000,
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-merson-says-premier-league_7414330.jpg?20261123112357",
+   "added": 1795877307318,
+   "cat": null,
+   "titleKo": "머슨: 첼시는 팰리스를 이겨야 하지만, 선수들이 알론소를 지지하고 있을까요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlpWRFNnZ0ZYWVpUU2JGcGstVmcyM3V3Z2lpS0I0c3gwdmVSYWlMVFdZajhkd2tuQm1CRGZlRXg5aENFUXhfTUY5dlBqUEV5SW1XMUtuWjd1dkZwUjZBd0Zyc2syMmdIRWtqb1RHUHBkTFFMNlMxUThXTjFOZV8xb2lZRk5UUzFNWE5HaFAxN1ZqVG1MLVZYSVNtbUk1dw?oc=5",
+   "title": "Chelsea Player Brutally Booed by His Own Fans",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlpWRFNnZ0ZYWVpUU2JGcGstVmcyM3V3Z2lpS0I0c3gwdmVSYWlMVFdZajhkd2tuQm1CRGZlRXg5aENFUXhfTUY5dlBqUEV5SW1XMUtuWjd1dkZwUjZBd0Zyc2syMmdIRWtqb1RHUHBkTFFMNlMxUThXTjFOZV8xb2lZRk5UUzFNWE5HaFAxN1ZqVG1MLVZYSVNtbUk1dw?oc=5",
+   "source": "blue News",
+   "group": "영국 언론",
+   "date": 1795872485000,
+   "added": 1795877307319,
+   "cat": null,
+   "titleKo": "첼시 선수, 자신의 팬들에게 혹독한 야유를 받다"
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/wesley-fofana-chelsea-nottingham-forest-34980479",
@@ -1042,6 +1099,17 @@
    "added": 1795867346421,
    "cat": null,
    "titleKo": "비난을 받고 있는 첼시가 직면한 11가지 문제"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGpEckFQRndMMkNZOERzQVpJaDJlRXZLUW5mWERnelpPY1B1bTlsTGxtdEVWa0lqQjNfMFBSWVF6Ym1yNG82TTh6RHBQUVBwWUZrVENONkhtV1NBclZXckwwZmNvNUpwT2VWWFhkOXpZYVdQZVBObElEbTJ6RVNyZ1FCeEx6Q2dUdjZCNS1WQjdnVVVpLU5QWGh5cGdVR01yNHd5em5jYUlOY1oweVRhY0VSQmhBTXB3RDB2QlRZdw?oc=5",
+   "title": "Emmanuel Petit and Rob Green calls for Chelsea patience with Xabi Alonso",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGpEckFQRndMMkNZOERzQVpJaDJlRXZLUW5mWERnelpPY1B1bTlsTGxtdEVWa0lqQjNfMFBSWVF6Ym1yNG82TTh6RHBQUVBwWUZrVENONkhtV1NBclZXckwwZmNvNUpwT2VWWFhkOXpZYVdQZVBObElEbTJ6RVNyZ1FCeEx6Q2dUdjZCNS1WQjdnVVVpLU5QWGh5cGdVR01yNHd5em5jYUlOY1oweVRhY0VSQmhBTXB3RDB2QlRZdw?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795864276000,
+   "added": 1795877307318,
+   "cat": null,
+   "titleKo": "에마뉘엘 프티와 롭 그린, 첼시가 사비 알론소에 대해 인내심을 가질 것을 촉구"
   },
   {
    "id": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-man-utd-chelsea-liverpool-nico-paz-fresneda-forbs-b1303142.html",
@@ -4189,74 +4257,6 @@
    "added": 1795728139152,
    "cat": "인터뷰",
    "titleKo": "클럽 고문이 차비 알론소가 첼시에서 경질될 가능성에 대해 밝힘"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/nottingham-forest/injury-news/team-news/nottingham-forest-vs-chelsea-injury-suspension-list-predicted-xis_609858.html",
-   "title": "Nottingham Forest vs. Chelsea injury, suspension list, predicted XIs",
-   "link": "https://www.sportsmole.co.uk/football/nottingham-forest/injury-news/team-news/nottingham-forest-vs-chelsea-injury-suspension-list-predicted-xis_609858.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795723200000,
-   "image": "https://www.sportsmole.co.uk/thumbor/Rh6ALqEz5oCJVZiTqY0S4FxLrU4=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsport-379985-0045-1-1-6b01b9a14982c230400155.jpg",
-   "added": 1795724836142,
-   "cat": "부상",
-   "titleKo": "노팅엄 포레스트 vs 첼시 부상, 출장 정지 명단, 예상 선발 명단"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3Wkw0VllZUXJSZ2o3NC1JYkNmWXp2LTQ4T3EtUUYyc1gwRVNlQ3c1Uk5OR1AxYTdQRmJ3d2tEbks0NVgxYVZWanAzQ2VBVnphMnJRYkI0dkEtTnRjOEFkV01WUy1WelJ4MFJwY08xWlVqajhkNXF0ZnRRaw?oc=5",
-   "title": "첼시 전 공동소유주 보일리, 고수익 감당…부실 신용 다음인가?",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3Wkw0VllZUXJSZ2o3NC1JYkNmWXp2LTQ4T3EtUUYyc1gwRVNlQ3c1Uk5OR1AxYTdQRmJ3d2tEbks0NVgxYVZWanAzQ2VBVnphMnJRYkI0dkEtTnRjOEFkV01WUy1WelJ4MFJwY08xWlVqajhkNXF0ZnRRaw?oc=5",
-   "source": "BeInCrypto",
-   "group": "한국 언론",
-   "date": 1795723104000,
-   "added": 1795829141013,
-   "cat": null,
-   "titleKo": "첼시 전 공동소유주 보일리, 고수익 감당…부실 신용 다음인가?"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzVqdHZHcDV0dm11TlpmTGpUanl5Y2RzLWxaR2U3ZlpkVVc1dDF4TzBqMHJnOUpxX21qSjk2MlU1ZjZSbTlNYk83X1dmQVZqSjFseGxUR2xNdG80WkxpYmtZaFZHVVBkTWVNU0ZLVFF5eWlmYTV3dG5hUUVJNy03X0lzd0dRMU9tM3cwanFIN1lROElFb25OcHdFbTRxQ1JJek01RThHTTFyd9IBvgFBVV95cUxORllIT0NLTTFweGhrWE1CLTh6RHRxUHNWMk5jYzlVb21SU2ppYmt3clJ5bmpmMUZUUlhMNGhDcGc3UXZzM2JIaXhwWXJ2Z3hvSnR6Mk9OWTFiVlBvVDNCdzJocVFEUnhUck9WcExzRjZYelU1MUEtZUlVbG5zY3A5cURXT0djTm9rY1Bxa0pDc2pCYVpJUFR3MmRycnlUTXkyMThoeTZ0X2VQVUE1U28wNW9jV3N3SFlQRkFuSlVR?oc=5",
-   "title": "Man killed at Chelsea Thanksgiving Eve football game identified",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzVqdHZHcDV0dm11TlpmTGpUanl5Y2RzLWxaR2U3ZlpkVVc1dDF4TzBqMHJnOUpxX21qSjk2MlU1ZjZSbTlNYk83X1dmQVZqSjFseGxUR2xNdG80WkxpYmtZaFZHVVBkTWVNU0ZLVFF5eWlmYTV3dG5hUUVJNy03X0lzd0dRMU9tM3cwanFIN1lROElFb25OcHdFbTRxQ1JJek01RThHTTFyd9IBvgFBVV95cUxORllIT0NLTTFweGhrWE1CLTh6RHRxUHNWMk5jYzlVb21SU2ppYmt3clJ5bmpmMUZUUlhMNGhDcGc3UXZzM2JIaXhwWXJ2Z3hvSnR6Mk9OWTFiVlBvVDNCdzJocVFEUnhUck9WcExzRjZYelU1MUEtZUlVbG5zY3A5cURXT0djTm9rY1Bxa0pDc2pCYVpJUFR3MmRycnlUTXkyMThoeTZ0X2VQVUE1U28wNW9jV3N3SFlQRkFuSlVR?oc=5",
-   "source": "MassLive",
-   "group": "영국 언론",
-   "date": 1795721340000,
-   "added": 1795724836143,
-   "cat": null,
-   "titleKo": "첼시 추수감사절 전야 축구 경기에서 사망한 남성 신원 확인"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEFScUVNWmNIcTNTSWRtQzJ1TUZJemh2dDR2aWpiSS1UNXJXcmE3SzJ4dXQwNFpuaklDUlFqMDlfaE5objNCRnRkdTVDcWhhcFJVRHlyTmxGNWNQQzhteWcxQzBxTDFzREZNV29zMFJKM3htdEMxdjZYX3hrRm1JdEtsbmdxQVR0bjc5OXprQUZ2SG12SVpfM1ZjUUVMVXdsVnA0NGVtcUVHWVNBa0R4d2I0anY0dlBLMU9vOFhDdWJzdVB3LXpMVFU2RW9UZ0RwbUdNenRxcWxDSXFoV3lF?oc=5",
-   "title": "Chelsea Q&A: Your questions answered on Wesley Fofana, transfers, Danny Welbeck, Estevao and more",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEFScUVNWmNIcTNTSWRtQzJ1TUZJemh2dDR2aWpiSS1UNXJXcmE3SzJ4dXQwNFpuaklDUlFqMDlfaE5objNCRnRkdTVDcWhhcFJVRHlyTmxGNWNQQzhteWcxQzBxTDFzREZNV29zMFJKM3htdEMxdjZYX3hrRm1JdEtsbmdxQVR0bjc5OXprQUZ2SG12SVpfM1ZjUUVMVXdsVnA0NGVtcUVHWVNBa0R4d2I0anY0dlBLMU9vOFhDdWJzdVB3LXpMVFU2RW9UZ0RwbUdNenRxcWxDSXFoV3lF?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795721039000,
-   "added": 1795728139151,
-   "cat": "이적",
-   "titleKo": "첼시 Q&A: 웨슬리 포파나, 이적, 대니 웰벡, 에스테바오 등에 대한 질문에 대한 답변"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPQTc4NHdYTVppYmh3ZFdLRXVhUTFMMVU1UEFJaFFwR082NjU4dHJGOVJxcERQOVJYN2RoVXpVZkExUzI0ODIyZ3NCbnhONHR6UXpMOVFhNVJCR21CUUFTQk13aTVIV0tfeGY5S045aExlTUl5Nm80eDlFcE1EaDhfNGJtOVp2RlYzNTdVMjB1NDZ0LUxoMXVCam41LXdVbGpaQ3p0QmJ0c1c2Ny12YnJabmV4TElxWGs3ZlV0eXJCelV4NmRIVHNxQllYN1BSTGRYQ1AtU3l5dmZHb0FrZERUUElBd0F2SUk1V01qTS1LWmdOdmRZWUNBSkVJMTc5Q3p5TjF3eDhwWm9yeldBNnMyZEFzVWpjS2RCNVc4?oc=5",
-   "title": "Chelsea Cup Nike Third Stadium Shirt 2026-27 - Womens with Estêvão 41 printing",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPQTc4NHdYTVppYmh3ZFdLRXVhUTFMMVU1UEFJaFFwR082NjU4dHJGOVJxcERQOVJYN2RoVXpVZkExUzI0ODIyZ3NCbnhONHR6UXpMOVFhNVJCR21CUUFTQk13aTVIV0tfeGY5S045aExlTUl5Nm80eDlFcE1EaDhfNGJtOVp2RlYzNTdVMjB1NDZ0LUxoMXVCam41LXdVbGpaQ3p0QmJ0c1c2Ny12YnJabmV4TElxWGs3ZlV0eXJCelV4NmRIVHNxQllYN1BSTGRYQ1AtU3l5dmZHb0FrZERUUElBd0F2SUk1V01qTS1LWmdOdmRZWUNBSkVJMTc5Q3p5TjF3eDhwWm9yeldBNnMyZEFzVWpjS2RCNVc4?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795720910000,
-   "added": 1795804151126,
-   "cat": null,
-   "titleKo": "첼시컵 나이키 서드 스타디움 유니폼 상의 2026/27 - 여성용, 에스테바오 41 프린트"
-  },
-  {
-   "id": "https://www.talkchelsea.net/injury-news/alonsos-injury-update-joao-pedro-caicedo-lacroix/",
-   "title": "Alonso’s injury update on Joao Pedro, Moises Caicedo and Maxence Lacroix",
-   "link": "https://www.talkchelsea.net/injury-news/alonsos-injury-update-joao-pedro-caicedo-lacroix/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795720729000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/moises-caicedo-chelsea-e1791570772156-414x278.jpg",
-   "added": 1795721381015,
-   "cat": "부상",
-   "titleKo": "알론소 감독이 전하는 주앙 페드로, 모이세스 카이세도, 막상스 라크루아의 부상 소식"
   }
  ]
 }
