@@ -1,23 +1,23 @@
 {
- "updated": 1795883080724,
+ "updated": 1795886099191,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 1,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 11,
+  "Evening Standard": 10,
   "The Sun": 1,
   "Mirror": 4,
   "Daily Mail": 9,
   "Telegraph": 5,
   "Independent": 3,
   "Express": 0,
-  "Sports Mole": 12,
+  "Sports Mole": 10,
   "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 71,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
@@ -844,6 +844,17 @@
  },
  "items": [
   {
+   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lmT0dUalloN3Z2akhtSEdXbkx6T0U5ZnhOdTVrdmhWMGhQU3pQNUlJQ2NpazQ4NVZ4ZUlxeF9VV2lSODRaY21HZU9BME5JRDdCYnNhTmtsVE9CWDIxT0Q5TzZMaXd0UjMtbk00eEFuLW5GNVNhVE1jVlhRNTE5MG9sTQ?oc=5",
+   "title": "'I've become used to it' - Wesley Fofana hits out at racist abuse as Chelsea defender's X account disappears after Nottingham Forest defeat",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lmT0dUalloN3Z2akhtSEdXbkx6T0U5ZnhOdTVrdmhWMGhQU3pQNUlJQ2NpazQ4NVZ4ZUlxeF9VV2lSODRaY21HZU9BME5JRDdCYnNhTmtsVE9CWDIxT0Q5TzZMaXd0UjMtbk00eEFuLW5GNVNhVE1jVlhRNTE5MG9sTQ?oc=5",
+   "source": "Yahoo",
+   "group": "영국 언론",
+   "date": 1795883027000,
+   "added": 1795886095326,
+   "cat": null,
+   "titleKo": "'이제 익숙해졌어요' - 첼시 수비수 포파나가 노팅엄 포레스트와의 경기 패배 후 X 계정이 사라진 가운데 인종차별에 대해 비판하다"
+  },
+  {
    "id": "https://www.thesun.co.uk/sport/41183775/wesley-fofana-appears-to-delete-his-x-account/",
    "title": "Wesley Fofana appears to DELETE his X account after being told to ‘f*** off’ by furious Chelsea fans over interview",
    "link": "https://www.thesun.co.uk/sport/41183775/wesley-fofana-appears-to-delete-his-x-account/",
@@ -923,6 +934,17 @@
    "added": 1795874422713,
    "cat": null,
    "titleKo": "첼시의 전설 조 콜, 웨슬리 포파나에 대한 팬들의 가혹한 야유 이후 사비 알론소의 경질을 요구"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3d2Qk5zSTA3SmpBWHNqM2dEYnVzR3pGaWZMSnRQMVhDVTc1ckRIemVyeDBFWWpySlMxQ3NTXzNvb2N0ZnJDN09pWXhTSjNMQ3dFQS1oeUEtY08tVzc0X3hpcHQzOGh3VXUxNWJSWlNNYXZIVkh6WWdXakJBRlFTMWFEVVp2dzB5LTJZM2hpS1U0cnJJNHc1SUh5LVhFZHVhNHp6Zk44djQ3dw?oc=5",
+   "title": "\"Abuse and calls to leave\": Chelsea fans turn on this player",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3d2Qk5zSTA3SmpBWHNqM2dEYnVzR3pGaWZMSnRQMVhDVTc1ckRIemVyeDBFWWpySlMxQ3NTXzNvb2N0ZnJDN09pWXhTSjNMQ3dFQS1oeUEtY08tVzc0X3hpcHQzOGh3VXUxNWJSWlNNYXZIVkh6WWdXakJBRlFTMWFEVVp2dzB5LTJZM2hpS1U0cnJJNHc1SUh5LVhFZHVhNHp6Zk44djQ3dw?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795873292000,
+   "added": 1795886095326,
+   "cat": null,
+   "titleKo": "\"괴롭힘과 퇴단 요구\": 첼시 팬들이 이 선수에게 등을 돌리다"
   },
   {
    "id": "https://www.talkchelsea.net/news/blind-stupid-pundit-according-to-read-the-room/",
@@ -1284,6 +1306,17 @@
    "added": 1795861522009,
    "cat": null,
    "titleKo": "조 콜, 팬들이 웨슬리 포파나에게 '꺼져'라고 말한 후 첼시에 대처 방법을 조언하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNGhsNTZHbW5ycjd3U2pwVHZuY3NuaXVlUmduTmttczdIbnFNNkNGVVlQZlpFSjdmaWhVUHdPd293TEMya09DR1dVejVXMVBSSGhJdlA4VXR6T0Z5LXVhdTZLYlA5a2tsV19Jc3NHd1lFT1l6VFZIZW5R?oc=5",
+   "title": "- Chelsea Football Club",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNGhsNTZHbW5ycjd3U2pwVHZuY3NuaXVlUmduTmttczdIbnFNNkNGVVlQZlpFSjdmaWhVUHdPd293TEMya09DR1dVejVXMVBSSGhJdlA4VXR6T0Z5LXVhdTZLYlA5a2tsV19Jc3NHd1lFT1l6VFZIZW5R?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795858885000,
+   "added": 1795886095327,
+   "cat": null,
+   "titleKo": "- 첼시 축구 클럽"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YSWp0NTdhcjVzVHRBS1J0aDMwWkZrUHZlTDVKSXFFal82SDFLazNqVm1BOEgwRDFabUxVVzhlTDl1dkYwX3cxVjdudTFlbFNXVzFIdUVnaVdscmVMQlVBbzhBbWRZYmJ3YS1LaVRrV3kwdw?oc=5",
@@ -4223,40 +4256,6 @@
    "added": 1795735192405,
    "cat": "부상",
    "titleKo": "샤비 알론소, 주앙 페드로의 복귀 시기가 밝혀지면서 첼시 FC의 새로운 부상자 명단을 발표했습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWJ5X09tVGVyblZNdUwzQ2xYMEtZaWR1QnpzUVBGX3U4b2ticUF0bDRDdGFuV2JVOWRRTEVrMjNKNHA4bXNUUlN1c1phT1JfY0pwYm5HajE3YXhBQ2JDRHZyT2VDZGtyS3VPa3pnMmxPeXNaNGw3bUpoYlJUdXVrU2tmTFpfVzdybEYxYVoxeFFUT2EybHBUY1lRRlctRUE?oc=5",
-   "title": "Alonso hits back at Carragher claim as Chelsea ‘responsibility’ claimed",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWJ5X09tVGVyblZNdUwzQ2xYMEtZaWR1QnpzUVBGX3U4b2ticUF0bDRDdGFuV2JVOWRRTEVrMjNKNHA4bXNUUlN1c1phT1JfY0pwYm5HajE3YXhBQ2JDRHZyT2VDZGtyS3VPa3pnMmxPeXNaNGw3bUpoYlJUdXVrU2tmTFpfVzdybEYxYVoxeFFUT2EybHBUY1lRRlctRUE?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795732306000,
-   "added": 1795735192405,
-   "cat": null,
-   "titleKo": "알론소, 첼시가 '책임'이 있다는 캐러거의 주장에 반격"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-news-joao-pedro-update-alonso-b1306610.html",
-   "title": "Xabi Alonso issues new Chelsea injury update as Joao Pedro return timeline revealed",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-news-joao-pedro-update-alonso-b1306610.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795732209000,
-   "image": "https://static.standard.co.uk/2026/11/26/20/2299537258..?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795735192405,
-   "cat": "부상",
-   "titleKo": "샤비 알론소, 주앙 페드로의 복귀 시기가 밝혀지면서 첼시 부상자 명단에 대한 새로운 소식을 전했습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR01TZXhpaUY2cFl2RlluODhqaFVCR0RMR3R6c3BNcExoS3cxWUwzNnZVXzA4MklRbTN1bFZyMnpuRHRLNE1NN3lLNkIyck9acE1CSlJ4Y2hXbEpXV3U1SmcwUUQ3RDFuV1dJeGV0cjl5Y180LVQ4UXYybjZ0YUJibzRPQ1FTYm5wTEFHbGZ0Mk1TNVVEdElmei1kRQ?oc=5",
-   "title": "‘Chelsea standards not acceptable’ — but can Xabi Alonso deliver change?",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR01TZXhpaUY2cFl2RlluODhqaFVCR0RMR3R6c3BNcExoS3cxWUwzNnZVXzA4MklRbTN1bFZyMnpuRHRLNE1NN3lLNkIyck9acE1CSlJ4Y2hXbEpXV3U1SmcwUUQ3RDFuV1dJeGV0cjl5Y180LVQ4UXYybjZ0YUJibzRPQ1FTYm5wTEFHbGZ0Mk1TNVVEdElmei1kRQ?oc=5",
-   "source": "The Times",
-   "group": "영국 언론",
-   "date": 1795732200000,
-   "added": 1795778386138,
-   "cat": null,
-   "titleKo": "'첼시의 수준은 용납할 수 없다' — 하지만 사비 알론소가 변화를 가져올 수 있을까요?"
   }
  ]
 }
