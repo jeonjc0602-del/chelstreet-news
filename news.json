@@ -1,5 +1,5 @@
 {
- "updated": 1795840202057,
+ "updated": 1795843779897,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -16,12 +16,12 @@
   "Sports Mole": 14,
   "CaughtOffside": 1,
   "90min": 1,
-  "The Athletic": 3,
-  "구글뉴스(영어)": 69,
+  "The Athletic": 2,
+  "구글뉴스(영어)": 68,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 41,
+  "구글뉴스(한국어)": 39,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -1312,6 +1312,17 @@
    "titleKo": "프리미어리그: 노팅엄 포레스트 3-2 첼시 - 올리버 글라스너 감독 경기 후 인터뷰"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmdzdEcxV1p0dFNFMlZHSnBVZXFpeGgxNGNrUjZhdGFVaDVrbkw1YVFPYW9uZ1RXX1VuQ0c0QlpvRktNbXNhTm5qYjFaUW1SM2U4cndUZUg0RlRXV0pNVUp4ZkVQN1NtS2NLYkx3bHBwTzRtRjFlT0gxVUx2cXpmWTMyZUVHd29JSUotR0I1RDFGQ3l1LWZQQ0JJNUxkX29hZ0xfXy1zT0xrTGRzZndudWNGYzBaTTlIN18zWE5Cc1F6Qi1vRld5ODNKeDdGOXU3U0Zz?oc=5",
+   "title": "Gibbs-White revels in Forest victory over Chelsea: 'I don't see many teams stopping us'",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmdzdEcxV1p0dFNFMlZHSnBVZXFpeGgxNGNrUjZhdGFVaDVrbkw1YVFPYW9uZ1RXX1VuQ0c0QlpvRktNbXNhTm5qYjFaUW1SM2U4cndUZUg0RlRXV0pNVUp4ZkVQN1NtS2NLYkx3bHBwTzRtRjFlT0gxVUx2cXpmWTMyZUVHd29JSUotR0I1RDFGQ3l1LWZQQ0JJNUxkX29hZ0xfXy1zT0xrTGRzZndudWNGYzBaTTlIN18zWE5Cc1F6Qi1vRld5ODNKeDdGOXU3U0Zz?oc=5",
+   "source": "DAZN",
+   "group": "영국 언론",
+   "date": 1795819671000,
+   "added": 1795843775474,
+   "cat": null,
+   "titleKo": "깁스-화이트, 첼시를 상대로 한 노팅엄 포레스트의 승리에 만족: '우리 팀을 막을 수 있는 팀은 많지 않을 것'"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXRqdkl4UjNuUm1XTDBvd2lNWnhjd3Nfbk1NOHRPcGdhd1dhWnJfb0FWUGxScGpvbFdTWUZUSjZhay1Tall2Xzc5UGxSdlZsenB3RmlDQnRTUktXWkhYU01ORHVFano3d2ZTakZDWVo5ZklzZ09PTkJfWjloRGh1TUZtOWozOFRp?oc=5",
    "title": "'We need to stick together and go through this moment' - Xabi Alonso calls for unity after Chelsea's 3-2 defeat at Nottingham Forest",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXRqdkl4UjNuUm1XTDBvd2lNWnhjd3Nfbk1NOHRPcGdhd1dhWnJfb0FWUGxScGpvbFdTWUZUSjZhay1Tall2Xzc5UGxSdlZsenB3RmlDQnRTUktXWkhYU01ORHVFano3d2ZTakZDWVo5ZklzZ09PTkJfWjloRGh1TUZtOWozOFRp?oc=5",
@@ -1997,6 +2008,17 @@
    "added": 1795814766283,
    "cat": "프리뷰",
    "titleKo": "노팅엄 포레스트 대 첼시(2026년 11월 27일) 팀 기록"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbmZaTkpiMVg2aFVaTTZ0TnZUNDNwVHNCM28tNk1KbXl5QlhFTnpPYlgtYnRhTWhOUnN6RTBQc3J4Z2pvNkNuY0NtMllkWGlNTnlyMzZLdE1ucDlIek1zM2RUWmlrOFRMbnVGbnc0bw?oc=5",
+   "title": "Chelsea Overview",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbmZaTkpiMVg2aFVaTTZ0TnZUNDNwVHNCM28tNk1KbXl5QlhFTnpPYlgtYnRhTWhOUnN6RTBQc3J4Z2pvNkNuY0NtMllkWGlNTnlyMzZLdE1ucDlIek1zM2RUWmlrOFRMbnVGbnc0bw?oc=5",
+   "source": "Goal.com",
+   "group": "영국 언론",
+   "date": 1795809600000,
+   "added": 1795843775474,
+   "cat": null,
+   "titleKo": "첼시 개요"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51Z3N2V2RhR19SRmxadXRBTmtmYUs0VGNiT2tUT0t4Z0xaMjQxcU5tc3BEc2xLRmdoLUVaMWcxdFpSWnNiLUhqWVA2V1hveE9RZTloTVJBRnM2MFp2QmYzNkJVSXZhUVk?oc=5",
@@ -4239,29 +4261,6 @@
    "added": 1795703515835,
    "cat": null,
    "titleKo": "첼시 축구 경기에서 발생한 치명적인 총격 사건의 용의자 수색이 계속되고 있습니다."
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/nottingham-forest/how-to-watch/how-to-watch-nottingham-forest-vs-chelsea-date-time-live-stream-and-tv-channel_609915.html",
-   "title": "Nottingham Forest vs. Chelsea: How to watch, date, time, live stream and TV channel for Premier League clash",
-   "link": "https://www.sportsmole.co.uk/football/nottingham-forest/how-to-watch/how-to-watch-nottingham-forest-vs-chelsea-date-time-live-stream-and-tv-channel_609915.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795700246000,
-   "image": "https://www.sportsmole.co.uk/thumbor/1t1TGLzwN8T8TV5CjonUNuYzs0I=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsport-376853-0003-1-6af1714099ca5911649120.jpg",
-   "added": 1795703515835,
-   "cat": null,
-   "titleKo": "노팅엄 포레스트 vs 첼시: 프리미어리그 경기 시청 방법, 날짜, 시간, 라이브 스트리밍 및 TV 채널"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1MzQzUwWXZ2aGt6Qjk3OGNHa0RLUU5SZ2ttNTVlZ3JadHhoVFoxNng1WkktZGtyZVpRM3BzN01VZ3B4YmtYVE12Um80YnVkVUJwTE5sZ0dEWmZiNHdxOXhOSjA3ZXlLNUFnS3NKa2U3OWtuWF8wT2JIdVozeUVMUWttaE1ETzN1YU1VdDlLWEZ3MHdia0pTZFNHRk5WOVJENWZMR3R2NEJVR2FpTHlqQkJfUFdnM3J2NVpnaGtVZw?oc=5",
-   "title": "Chelsea keeping tabs on 21-year-old defender ahead of January transfer window: Reports",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1MzQzUwWXZ2aGt6Qjk3OGNHa0RLUU5SZ2ttNTVlZ3JadHhoVFoxNng1WkktZGtyZVpRM3BzN01VZ3B4YmtYVE12Um80YnVkVUJwTE5sZ0dEWmZiNHdxOXhOSjA3ZXlLNUFnS3NKa2U3OWtuWF8wT2JIdVozeUVMUWttaE1ETzN1YU1VdDlLWEZ3MHdia0pTZFNHRk5WOVJENWZMR3R2NEJVR2FpTHlqQkJfUFdnM3J2NVpnaGtVZw?oc=5",
-   "source": "Sportskeeda",
-   "group": "영국 언론",
-   "date": 1795699620000,
-   "added": 1795703515835,
-   "cat": "이적",
-   "titleKo": "첼시, 1월 이적 시장을 앞두고 21세 수비수 주시: 보도"
   }
  ]
 }
