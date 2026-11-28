@@ -1,12 +1,12 @@
 {
- "updated": 1795891368351,
+ "updated": 1795894626446,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 2,
   "talkSPORT": 7,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 9,
+  "Evening Standard": 8,
   "The Sun": 2,
   "Mirror": 4,
   "Daily Mail": 7,
@@ -17,7 +17,7 @@
   "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 74,
+  "구글뉴스(영어)": 73,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 3,
@@ -27,7 +27,7 @@
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": "실패: 403",
+  "FotMob": 10,
   "이번 상대": "다음 경기를 못 찾음"
  },
  "match": {
@@ -852,7 +852,41 @@
    "date": 1795890792000,
    "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41189357.jpg?quality%3D90%26strip%3Dall",
    "added": 1795891366157,
-   "cat": "이적"
+   "cat": "이적",
+   "titleKo": "노팅엄 포레스트와의 경기에서 벤치에 앉아 있던 에스테바오, '1월 이적을 위해 PSG가 영입을 고려'하는 첼시의 부적응 선수"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVg1Q0w5bGlKM0gySFVZVzhqVzJ1YmdiRE4ybVA4YlQ5VU1jaW5Ubm5CLThRaEVqR0VhZTFVYzFpSm8zamRlODdFUEFGdFFnSnZiNm5sVDUwZjY5MXIyZzBFZkQ3eXBTNXZadUdPZWdtelJndHgwNlZGcG85UU9mX2V6VVNlVThTZ3FaOXJVaHEycTFCcE9tWHpGTm5YMmRadWtTNm1VNmljMmROVEtMZ1ZIdnY?oc=5",
+   "title": "EPL: “Chelsea conceded sloppy goals against Nottingham Forest”- Jordan Henderson",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVg1Q0w5bGlKM0gySFVZVzhqVzJ1YmdiRE4ybVA4YlQ5VU1jaW5Ubm5CLThRaEVqR0VhZTFVYzFpSm8zamRlODdFUEFGdFFnSnZiNm5sVDUwZjY5MXIyZzBFZkQ3eXBTNXZadUdPZWdtelJndHgwNlZGcG85UU9mX2V6VVNlVThTZ3FaOXJVaHEycTFCcE9tWHpGTm5YMmRadWtTNm1VNmljMmROVEtMZ1ZIdnY?oc=5",
+   "source": "Citi Sports Online",
+   "group": "영국 언론",
+   "date": 1795890344000,
+   "added": 1795894615995,
+   "cat": null,
+   "titleKo": "EPL: \"첼시는 노팅엄 포레스트를 상대로 허술한 실점을 내줬다\"- 조던 헨더슨"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFdYVi1falF3YnVvREhGM0lXS1NOWmVraVhiTHJMU29lTTRRT1NTejZaSW5iQVdtQmNwbnB1emsycy02djZMTXVKUVRnWmRUWDFJUk9oV1dEdVVlSU0xZThVLWVQWVJjRmVwRDIxRkdNcFpmT193bnVXeUstX2g1b0djTXA4Znh3WGpIcy1xU3Q5RXlZMndFNkVocjQ3cHNy?oc=5",
+   "title": "MK Dons v Chelsea U21 | Match",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFdYVi1falF3YnVvREhGM0lXS1NOWmVraVhiTHJMU29lTTRRT1NTejZaSW5iQVdtQmNwbnB1emsycy02djZMTXVKUVRnWmRUWDFJUk9oV1dEdVVlSU0xZThVLWVQWVJjRmVwRDIxRkdNcFpmT193bnVXeUstX2g1b0djTXA4Znh3WGpIcy1xU3Q5RXlZMndFNkVocjQ3cHNy?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795888683000,
+   "added": 1795894615996,
+   "cat": null,
+   "titleKo": "MK 돈스 vs 첼시 U21 | 경기"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlVFSkVEdngwcDlrZWQtTDlDcm11NTM2OXBUaDVJQlYwVVk1Slk2bnpIZ0pXWFJiT0NTUXhRWmh1cWdoZHhNZ3pZSkgtZTVYRDFiNG1peWtnQ0ZSMVJWME9ONUh2QzgwTmtHeXJIbk1nSkdrN3UySGVNZmNreXhIck5KalJpeC1EYmNRT3U0R29fd2ZyeDZzR0RiUndQWFh1V1F4aEdKd1dPVUc0U2JRN1NIZlEwR0pTSnZUY3p6NHBfY1d2UnlXQzZqaw?oc=5",
+   "title": "PGA U21 Women's League vs Brighton and Hove Albion Women U21",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlVFSkVEdngwcDlrZWQtTDlDcm11NTM2OXBUaDVJQlYwVVk1Slk2bnpIZ0pXWFJiT0NTUXhRWmh1cWdoZHhNZ3pZSkgtZTVYRDFiNG1peWtnQ0ZSMVJWME9ONUh2QzgwTmtHeXJIbk1nSkdrN3UySGVNZmNreXhIck5KalJpeC1EYmNRT3U0R29fd2ZyeDZzR0RiUndQWFh1V1F4aEdKd1dPVUc0U2JRN1NIZlEwR0pTSnZUY3p6NHBfY1d2UnlXQzZqaw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795888683000,
+   "added": 1795894615996,
+   "cat": null,
+   "titleKo": "PGA U21 여자 리그 vs 브라이턴 앤 호브 앨비언 여자 U21"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3lKeXNVM3lWNlZpYkRyU2RFX2FPOTY2RUdETXFmazNNdmprZXZpSE44MTlaSWpDaXFINDNQal84bHZ6bjI4NGJnYnUtLTVoLWZYYm5ha2JDcklzaFNybE5KYTZDc1ZLTGlsa2tQVFN6b0RvUl8tcXJxeXRITGtMcW5Gd2N0M0d5X3hVaUY0YXVvOWE2OUpGYnlmTzcxeVBkT3pyZ2M4NXBXVHlfTG1n?oc=5",
@@ -886,7 +920,8 @@
    "group": "영국 언론",
    "date": 1795885622000,
    "added": 1795891366158,
-   "cat": null
+   "cat": null,
+   "titleKo": "첼시 축구 클럽의 17억 3천만 파운드 지출에도 불구하고 상황이 악화되는 이유"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lmT0dUalloN3Z2akhtSEdXbkx6T0U5ZnhOdTVrdmhWMGhQU3pQNUlJQ2NpazQ4NVZ4ZUlxeF9VV2lSODRaY21HZU9BME5JRDdCYnNhTmtsVE9CWDIxT0Q5TzZMaXd0UjMtbk00eEFuLW5GNVNhVE1jVlhRNTE5MG9sTQ?oc=5",
@@ -992,6 +1027,17 @@
    "titleKo": "\"괴롭힘과 퇴단 요구\": 첼시 팬들이 이 선수에게 등을 돌리다"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDlXdGJxWFloSjY1Z3k1M21xUU5PYTJkekxKb0NINVVxTGN3SUYxeWV6akI0VzJLTXZEeHVCODhodGVKYzFaWEFkbWc3anFHa2xfRWlVVER1eG5MeFZoSDE2NzgzWkc0TVJlcGgwdjgyNk1BQmU1dXhoRm1MWTBsY1J4Y3NYLUIxNmhVeWU5VWpPbFdWeVkwYkF3Ti1XZw?oc=5",
+   "title": "Eight mistakes Xabi Alonso made that cost Chelsea against Forest",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDlXdGJxWFloSjY1Z3k1M21xUU5PYTJkekxKb0NINVVxTGN3SUYxeWV6akI0VzJLTXZEeHVCODhodGVKYzFaWEFkbWc3anFHa2xfRWlVVER1eG5MeFZoSDE2NzgzWkc0TVJlcGgwdjgyNk1BQmU1dXhoRm1MWTBsY1J4Y3NYLUIxNmhVeWU5VWpPbFdWeVkwYkF3Ti1XZw?oc=5",
+   "source": "Football Today",
+   "group": "영국 언론",
+   "date": 1795873275000,
+   "added": 1795894615995,
+   "cat": null,
+   "titleKo": "샤비 알론소가 저지른 8가지 실수로 인해 첼시는 노팅엄 포레스트와의 경기에서 패배했습니다."
+  },
+  {
    "id": "https://www.talkchelsea.net/news/blind-stupid-pundit-according-to-read-the-room/",
    "title": "“Read the room” – Alonso is either blind or stupid after crazy lineup decision",
    "link": "https://www.talkchelsea.net/news/blind-stupid-pundit-according-to-read-the-room/",
@@ -1051,6 +1097,17 @@
    "titleKo": "첼시 팬들이 자팀 선수에게 등을 돌리자 웨슬리 포파나가 과감한 조치를 취하다"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFZTVXpaSHVPSXQwa2VqcmlSbE84dUdMSjBuMTloNkdZVWhBYjBEV2cxbnNQcnlPMTlZbHpod2xRYjRsVE0xM0pGY0hJR1M3RjhJWEJGcVItQkFNN0ZfM3FYamtVRW5sUlFFTW5nNjNib245RG9jRE9zR0Izd1hxZWZEcE5CSjBNYVJGSE9Ka9IBlAFBVV95cUxPbFlSRkg1Sjc0Rk9jR1FPYjFzS3R1NUVRRTNoZnNJdERRUVM4YmtvZE0xbWpGaHN4N1MwNWxsRmUyY2t2Xy1TV3lfUlQ2NnkyZjBiRlpzSGhndk44bXBEWnc0U2p2S1YyUHE5RWFoLVBvdGZUV3Nld1EwckhCeGRFOXhVR0EyWFpCcW14Y1VnZUdLVk5z?oc=5",
+   "title": "Five managers who could replace Xabi Alonso if Chelsea forced to sack boss",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFZTVXpaSHVPSXQwa2VqcmlSbE84dUdMSjBuMTloNkdZVWhBYjBEV2cxbnNQcnlPMTlZbHpod2xRYjRsVE0xM0pGY0hJR1M3RjhJWEJGcVItQkFNN0ZfM3FYamtVRW5sUlFFTW5nNjNib245RG9jRE9zR0Izd1hxZWZEcE5CSjBNYVJGSE9Ka9IBlAFBVV95cUxPbFlSRkg1Sjc0Rk9jR1FPYjFzS3R1NUVRRTNoZnNJdERRUVM4YmtvZE0xbWpGaHN4N1MwNWxsRmUyY2t2Xy1TV3lfUlQ2NnkyZjBiRlpzSGhndk44bXBEWnc0U2p2S1YyUHE5RWFoLVBvdGZUV3Nld1EwckhCeGRFOXhVR0EyWFpCcW14Y1VnZUdLVk5z?oc=5",
+   "source": "Daily Express",
+   "group": "영국 언론",
+   "date": 1795871640000,
+   "added": 1795894615995,
+   "cat": null,
+   "titleKo": "첼시가 감독을 경질해야 할 경우 하비 알론소를 대체할 수 있는 5명의 감독"
+  },
+  {
    "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699422",
    "title": "'카이세도를 센터백으로?' 알론소의 이해할 수 없는 용병술, 첼시의 추락은 어디까지...리그 6패+최다 실점 2위",
    "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699422",
@@ -1085,6 +1142,17 @@
    "added": 1795874422714,
    "cat": null,
    "titleKo": "18세 이하 프리미어리그 경기 결과: 크리스털 팰리스 0-1 첼시"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjdXR1NaNDVqcmI4bS1XSmRqWGdaaG1tbl81V25BM1MwdVFkR2xsM01VQ2dONVNCY0l2SWdhaENBbU9oQkRyZG8xQmN2OUlxUjBUOER4YnM1WDM3ODhkR1pNMnNrdE9PcUZPNDhSOWdkWklsUkp0NmhrbWV1TDJEQlVaZzVPcldHOTJRZzBJVlcwS1hhbVFzd3FIQ1bSAaIBQVVfeXFMTXJMQjJiRmtaNmZiQ2RYclBpTTJxRGNsc0dDNnBobnNkME50NXJEem5aX3VqQ2RJT1g5dTdzUDJmdFJ4NThRWG9reHVMR1FDVDNNWnQzUDV2M2Z5T0dORmhJRFhHWHI4c3EwSWJJVi1oYlFKV2NtYlktWWFtRmNqQ1pQYXUyTnc4TUlpaUJlT1pKRG9DeUFkblQ1T3I5ZHJLY3FR?oc=5",
+   "title": "Chelsea board make Xabi Alonso sack decision as Liverpool dodge huge bullet",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjdXR1NaNDVqcmI4bS1XSmRqWGdaaG1tbl81V25BM1MwdVFkR2xsM01VQ2dONVNCY0l2SWdhaENBbU9oQkRyZG8xQmN2OUlxUjBUOER4YnM1WDM3ODhkR1pNMnNrdE9PcUZPNDhSOWdkWklsUkp0NmhrbWV1TDJEQlVaZzVPcldHOTJRZzBJVlcwS1hhbVFzd3FIQ1bSAaIBQVVfeXFMTXJMQjJiRmtaNmZiQ2RYclBpTTJxRGNsc0dDNnBobnNkME50NXJEem5aX3VqQ2RJT1g5dTdzUDJmdFJ4NThRWG9reHVMR1FDVDNNWnQzUDV2M2Z5T0dORmhJRFhHWHI4c3EwSWJJVi1oYlFKV2NtYlktWWFtRmNqQ1pQYXUyTnc4TUlpaUJlT1pKRG9DeUFkblQ1T3I5ZHJLY3FR?oc=5",
+   "source": "Daily Express",
+   "group": "영국 언론",
+   "date": 1795869720000,
+   "added": 1795894615995,
+   "cat": null,
+   "titleKo": "첼시 이사회, 사비 알론소 경질 결정... 리버풀은 큰 위기 모면"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaV93eEdKM3pVUnBEcEVzaS10NnN5MG50aTZlRzhkVV8wMnE3bzVDN05xdGRialI4dkNBV2xlUXo5VGh2LUNWZVF6dHVIUUZJMW9xUWIwYzlvYXVIQVFXTjRKX0V5akNJZngxU2RZNno0OUlLSVVBY1B1RGNCcUs3d2xwYlp5R1dCeURMSE5HNkFNRUczbkcweENEMHJPTG1SUWdZeFJaeV9PNzF1aTlkYkRra2JSYUdtUFBzSG1SRnZIU1JvbU9sOTJnWFBUQ1BXdXRnWU1ielpZNFp5?oc=5",
@@ -1735,7 +1803,8 @@
    "group": "영국 언론",
    "date": 1795831380000,
    "added": 1795891366158,
-   "cat": null
+   "cat": null,
+   "titleKo": "알론소, 노팅엄 포레스트에 3-2로 패한 첼시의 포파나를 지지"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
@@ -1855,7 +1924,8 @@
    "group": "공식·FotMob",
    "date": 1795827191000,
    "added": 1795891366159,
-   "cat": null
+   "cat": null,
+   "titleKo": "첼시 Nike 홈경기장 유니폼 상의 2026/27 - 긴소매 - 아동용, 헨더슨 14 프린트"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5c9IBY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5cw?oc=5",
@@ -2672,7 +2742,8 @@
    "group": "영국 언론",
    "date": 1795815120000,
    "added": 1795891366158,
-   "cat": null
+   "cat": null,
+   "titleKo": "첼시가 노팅엄 포레스트 원정을 떠나고, 포체티노 감독이 이끄는 맨체스터 유나이티드는 브렌트퍼드를 홈으로 맞이합니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGQ1d1UTVUTlo1WGZIdHhWLWZvTDFodFlpQ0dFR0QyVlBvWDNzdGJNWXJrTkgyVDUtVUpVSDN3WTBNWng0SHU3RDdvWklLSGFvRWxJaGxtNlE3bkhIWnNibkZyZzBvY3dLV09n?oc=5",
@@ -4186,72 +4257,6 @@
    "added": 1795750843952,
    "cat": "이적",
    "titleKo": "첼시 이적 소식: 2027년을 앞두고 '블루스'가 보카 주니어스의 센터백을 '주목'"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUhFRWN1YXNfZ3NsMWRPTWx6VWIwTkp3c2VXQjhKdFkwWmlSVkdfN2l4Yjc1cVBYYUVlb3BaSU00NHdZbDZ0TU9LUjd2V0xBZW5vWUdfYllJRDJhZ2pla09iSFNlVklFQlZkWEpwcG8zNElmSEFWSW91aUt4c0dlcWpqYw?oc=5",
-   "title": "Chelsea FC vs. Nottingham Forest - November 27, 2026",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUhFRWN1YXNfZ3NsMWRPTWx6VWIwTkp3c2VXQjhKdFkwWmlSVkdfN2l4Yjc1cVBYYUVlb3BaSU00NHdZbDZ0TU9LUjd2V0xBZW5vWUdfYllJRDJhZ2pla09iSFNlVklFQlZkWEpwcG8zNElmSEFWSW91aUt4c0dlcWpqYw?oc=5",
-   "source": "Bleacher Report",
-   "group": "영국 언론",
-   "date": 1795743163000,
-   "added": 1795747308681,
-   "cat": null,
-   "titleKo": "첼시 FC 대 노팅엄 포레스트 - 2026년 11월 27일"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnJUSEFlWTVubE5vWTI1cjJoUzdzYlBlZnpqblFCNV9mSmJ5aWRac09EUDdhQ1VGVU1Fb0RpbWlJZmdfWFplRGJtemtOMWI3SkJHZEdGUHYtajBwdHVhQy1EYkY5X0ZsUndqQk9MODBCaWdEZklZTzNuTWpCZmRLcVBBMWJZcWZ6VW1yUWFtU01DOThCdWstajRVNA?oc=5",
-   "title": "Chelsea vs. Leeds: Preview, Predictions, Talking Points",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnJUSEFlWTVubE5vWTI1cjJoUzdzYlBlZnpqblFCNV9mSmJ5aWRac09EUDdhQ1VGVU1Fb0RpbWlJZmdfWFplRGJtemtOMWI3SkJHZEdGUHYtajBwdHVhQy1EYkY5X0ZsUndqQk9MODBCaWdEZklZTzNuTWpCZmRLcVBBMWJZcWZ6VW1yUWFtU01DOThCdWstajRVNA?oc=5",
-   "source": "Forza Football",
-   "group": "영국 언론",
-   "date": 1795741200000,
-   "added": 1795743727003,
-   "cat": "프리뷰",
-   "titleKo": "첼시 vs. 리즈: 프리뷰, 예측, 주요 논점"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3NrbTRlUzRjdWtoUDJZZmVkM0VObkJzWTkwRDNrWktMUWw5NFQ0T1BZMUJvcFBGNm9fSmRkTFpXOTV4bW9TbDkwXzJoNGxrMThaQlhqdzFvdHo0X2d4QmdwbnkwVDRmTzVUckh0M01FcF8wVENnY2k3Mi04cnR3UEtfOXdROHNuYnJPclgxelJZQ0RuMm9Pd012TWQ3ZEt3cWxFTEU2RTJHSzRiRHZNdVhhc01acHlDMmxkbmk2dTFaY3RE?oc=5",
-   "title": "Chelsea latest: Xabi Alonso calls on players to bounce back from Leeds defeat",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3NrbTRlUzRjdWtoUDJZZmVkM0VObkJzWTkwRDNrWktMUWw5NFQ0T1BZMUJvcFBGNm9fSmRkTFpXOTV4bW9TbDkwXzJoNGxrMThaQlhqdzFvdHo0X2d4QmdwbnkwVDRmTzVUckh0M01FcF8wVENnY2k3Mi04cnR3UEtfOXdROHNuYnJPclgxelJZQ0RuMm9Pd012TWQ3ZEt3cWxFTEU2RTJHSzRiRHZNdVhhc01acHlDMmxkbmk2dTFaY3RE?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795740975000,
-   "added": 1795743727003,
-   "cat": null,
-   "titleKo": "첼시 최신 소식: 사비 알론소, 선수들에게 리즈전 패배에서 벗어나라고 촉구"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFAzOThmTTVJNWhqc3JuMDVHU2FIeVJCRkljeXNLWmk2OVMwbnJPclRVcHJQaUpJYTBhTDUtOTQ1WUJsQjU3UnVlaThXLTE4d2dBZ051ejFEZVBnMUs0TS1HMVJkUEpTX0xUNWx2V1BEcnFRTll2azRmTUI3aGI4bmtuOXZrSzJ6dnFn?oc=5",
-   "title": "첼시: 새 감독 부임, 유럽 대회 불참에도 불구하고 고질적인 문제들은 여전히 ​​남아 있다.",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFAzOThmTTVJNWhqc3JuMDVHU2FIeVJCRkljeXNLWmk2OVMwbnJPclRVcHJQaUpJYTBhTDUtOTQ1WUJsQjU3UnVlaThXLTE4d2dBZ051ejFEZVBnMUs0TS1HMVJkUEpTX0xUNWx2V1BEcnFRTll2azRmTUI3aGI4bmtuOXZrSzJ6dnFn?oc=5",
-   "source": "Vietnam.vn",
-   "group": "한국 언론",
-   "date": 1795740299000,
-   "added": 1795747308681,
-   "cat": null,
-   "titleKo": "첼시: 새 감독 부임, 유럽 대회 불참에도 불구하고 고질적인 문제들은 여전히 ​​남아 있다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEFScUVNWmNIcTNTSWRtQzJ1TUZJemh2dDR2aWpiSS1UNXJXcmE3SzJ4dXQwNFpuaklDUlFqMDlfaE5objNCRnRkdTVDcWhhcFJVRHlyTmxGNWNQQzhteWcxQzBxTDFzREZNV29zMFJKM3htdEMxdjZYX3hrRm1JdEtsbmdxQVR0bjc5OXprQUZ2SG12SVpfM1ZjUUVMVXdsVnA0NGVtcUVHWVNBa0R4d2I0anY0dlBLMU9vOFhDdWJzdVB3LXpMVFU2RW9UZ0RwbUdNenRxcWxDSXFoV3lF?oc=5",
-   "title": "Chelsea Q&A: Your questions answered on Wesley Fofana, transfers, Danny Welbeck, Estevao and more",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEFScUVNWmNIcTNTSWRtQzJ1TUZJemh2dDR2aWpiSS1UNXJXcmE3SzJ4dXQwNFpuaklDUlFqMDlfaE5objNCRnRkdTVDcWhhcFJVRHlyTmxGNWNQQzhteWcxQzBxTDFzREZNV29zMFJKM3htdEMxdjZYX3hrRm1JdEtsbmdxQVR0bjc5OXprQUZ2SG12SVpfM1ZjUUVMVXdsVnA0NGVtcUVHWVNBa0R4d2I0anY0dlBLMU9vOFhDdWJzdVB3LXpMVFU2RW9UZ0RwbUdNenRxcWxDSXFoV3lF?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795739503000,
-   "added": 1795879903746,
-   "cat": "이적",
-   "titleKo": "첼시 Q&A: 웨슬리 포파나, 이적, 대니 웰벡, 에스테바오 등에 대한 여러분의 질문에 대한 답변"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTGFfMkpvZXBfVE51YjVmV3JhaktGNXdwSVVKaE9wNnFKTnMyX0RYS0hmNU5seF9ZOUlnZF9ZS2dRS0FYWTk5NjFzeXZmejZmZ0F4R0lEZUlhbFZhWXRyZ0VBaVlZTTA1N21EanR2MGlDUkdZc2N2TnFuWTdZcm9mcGNRVkdkS3lkSk1mV2hHM2lRZGUwLXB4eHpJVm5haW1UVTVmTXVrQVpiMHFzdFhWdWRFWTNnUy1TWW45MTZzN2lqMGVvRHRuVTB2M2tUc3g4LVhrRzM1YW9XeTRIZXZpbg?oc=5",
-   "title": "Unlock Stamford Bridge",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTGFfMkpvZXBfVE51YjVmV3JhaktGNXdwSVVKaE9wNnFKTnMyX0RYS0hmNU5seF9ZOUlnZF9ZS2dRS0FYWTk5NjFzeXZmejZmZ0F4R0lEZUlhbFZhWXRyZ0VBaVlZTTA1N21EanR2MGlDUkdZc2N2TnFuWTdZcm9mcGNRVkdkS3lkSk1mV2hHM2lRZGUwLXB4eHpJVm5haW1UVTVmTXVrQVpiMHFzdFhWdWRFWTNnUy1TWW45MTZzN2lqMGVvRHRuVTB2M2tUc3g4LVhrRzM1YW9XeTRIZXZpbg?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795738578000,
-   "added": 1795883076583,
-   "cat": null,
-   "titleKo": "스탬퍼드 브리지 잠금 해제"
   }
  ]
 }
