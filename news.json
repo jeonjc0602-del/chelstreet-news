@@ -1,5 +1,5 @@
 {
- "updated": 1795847337765,
+ "updated": 1795852028886,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -8,8 +8,8 @@
   "football.london": 25,
   "Evening Standard": 13,
   "The Sun": 5,
-  "Mirror": 3,
-  "Daily Mail": 7,
+  "Mirror": 2,
+  "Daily Mail": 8,
   "Telegraph": 5,
   "Independent": 2,
   "Express": 0,
@@ -21,7 +21,7 @@
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 40,
+  "구글뉴스(한국어)": 42,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -896,6 +896,52 @@
    "image": "https://cdn.besteleven.com/news/photo/202611/314403_245589_4241.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HakJCTHRtVnYwM0E4SmJXVi0ybkRYTHhZMUxrMDhpY0NjX2tPZnhQQVIySzlMSWtrcXBOX1BVVE5iS3JzVFc4c3RjV3NuZkg2bl9iaVduNkthMmZSaGw5dHJmSnA0SEY2UlR6MXUyR3JVQQ?oc=5",
+   "title": "브루노 대체자 찾는 맨유, 파스만 노리는 거 아니다...첼시 부순 ‘PL 15골 4도움’ 깁스-화이트 상황도 주시",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HakJCTHRtVnYwM0E4SmJXVi0ybkRYTHhZMUxrMDhpY0NjX2tPZnhQQVIySzlMSWtrcXBOX1BVVE5iS3JzVFc4c3RjV3NuZkg2bl9iaVduNkthMmZSaGw5dHJmSnA0SEY2UlR6MXUyR3JVQQ?oc=5",
+   "source": "포포투",
+   "group": "한국 언론",
+   "date": 1795850400000,
+   "added": 1795852020549,
+   "cat": null,
+   "titleKo": "브루노 대체자 찾는 맨유, 파스만 노리는 거 아니다...첼시 부순 ‘PL 15골 4도움’ 깁스-화이트 상황도 주시"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWxoYWduaklfX2h4djhNTWRpYmFVMDVva25CUXU0X2VFNzBjWUZGWExneXpuV3lUOW9WdmNHM244ZGI1QXZOX1dEdXlzYlFpR3VSQllMcHpXTjBHZFR0LVUtYUtUeXI4T3dNSXJMalRMRHNQUWcyYm9OOTNiZ2ZqODNETV9wYXJ0?oc=5",
+   "title": "Chelsea lose 3-2 at Forest, a third straight defeat for Xabi Alonso",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWxoYWduaklfX2h4djhNTWRpYmFVMDVva25CUXU0X2VFNzBjWUZGWExneXpuV3lUOW9WdmNHM244ZGI1QXZOX1dEdXlzYlFpR3VSQllMcHpXTjBHZFR0LVUtYUtUeXI4T3dNSXJMalRMRHNQUWcyYm9OOTNiZ2ZqODNETV9wYXJ0?oc=5",
+   "source": "3News",
+   "group": "영국 언론",
+   "date": 1795849637000,
+   "added": 1795852020549,
+   "cat": null,
+   "titleKo": "첼시, 노팅엄 포레스트에 3-2로 패배. 사비 알론소 감독, 3연패 기록"
+  },
+  {
+   "id": "https://www.dailymail.com/sport/football/article-16324535/xabi-alonso-wesley-fofana-chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "title": "Cruel Xabi Alonso exposed Wesley Fofana by starting under-fire star: Chelsea boss was as much at fault at his liability of a defender - and he is risking losing the fans with his baffling decisions, writes KIERAN GILL",
+   "link": "https://www.dailymail.com/sport/football/article-16324535/xabi-alonso-wesley-fofana-chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "group": "영국 언론",
+   "date": 1795849246000,
+   "image": "https://i.dailymail.com/1s/2026/11/27/23/112774299-0-image-a-37_1795821559558.jpg",
+   "added": 1795852020548,
+   "cat": null,
+   "titleKo": "하비 알론소가 웨슬리 포파나를 무참히 공격하며 비판받는 스타 선수를 선발 출전시켰습니다. 첼시 감독은 수비수로서의 책임에 대해 많은 비난을 받았으며, 당황스러운 결정으로 팬들을 잃을 위험에 처해 있다고 키에란 길 기자가 전합니다."
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/xabi-alonso-blame-chelsea-howler-34979520",
+   "title": "Xabi Alonso to blame for Chelsea howler as furious Wesley Fofana moment leaves easy decision",
+   "link": "https://www.football.london/chelsea-fc/news/xabi-alonso-blame-chelsea-howler-34979520",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795849200000,
+   "image": "https://i2-prod.football.london/incoming/article34979523.ece/ALTERNATES/s615/0_GettyImages-2306624487.jpg",
+   "added": 1795852020548,
+   "cat": null,
+   "titleKo": "샤비 알론소, 첼시의 실책에 대한 비난을 받다. 분노한 웨슬리 포파나의 순간으로 인해 쉬운 결정이 내려졌다."
+  },
+  {
    "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699414",
    "title": "[PL REVIEW] '알론소 거품이었나'...8위 첼시, 에메하 멀티골에도 노팅엄에 2-3 패! 3연패+5경기 4패",
    "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699414",
@@ -907,6 +953,28 @@
    "titleKo": "[PL REVIEW] '알론소 거품이었나'...8위 첼시, 에메하 멀티골에도 노팅엄에 2-3 패! 3연패+5경기 4패",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699414_833843_539_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVFwczNRVE1OVUwyRHZRSUpVVnAtRlZnUFRpSC1ISjZlWDgteDBFTmxac29HSEc2MWRTUkZHdG94b19xRGVxcnVyY2R6S2cxUWVxa2w0a2ZsN2dlLWwxY1R2cEpIT2RkQ19DellkLWtHNGNYX1g0cDVNdW9GLWFLVEtOeUR5Qjl2ZlI4d2Zzd3RLLXJydGtIOTNVT3oyUQ?oc=5",
+   "title": "Chelsea rocked by Forest as pressure on Alonso mounts",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVFwczNRVE1OVUwyRHZRSUpVVnAtRlZnUFRpSC1ISjZlWDgteDBFTmxac29HSEc2MWRTUkZHdG94b19xRGVxcnVyY2R6S2cxUWVxa2w0a2ZsN2dlLWwxY1R2cEpIT2RkQ19DellkLWtHNGNYX1g0cDVNdW9GLWFLVEtOeUR5Qjl2ZlI4d2Zzd3RLLXJydGtIOTNVT3oyUQ?oc=5",
+   "source": "Dhaka Tribune",
+   "group": "영국 언론",
+   "date": 1795847752000,
+   "added": 1795852020549,
+   "cat": null,
+   "titleKo": "알론소 감독에 대한 압박이 커지는 가운데, 첼시가 노팅엄 포레스트에 패배"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUx5aFVpYUpLdEc0d1F1RXRXbkx0ZTNkcy1mbTl2RExWU3VPYXlsOGFKYlNaT0JyWm5QSWpQck1wYjgtT2VkRFpGMnFNY3pnM0s5a1gtRWNyaVRJRHdDTUFyY09LaUJlZkNEWjA5bnNFRGlKdUYxRGFrb2NGcTNjSEo4UVdTNUJwRlR2eUk3RXBFb0ljMXBmMFJyZF83YTBjWlE?oc=5",
+   "title": "Henderson: Chelsea must improve quickly after Forest defeat",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUx5aFVpYUpLdEc0d1F1RXRXbkx0ZTNkcy1mbTl2RExWU3VPYXlsOGFKYlNaT0JyWm5QSWpQck1wYjgtT2VkRFpGMnFNY3pnM0s5a1gtRWNyaVRJRHdDTUFyY09LaUJlZkNEWjA5bnNFRGlKdUYxRGFrb2NGcTNjSEo4UVdTNUJwRlR2eUk3RXBFb0ljMXBmMFJyZF83YTBjWlE?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795845600000,
+   "added": 1795852020549,
+   "cat": null,
+   "titleKo": "헨더슨: 첼시는 노팅엄 포레스트에 패한 후 빠르게 개선해야 한다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMWJyTmo4RTd5TVF6cUVJemdraHF2c2pYMTBLeEhsc3pEUlZtLUJtSTJsLWEwUVF1elBtdTFNRmNQVXhleEFMVXNBdWtMRnFRSmtST1FEZFNuR1hwclpJLUdpSHV0QThKeHBHNXJlX3NpSHZjWXlNY3I1cEhaSVV0a19WbDFhcnRNbGE2bndIYmtJekFhREVPeE9QMlJnajB3YnRud1RCeXJEYmdlTUdPUVNKdW9YTVM4TUp3ZkNyVnl2ZDBFQlV6NjkxVEd2cmdYU0NQSTZ2RFNjdk9EeVplaFNqNmVHcVlzR1kxREJSTjU?oc=5",
@@ -1094,6 +1162,17 @@
    "added": 1795832963259,
    "cat": null,
    "titleKo": "첼시는 1997년 이후 최악의 패배를 당했다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT2F3b3F2Z1Y1bVJ4dW9zb0IybUZILXVxQ0hycEpESG9hT2JJM0tWU2VtdHJuVTVTcU4wQ0x2bFhMaGFDalFFbk9hTnp0U1NteFhoOTZfUXpJLVI2Q2JiZlFuTEw5cUttRG92bE5jdFFRVXNoSTdoSjBMeFA1NHE4VTVma0FBSmhPZG1pSnluYU9jT0xxbHZoaWhIbVlnbmZLRVN5Wll4M3BDa0g1TXMzWlJ4Z0RSTTZ2V0JxcFRNWEZKZnJCQm94ZTQ0U1NVODRrOXE2dGpOTnZ3M0xJaDlBTl93T1dqUXNSaXhF?oc=5",
+   "title": "What went wrong for Chelsea as Xabi Alonso's side slip to new low following dismal defeat at Nottingham Forest",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT2F3b3F2Z1Y1bVJ4dW9zb0IybUZILXVxQ0hycEpESG9hT2JJM0tWU2VtdHJuVTVTcU4wQ0x2bFhMaGFDalFFbk9hTnp0U1NteFhoOTZfUXpJLVI2Q2JiZlFuTEw5cUttRG92bE5jdFFRVXNoSTdoSjBMeFA1NHE4VTVma0FBSmhPZG1pSnluYU9jT0xxbHZoaWhIbVlnbmZLRVN5Wll4M3BDa0g1TXMzWlJ4Z0RSTTZ2V0JxcFRNWEZKZnJCQm94ZTQ0U1NVODRrOXE2dGpOTnZ3M0xJaDlBTl93T1dqUXNSaXhF?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795824418000,
+   "added": 1795852020548,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트에 참패한 후 사비 알론소의 팀이 새로운 저점으로 추락하면서 첼시에게 무슨 일이 있었는가"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUViUkRFTmZzUkxWRThQNWlPNEFtUFBjVTN4QVVBalh1UjRZa280ZWZXeWJ4eUhzWVlKcEtrQTQ2bXFmSENDTnRJQ0xnUU9yUnN0TTVyZDZWUW05MUR6ZlVPSUVhenBfOE55eEYwcmllLV9TYWFfdHhub1lMRy16WXh2X2JnbEJFVTkwdWJadnhjV19FdTBKVDdsb0tYSmRXZHFIM1YzNXQ0Ynd0emxJ?oc=5",
@@ -1723,6 +1802,17 @@
    "added": 1795818338884,
    "cat": null,
    "titleKo": "포레스트, 첼시를 꺾고 알론소 감독에게 압박 가해. 포파나, 야유 받아"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
+   "title": "Bournemouth - Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzZhQkM0R0NsZ1h3Nkp5b29yeTVQU1BMSldvWHJUZzB4c1RtRWpoMEdSN0VWTThnX1dZUDIxRWhZWWRmWWIzeG9FZkN0dnU1OEQzY0pJV0VsUlY3eG5ZSmZiUFg2WGdGUk5NTmtVczRiWjNBSV9tcUYxdVBETWl1SGZNRFFTSTg?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795815757000,
+   "added": 1795852020549,
+   "cat": null,
+   "titleKo": "본머스 - 첼시"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRllmVnp5M0lIQ0stQXMzcFd5TTQwbmZLWjYtSWRNRF94QTNWd3NTOFM1VmVtS0h5RDJuT2Y0aWlmM28wNkN3eng2VG8zM0RabE5WeDVIRDhYNGt2X1lQQVVFVGdnUzBsXzFrRnRKSlpfUWl6MlZ0NXdVV0ZFNFdETS12aWVwbGdFYmY5MWtCMUdyVUphenJVbktqTmU?oc=5",
@@ -4167,98 +4257,6 @@
    "added": 1795707270073,
    "cat": null,
    "titleKo": "첼시 축구 경기에서 총격 후 남성 사망"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEc5REVxZEdxYXBJTFlLZy1wUkRhbFphV3IyV0xXU1FWSThXWlVlR1NpM0JITUdZb0lrcWpzVDhEZ1JDUFRzeUNCdlZ0dzJCa2hhU0ZHV0FmVUI2U25EclZ4X3gzajREY1NGTjktSzRCWnE1UElLVzlSWmdfNzh0QmVaeTFSSC1ma1BhM2dfVEdxQ0hpQmFjcjJn?oc=5",
-   "title": "Alonso Press Conference 🎙️ | Video",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEc5REVxZEdxYXBJTFlLZy1wUkRhbFphV3IyV0xXU1FWSThXWlVlR1NpM0JITUdZb0lrcWpzVDhEZ1JDUFRzeUNCdlZ0dzJCa2hhU0ZHV0FmVUI2U25EclZ4X3gzajREY1NGTjktSzRCWnE1UElLVzlSWmdfNzh0QmVaeTFSSC1ma1BhM2dfVEdxQ0hpQmFjcjJn?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795704051000,
-   "added": 1795707270074,
-   "cat": "인터뷰",
-   "titleKo": "알론소 기자회견 🎙️ | 동영상"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeUNNaDY4RGVtNExTN1JOSExjNjg5NGhYLWZScXNsWTU5aTBmTVhyZXdMa3p6VG1NYUVkVE1DZFI4ZjMzN3RyYUEzU255eDhwVVh2NGcxTmJJNWo1ZmYyckhzOEtuVnN0dGl6aW5wNFYtcUkwZjRQWWl3WElrUlZBclpPWWRYVFpyb3FkRS1PckFRQXIta2t1dWlFRjU0MXQyWUFYLVVFVi1KN2stTXFvdEVnSzI1X3JaMnJjN2k3RDJNN1N0YUFxaUU2Y3oxeGZhV3M0?oc=5",
-   "title": "Chelsea latest: Xabi Alonso confirms Wesley Fofana apology following 'unfortunate' comments",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeUNNaDY4RGVtNExTN1JOSExjNjg5NGhYLWZScXNsWTU5aTBmTVhyZXdMa3p6VG1NYUVkVE1DZFI4ZjMzN3RyYUEzU255eDhwVVh2NGcxTmJJNWo1ZmYyckhzOEtuVnN0dGl6aW5wNFYtcUkwZjRQWWl3WElrUlZBclpPWWRYVFpyb3FkRS1PckFRQXIta2t1dWlFRjU0MXQyWUFYLVVFVi1KN2stTXFvdEVnSzI1X3JaMnJjN2k3RDJNN1N0YUFxaUU2Y3oxeGZhV3M0?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795704045000,
-   "added": 1795711189577,
-   "cat": "오피셜",
-   "titleKo": "첼시 최신 소식: 사비 알론소, '유감스러운' 발언에 대해 웨슬리 포파나에게 사과한 것을 확인"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34965833",
-   "title": "Every word Xabi Alonso said on Chelsea talks, Joao Pedro injury and Wesley Fofana interview",
-   "link": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34965833",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795703873000,
-   "image": "https://i2-prod.football.london/incoming/article34963173.ece/ALTERNATES/s615/0_GettyImages-2305475159.jpg",
-   "added": 1795707270073,
-   "cat": "부상",
-   "titleKo": "샤비 알론소가 첼시와의 협상, 주앙 페드로의 부상, 웨슬리 포파나 인터뷰에 대해 한 모든 말"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMi1QWHdhSjRfb29Ua3luUFUxZzItenVQQlFPTzdvbGhORFdlaFhoMFJVWlJKbGdvRjZZQkxMU0NCd1FpVlNBY0NpUTZiMk9MS2dsNVN3WXlPZ0JuLU55NEExczhzZ09HeDY0TllxcEZfbmJHOURNTW9vS21iMno0eGNPaE1BY2NIcE8zX1pyOHdGS2hEck4zSHZ1OW1adGZNamVnZTJNYzlhTThlTUVYNmFmYmXSAboBQVVfeXFMTlBKcGtaV0lKX3JrVTZ1Tld6cWYwOTBITjlXRTRZUlNnTXhDR0UwekhrVnY5dWNidzQyanVKbDc2TVBzcFlqMzcwUkxzOU1SUVBQcWd5aTB1ZnlYMDU3c2xZQXJwV1F2X1JOZjE2amRZSzY4MVlIOTFNMzRiOTBwTEp6UW1FZmR1Z2taQzBoMWJTYlhaeXlJLUYxLUhVeWVoMmhPR3NNQ2lULUhwWGhGUWJxY3ZNb3k0dEJB?oc=5",
-   "title": "Xabi Alonso confirms Moises Caicedo avoids injury in massive Chelsea boost",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMi1QWHdhSjRfb29Ua3luUFUxZzItenVQQlFPTzdvbGhORFdlaFhoMFJVWlJKbGdvRjZZQkxMU0NCd1FpVlNBY0NpUTZiMk9MS2dsNVN3WXlPZ0JuLU55NEExczhzZ09HeDY0TllxcEZfbmJHOURNTW9vS21iMno0eGNPaE1BY2NIcE8zX1pyOHdGS2hEck4zSHZ1OW1adGZNamVnZTJNYzlhTThlTUVYNmFmYmXSAboBQVVfeXFMTlBKcGtaV0lKX3JrVTZ1Tld6cWYwOTBITjlXRTRZUlNnTXhDR0UwekhrVnY5dWNidzQyanVKbDc2TVBzcFlqMzcwUkxzOU1SUVBQcWd5aTB1ZnlYMDU3c2xZQXJwV1F2X1JOZjE2amRZSzY4MVlIOTFNMzRiOTBwTEp6UW1FZmR1Z2taQzBoMWJTYlhaeXlJLUYxLUhVeWVoMmhPR3NNQ2lULUhwWGhGUWJxY3ZNb3k0dEJB?oc=5",
-   "source": "Tribuna.com",
-   "group": "영국 언론",
-   "date": 1795702895000,
-   "added": 1795707270074,
-   "cat": "오피셜",
-   "titleKo": "사비 알론소, 모이세스 카이세도가 큰 부상을 피했다고 확인하며 첼시에 큰 힘이 되어 줍니다."
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-injury-update-joao-pedro-caicedo-lacroix-b1306484.html",
-   "title": "Chelsea: Joao Pedro and Moises Caicedo injury latest as Xabi Alonso issues three-man update",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-injury-update-joao-pedro-caicedo-lacroix-b1306484.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795702817000,
-   "image": "https://static.standard.co.uk/2026/09/22/18/35/GettyImages-2292735567.jpg?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795703515835,
-   "cat": "부상",
-   "titleKo": "첼시: 사비 알론소 감독이 3명의 선수에 대한 소식을 전하면서 주앙 페드로와 모이세스 카이세도의 부상 소식도 함께 전해졌습니다."
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/chelsea-star-wesley-fofana-issues-34970046",
-   "title": "Chelsea star Wesley Fofana issues apology after bombshell interview as Xabi Alonso gives verdict",
-   "link": "https://www.football.london/chelsea-fc/news/chelsea-star-wesley-fofana-issues-34970046",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795702570000,
-   "image": "https://i2-prod.football.london/incoming/article34970072.ece/ALTERNATES/s615/0_GettyImages-2294370799.jpg",
-   "added": 1795703515834,
-   "cat": "인터뷰",
-   "titleKo": "첼시의 스타 선수 웨슬리 포파나가 폭탄 발언이 담긴 인터뷰 후 사과를 전하고, 사비 알론소가 이에 대한 의견을 밝혔습니다."
-  },
-  {
-   "id": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "title": "Chelsea latest: Fofana apologised over unauthorised interview, says Alonso",
-   "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795702500000,
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829",
-   "added": 1795703515834,
-   "cat": "인터뷰",
-   "titleKo": "첼시 최신 소식: 알론소 감독, 포파나가 무단 인터뷰에 대해 사과했다고 밝힘"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01S05PNzNsTHlqN0pabFFsUVBDLVprN1g2MzFJZ1ZlUUdydG1IdEd2Smo0THlGdkZhUlNJT1FvaG13bXpnM2xLMzAtZTdSTGJVYXF1SEdkSE55ejhUdUhyZ0F1azJRTmY0U3Q0a1V5bmV5ZE8zVjc5QlZB?oc=5",
-   "title": "Re - Chelsea FC",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01S05PNzNsTHlqN0pabFFsUVBDLVprN1g2MzFJZ1ZlUUdydG1IdEd2Smo0THlGdkZhUlNJT1FvaG13bXpnM2xLMzAtZTdSTGJVYXF1SEdkSE55ejhUdUhyZ0F1azJRTmY0U3Q0a1V5bmV5ZE8zVjc5QlZB?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795702296000,
-   "added": 1795714442780,
-   "cat": null,
-   "titleKo": "Re - 첼시 FC"
   }
  ]
 }
