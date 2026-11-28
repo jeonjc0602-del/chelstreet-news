@@ -1,5 +1,5 @@
 {
- "updated": 1795855086290,
+ "updated": 1795858253046,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -8,8 +8,8 @@
   "football.london": 25,
   "Evening Standard": 13,
   "The Sun": 6,
-  "Mirror": 2,
-  "Daily Mail": 8,
+  "Mirror": 3,
+  "Daily Mail": 9,
   "Telegraph": 5,
   "Independent": 2,
   "Express": 0,
@@ -21,7 +21,7 @@
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 44,
+  "구글뉴스(한국어)": 45,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -883,6 +883,29 @@
    "image": "https://cdn.besteleven.com/news/photo/202611/314407_245601_3130.jpg"
   },
   {
+   "id": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-wesley-fofana-37924619",
+   "title": "Xabi Alonso sends clear message to Chelsea fans after Wesley Fofana boos",
+   "link": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-wesley-fofana-37924619",
+   "source": "Mirror",
+   "group": "영국 언론",
+   "date": 1795856435000,
+   "image": "https://i2-prod.mirror.co.uk/incoming/article37924632.ece/ALTERNATES/s615/0_Nottingham-Forest-v-Chelsea-English-Premier-League-The-City-Ground-Nottingham-UK-27-November-2.jpg",
+   "added": 1795858246792,
+   "cat": null,
+   "titleKo": "사비 알론소, 웨슬리 포파나 야유 이후 첼시 팬들에게 명확한 메시지 전달"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YVXB3dnpuNzdvazZScUJIbmJNTFhiVUpkWWVUSkQ5ZEtzcVZSVG95WUM1UzlhVXhSeTJVVWM4NmtCbEJ2WGFCdGlRXzQ2Zk9TTEpfQ3N3MW81ZFU2VG41T0N1QllSdw?oc=5",
+   "title": "11월 3전 전패! 점점 더 멀어지는 챔스 티켓→`3연패` 첼시, EPL 중위권 추락",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YVXB3dnpuNzdvazZScUJIbmJNTFhiVUpkWWVUSkQ5ZEtzcVZSVG95WUM1UzlhVXhSeTJVVWM4NmtCbEJ2WGFCdGlRXzQ2Zk9TTEpfQ3N3MW81ZFU2VG41T0N1QllSdw?oc=5",
+   "source": "마이데일리",
+   "group": "한국 언론",
+   "date": 1795856400000,
+   "added": 1795858246793,
+   "cat": null,
+   "titleKo": "11월 3전 전패! 점점 더 멀어지는 챔스 티켓→`3연패` 첼시, EPL 중위권 추락"
+  },
+  {
    "id": "https://www.besteleven.com/news/articleView.html?idxno=314403",
    "title": "11월 치른 모든 경기 ‘패배’라니… 알론소 감독이 이끄는 첼시, 노팅엄에 3골 내주며 3연패→ EPL 최근 5경기 1승 4패",
    "link": "https://www.besteleven.com/news/articleView.html?idxno=314403",
@@ -927,6 +950,17 @@
    "added": 1795855074986,
    "cat": null,
    "titleKo": "\"넌 이곳에서 환영받지 못한다\"…첼시 CB 발언 후폭풍 어떡하나? 팬들 완전히 등 돌렸다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajAyWUNLLXloN3lEcVMybTM0VURORHh1OTdGUHdrQmczMl96dXlsbUZFSVp0bXRWNVdOQ3BXYzRCbGpjanVUYV9CMjF0TXpISldqcHhXUGJrNzlXMERtOUVnYmhpMVJLVDc0WUpnR040cnZkVDIwenhhZG9keWlBWUhtTEVXZ2lfLVR0aW9ZdE1uVzg1VmVFR3FmU0N3Zw?oc=5",
+   "title": "Xabi Alonso on the impact and desire of Emmanuel Emegha",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajAyWUNLLXloN3lEcVMybTM0VURORHh1OTdGUHdrQmczMl96dXlsbUZFSVp0bXRWNVdOQ3BXYzRCbGpjanVUYV9CMjF0TXpISldqcHhXUGJrNzlXMERtOUVnYmhpMVJLVDc0WUpnR040cnZkVDIwenhhZG9keWlBWUhtTEVXZ2lfLVR0aW9ZdE1uVzg1VmVFR3FmU0N3Zw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795852800000,
+   "added": 1795858246794,
+   "cat": null,
+   "titleKo": "에마뉘엘 에메가의 영향력과 열정에 대한 사비 알론소의 생각"
   },
   {
    "id": "https://www.thesun.co.uk/sport/41178806/chelsea-nottingham-forest-records-xabi-alonso/",
@@ -1098,6 +1132,17 @@
    "added": 1795836451053,
    "cat": null,
    "titleKo": "EPL 첼시, 알론소 감독 부임 후 첫 3연패…노팅엄에 2-3 패배"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1YzdmWk1YZlpxcmpSM1ZuTmVtdkpWQ2hSVjFIY2dvNWlWMUFkQnI2V0xuSU1lS1hEcG1DYzRuY0xVX0RIekNKQ3dRbjFXTmM?oc=5",
+   "title": "Alonso's Chelsea defensive woes deepen after Nottingham Forest defeat",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1YzdmWk1YZlpxcmpSM1ZuTmVtdkpWQ2hSVjFIY2dvNWlWMUFkQnI2V0xuSU1lS1hEcG1DYzRuY0xVX0RIekNKQ3dRbjFXTmM?oc=5",
+   "source": "懂球帝",
+   "group": "영국 언론",
+   "date": 1795833480000,
+   "added": 1795858246793,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트에 패한 후 더욱 심각해진 알론소의 첼시 수비 문제"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3gzb1ViaHpZN2VPYWg3VEdMV2lnVDlYRERvS3BEdm5xcTdhbk55bWFXaEFGbUJoSUN4Rlp1LW5idENvc01DQ0VmMTAyWVV0YXJiWi10TEVPQTlFem1uRXVjZ3ViYWJ2NjJiaktRZ3AwRllXZlZJc0NYZDJUempfOEhiWUVvOU9ETUtMYnp6UTN0YlpEWlVsRw?oc=5",
@@ -1524,6 +1569,17 @@
    "added": 1795843775474,
    "cat": null,
    "titleKo": "깁스-화이트, 첼시를 상대로 한 노팅엄 포레스트의 승리에 만족: '우리 팀을 막을 수 있는 팀은 많지 않을 것'"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jSm9YNzMxa1NIenZQc0Rja3lEU1pCZDBZdTNZN18xa3BMWGxmT29ibEEwVXEyUjA4Z2tNRzdadVhIcFVrcV9SMk9KUVJ2UG8?oc=5",
+   "title": "Henderson criticises Chelsea display at Nottingham Forest and praises Emegha",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jSm9YNzMxa1NIenZQc0Rja3lEU1pCZDBZdTNZN18xa3BMWGxmT29ibEEwVXEyUjA4Z2tNRzdadVhIcFVrcV9SMk9KUVJ2UG8?oc=5",
+   "source": "懂球帝",
+   "group": "영국 언론",
+   "date": 1795819560000,
+   "added": 1795858246793,
+   "cat": null,
+   "titleKo": "헨더슨, 노팅엄 포레스트전 첼시의 경기력 비판 및 에메가 칭찬"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXRqdkl4UjNuUm1XTDBvd2lNWnhjd3Nfbk1NOHRPcGdhd1dhWnJfb0FWUGxScGpvbFdTWUZUSjZhay1Tall2Xzc5UGxSdlZsenB3RmlDQnRTUktXWkhYU01ORHVFano3d2ZTakZDWVo5ZklzZ09PTkJfWjloRGh1TUZtOWozOFRp?oc=5",
@@ -3880,6 +3936,17 @@
    "titleKo": "카이세도, 라크루아, 페드로 - 노팅엄 포레스트전을 앞둔 첼시 부상자 최신 소식 및 복귀 일정"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2c1dHFVMkRXY2wwcVN0OUhuRWtHSEVUVEwxVm5ha01jMTBhUzRQU2wzcU1CS0trZUxTTWZrTjJzdkVXNkg4NEg2LUN2aEFNWGhFdl9pWEZITVk0cVZvcG1zMEpWemFoUDVuX3NEd3pQZVJhMWduLUtYQzdBNFNBbFB3dW5uYlZPT3p5WXpVQ1lpVXktLXJoQ2tCN0RFek4tbkpVOGhn?oc=5",
+   "title": "Xabi Alonso calls for a 'strong, competitive reaction' at Forest",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2c1dHFVMkRXY2wwcVN0OUhuRWtHSEVUVEwxVm5ha01jMTBhUzRQU2wzcU1CS0trZUxTTWZrTjJzdkVXNkg4NEg2LUN2aEFNWGhFdl9pWEZITVk0cVZvcG1zMEpWemFoUDVuX3NEd3pQZVJhMWduLUtYQzdBNFNBbFB3dW5uYlZPT3p5WXpVQ1lpVXktLXJoQ2tCN0RFek4tbkpVOGhn?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795716050000,
+   "added": 1795858246793,
+   "cat": null,
+   "titleKo": "사비 알론소, 노팅엄 포레스트전을 앞두고 '강력하고 경쟁력 있는 대응' 촉구"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEp3R0xneFZxeWRzZmJrNXFfSGx0dVM1dGxOcFNqSG5qRGV4VHNSWXpsOTlrTjZNam9yS0pwTzNvYW1XQ09uN1ZObVZoeWFwNklDYnp4MzhYalBxNjlwZ2l2d3RpVDRTUXhrYjVZQ09LUXFwNEIzdWw0T2RVMnJnQXJNd01ublhCa1lLa2JvYVlYYS1JVFJiTC1SOWNCQQ?oc=5",
    "title": "Training Gallery: Final preparations for Forest complete",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEp3R0xneFZxeWRzZmJrNXFfSGx0dVM1dGxOcFNqSG5qRGV4VHNSWXpsOTlrTjZNam9yS0pwTzNvYW1XQ09uN1ZObVZoeWFwNklDYnp4MzhYalBxNjlwZ2l2d3RpVDRTUXhrYjVZQ09LUXFwNEIzdWw0T2RVMnJnQXJNd01ublhCa1lLa2JvYVlYYS1JVFJiTC1SOWNCQQ?oc=5",
@@ -4187,74 +4254,6 @@
    "added": 1795717398489,
    "cat": "인터뷰",
    "titleKo": "첼시 Q&A: 블루스가 위기에 처했나요? 폭발적인 반응을 불러일으킨 인터뷰 이후 포파나의 다음 행보는?"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODh5eFhfelhlZDVxdl9sMEFtMFZQSm1NaU90RXZmQ0NOQUQ4emQ4ZkFxU1pHMjBmMThybUZTTzFWN3FKTWZoRW4tUUFXOURsSXJ1YVZHck5rRzNOUmhIOWdUcHFsczU4eTFQUlpsQTgxcEJEdDlZN2M5YmwtQUdRWnVvdEVCRU5aRFVoTUplaXVmUkVMMjZVVXJXTmh5MUY2WjZmM0l0OUxkZDBrWVNjZVllSUFUNjVwaWU4UTV5QUVmQ1RI?oc=5",
-   "title": "Chelsea injury update: Latest on Joao Pedro and more ahead of Nottingham Forest Premier League clash",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODh5eFhfelhlZDVxdl9sMEFtMFZQSm1NaU90RXZmQ0NOQUQ4emQ4ZkFxU1pHMjBmMThybUZTTzFWN3FKTWZoRW4tUUFXOURsSXJ1YVZHck5rRzNOUmhIOWdUcHFsczU4eTFQUlpsQTgxcEJEdDlZN2M5YmwtQUdRWnVvdEVCRU5aRFVoTUplaXVmUkVMMjZVVXJXTmh5MUY2WjZmM0l0OUxkZDBrWVNjZVllSUFUNjVwaWU4UTV5QUVmQ1RI?oc=5",
-   "source": "Sportskeeda",
-   "group": "영국 언론",
-   "date": 1795707840000,
-   "added": 1795711189577,
-   "cat": "부상",
-   "titleKo": "첼시 부상 소식 업데이트: 노팅엄 포레스트와의 프리미어리그 맞대결을 앞두고 조앙 페드로와 다른 선수들의 최신 소식"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/pedro-caicedo-lacroix-alonso-provides-mixed-chelsea-injury-update_609932.html",
-   "title": "Chelsea injury news: One fit, two out as Xabi Alonso provides update ahead of Nottingham Forest game",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/pedro-caicedo-lacroix-alonso-provides-mixed-chelsea-injury-update_609932.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795707715000,
-   "image": "https://www.sportsmole.co.uk/thumbor/DcAkj2p598WCvdKNONn27cGKJqs=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsport-377897-0234-1-6aedebaa4c439273070740.jpg",
-   "added": 1795711189577,
-   "cat": "부상",
-   "titleKo": "첼시 부상 소식: 사비 알론소 감독이 노팅엄 포레스트와의 경기를 앞두고 한 명은 출전 가능, 두 명은 출전 불가라고 밝힘"
-  },
-  {
-   "id": "https://www.independent.co.uk/sport/football/wesley-fofana-interview-chelsea-xabi-alonso-b3092292.html",
-   "title": "Xabi Alonso says Wesley Fofana ‘apologised’ to Chelsea for unauthorised interview",
-   "link": "https://www.independent.co.uk/sport/football/wesley-fofana-interview-chelsea-xabi-alonso-b3092292.html",
-   "source": "Independent",
-   "group": "영국 언론",
-   "date": 1795707497000,
-   "image": "https://static.independent.co.uk/2026/11/26/12/01M879NG5C5MFKZCEE8C3FP57V.jpg?width=1200&auto=webp&trim=0%2C1%2C0%2C1",
-   "added": 1795711189577,
-   "cat": "인터뷰",
-   "titleKo": "사비 알론소, 웨슬리 포파나가 무단 인터뷰에 대해 첼시에 '사과'했다고 밝힘"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeTZnTXBYeUJ1cktOYm52UEcyRVRXdXE2OV9QT1lPQjZNNERVblNFek1MTVRnYkIwYnI3ZGFDMDljX1Bpa002MlhSUHdmQWpGLXFHWlFkenFidG5KRWIxVmxLN0dwSGJKYVM4TThCX2RFcFlGWDdqUnBWeENFOTRDZVJDT2g0VVc4aExWX01xcW54dU5qLUVkQnphdUF5T3VCdXRHTUVTSWpKTi14TG5XenBwWWRvaGZqeWJNc3l5RElwRG9WYlpvTTRtWFp6QVlUVVdNaGxGcWlIbldxMW1xRGpMQzZoUQ?oc=5",
-   "title": "Chelsea Cup Nike Away Stadium Shirt 2026-27 - Kids with Dragoni 16 printing",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeTZnTXBYeUJ1cktOYm52UEcyRVRXdXE2OV9QT1lPQjZNNERVblNFek1MTVRnYkIwYnI3ZGFDMDljX1Bpa002MlhSUHdmQWpGLXFHWlFkenFidG5KRWIxVmxLN0dwSGJKYVM4TThCX2RFcFlGWDdqUnBWeENFOTRDZVJDT2g0VVc4aExWX01xcW54dU5qLUVkQnphdUF5T3VCdXRHTUVTSWpKTi14TG5XenBwWWRvaGZqeWJNc3l5RElwRG9WYlpvTTRtWFp6QVlUVVdNaGxGcWlIbldxMW1xRGpMQzZoUQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795706835000,
-   "added": 1795804151126,
-   "cat": null,
-   "titleKo": "첼시컵 나이키 원정 경기장 유니폼 상의 2026-27 - 아동용, 드라코니 16 프린트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiygpBVV95cUxOMkw5ZmhpOWZVVEVnLVRsWGNYUnlDeElBWVVzdHd5VTlkQ25iLVc2TE51aFY1NlZHTzl0WWs4bVhwYWozREUzUkFPcnIwRGlsdVBrU1lxbEotNTZxNlpUWF8zVDZyNDlHa0Y4c2dfZmY5bnRBYXV6S0xkOTBQbVhYNkJzMjZlNTBpbnQ0RS00UWVYcWttd0xVcUJEdlFJdDllR3JETTBUdV9oQjdXeXBrMmNtS0xjaHR1OEM3WEl3cHhPR0R0X0Z2bndwbWdzcFkwd0RTQi1pWm9xZ2NUTzNlT3dqeDVfZ080X3g0amE2eVJGZzFtcmsyTFJkNDhmanF0cFpaRzNvdmVTQWtNWVFyRTd6MVdrRklsS1Jsd0p3ejkzZnM4c29xSUcyUXlxdmRtSDV2d3VBcTUxZ1NEQnFXTEVGZ25WaENRX3RoclR4TUlxbTlzcnQ4QkZITW1YTXFpQWkxS25HdVBYeWpvVzBmRUlqdDJKQTVjcU92bFhUVjZtT01rVVlXMXlQUjh3RVQ5a1RIbzB2Sm41X1BCQmRMY2NJQ0s4MXpkUVM1aWozVlFpZy1WczB4dF9TbVg2YW1RTDdxLWlnNFhtY3RQOEQ4blJISi1lMEk0ZHBOUmlxR2RGOS0wZFpmZ0FTcWdZbHdWdHF4VS1TYWhtd0VYRmMyVUI0eWZkMGw5OGVQc183WmwtR0Z1OGx0UWE4WFh6QnVNMVNLRzdNc0xPLWNkN01aR29oYUh2RFVWX1ktbjE0VTh0VlpzZmlCZjkyZVI5cXMtWGhWWjByLTJSakhENmRmUURSWmhfc2hWZGY2NDl6b1VDa3hnbkI4NFZZMWE4cXRJRExVVmtuaWZiVXhTbFZINFBsVEpMaVlWdjlGNjVndWh4M1VpMmhLUjNrNVVnUUN6cno5aVhTV19haU51T2JzM3VzMlZJX2o1MllfQ2htWFliQVAzQUJOcU5hbVFnUWh5TTRIUTU0OUZPeC16aEt5akp2Zll3Z2I3cTREVElZRWRQeS1RMWhBVWw0alFscHBkQVZxQWIwaFhNTnJsVWx1dWtub2FDZUFMVk5NQS15dUktbm5pOTByeEFYTVZ3MHA3LVQ4WGcyckNlbnp5bFRMZU1HRU1DdE14cHFUX0F4clNkS3Q3Y2JxY0p4dC1RcTNMNS1rczkyZFJQWHBUd0VmYVIzaGk4R0NDTjMyZVFocjFKRll6TEo2MklfS09zSkhkS0FwaUJxOGtSeldTb1JOMzE3dlZjWE82QnU3NmxkWHZhUlJVOFlFOGs0V19aMTJ4RV9FVldEbi0tNFFYdXVjRHJFMWFrQmF3UGp4M3dkUFNhVDFBU1JadF9QSDZCTHZWczZjYzNuc2pMRTVDTmNDRHA0U19ZbFpUQ19qeHpBcXc4cjdpOFBrcUt3b3RWYXRWVVdYSEZjRTE2YU9QMlRKREQ1RWZyT3MyMkY3WEN1TlpaYllXY1JYRkJjc21lbl9sSkJ6eDR4TmhrT01TTHVDQm96ekJJMjZDb19HVzJfZjJucFJrN09CMWxqWUdHWkF6blpwNENPUmhmRWQ0cFVLQWxSMDZWOG5EUUVHdFV4b2Iwc3Q5aFpEaW45Snk5YzBkMkVoUmRPMFl2V3BPS05iOUJlcW5YT0otc3pvSGRzVGZsYVEzWEpjTElWdzNLVHQ4OHJKVjJKTjNYYW94cTBIU2tOemp4X240QU9TcjRFNk1VTW14MHROQk5LMW5tZGxkY3JFUmdLS3NpSHVjZFlrVDdxQzhNU25CVTd4Y3pPV28xbG1CTWxtcFhR?oc=5",
-   "title": "‘돈이 이렇게 무섭습니다’ 바르셀로나 복귀설 주앙 펠릭스, 알나스르와 2029년까지 합의…첼시도 2000만 유로 받는다",
-   "link": "https://news.google.com/rss/articles/CBMiygpBVV95cUxOMkw5ZmhpOWZVVEVnLVRsWGNYUnlDeElBWVVzdHd5VTlkQ25iLVc2TE51aFY1NlZHTzl0WWs4bVhwYWozREUzUkFPcnIwRGlsdVBrU1lxbEotNTZxNlpUWF8zVDZyNDlHa0Y4c2dfZmY5bnRBYXV6S0xkOTBQbVhYNkJzMjZlNTBpbnQ0RS00UWVYcWttd0xVcUJEdlFJdDllR3JETTBUdV9oQjdXeXBrMmNtS0xjaHR1OEM3WEl3cHhPR0R0X0Z2bndwbWdzcFkwd0RTQi1pWm9xZ2NUTzNlT3dqeDVfZ080X3g0amE2eVJGZzFtcmsyTFJkNDhmanF0cFpaRzNvdmVTQWtNWVFyRTd6MVdrRklsS1Jsd0p3ejkzZnM4c29xSUcyUXlxdmRtSDV2d3VBcTUxZ1NEQnFXTEVGZ25WaENRX3RoclR4TUlxbTlzcnQ4QkZITW1YTXFpQWkxS25HdVBYeWpvVzBmRUlqdDJKQTVjcU92bFhUVjZtT01rVVlXMXlQUjh3RVQ5a1RIbzB2Sm41X1BCQmRMY2NJQ0s4MXpkUVM1aWozVlFpZy1WczB4dF9TbVg2YW1RTDdxLWlnNFhtY3RQOEQ4blJISi1lMEk0ZHBOUmlxR2RGOS0wZFpmZ0FTcWdZbHdWdHF4VS1TYWhtd0VYRmMyVUI0eWZkMGw5OGVQc183WmwtR0Z1OGx0UWE4WFh6QnVNMVNLRzdNc0xPLWNkN01aR29oYUh2RFVWX1ktbjE0VTh0VlpzZmlCZjkyZVI5cXMtWGhWWjByLTJSakhENmRmUURSWmhfc2hWZGY2NDl6b1VDa3hnbkI4NFZZMWE4cXRJRExVVmtuaWZiVXhTbFZINFBsVEpMaVlWdjlGNjVndWh4M1VpMmhLUjNrNVVnUUN6cno5aVhTV19haU51T2JzM3VzMlZJX2o1MllfQ2htWFliQVAzQUJOcU5hbVFnUWh5TTRIUTU0OUZPeC16aEt5akp2Zll3Z2I3cTREVElZRWRQeS1RMWhBVWw0alFscHBkQVZxQWIwaFhNTnJsVWx1dWtub2FDZUFMVk5NQS15dUktbm5pOTByeEFYTVZ3MHA3LVQ4WGcyckNlbnp5bFRMZU1HRU1DdE14cHFUX0F4clNkS3Q3Y2JxY0p4dC1RcTNMNS1rczkyZFJQWHBUd0VmYVIzaGk4R0NDTjMyZVFocjFKRll6TEo2MklfS09zSkhkS0FwaUJxOGtSeldTb1JOMzE3dlZjWE82QnU3NmxkWHZhUlJVOFlFOGs0V19aMTJ4RV9FVldEbi0tNFFYdXVjRHJFMWFrQmF3UGp4M3dkUFNhVDFBU1JadF9QSDZCTHZWczZjYzNuc2pMRTVDTmNDRHA0U19ZbFpUQ19qeHpBcXc4cjdpOFBrcUt3b3RWYXRWVVdYSEZjRTE2YU9QMlRKREQ1RWZyT3MyMkY3WEN1TlpaYllXY1JYRkJjc21lbl9sSkJ6eDR4TmhrT01TTHVDQm96ekJJMjZDb19HVzJfZjJucFJrN09CMWxqWUdHWkF6blpwNENPUmhmRWQ0cFVLQWxSMDZWOG5EUUVHdFV4b2Iwc3Q5aFpEaW45Snk5YzBkMkVoUmRPMFl2V3BPS05iOUJlcW5YT0otc3pvSGRzVGZsYVEzWEpjTElWdzNLVHQ4OHJKVjJKTjNYYW94cTBIU2tOemp4X240QU9TcjRFNk1VTW14MHROQk5LMW5tZGxkY3JFUmdLS3NpSHVjZFlrVDdxQzhNU25CVTd4Y3pPV28xbG1CTWxtcFhR?oc=5",
-   "source": "Goal.com",
-   "group": "한국 언론",
-   "date": 1795706725000,
-   "added": 1795707270074,
-   "cat": null,
-   "titleKo": "‘돈이 이렇게 무섭습니다’ 바르셀로나 복귀설 주앙 펠릭스, 알나스르와 2029년까지 합의…첼시도 2000만 유로 받는다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3F5MjRac2pkNnRuQmlnSERjTEZNRjR2dDJlNVpUNlozM1pseHNTdFlHRFlHNndTVkd1VGl0X0RXV0VUY3h2aVJXT1hSdkZfRm0tREdOQ21hSS1iMkdqc0tRWUlWZld6RnRtVTltZXZFTVNpb2pCYVU2eWdrYk4zVmN3ODV0MGZG?oc=5",
-   "title": "Xabi Alonso breaks silence on Wesley Fofana's unauthorised Chelsea interview controversy",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3F5MjRac2pkNnRuQmlnSERjTEZNRjR2dDJlNVpUNlozM1pseHNTdFlHRFlHNndTVkd1VGl0X0RXV0VUY3h2aVJXT1hSdkZfRm0tREdOQ21hSS1iMkdqc0tRWUlWZld6RnRtVTltZXZFTVNpb2pCYVU2eWdrYk4zVmN3ODV0MGZG?oc=5",
-   "source": "Yahoo",
-   "group": "영국 언론",
-   "date": 1795706543000,
-   "added": 1795711189577,
-   "cat": "인터뷰",
-   "titleKo": "사비 알론소, 웨슬리 포파나의 무단 첼시 인터뷰 논란에 대해 침묵을 깨고 입을 열다"
   }
  ]
 }
