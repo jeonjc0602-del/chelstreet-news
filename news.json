@@ -1,5 +1,5 @@
 {
- "updated": 1795832964925,
+ "updated": 1795836459081,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -18,10 +18,10 @@
   "90min": 1,
   "The Athletic": 3,
   "구글뉴스(영어)": 69,
-  "인터풋볼": 1,
+  "인터풋볼": 2,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 34,
+  "구글뉴스(한국어)": 37,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -844,6 +844,19 @@
  },
  "items": [
   {
+   "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699419",
+   "title": "19위 맨유와 실점 동률-11월 전패 충격...알론소, 첼시서 조기 경질 위기! \"달라질 수 있다\" 극복 의지 밝혀",
+   "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699419",
+   "source": "인터풋볼",
+   "group": "한국 언론",
+   "date": 1795867200000,
+   "added": 1795836451053,
+   "cat": null,
+   "titleKo": "19위 맨유와 실점 동률-11월 전패 충격...알론소, 첼시서 조기 경질 위기! \"달라질 수 있다\" 극복 의지 밝혀",
+   "imgTried": true,
+   "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699419_833858_4143_v150.jpg"
+  },
+  {
    "id": "https://www.besteleven.com/news/articleView.html?idxno=314407",
    "title": "“우리는 네가 여기 있는 것을 원하지 않는다”… 논란의 인터뷰에 페널티킥까지 헌납한 포파나, 첼시 원정 팬들로부터 뭇매",
    "link": "https://www.besteleven.com/news/articleView.html?idxno=314407",
@@ -881,6 +894,28 @@
    "titleKo": "[PL REVIEW] '알론소 거품이었나'...8위 첼시, 에메하 멀티골에도 노팅엄에 2-3 패! 3연패+5경기 4패",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699414_833843_539_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFZ5TDNJOGVsc1c1ZjhiREpQLUJlWkpKSFJZc2c3M1lCeU5LcVRvMi1pZ01HLVB2M0lWUTNHQUtDSjVRUkdabVg0amZtbV9zQlp1amdYYmt3RFlrNXFiSHdxZW8yd24tWlROMHNoQ1BXSTBXNUl3ME9DOEVJSU15Z1pQcm4wUDhCWXN3QWp1MEwyQWs5X2tQR19rUTJNeWZVZzc3MXk4bzdwaVE?oc=5",
+   "title": "알론소는 첼시의 위기에 대해 솔직하게 말했다. \"외부 누구도 우리를 구할 수 없다.\"",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFZ5TDNJOGVsc1c1ZjhiREpQLUJlWkpKSFJZc2c3M1lCeU5LcVRvMi1pZ01HLVB2M0lWUTNHQUtDSjVRUkdabVg0amZtbV9zQlp1amdYYmt3RFlrNXFiSHdxZW8yd24tWlROMHNoQ1BXSTBXNUl3ME9DOEVJSU15Z1pQcm4wUDhCWXN3QWp1MEwyQWs5X2tQR19rUTJNeWZVZzc3MXk4bzdwaVE?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795835983000,
+   "added": 1795836451053,
+   "cat": "인터뷰",
+   "titleKo": "알론소는 첼시의 위기에 대해 솔직하게 말했다. \"외부 누구도 우리를 구할 수 없다.\""
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zWjhCMXpPYTBxMTI3VFMzSC1IMVlhc3BTbDZfTEo4TWlHOU1hbVZRTjBvQ3N5c1R0QXBQT0FibWNuaGE3S3RjcV9KVVFvblRaZl8wNldURExocWdFbHNzbQ?oc=5",
+   "title": "EPL 첼시, 알론소 감독 부임 후 첫 3연패…노팅엄에 2-3 패배",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zWjhCMXpPYTBxMTI3VFMzSC1IMVlhc3BTbDZfTEo4TWlHOU1hbVZRTjBvQ3N5c1R0QXBQT0FibWNuaGE3S3RjcV9KVVFvblRaZl8wNldURExocWdFbHNzbQ?oc=5",
+   "source": "뉴스1",
+   "group": "한국 언론",
+   "date": 1795833601000,
+   "added": 1795836451053,
+   "cat": null,
+   "titleKo": "EPL 첼시, 알론소 감독 부임 후 첫 3연패…노팅엄에 2-3 패배"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3gzb1ViaHpZN2VPYWg3VEdMV2lnVDlYRERvS3BEdm5xcTdhbk55bWFXaEFGbUJoSUN4Rlp1LW5idENvc01DQ0VmMTAyWVV0YXJiWi10TEVPQTlFem1uRXVjZ3ViYWJ2NjJiaktRZ3AwRllXZlZJc0NYZDJUempfOEhiWUVvOU9ETUtMYnp6UTN0YlpEWlVsRw?oc=5",
@@ -1072,6 +1107,17 @@
    "titleKo": "이상한 선수 선발과 부진한 기본기 - 첼시의 문제가 심화되고 있습니다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUElneW1xWkRuTzNfLVNwTm81VTRCcldkU3F4ekhDcHc4M19VaTZwRjNKUks0bkNWdVJESVZNSVl1OTRqSjludGtLQ0VkY0NfcGh5ZkNIRFprbW1faFAzVW9aWjZsemVKeFpZcV85bnJJdGNoS2w5ck1ndTJ2X3F5aWhEWWNxcldIcEdSbkxwVU00ejBOMDRybllUN2JKQk9JQk8weXBGNDIxSDNid2c1SFlpd2FnWVl4S2g4WS1FV05TN0owa2R3S1hXV0ZRY3NwOS1STFhkUjR2V0RuVXBv?oc=5",
+   "title": "'We don't take anyone apart' – Alonso stands by Chelsea defender Fofana",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUElneW1xWkRuTzNfLVNwTm81VTRCcldkU3F4ekhDcHc4M19VaTZwRjNKUks0bkNWdVJESVZNSVl1OTRqSjludGtLQ0VkY0NfcGh5ZkNIRFprbW1faFAzVW9aWjZsemVKeFpZcV85bnJJdGNoS2w5ck1ndTJ2X3F5aWhEWWNxcldIcEdSbkxwVU00ejBOMDRybllUN2JKQk9JQk8weXBGNDIxSDNid2c1SFlpd2FnWVl4S2g4WS1FV05TN0owa2R3S1hXV0ZRY3NwOS1STFhkUjR2V0RuVXBv?oc=5",
+   "source": "beIN SPORTS",
+   "group": "영국 언론",
+   "date": 1795822000000,
+   "added": 1795836451053,
+   "cat": null,
+   "titleKo": "'우리는 누구도 비난하지 않습니다' – 알론소, 첼시 수비수 포파나를 지지"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sRnVPUXFxRnhleVJtbndQdE9sNkRfd2lMb1p1eFFEcS13cmNicGdiOGhUQTRLWHNON0sxNDlzSEw5WDBDM2h5aE0wUQ?oc=5",
    "title": "노팅엄 포레스트, 첼시에 3-2 승리 : EPL",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sRnVPUXFxRnhleVJtbndQdE9sNkRfd2lMb1p1eFFEcS13cmNicGdiOGhUQTRLWHNON0sxNDlzSEw5WDBDM2h5aE0wUQ?oc=5",
@@ -1175,6 +1221,17 @@
    "titleKo": "사비 알론소: '모두에게 어려운 시기입니다'"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNW9CSEdqU3VxTjV5bTNWRVIySy1mSHlWN0V4TXIyNmRHZTVkZFdqMGdveUR3c0lCYjJTanl4dzZVLVNYTV9ncjljYVpkVHJSWm5FdkVNTDV5RFh2UXJTOGl5ZVdqVk5nVFlGYU84QVhMbUE4Q2Rfa21jdFl2VFFkVExscDloRVl3WHc4Mnd5QUxxZlF5V09maUFLWWxZU0h4RXJZR1N5SEN6a2pjWk44RHdoa1FySGo0YXJWWXZ1aE5LbFgxaXplZVQ3bkVIREs1eWhpN2FKWGJnaUVFQlNXbWpteEY1R3FZM0FEaDBicXZscm8?oc=5",
+   "title": "Gibbs-White’s double powers Nottingham Forest past Chelsea 3-2 in Premier League",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNW9CSEdqU3VxTjV5bTNWRVIySy1mSHlWN0V4TXIyNmRHZTVkZFdqMGdveUR3c0lCYjJTanl4dzZVLVNYTV9ncjljYVpkVHJSWm5FdkVNTDV5RFh2UXJTOGl5ZVdqVk5nVFlGYU84QVhMbUE4Q2Rfa21jdFl2VFFkVExscDloRVl3WHc4Mnd5QUxxZlF5V09maUFLWWxZU0h4RXJZR1N5SEN6a2pjWk44RHdoa1FySGo0YXJWWXZ1aE5LbFgxaXplZVQ3bkVIREs1eWhpN2FKWGJnaUVFQlNXbWpteEY1R3FZM0FEaDBicXZscm8?oc=5",
+   "source": "Times West Virginian",
+   "group": "영국 언론",
+   "date": 1795820400000,
+   "added": 1795836451053,
+   "cat": null,
+   "titleKo": "깁스-화이트의 멀티골로 노팅엄 포레스트가 프리미어리그에서 첼시를 3-2로 제압하다"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1MQl84Q3RvOXJzR2JBeTJlNEZRNlhzaTBmcW83aE1sWno4SzZ6a21telpTbDNuSklNM0dZ?oc=5",
    "title": "Xabi Alonso: ‘It’s a difficult moment for everyone’ | News | Official Site | Chelsea Football Club",
    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1MQl84Q3RvOXJzR2JBeTJlNEZRNlhzaTBmcW83aE1sWno4SzZ6a21telpTbDNuSklNM0dZ?oc=5",
@@ -1196,6 +1253,17 @@
    "added": 1795821721926,
    "cat": null,
    "titleKo": "'확실히': 샤비 알론소가 첼시전 활약 후 에마뉘엘 에메가에 대한 예측을 내놓다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXRqdkl4UjNuUm1XTDBvd2lNWnhjd3Nfbk1NOHRPcGdhd1dhWnJfb0FWUGxScGpvbFdTWUZUSjZhay1Tall2Xzc5UGxSdlZsenB3RmlDQnRTUktXWkhYU01ORHVFano3d2ZTakZDWVo5ZklzZ09PTkJfWjloRGh1TUZtOWozOFRp?oc=5",
+   "title": "'We need to stick together and go through this moment' - Xabi Alonso calls for unity after Chelsea's 3-2 defeat at Nottingham Forest",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXRqdkl4UjNuUm1XTDBvd2lNWnhjd3Nfbk1NOHRPcGdhd1dhWnJfb0FWUGxScGpvbFdTWUZUSjZhay1Tall2Xzc5UGxSdlZsenB3RmlDQnRTUktXWkhYU01ORHVFano3d2ZTakZDWVo5ZklzZ09PTkJfWjloRGh1TUZtOWozOFRp?oc=5",
+   "source": "Yahoo",
+   "group": "영국 언론",
+   "date": 1795819527000,
+   "added": 1795836451053,
+   "cat": null,
+   "titleKo": "'우리는 단합하여 이 시기를 헤쳐나가야 합니다' - 샤비 알론소, 노팅엄 포레스트에 3-2로 패한 후 단합을 촉구"
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34979410",
@@ -1817,6 +1885,17 @@
    "added": 1795811232710,
    "cat": "인터뷰",
    "titleKo": "첼시 팬들이 수비수의 충격적인 인터뷰 후 '꺼져라 포파나, 여기서는 환영받지 못한다'고 노래하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSzIxT3pCdWU5QVZYTmY0Z0NBcnBESmdIZ3E5US14dFVUcGxuTWZ5b1dxY09NR2N3VmlYZXcyTXVnN0loNTFZbHJYWElpZkV2ckxSdERBc0ZTbU5CT2ZkZkxIZnhRMmwtWWhiTmVpS1A2XzhvYkhKOFVlV294aWJEUWp3?oc=5",
+   "title": "Chelsea fans tell Fofana 'you're not welcome here' after shock interview",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSzIxT3pCdWU5QVZYTmY0Z0NBcnBESmdIZ3E5US14dFVUcGxuTWZ5b1dxY09NR2N3VmlYZXcyTXVnN0loNTFZbHJYWElpZkV2ckxSdERBc0ZTbU5CT2ZkZkxIZnhRMmwtWWhiTmVpS1A2XzhvYkhKOFVlV294aWJEUWp3?oc=5",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795810140000,
+   "added": 1795836451053,
+   "cat": "인터뷰",
+   "titleKo": "첼시 팬들이 충격적인 인터뷰 후 포파나에게 '당신은 이곳에서 환영받지 못한다'고 말하다"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFRsanVyb2oxeW40NFpueGhEdGxrLWlBNGxOZlQ5M2NBdGVWR0lzOTQzbkZjckxFWjNxX0tOZFZlb2V5T0h4SmozeGpDSkhrUE8xNHkzLWFvd3BxVFVITTU2N2Q1Y0pidWZUNGJmc1JnWUZFVWtjaTRfZC1wTzF4a1dwUVZTTzh5T2I1Q2xGVUZlVGs1UmRJ?oc=5",
@@ -2948,6 +3027,17 @@
    "titleKo": "첼시 부상자 소식: 카이세도, 주앙 페드로, 제임스의 최근 복귀일"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3JDN0xFOGd4dFJ5SEI3alVUc2dDWnhKOThKTFFucTRTWXEyNGdtQ1N4MnE3SUNYTlVGS3VoTkVYTDhDNmpUNEpRZFlCWW1WaUVWWHZnLWN1NjVfUkRLajB3RldEQl83SXpaelNkU3dUazljaUh0Y3ZrbURVb01WQ0xCNkN5MU0wZG9sMGVadk8tZHAybGtpVW03REJfZ2dxS2ZyX2xYWHB4QQ?oc=5",
+   "title": "Chelsea 9SEVENTY Cap - Navy",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3JDN0xFOGd4dFJ5SEI3alVUc2dDWnhKOThKTFFucTRTWXEyNGdtQ1N4MnE3SUNYTlVGS3VoTkVYTDhDNmpUNEpRZFlCWW1WaUVWWHZnLWN1NjVfUkRLajB3RldEQl83SXpaelNkU3dUazljaUh0Y3ZrbURVb01WQ0xCNkN5MU0wZG9sMGVadk8tZHAybGtpVW03REJfZ2dxS2ZyX2xYWHB4QQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795748592000,
+   "added": 1795836451054,
+   "cat": null,
+   "titleKo": "첼시 9SEVENTY 캡 - 네이비"
+  },
+  {
    "id": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/cb-solution-chelsea-monitor-boca-starlet-after-continental-triumph_609974.html",
    "title": "Chelsea transfer news: Blues 'closely monitor' Boca Juniors centre-back ahead of 2027",
    "link": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/cb-solution-chelsea-monitor-boca-starlet-after-continental-triumph_609974.html",
@@ -3430,6 +3520,17 @@
    "added": 1795717398489,
    "cat": null,
    "titleKo": "'아무도 헛소리할 수 없다': 토트넘 스타, 첼시의 비판 속에서 콜 파머를 옹호하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVNcmhGX3BtbHcyQ0hxNWdQbVJzMFlPdzhobmQwdURxTF96RWQxWVFFd0hPWjFBU1VQTFhZYldaQ0VMbkQxTUFubnZpdnJxRjhCZTJOVVZTTXJxRkcxMVpuMVotaFNCWmV6LW9CbkRoandRMWtCTFJNUHJpX2FZMDRfTFhncldpMFpGZ21lUjQwTl91U0Y3bEtNWTVzMG9QMHpUNFZvLTY?oc=5",
+   "title": "Chavarria: We're going to treat it like it's the last game we play",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVNcmhGX3BtbHcyQ0hxNWdQbVJzMFlPdzhobmQwdURxTF96RWQxWVFFd0hPWjFBU1VQTFhZYldaQ0VMbkQxTUFubnZpdnJxRjhCZTJOVVZTTXJxRkcxMVpuMVotaFNCWmV6LW9CbkRoandRMWtCTFJNUHJpX2FZMDRfTFhncldpMFpGZ21lUjQwTl91U0Y3bEtNWTVzMG9QMHpUNFZvLTY?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795715438000,
+   "added": 1795836451053,
+   "cat": null,
+   "titleKo": "차바리아: 마지막 경기처럼 임할 겁니다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNzBqRm9lNnJSRWhqVzhleWNrNzZKUjZ6SmJpVU5OcGd2M0xiQlZLU055dmUzb2lmOUpQWGdHMFNubW14T3RwVEdDYkEyZzRST0RId25maXE0bk90dGEtMkZqdHo0Rkh1TGJ3blJ0U1lvdmRlWk9YYXdHRHdHa09oQnlKYmI1anl6U1pDcFZDZ3hoYThTc2JWZXdyWEtBX2tvcHZGTVh0Zk9ldTVGTlplT1RiQWFReTM1dkhod21OblBKc2M?oc=5",
@@ -4163,109 +4264,6 @@
    "added": 1795698975223,
    "cat": null,
    "titleKo": "'3만 명의 페네르바체 팬'이 첼시 FC의 홈구장을 점령하며 플레어로 스탬퍼드 브리지를 붉게 물들이다"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-fenerbahce-flares-stamford-bridge-b1306525.html",
-   "title": "Flares turn Stamford Bridge red as ‘30,000 Fenerbahce fans’ take over Chelsea’s home",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-fenerbahce-flares-stamford-bridge-b1306525.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795696823000,
-   "image": "https://static.standard.co.uk/2026/11/26/12/35/Screenshot-2026-11-26-at-12-19-14.png?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795698975223,
-   "cat": null,
-   "titleKo": "'페네르바체 팬 3만 명'이 첼시의 홈구장을 점령하며 플레어로 스탬퍼드 브리지를 붉게 물들이다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3NQZGZYSG1VZlVWWE0yUFRBSlc1cnRKbnNEa2JuXzZ3V1hJOE9va1hWaGZjZ1RrZEZnRHhZSXFCNmpiSm1QaHdnOTFHbS0zSDBQbXNGQVBuYkxyUFlaQUxsRzBQbzFZY1YzVHUxR0RzUmxDQV84bFpNWHp5ZnhkZnptUGp0Mld2WF82bnF2cmVrVEVPa1dyT244OGVJUlhFSjExdEZuSXVkSG91?oc=5",
-   "title": "Football Data Room: Is Xabi Alonso's changing structure working against Chelsea?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3NQZGZYSG1VZlVWWE0yUFRBSlc1cnRKbnNEa2JuXzZ3V1hJOE9va1hWaGZjZ1RrZEZnRHhZSXFCNmpiSm1QaHdnOTFHbS0zSDBQbXNGQVBuYkxyUFlaQUxsRzBQbzFZY1YzVHUxR0RzUmxDQV84bFpNWHp5ZnhkZnptUGp0Mld2WF82bnF2cmVrVEVPa1dyT244OGVJUlhFSjExdEZuSXVkSG91?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795696566000,
-   "added": 1795703515835,
-   "cat": null,
-   "titleKo": "풋볼 데이터 룸: 사비 알론소의 변화하는 전술이 첼시를 상대로 효과를 발휘할까?"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/xabi-alonso-press-conference-live-34965477",
-   "title": "Xabi Alonso press conference LIVE - Chelsea boss on Fofana interview, Joao Pedro, Palmer form",
-   "link": "https://www.football.london/chelsea-fc/news/xabi-alonso-press-conference-live-34965477",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795696200000,
-   "image": "https://i2-prod.football.london/incoming/article34963197.ece/ALTERNATES/s615/0_GettyImages-2305475182.jpg",
-   "added": 1795698975223,
-   "cat": "인터뷰",
-   "titleKo": "사비 알론소 기자회견 생중계 - 첼시 감독이 포파나 인터뷰, 주앙 페드로, 팔머의 기량에 대해 이야기합니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFpOTUJLOEhhR0pLa1Rxck8xRDNwRWhoM01sQThpLVRhRVlZTDYxQU8yLU1zX1hnMzl3eTVBakFpWVo3eks3M1E5UGJPRTRjdGt3T24weV9ZWEdpbGM4QmdKeDFjbTV0YzNFQ3BSMVlUdHZHZTU0Y2tSRF9BajlRNk0wd0E3bGZJUEZyZG95X2l4Q19nNk1BRWZSU2JEbExFZ3RiQW5xSWN5aS1YRER0eW5GZ3RNel81M3RiUmp0cw?oc=5",
-   "title": "'Not the Chelsea of before' – SWP sounds alarm over Alonso's struggling Blues",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFpOTUJLOEhhR0pLa1Rxck8xRDNwRWhoM01sQThpLVRhRVlZTDYxQU8yLU1zX1hnMzl3eTVBakFpWVo3eks3M1E5UGJPRTRjdGt3T24weV9ZWEdpbGM4QmdKeDFjbTV0YzNFQ3BSMVlUdHZHZTU0Y2tSRF9BajlRNk0wd0E3bGZJUEZyZG95X2l4Q19nNk1BRWZSU2JEbExFZ3RiQW5xSWN5aS1YRER0eW5GZ3RNel81M3RiUmp0cw?oc=5",
-   "source": "DAZN",
-   "group": "영국 언론",
-   "date": 1795696200000,
-   "added": 1795698975223,
-   "cat": null,
-   "titleKo": "'예전의 첼시가 아니다' – SWP, 알론소 감독이 이끄는 첼시의 부진에 대해 우려를 표명"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/athletic-claims-chelsea-players-alonso-methods/",
-   "title": "Athletic claims Chelsea players “unconvinced” by Alonso methods in first rumblings of discontent",
-   "link": "https://www.talkchelsea.net/news/athletic-claims-chelsea-players-alonso-methods/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795696200000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Xabi-Alonso-watches-as-Chelsea-concede-another-goal-414x276.jpg",
-   "added": 1795698975224,
-   "cat": null,
-   "titleKo": "애슬레틱, 첼시 선수들이 알론소 감독의 전술에 '확신을 갖지 못한다'고 보도하며 불만의 조짐을 전함"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJKVFZ1RTE0Zi1YWldoM1RXRnp5d2hRZ2lmS2xOOEx3RXpvOVRSQ0hvTFNFdEVVc1dZVGduVDllVGlmcDh0SGYzMU9nSTRHTE5Pbk5POFVrOVdnYjdla3JOYmdLRVhMZXBtZnpGTVlzZlFkZDFRaXc1eUtxMHI4RjlnYzJaa3lrZUR2b1ZOQlBseHdocDFDNTVFaw?oc=5",
-   "title": "Chelsea fans fume 'they sold our best centre-back and left us with garbage'",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJKVFZ1RTE0Zi1YWldoM1RXRnp5d2hRZ2lmS2xOOEx3RXpvOVRSQ0hvTFNFdEVVc1dZVGduVDllVGlmcDh0SGYzMU9nSTRHTE5Pbk5POFVrOVdnYjdla3JOYmdLRVhMZXBtZnpGTVlzZlFkZDFRaXc1eUtxMHI4RjlnYzJaa3lrZUR2b1ZOQlBseHdocDFDNTVFaw?oc=5",
-   "source": "The Irish Sun",
-   "group": "영국 언론",
-   "date": 1795695750000,
-   "added": 1795698975223,
-   "cat": null,
-   "titleKo": "첼시 팬들, \"우리 최고의 센터백을 팔고 쓰레기만 남겼다\"며 분노"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41158687/chelsea-fans-trevoh-chalobah-como-january-transfer-window/",
-   "title": "Chelsea fans fume ‘they sold our best centre-back and left us with garbage’ as Chalobah’s incredible Como stats revealed",
-   "link": "https://www.thesun.co.uk/sport/41158687/chelsea-fans-trevoh-chalobah-como-january-transfer-window/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795695376000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fac_26_11_chalobah-op.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795698975223,
-   "cat": "프리뷰",
-   "titleKo": "첼시 팬들이 '우리의 최고의 센터백을 팔고 쓰레기만 남겼다'고 분노하며, 찰로바의 놀라운 코모 통계가 공개되었습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oV0VqRElKVXJmVUQ1eEpVekVSUTk0VFZudDlHTFp6RjdqRE9nWlJDcExTVGlXXzNDRG4wQ29hZ0R4U3dGY3JFSzkybHBJYV8xTnFVU3ZRMDR5U1BzNThLVlc4TTZESFk?oc=5",
-   "title": "첼시, 11경기 20실점… 트레보 찰로바 활약에 팬들 분노 폭발",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oV0VqRElKVXJmVUQ1eEpVekVSUTk0VFZudDlHTFp6RjdqRE9nWlJDcExTVGlXXzNDRG4wQ29hZ0R4U3dGY3JFSzkybHBJYV8xTnFVU3ZRMDR5U1BzNThLVlc4TTZESFk?oc=5",
-   "source": "AllFootball",
-   "group": "한국 언론",
-   "date": 1795695009000,
-   "added": 1795801118077,
-   "cat": null,
-   "titleKo": "첼시, 11경기 20실점… 트레보 찰로바 활약에 팬들 분노 폭발"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsWXY4dG92akVTS1FqdXdmZFREWGpPNklJMGZwN3NSNVNmVzAxZ2VyNzFkQ18wREw5bFAtZkVWQ29wMDJpa2pkNVI5ZDNOQTRVVkpmWGRYVTdScTRnZ0ozbHFmQ090Zw?oc=5",
-   "title": "램파드 사촌, 그야말로 파격 주장! \"2년은 더 뛸 수 있다\"…첼시에 리버풀 캡틴 영입 적극 추천",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsWXY4dG92akVTS1FqdXdmZFREWGpPNklJMGZwN3NSNVNmVzAxZ2VyNzFkQ18wREw5bFAtZkVWQ29wMDJpa2pkNVI5ZDNOQTRVVkpmWGRYVTdScTRnZ0ozbHFmQ090Zw?oc=5",
-   "source": "마이데일리",
-   "group": "한국 언론",
-   "date": 1795694580000,
-   "added": 1795698975224,
-   "cat": "이적",
-   "titleKo": "램파드 사촌, 그야말로 파격 주장! \"2년은 더 뛸 수 있다\"…첼시에 리버풀 캡틴 영입 적극 추천"
   }
  ]
 }
