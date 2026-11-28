@@ -1,15 +1,15 @@
 {
- "updated": 1795886099191,
+ "updated": 1795888708486,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 1,
-  "talkSPORT": 6,
+  "Sky Sports": 2,
+  "talkSPORT": 7,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 10,
   "The Sun": 1,
   "Mirror": 4,
-  "Daily Mail": 9,
+  "Daily Mail": 7,
   "Telegraph": 5,
   "Independent": 3,
   "Express": 0,
@@ -20,7 +20,7 @@
   "구글뉴스(영어)": 70,
   "인터풋볼": 3,
   "풋볼리스트": 0,
-  "베스트일레븐": 4,
+  "베스트일레븐": 3,
   "구글뉴스(한국어)": 43,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
@@ -844,6 +844,30 @@
  },
  "items": [
   {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3lKeXNVM3lWNlZpYkRyU2RFX2FPOTY2RUdETXFmazNNdmprZXZpSE44MTlaSWpDaXFINDNQal84bHZ6bjI4NGJnYnUtLTVoLWZYYm5ha2JDcklzaFNybE5KYTZDc1ZLTGlsa2tQVFN6b0RvUl8tcXJxeXRITGtMcW5Gd2N0M0d5X3hVaUY0YXVvOWE2OUpGYnlmTzcxeVBkT3pyZ2M4NXBXVHlfTG1n?oc=5",
+   "title": "MSport Brings Football Fans Closer to the Game with Chelsea, BVB and #BetOnAlmostAnything",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3lKeXNVM3lWNlZpYkRyU2RFX2FPOTY2RUdETXFmazNNdmprZXZpSE44MTlaSWpDaXFINDNQal84bHZ6bjI4NGJnYnUtLTVoLWZYYm5ha2JDcklzaFNybE5KYTZDc1ZLTGlsa2tQVFN6b0RvUl8tcXJxeXRITGtMcW5Gd2N0M0d5X3hVaUY0YXVvOWE2OUpGYnlmTzcxeVBkT3pyZ2M4NXBXVHlfTG1n?oc=5",
+   "source": "Techeconomy",
+   "group": "영국 언론",
+   "date": 1795886469000,
+   "added": 1795888703130,
+   "cat": null,
+   "titleKo": "MSport, 첼시, BVB 및 #BetOnAlmostAnything(#거의모든것에베팅)으로 축구 팬들을 경기에 더 가까이 다가가게 합니다"
+  },
+  {
+   "id": "https://talksport.com/football/4736264/jason-cundy-delivery-driver-chelsea-nottingham-forest/",
+   "title": "Jason Cundy mocked by cheeky Amazon delivery driver after Chelsea result",
+   "link": "https://talksport.com/football/4736264/jason-cundy-delivery-driver-chelsea-nottingham-forest/",
+   "source": "talkSPORT",
+   "group": "영국 언론",
+   "date": 1795886387000,
+   "added": 1795888703129,
+   "cat": null,
+   "titleKo": "첼시의 경기 결과에 대해 아마존 배송 기사가 제이슨 컨디를 조롱하다",
+   "imgTried": true,
+   "image": "https://talksport.com/wp-content/uploads/2026/11/crop-4642195_301de7.jpg?strip=all&quality=100&w=1228&h=818&crop=1"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lmT0dUalloN3Z2akhtSEdXbkx6T0U5ZnhOdTVrdmhWMGhQU3pQNUlJQ2NpazQ4NVZ4ZUlxeF9VV2lSODRaY21HZU9BME5JRDdCYnNhTmtsVE9CWDIxT0Q5TzZMaXd0UjMtbk00eEFuLW5GNVNhVE1jVlhRNTE5MG9sTQ?oc=5",
    "title": "'I've become used to it' - Wesley Fofana hits out at racist abuse as Chelsea defender's X account disappears after Nottingham Forest defeat",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lmT0dUalloN3Z2akhtSEdXbkx6T0U5ZnhOdTVrdmhWMGhQU3pQNUlJQ2NpazQ4NVZ4ZUlxeF9VV2lSODRaY21HZU9BME5JRDdCYnNhTmtsVE9CWDIxT0Q5TzZMaXd0UjMtbk00eEFuLW5GNVNhVE1jVlhRNTE5MG9sTQ?oc=5",
@@ -1214,6 +1238,17 @@
    "added": 1795864534650,
    "cat": null,
    "titleKo": "첼시, 위기 상황과 팬들의 선수 비난에도 불구하고 사비 알론소 감독 체제 유지"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMFM1SEx2bzVYSlkxUHA5OXdmUGpIUmc4UkZTUmxEUVlwT2podThFeFRyV3h6NEdUYjUxNXFSVEJ0d0w1SE9WSDJ5MnQtZ3gyM18xV2VBOEFIaXo1QmVRRzZHb2RXWjdQakRjR201cUJ3VE82cnllZ1hBUmhySHF4TG9CRUhDaUJJTzM4TFJ6eG9PeExtTDI0dEJ3NVhQa1J3Q2xnaFlLRE5UMU4yRl9YVi1EOU5DajJjaEdtdnNJX3BCdWhtSksxMDJGcE8xbGh4cU9HQlRjYWgzU0RYSXI2NVlGc0pvMzlockJj?oc=5",
+   "title": "Chelsea Cup Nike Home Stadium Shirt 2026-27 - Kids with Baltimore 11 printing",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMFM1SEx2bzVYSlkxUHA5OXdmUGpIUmc4UkZTUmxEUVlwT2podThFeFRyV3h6NEdUYjUxNXFSVEJ0d0w1SE9WSDJ5MnQtZ3gyM18xV2VBOEFIaXo1QmVRRzZHb2RXWjdQakRjR201cUJ3VE82cnllZ1hBUmhySHF4TG9CRUhDaUJJTzM4TFJ6eG9PeExtTDI0dEJ3NVhQa1J3Q2xnaFlLRE5UMU4yRl9YVi1EOU5DajJjaEdtdnNJX3BCdWhtSksxMDJGcE8xbGh4cU9HQlRjYWgzU0RYSXI2NVlGc0pvMzlockJj?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795862730000,
+   "added": 1795888703131,
+   "cat": null,
+   "titleKo": "첼시 컵 나이키 홈경기장 유니폼 상의 2026-27 - 아동용, 발티모어 11 프린트"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMl95WXkyQkNvWmx4YUEzc2UwLURjS195ZFRNbl9WWlE5MnVYUUR4ckVOS0owTUN0d3p6bW1xLUJ4Szh1dWQ4dTFSYWVlMEZZUUdEakVuSE51ME1vSDN3VnRMUDRMSkFVU2xIS3dFLXlTQm42djc1RjM5OS0xQTZOMlhhaVFySzdJV3JzdTdQc0xVVDE3eEVOUS1leGRsTl9VX1FnbmdTejJQZw?oc=5",
@@ -4222,40 +4257,6 @@
    "added": 1795804151124,
    "cat": null,
    "titleKo": "'축구는 변할 수 있다' - 첼시 복귀설이 제기되는 가운데, 에메리 감독이 가르나초의 아스톤 빌라 미래에 대해 언급"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN21YQm91b1JHYWNTUDcxT0ppMElYaVJaZXcxMkl4T25ZU1pJb3JmS3FLS0l6b0E4WW0tSktaeUx2eGNTWmJUN0ZERWtBYVBzUDB4UHF0cXd0MkRadEpoRkxBQ3l6NUtxOGc5aTN0X3RMRUxsNjRqMnVxSEhiWkNSeXlELUZ1U3RJaVg4eFNMQlNDY2xLWTlfcFRlWTBrN3c?oc=5",
-   "title": "Xabi Alonso hits back at Jamie Carragher's criticism of Chelsea team selection",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN21YQm91b1JHYWNTUDcxT0ppMElYaVJaZXcxMkl4T25ZU1pJb3JmS3FLS0l6b0E4WW0tSktaeUx2eGNTWmJUN0ZERWtBYVBzUDB4UHF0cXd0MkRadEpoRkxBQ3l6NUtxOGc5aTN0X3RMRUxsNjRqMnVxSEhiWkNSeXlELUZ1U3RJaVg4eFNMQlNDY2xLWTlfcFRlWTBrN3c?oc=5",
-   "source": "The Irish Sun",
-   "group": "영국 언론",
-   "date": 1795733252000,
-   "added": 1795735192405,
-   "cat": null,
-   "titleKo": "사비 알론소, 제이미 캐러거의 첼시 팀 선수 선발 비판에 반격"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41166436/xabi-alonso-hits-back-jamie-carragher-fofana-colwill-chelsea/",
-   "title": "Xabi Alonso hits back at Jamie Carragher’s scathing Chelsea criticism that his team selection ‘will never work’",
-   "link": "https://www.thesun.co.uk/sport/41166436/xabi-alonso-hits-back-jamie-carragher-fofana-colwill-chelsea/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795733093000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FLB-OFF-xabi.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795735192405,
-   "cat": null,
-   "titleKo": "사비 알론소, 제이미 캐러거의 첼시 비판에 반격하며 그의 팀 선발이 '절대 성공하지 못할 것'이라고 주장"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjVBRUhaSXU5dld6dzFlaGVWd3hZZ0RuaTZ0R2tKS3N5MWVsUVJfcTJnd016dE5MZWl6SG1pbzB5ZGlWdmVjZTJYNWxVM1VyYmVBTEc1UjVEVnBueHpxWFlHZmhYSldaUlhCdm9Wb1RwV0dqbzYxV2F1R3o3V2tncWFva0l4Vnk3OTFFc0stbUw5NkozbVhGS1R4TllZMGY0YngxckhB?oc=5",
-   "title": "Xabi Alonso issues new Chelsea FC injury update as Joao Pedro return timeline revealed",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjVBRUhaSXU5dld6dzFlaGVWd3hZZ0RuaTZ0R2tKS3N5MWVsUVJfcTJnd016dE5MZWl6SG1pbzB5ZGlWdmVjZTJYNWxVM1VyYmVBTEc1UjVEVnBueHpxWFlHZmhYSldaUlhCdm9Wb1RwV0dqbzYxV2F1R3o3V2tncWFva0l4Vnk3OTFFc0stbUw5NkozbVhGS1R4TllZMGY0YngxckhB?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795732310000,
-   "added": 1795735192405,
-   "cat": "부상",
-   "titleKo": "샤비 알론소, 주앙 페드로의 복귀 시기가 밝혀지면서 첼시 FC의 새로운 부상자 명단을 발표했습니다."
   }
  ]
 }
