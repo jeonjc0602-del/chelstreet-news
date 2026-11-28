@@ -1,5 +1,5 @@
 {
- "updated": 1795829150231,
+ "updated": 1795832964925,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -12,7 +12,7 @@
   "Daily Mail": 7,
   "Telegraph": 5,
   "Independent": 2,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 14,
   "CaughtOffside": 1,
   "90min": 1,
@@ -21,7 +21,7 @@
   "인터풋볼": 1,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 29,
+  "구글뉴스(한국어)": 34,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -883,6 +883,28 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699414_833843_539_v150.jpg"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3gzb1ViaHpZN2VPYWg3VEdMV2lnVDlYRERvS3BEdm5xcTdhbk55bWFXaEFGbUJoSUN4Rlp1LW5idENvc01DQ0VmMTAyWVV0YXJiWi10TEVPQTlFem1uRXVjZ3ViYWJ2NjJiaktRZ3AwRllXZlZJc0NYZDJUempfOEhiWUVvOU9ETUtMYnp6UTN0YlpEWlVsRw?oc=5",
+   "title": "사비 알론소의 실험은 실패했고, 첼시는 더욱 깊은 위기에 빠졌다.",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3gzb1ViaHpZN2VPYWg3VEdMV2lnVDlYRERvS3BEdm5xcTdhbk55bWFXaEFGbUJoSUN4Rlp1LW5idENvc01DQ0VmMTAyWVV0YXJiWi10TEVPQTlFem1uRXVjZ3ViYWJ2NjJiaktRZ3AwRllXZlZJc0NYZDJUempfOEhiWUVvOU9ETUtMYnp6UTN0YlpEWlVsRw?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795832487000,
+   "added": 1795832963259,
+   "cat": null,
+   "titleKo": "사비 알론소의 실험은 실패했고, 첼시는 더욱 깊은 위기에 빠졌다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aQlRiZVdFTFJKSjZudnI1anN6dXVvVDI0NTk2OEI1aG5TUlZmYVBmQnotdzRmcVZRRFhlZVJ3cEdXTS1CcDhOMENSN0RoRXE4TG4tV2d3eEtsMUctZkpYMjhOLUFnUQ?oc=5",
+   "title": "`1-4 대패 이후 또 졌다, 첼시 경기력은 재앙`…알론소 감독 경질설 재점화",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aQlRiZVdFTFJKSjZudnI1anN6dXVvVDI0NTk2OEI1aG5TUlZmYVBmQnotdzRmcVZRRFhlZVJ3cEdXTS1CcDhOMENSN0RoRXE4TG4tV2d3eEtsMUctZkpYMjhOLUFnUQ?oc=5",
+   "source": "마이데일리",
+   "group": "한국 언론",
+   "date": 1795831529000,
+   "added": 1795832963259,
+   "cat": null,
+   "titleKo": "`1-4 대패 이후 또 졌다, 첼시 경기력은 재앙`…알론소 감독 경질설 재점화"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVlUZU1XcjdEal9zcTAtbzlnNlBid1NGZXo3QWdtS0s3TTNhSG8tc1hDb3BDeVhxX0cwU0NxSVJReGg4MDZ4TFN4VzJ3MFlXNGYxNkdUdlRhcnFycF9MUWRzOTFZOUR6LUU5emxvMHhVOWxvdXY4bXBBNHpZZWZYSkFILTlUM2pmRUhwaA?oc=5",
    "title": "첼시는 시티 그라운드에서 패배를 당했고, 사비 알론소는 현재 비난의 중심에 서 있다.",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVlUZU1XcjdEal9zcTAtbzlnNlBid1NGZXo3QWdtS0s3TTNhSG8tc1hDb3BDeVhxX0cwU0NxSVJReGg4MDZ4TFN4VzJ3MFlXNGYxNkdUdlRhcnFycF9MUWRzOTFZOUR6LUU5emxvMHhVOWxvdXY4bXBBNHpZZWZYSkFILTlUM2pmRUhwaA?oc=5",
@@ -938,6 +960,17 @@
    "titleKo": "노팅엄 포레스트의 패배로 첼시는 더욱 심각한 위기에 빠졌다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5c9IBY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5cw?oc=5",
+   "title": "무너지는 첼시, 노팅엄에 2-3 패배로 EPL 3연패…알론소 감독 입지도 ‘흔들’",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5c9IBY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5cw?oc=5",
+   "source": "스포츠경향",
+   "group": "한국 언론",
+   "date": 1795827000000,
+   "added": 1795832963259,
+   "cat": null,
+   "titleKo": "무너지는 첼시, 노팅엄에 2-3 패배로 EPL 3연패…알론소 감독 입지도 ‘흔들’"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXg5MDRYdldwdndvWkRxcVdkaXBHQUhkajkxZ044WnZlTlByVVdLVGFfZ1hLbjhuRWZpeUZzN2FVSnhfVk5helU4MU9fR2x0ZGQwVV85UGg4LVA1V2g4OXI4TXc0U0RSZC14VVM2TlpJamZ1WDFzM09fcEZkamlJWEdaOVlYQUpMTmUwcXY2aUo3dDNGNkpjT1VoZ2w2eXRzUV9Zdy1Sdw?oc=5",
    "title": "‘A damn shame’: Co-workers at Home Depot mourn man killed in Chelsea high school football game shooting",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXg5MDRYdldwdndvWkRxcVdkaXBHQUhkajkxZ044WnZlTlByVVdLVGFfZ1hLbjhuRWZpeUZzN2FVSnhfVk5helU4MU9fR2x0ZGQwVV85UGg4LVA1V2g4OXI4TXc0U0RSZC14VVM2TlpJamZ1WDFzM09fcEZkamlJWEdaOVlYQUpMTmUwcXY2aUo3dDNGNkpjT1VoZ2w2eXRzUV9Zdy1Sdw?oc=5",
@@ -958,6 +991,28 @@
    "added": 1795829141013,
    "cat": null,
    "titleKo": "첼시, 3연패, 사비 알론소 압박 받아"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmFMUXBuMm1aNjd5dHJ2WkdXdjg0eXpnYmplXzJzUXBaVHprOHpSZ0FDenc1WDM1X0pBVFpfUjdhamdoUlJhUzFacXZjWm9Gbmg0STQwYnNqOWVaTkpQMzljSWwyXzlpN20wRXdSblZNdG11MWIwUFZCcktzQWtrTnFVZ3g4SEJTbUQxdXNuWnpRdlpRYzRtYUk5TDVONGx3SGQtWFlPZTJoOHltZ1pmRGZn?oc=5",
+   "title": "논란의 여지가 있는 센터백을 기용한 첼시는 프리미어 리그 3연패를 당했다.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmFMUXBuMm1aNjd5dHJ2WkdXdjg0eXpnYmplXzJzUXBaVHprOHpSZ0FDenc1WDM1X0pBVFpfUjdhamdoUlJhUzFacXZjWm9Gbmg0STQwYnNqOWVaTkpQMzljSWwyXzlpN20wRXdSblZNdG11MWIwUFZCcktzQWtrTnFVZ3g4SEJTbUQxdXNuWnpRdlpRYzRtYUk5TDVONGx3SGQtWFlPZTJoOHltZ1pmRGZn?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795824549000,
+   "added": 1795832963259,
+   "cat": null,
+   "titleKo": "논란의 여지가 있는 센터백을 기용한 첼시는 프리미어 리그 3연패를 당했다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON2FYb2FFNE5LUGp4LXR5RDJ6MnhOZFQ1aDdSV25pdG1OUDE0eFhoZjZzUWJiR3BPU0lHTGtQWjdZN1VuWTQzdFl3bEtLVGxCSWhXVkRWcVJ4dXZrRDQwVmd3T2w2cjRFbEY2czVpM0ZHY2U5ZHlMbE85clJrajFoYw?oc=5",
+   "title": "첼시는 1997년 이후 최악의 패배를 당했다.",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON2FYb2FFNE5LUGp4LXR5RDJ6MnhOZFQ1aDdSV25pdG1OUDE0eFhoZjZzUWJiR3BPU0lHTGtQWjdZN1VuWTQzdFl3bEtLVGxCSWhXVkRWcVJ4dXZrRDQwVmd3T2w2cjRFbEY2czVpM0ZHY2U5ZHlMbE85clJrajFoYw?oc=5",
+   "source": "Vietnam.vn",
+   "group": "한국 언론",
+   "date": 1795824441000,
+   "added": 1795832963259,
+   "cat": null,
+   "titleKo": "첼시는 1997년 이후 최악의 패배를 당했다."
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUViUkRFTmZzUkxWRThQNWlPNEFtUFBjVTN4QVVBalh1UjRZa280ZWZXeWJ4eUhzWVlKcEtrQTQ2bXFmSENDTnRJQ0xnUU9yUnN0TTVyZDZWUW05MUR6ZlVPSUVhenBfOE55eEYwcmllLV9TYWFfdHhub1lMRy16WXh2X2JnbEJFVTkwdWJadnhjV19FdTBKVDdsb0tYSmRXZHFIM1YzNXQ0Ynd0emxJ?oc=5",
@@ -4211,63 +4266,6 @@
    "added": 1795698975224,
    "cat": "이적",
    "titleKo": "램파드 사촌, 그야말로 파격 주장! \"2년은 더 뛸 수 있다\"…첼시에 리버풀 캡틴 영입 적극 추천"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3piQlZrcUZNZVlKeFJCaUdiR3FXQ25pMFpLWHRqWUd4bURfZEQ1WFlwTWR3OFRGZW1xaG5BX1lkcE1xTFIxeTQ2VG9jREN1akk3eTBpRmNrbDV3UHVDREM0RWotMVBEaTJtLTVXdElHbkJaWXZrS1EzT0l1TzlldWhncnFCRTFuRWpQamZ3S0JZMUVwRFJKeVhKSXA0ZlpGNW5rVlFPTGxPUnlkUE9wREF2UmYzTU1fZHlMWlJWbw?oc=5",
-   "title": "Football Data Room: Is Joao Pedro's absence the reason behind Chelsea's poor run of form?",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3piQlZrcUZNZVlKeFJCaUdiR3FXQ25pMFpLWHRqWUd4bURfZEQ1WFlwTWR3OFRGZW1xaG5BX1lkcE1xTFIxeTQ2VG9jREN1akk3eTBpRmNrbDV3UHVDREM0RWotMVBEaTJtLTVXdElHbkJaWXZrS1EzT0l1TzlldWhncnFCRTFuRWpQamZ3S0JZMUVwRFJKeVhKSXA0ZlpGNW5rVlFPTGxPUnlkUE9wREF2UmYzTU1fZHlMWlJWbw?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795694439000,
-   "added": 1795761869057,
-   "cat": null,
-   "titleKo": "풋볼 데이터 룸: 주앙 페드로의 부재가 첼시의 부진한 경기력의 원인인가요?"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVNcmhGX3BtbHcyQ0hxNWdQbVJzMFlPdzhobmQwdURxTF96RWQxWVFFd0hPWjFBU1VQTFhZYldaQ0VMbkQxTUFubnZpdnJxRjhCZTJOVVZTTXJxRkcxMVpuMVotaFNCWmV6LW9CbkRoandRMWtCTFJNUHJpX2FZMDRfTFhncldpMFpGZ21lUjQwTl91U0Y3bEtNWTVzMG9QMHpUNFZvLTY?oc=5",
-   "title": "Chavarria: We're going to treat it like it's the last game we play",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVNcmhGX3BtbHcyQ0hxNWdQbVJzMFlPdzhobmQwdURxTF96RWQxWVFFd0hPWjFBU1VQTFhZYldaQ0VMbkQxTUFubnZpdnJxRjhCZTJOVVZTTXJxRkcxMVpuMVotaFNCWmV6LW9CbkRoandRMWtCTFJNUHJpX2FZMDRfTFhncldpMFpGZ21lUjQwTl91U0Y3bEtNWTVzMG9QMHpUNFZvLTY?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795694400000,
-   "added": 1795735192406,
-   "cat": null,
-   "titleKo": "차바리아: 마지막 경기를 치르는 것처럼 임할 겁니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFlRTmh6VkhYcDZYbkZQT2xrT1laSjlFSENjQlItVWZkdjBKXzZzdS1CbjFaYWw3SjF1bEN6M25sQjlkUktrWi1iVm44S1lMcHA4aHRwUWJwYXh2cUEzLXFyUTluanZWOXBHSFdJcUl2eWhwbjFnbEpFR0N3WUxfWkRqS0hxT24xb3FhMDNmYzZEakMzTEYzMzZyc2w1NUU3?oc=5",
-   "title": "Free ticket offer for new year Chelsea Women Academy game",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFlRTmh6VkhYcDZYbkZQT2xrT1laSjlFSENjQlItVWZkdjBKXzZzdS1CbjFaYWw3SjF1bEN6M25sQjlkUktrWi1iVm44S1lMcHA4aHRwUWJwYXh2cUEzLXFyUTluanZWOXBHSFdJcUl2eWhwbjFnbEpFR0N3WUxfWkRqS0hxT24xb3FhMDNmYzZEakMzTEYzMzZyc2w1NUU3?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795694400000,
-   "added": 1795721381015,
-   "cat": null,
-   "titleKo": "새해 첼시 여자 아카데미 경기 무료 티켓 제공"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/neue-spannende-online-casinospiele/",
-   "title": "Neue spannende online Casinospiele",
-   "link": "https://www.talkchelsea.net/news/neue-spannende-online-casinospiele/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795694364000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "새롭고 흥미진진한 온라인 카지노 게임"
-  },
-  {
-   "id": "https://www.talkchelsea.net/news/casino-bonus-ohne-einzahlung-beste-boni-im-november-2026/",
-   "title": "Casino Bonus ohne Einzahlung Beste Boni im November 2026",
-   "link": "https://www.talkchelsea.net/news/casino-bonus-ohne-einzahlung-beste-boni-im-november-2026/",
-   "source": "Talk Chelsea",
-   "group": "팬 블로그",
-   "date": 1795694259000,
-   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/10/default-e1791574486899-414x260.jpg",
-   "added": 1795694414841,
-   "cat": null,
-   "titleKo": "2026년 11월 최고의 카지노 보너스(입금 불필요)"
   }
  ]
 }
