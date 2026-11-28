@@ -1,8 +1,8 @@
 {
- "updated": 1795877313005,
+ "updated": 1795879912485,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 6,
+  "Sky Sports": 5,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
@@ -17,11 +17,11 @@
   "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 71,
+  "구글뉴스(영어)": 72,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 46,
+  "구글뉴스(한국어)": 44,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -844,6 +844,19 @@
  },
  "items": [
   {
+   "id": "https://talksport.com/football/4736190/wesley-fofana-chelsea-nottingham-forest/",
+   "title": "Wesley Fofana takes drastic action after Chelsea abuse at Nottingham Forest",
+   "link": "https://talksport.com/football/4736190/wesley-fofana-chelsea-nottingham-forest/",
+   "source": "talkSPORT",
+   "group": "영국 언론",
+   "date": 1795877553000,
+   "added": 1795879903745,
+   "cat": null,
+   "titleKo": "웨슬리 포파나, 노팅엄 포레스트전에서 첼시 팬들의 인종차별 발언에 강력한 조치 취해",
+   "imgTried": true,
+   "image": "https://talksport.com/wp-content/uploads/2026/11/LB-OFF-ts-Wesley-Fofana.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3FaQzM3bFdMaFdRRW40dWlxVm1mbUNXNTFPNE1LWEphc2wyZURXdlF1TDBfRkhFSk41VXV6anlGa3NhR2pBWkJabUJvZ1BOLXlhWWJpM3hWdnpzTjJyZ1hyYmhRdDhHeVd1Z2FYQWQ3WnpYdlgtMXo5Vzk2bEdnUWp2QmxEN216TXh1QmhBbC1aZ1BoYW5nRHc5QkZMMEVDckZMTTBXT2VhX1doZUpV?oc=5",
    "title": "U18 PL Highlights: Crystal Palace U18 vs Chelsea U18 | Video",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3FaQzM3bFdMaFdRRW40dWlxVm1mbUNXNTFPNE1LWEphc2wyZURXdlF1TDBfRkhFSk41VXV6anlGa3NhR2pBWkJabUJvZ1BOLXlhWWJpM3hWdnpzTjJyZ1hyYmhRdDhHeVd1Z2FYQWQ3WnpYdlgtMXo5Vzk2bEdnUWp2QmxEN216TXh1QmhBbC1aZ1BoYW5nRHc5QkZMMEVDckZMTTBXT2VhX1doZUpV?oc=5",
@@ -876,6 +889,17 @@
    "added": 1795877307319,
    "cat": null,
    "titleKo": "첼시, 불명예스러운 기록을 연달아 세우다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2xsalBuNWFFbjR3T1lhbXNaZFhKcTlpWlJPVmZJNmxWcGhiNXhlcFFCWVRac0hQN1FwYzJJM2l4WmRPWUxXYTB1NEp4eFJwVUJvd2lMclZEUDFCYkpiX0M5b2VYODliSWtKQ05uX0dCZm1tNHdPZXdqWENHUTd0M3ZaSlhoX1JEQ0xGT0MzUHMyZw?oc=5",
+   "title": "Xabi Alonso’s Chelsea record compared to Liam Rosenior",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2xsalBuNWFFbjR3T1lhbXNaZFhKcTlpWlJPVmZJNmxWcGhiNXhlcFFCWVRac0hQN1FwYzJJM2l4WmRPWUxXYTB1NEp4eFJwVUJvd2lMclZEUDFCYkpiX0M5b2VYODliSWtKQ05uX0dCZm1tNHdPZXdqWENHUTd0M3ZaSlhoX1JEQ0xGT0MzUHMyZw?oc=5",
+   "source": "Planet Football",
+   "group": "영국 언론",
+   "date": 1795874160000,
+   "added": 1795879903745,
+   "cat": null,
+   "titleKo": "리암 로젠이어와 비교한 사비 알론소의 첼시 기록"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEd5QUYyZm05NGxQT003T0RTcEJ1SmtETmtaMGJtSHhFZG5IZnNfZWRNckd3YlRUNnFUb2Z4S0dnWmNtSjJJUFJ4eGwyWnJUZDFUNW9KcllicGNfYksyRkdmTVB6ekNnS09pYjNVeEpjdGNfQlRla2VZZXQ5akZFNFlGQm9tQQ?oc=5",
@@ -982,6 +1006,17 @@
    "added": 1795874422714,
    "cat": null,
    "titleKo": "18세 이하 프리미어리그 경기 결과: 크리스털 팰리스 0-1 첼시"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaV93eEdKM3pVUnBEcEVzaS10NnN5MG50aTZlRzhkVV8wMnE3bzVDN05xdGRialI4dkNBV2xlUXo5VGh2LUNWZVF6dHVIUUZJMW9xUWIwYzlvYXVIQVFXTjRKX0V5akNJZngxU2RZNno0OUlLSVVBY1B1RGNCcUs3d2xwYlp5R1dCeURMSE5HNkFNRUczbkcweENEMHJPTG1SUWdZeFJaeV9PNzF1aTlkYkRra2JSYUdtUFBzSG1SRnZIU1JvbU9sOTJnWFBUQ1BXdXRnWU1ielpZNFp5?oc=5",
+   "title": "Chelsea: Paul Merson questions whether players are playing for Xabi Alonso",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaV93eEdKM3pVUnBEcEVzaS10NnN5MG50aTZlRzhkVV8wMnE3bzVDN05xdGRialI4dkNBV2xlUXo5VGh2LUNWZVF6dHVIUUZJMW9xUWIwYzlvYXVIQVFXTjRKX0V5akNJZngxU2RZNno0OUlLSVVBY1B1RGNCcUs3d2xwYlp5R1dCeURMSE5HNkFNRUczbkcweENEMHJPTG1SUWdZeFJaeV9PNzF1aTlkYkRra2JSYUdtUFBzSG1SRnZIU1JvbU9sOTJnWFBUQ1BXdXRnWU1ielpZNFp5?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795869078000,
+   "added": 1795879903745,
+   "cat": null,
+   "titleKo": "첼시: 폴 머슨, 선수들이 샤비 알론소를 위해 뛰고 있는지 의문 제기"
   },
   {
    "id": "https://www.skysports.com/watch/video/13617459/chelsea-latest-is-xabi-alonso-under-increasing-pressure-afgter-3-2-defeat-to-nottingham-forest",
@@ -1491,6 +1526,17 @@
    "added": 1795855074986,
    "cat": null,
    "titleKo": "노하, 첼시의 2025/26 프리미어리그 커뮤니티 주장으로 선정"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQS1ZMmNKUm9HaUpRTGxtSnNCRHFzUXREZTJjOXlvV0FfU3J1aUI1eXM2aldpNlFIS2psdVRFaGxwNXQ2NFpCUXF4ajNvNFdsTzNQNDRyZGpnVUthWktSUmMxQ0k0RVRRSXEwa0l1X1F3RkxfTXQwcmtpdHN6TXJSVTR3VldzMG5KT21NdEMtc0kzSXNoaXJQOVJQcXRNNk5tbTdUcHBvNWNacTRFRVJHMVIyNERXTmlLLV9ScTBpRTVlRUlFeDNyQjhTWEowb2k2a2VNNDdHOA?oc=5",
+   "title": "Chelsea Football Table Game - 20 Inch",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQS1ZMmNKUm9HaUpRTGxtSnNCRHFzUXREZTJjOXlvV0FfU3J1aUI1eXM2aldpNlFIS2psdVRFaGxwNXQ2NFpCUXF4ajNvNFdsTzNQNDRyZGpnVUthWktSUmMxQ0k0RVRRSXEwa0l1X1F3RkxfTXQwcmtpdHN6TXJSVTR3VldzMG5KT21NdEMtc0kzSXNoaXJQOVJQcXRNNk5tbTdUcHBvNWNacTRFRVJHMVIyNERXTmlLLV9ScTBpRTVlRUlFeDNyQjhTWEowb2k2a2VNNDdHOA?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795842610000,
+   "added": 1795879903747,
+   "cat": null,
+   "titleKo": "첼시 축구 테이블 게임 - 20인치"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZdEVBemRmbFhiYU1VOXFnQVZoMTdLUWJVQTM2T3c1Tm5KY04yaVJrUmdyQVEweHB2V2hNcU5SRXBzV3drbUM4Wk93ZWFmNTg?oc=5",
@@ -2027,6 +2073,17 @@
    "added": 1795836451053,
    "cat": null,
    "titleKo": "'우리는 단합하여 이 시기를 헤쳐나가야 합니다' - 샤비 알론소, 노팅엄 포레스트에 3-2로 패한 후 단합을 촉구"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPeUEyc24zbm1ySFdldlduMF9BczFlLTFKYk11ZVNQWkxHbEZqRVVGLVotbi00R0pxdTN5WTN3LTltWHZmS2ozWWhxOFhyVk9rSG5fSUVTbjV5VndSRV9PbHR2N2dibjNO?oc=5",
+   "title": "Premier League: Nottingham Forest 3-2 Chelsea - Xabi Alonso post match interview",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPeUEyc24zbm1ySFdldlduMF9BczFlLTFKYk11ZVNQWkxHbEZqRVVGLVotbi00R0pxdTN5WTN3LTltWHZmS2ozWWhxOFhyVk9rSG5fSUVTbjV5VndSRV9PbHR2N2dibjNO?oc=5",
+   "source": "BBC",
+   "group": "영국 언론",
+   "date": 1795819522000,
+   "added": 1795879903745,
+   "cat": "인터뷰",
+   "titleKo": "프리미어리그: 노팅엄 포레스트 3-2 첼시 - 사비 알론소 경기 후 인터뷰"
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34979410",
@@ -3192,6 +3249,17 @@
    "titleKo": "예상 선발 명단: 알론소 감독, 팬들이 질색하는 선수를 선택하며 중요한 결정을 회피하다"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOTQyakNibF9nUGlmcUxnMEhBSTZVMlhPRFdsa3VGcGJ4YzNpaUhFdlJCZHNOdW4yV29rT0dSVktRT0ZhMXVqYzliNS1aSkJXZnpQbG1iQUJnQ05peDB5SmREQV9OUkpBd2htZzNvUV9pR25UWFlJc2FaNEh0RkFVZmJrSkw5Mnc5emhQemR1U1dnZmVvQWtsYW5yMUhsSGdjdEE5enExeEFnV0NOaDVuVkJhNXpVWFhRR01YUUpHbF81RjJjaDAybkJETl9tSnlZT2NqUDJxY243Y1lQNnI2VDVDYjhkVVRORDNOVzdzaS12QUhXc0dwczdLOE9mMGdvQ1E?oc=5",
+   "title": "Chelsea Joao Pedro Signed 2026-27 Away Shirt",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOTQyakNibF9nUGlmcUxnMEhBSTZVMlhPRFdsa3VGcGJ4YzNpaUhFdlJCZHNOdW4yV29rT0dSVktRT0ZhMXVqYzliNS1aSkJXZnpQbG1iQUJnQ05peDB5SmREQV9OUkpBd2htZzNvUV9pR25UWFlJc2FaNEh0RkFVZmJrSkw5Mnc5emhQemR1U1dnZmVvQWtsYW5yMUhsSGdjdEE5enExeEFnV0NOaDVuVkJhNXpVWFhRR01YUUpHbF81RjJjaDAybkJETl9tSnlZT2NqUDJxY243Y1lQNnI2VDVDYjhkVVRORDNOVzdzaS12QUhXc0dwczdLOE9mMGdvQ1E?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795793599000,
+   "added": 1795879903747,
+   "cat": "오피셜",
+   "titleKo": "첼시 주앙 페드로 사인 2026-27 원정 경기 유니폼 상의"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2VGUUJtTmUzdDJQa25nSFJRcTZ2d2lOcTh0UmV4VkpOV2tjQ1ZSNTREVWdaRjBHTXVzSU5haU5RYmI4aUpJQkYzSERFRlZ2d0o1clJCSWgxakh1bTN1d1ZwZzB5WUY1ZHVJblVCTHlCMGo4VUd3Y1BnZ0xBTjVidlE0YTdfdXZtckU1bERPdDU3X1doTnc?oc=5",
    "title": "노팅엄 포레스트 vs 첼시 예측: 우승 경쟁의 뜨거운 대결",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2VGUUJtTmUzdDJQa25nSFJRcTZ2d2lOcTh0UmV4VkpOV2tjQ1ZSNTREVWdaRjBHTXVzSU5haU5RYmI4aUpJQkYzSERFRlZ2d0o1clJCSWgxakh1bTN1d1ZwZzB5WUY1ZHVJblVCTHlCMGo4VUd3Y1BnZ0xBTjVidlE0YTdfdXZtckU1bERPdDU3X1doTnc?oc=5",
@@ -4022,6 +4090,17 @@
    "titleKo": "첼시: 새 감독 부임, 유럽 대회 불참에도 불구하고 고질적인 문제들은 여전히 ​​남아 있다."
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEFScUVNWmNIcTNTSWRtQzJ1TUZJemh2dDR2aWpiSS1UNXJXcmE3SzJ4dXQwNFpuaklDUlFqMDlfaE5objNCRnRkdTVDcWhhcFJVRHlyTmxGNWNQQzhteWcxQzBxTDFzREZNV29zMFJKM3htdEMxdjZYX3hrRm1JdEtsbmdxQVR0bjc5OXprQUZ2SG12SVpfM1ZjUUVMVXdsVnA0NGVtcUVHWVNBa0R4d2I0anY0dlBLMU9vOFhDdWJzdVB3LXpMVFU2RW9UZ0RwbUdNenRxcWxDSXFoV3lF?oc=5",
+   "title": "Chelsea Q&A: Your questions answered on Wesley Fofana, transfers, Danny Welbeck, Estevao and more",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEFScUVNWmNIcTNTSWRtQzJ1TUZJemh2dDR2aWpiSS1UNXJXcmE3SzJ4dXQwNFpuaklDUlFqMDlfaE5objNCRnRkdTVDcWhhcFJVRHlyTmxGNWNQQzhteWcxQzBxTDFzREZNV29zMFJKM3htdEMxdjZYX3hrRm1JdEtsbmdxQVR0bjc5OXprQUZ2SG12SVpfM1ZjUUVMVXdsVnA0NGVtcUVHWVNBa0R4d2I0anY0dlBLMU9vOFhDdWJzdVB3LXpMVFU2RW9UZ0RwbUdNenRxcWxDSXFoV3lF?oc=5",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795739503000,
+   "added": 1795879903746,
+   "cat": "이적",
+   "titleKo": "첼시 Q&A: 웨슬리 포파나, 이적, 대니 웰벡, 에스테바오 등에 대한 여러분의 질문에 대한 답변"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
    "title": "Man shot and killed at Chelsea high school football game identified",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
@@ -4178,85 +4257,6 @@
    "added": 1795771203452,
    "cat": "이적",
    "titleKo": "첼시 이적 소식 오늘: 1월 이적 합의가 이뤄지면서 안토니오 누사가 원해"
-  },
-  {
-   "id": "https://talksport.com/football/4734487/xabi-alonso-urged-drop-wesley-fofana/",
-   "title": "Xabi Alonso urged to show no mercy to £70m Chelsea player",
-   "link": "https://talksport.com/football/4734487/xabi-alonso-urged-drop-wesley-fofana/",
-   "source": "talkSPORT",
-   "group": "영국 언론",
-   "date": 1795728854000,
-   "added": 1795731688826,
-   "cat": null,
-   "titleKo": "사비 알론소, 7천만 파운드짜리 첼시 선수에게 자비를 베풀지 말라고 촉구",
-   "imgTried": true,
-   "image": "https://talksport.com/wp-content/uploads/2026/10/crop-4674528.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObFVTdnVnTVZmSS1WeHNFbDJUWXpuOS1mdDlsMGtfOFg3UUFzcE1FNTJ1S1RLUXlTTFBXT01kS3lZb0drVC0xbVNTaEpXdGR4V0lXQmUxVDdnV3JSblowbzB4c1k5d01vNTQyMVdQLVA4SUE0Q0JHSFctTGdMbnRpOWZJcERaVVZCbEQ1VmRIaDZiNmltM1h1eWJhNGtaMGtiOTdBZWN0cENJN0E1UUpEcWgyTU9sdXhidURzTUxVd3liYS01Tmd0Zm9kNDB4R0tSVkZTUzIyd1pZRlBRUmhtVXpUYldQOEhKMGhfU3Zzc1NIRmVRUDU4UXJ6Qkl3MjFlVlRCTQ?oc=5",
-   "title": "Chelsea WSL Nike Third Stadium Shirt 2026-27 - Kids with Manaka 29 printing",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObFVTdnVnTVZmSS1WeHNFbDJUWXpuOS1mdDlsMGtfOFg3UUFzcE1FNTJ1S1RLUXlTTFBXT01kS3lZb0drVC0xbVNTaEpXdGR4V0lXQmUxVDdnV3JSblowbzB4c1k5d01vNTQyMVdQLVA4SUE0Q0JHSFctTGdMbnRpOWZJcERaVVZCbEQ1VmRIaDZiNmltM1h1eWJhNGtaMGtiOTdBZWN0cENJN0E1UUpEcWgyTU9sdXhidURzTUxVd3liYS01Tmd0Zm9kNDB4R0tSVkZTUzIyd1pZRlBRUmhtVXpUYldQOEhKMGhfU3Zzc1NIRmVRUDU4UXJ6Qkl3MjFlVlRCTQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795727790000,
-   "added": 1795804151126,
-   "cat": null,
-   "titleKo": "첼시 WSL 나이키 써드 경기 유니폼 상의 2026/27 - 아동용, 마나카 29 프린트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTBhZ25hdlpjTEVtcV9pUENWdjZGaUozN1lvTVNUYTJRVnV4cXlMVjVZNjN3WWgtbUFGRTZiZ2ZfZi1ZYlJ4NldneElLT1N5eWRQWTY2N083b3RIRFRhUTVOeWZfamJ3bXZpLS1veGdmOGNMNUJtN004d0JGWl91eXNET19wZ2RSZWJTakNDaHBFbEFsU3QzM0FpZlhKcVJXdmM5M2JXUGgyUlJtTy12bTYzcm4wUV9QU1ZWWU83NEhZU1dmUXY4MzAxcmVhalZDSjZNWDl3?oc=5",
-   "title": "Caicedo available for Chelsea against Nottingham Forest, but two key players still sidelined",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTBhZ25hdlpjTEVtcV9pUENWdjZGaUozN1lvTVNUYTJRVnV4cXlMVjVZNjN3WWgtbUFGRTZiZ2ZfZi1ZYlJ4NldneElLT1N5eWRQWTY2N083b3RIRFRhUTVOeWZfamJ3bXZpLS1veGdmOGNMNUJtN004d0JGWl91eXNET19wZ2RSZWJTakNDaHBFbEFsU3QzM0FpZlhKcVJXdmM5M2JXUGgyUlJtTy12bTYzcm4wUV9QU1ZWWU83NEhZU1dmUXY4MzAxcmVhalZDSjZNWDl3?oc=5",
-   "source": "DAZN",
-   "group": "영국 언론",
-   "date": 1795725376000,
-   "added": 1795728139151,
-   "cat": "부상",
-   "titleKo": "카이세도, 노팅엄 포레스트와의 경기에서 첼시 출전 가능. 하지만 두 명의 핵심 선수는 여전히 결장"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zYWtmRk1KUFNXZF9vYnVSSVkzeWVCMkp3dEpRVV9BZXV2SDNZR0ZoSnl4UldOYm1STkc3Zkh4MW1FcTFmQnBPc1RxR2V3WlN6RGt6VjA3ODFkdHg2U205N2prc2FtX0R4Z01ZNzJyTVpmSFZaUDlpMFF3?oc=5",
-   "title": "- Chelsea Football Club",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zYWtmRk1KUFNXZF9vYnVSSVkzeWVCMkp3dEpRVV9BZXV2SDNZR0ZoSnl4UldOYm1STkc3Zkh4MW1FcTFmQnBPc1RxR2V3WlN6RGt6VjA3ODFkdHg2U205N2prc2FtX0R4Z01ZNzJyTVpmSFZaUDlpMFF3?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795724605000,
-   "added": 1795781950813,
-   "cat": null,
-   "titleKo": "- 첼시 축구 클럽"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12X3FkTUZSYV9IWUhFOVRPZGtsVzA4NDk4RmV1TEt5clk0XzhVUWFacnhQcXlsclVEZjczNjJYZEJtV0xzWHZDNVhfdkU4MzhIUE1hUW56UXh0OGhkSTFqdA?oc=5",
-   "title": "Chelsea News, Scores, Highlights and More",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12X3FkTUZSYV9IWUhFOVRPZGtsVzA4NDk4RmV1TEt5clk0XzhVUWFacnhQcXlsclVEZjczNjJYZEJtV0xzWHZDNVhfdkU4MzhIUE1hUW56UXh0OGhkSTFqdA?oc=5",
-   "source": "GiveMeSport",
-   "group": "영국 언론",
-   "date": 1795723778000,
-   "added": 1795793901407,
-   "cat": null,
-   "titleKo": "첼시 뉴스, 득점, 하이라이트 등"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0dLYThWNUVrU3hVZ01nN3U2eUFCbHg5Rl9ybHIxX19Lb1dmc2VVOHdqZEdsRjJvc2ZtQTE1ZVZOZm9Jb1U5aTRWWnhDNmJxbW1yajZYLVphLXQ3eVZiSVppVE51V3ZvRERtM3JKUnpVTV9vZjVUUkxEbWI0b2RTbEhwanE0dzVfclVncjJZcFlQZG5Xb3QxVXp4REpXNFdUMlE2Qkp3V29mT0N5em5WNjVHenVMTWYwR3FJNFpFWnQ2Um94YjljRk9DYTlzUEFSVkE3cHlDZElObE1xaU8tcVhaLVhrd21yTHZQOFlXWXpNakNzclcyR2k3enNBUVMwOEE?oc=5",
-   "title": "Unlock Stamford Bridge",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc0dLYThWNUVrU3hVZ01nN3U2eUFCbHg5Rl9ybHIxX19Lb1dmc2VVOHdqZEdsRjJvc2ZtQTE1ZVZOZm9Jb1U5aTRWWnhDNmJxbW1yajZYLVphLXQ3eVZiSVppVE51V3ZvRERtM3JKUnpVTV9vZjVUUkxEbWI0b2RTbEhwanE0dzVfclVncjJZcFlQZG5Xb3QxVXp4REpXNFdUMlE2Qkp3V29mT0N5em5WNjVHenVMTWYwR3FJNFpFWnQ2Um94YjljRk9DYTlzUEFSVkE3cHlDZElObE1xaU8tcVhaLVhrd21yTHZQOFlXWXpNakNzclcyR2k3enNBUVMwOEE?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795723542000,
-   "added": 1795724836144,
-   "cat": null,
-   "titleKo": "스탬퍼드 브리지 잠금 해제"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEJVQXhfdnJrQkVTUGEzRHVBV2lFSG8ydmN3VG1JTXRvd04zSl92aFIzdWdjRmFmaFA3QjY4ZG1hLTRuRjZDTHdoRnUzS0tvRmZJc2tCUHdjMmJFUnNhd2EwbzBOMnNHeG9iLTdwQ1VVTzhhaHJpTzV0VHNmaVU5STZFQTRrUlhHUlBpRmMxZ1JPdzVENy12LUpUWk1ISC1MYjVsV1Nhd0RZemYtYVdLcVd1ckZEQm5C?oc=5",
-   "title": "Club adviser reveals how far Xabi Alonso is from Chelsea sack",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEJVQXhfdnJrQkVTUGEzRHVBV2lFSG8ydmN3VG1JTXRvd04zSl92aFIzdWdjRmFmaFA3QjY4ZG1hLTRuRjZDTHdoRnUzS0tvRmZJc2tCUHdjMmJFUnNhd2EwbzBOMnNHeG9iLTdwQ1VVTzhhaHJpTzV0VHNmaVU5STZFQTRrUlhHUlBpRmMxZ1JPdzVENy12LUpUWk1ISC1MYjVsV1Nhd0RZemYtYVdLcVd1ckZEQm5C?oc=5",
-   "source": "Football Insider",
-   "group": "영국 언론",
-   "date": 1795723200000,
-   "added": 1795728139152,
-   "cat": "인터뷰",
-   "titleKo": "클럽 고문이 차비 알론소가 첼시에서 경질될 가능성에 대해 밝힘"
   }
  ]
 }
