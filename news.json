@@ -1,27 +1,27 @@
 {
- "updated": 1795879912485,
+ "updated": 1795883080724,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 5,
+  "Sky Sports": 1,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 11,
-  "The Sun": 0,
+  "The Sun": 1,
   "Mirror": 4,
   "Daily Mail": 9,
   "Telegraph": 5,
   "Independent": 3,
   "Express": 0,
-  "Sports Mole": 14,
+  "Sports Mole": 12,
   "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 72,
+  "구글뉴스(영어)": 71,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 44,
+  "구글뉴스(한국어)": 43,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -844,6 +844,18 @@
  },
  "items": [
   {
+   "id": "https://www.thesun.co.uk/sport/41183775/wesley-fofana-appears-to-delete-his-x-account/",
+   "title": "Wesley Fofana appears to DELETE his X account after being told to ‘f*** off’ by furious Chelsea fans over interview",
+   "link": "https://www.thesun.co.uk/sport/41183775/wesley-fofana-appears-to-delete-his-x-account/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795880441000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FAH-OP-FOFANA-IG.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795883076581,
+   "cat": "인터뷰",
+   "titleKo": "웨슬리 포파나, 인터뷰 후 분노한 첼시 팬들로부터 '꺼져'라는 말을 듣고 X 계정을 삭제한 것으로 보임"
+  },
+  {
    "id": "https://talksport.com/football/4736190/wesley-fofana-chelsea-nottingham-forest/",
    "title": "Wesley Fofana takes drastic action after Chelsea abuse at Nottingham Forest",
    "link": "https://talksport.com/football/4736190/wesley-fofana-chelsea-nottingham-forest/",
@@ -1482,6 +1494,17 @@
    "titleKo": "[PL REVIEW] '알론소 거품이었나'...8위 첼시, 에메하 멀티골에도 노팅엄에 2-3 패! 3연패+5경기 4패",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699414_833843_539_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRU5Ic0hPRVlkZlM0OGJ2eGdjTlJMQVJlVE9md0F1MTc4Mk0tNWZTQkxtRDlTbTVjTlBXM2FUcWlCcG5vNDV1aGIwRUR4TTdNRXZtM2tBcUk1M3RJM0VuRG5MNUFZOVRLcjRFQ0RzYS1iNWF3eXFISWU4Vm95MG5hbG8zdkVKZkRQM3Zr?oc=5",
+   "title": "Chelsea - Crystal Palace",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRU5Ic0hPRVlkZlM0OGJ2eGdjTlJMQVJlVE9md0F1MTc4Mk0tNWZTQkxtRDlTbTVjTlBXM2FUcWlCcG5vNDV1aGIwRUR4TTdNRXZtM2tBcUk1M3RJM0VuRG5MNUFZOVRLcjRFQ0RzYS1iNWF3eXFISWU4Vm95MG5hbG8zdkVKZkRQM3Zr?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795848107000,
+   "added": 1795883076582,
+   "cat": null,
+   "titleKo": "첼시 - 크리스털 팰리스"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVFwczNRVE1OVUwyRHZRSUpVVnAtRlZnUFRpSC1ISjZlWDgteDBFTmxac29HSEc2MWRTUkZHdG94b19xRGVxcnVyY2R6S2cxUWVxa2w0a2ZsN2dlLWwxY1R2cEpIT2RkQ19DellkLWtHNGNYX1g0cDVNdW9GLWFLVEtOeUR5Qjl2ZlI4d2Zzd3RLLXJydGtIOTNVT3oyUQ?oc=5",
@@ -4101,6 +4124,17 @@
    "titleKo": "첼시 Q&A: 웨슬리 포파나, 이적, 대니 웰벡, 에스테바오 등에 대한 여러분의 질문에 대한 답변"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTGFfMkpvZXBfVE51YjVmV3JhaktGNXdwSVVKaE9wNnFKTnMyX0RYS0hmNU5seF9ZOUlnZF9ZS2dRS0FYWTk5NjFzeXZmejZmZ0F4R0lEZUlhbFZhWXRyZ0VBaVlZTTA1N21EanR2MGlDUkdZc2N2TnFuWTdZcm9mcGNRVkdkS3lkSk1mV2hHM2lRZGUwLXB4eHpJVm5haW1UVTVmTXVrQVpiMHFzdFhWdWRFWTNnUy1TWW45MTZzN2lqMGVvRHRuVTB2M2tUc3g4LVhrRzM1YW9XeTRIZXZpbg?oc=5",
+   "title": "Unlock Stamford Bridge",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTGFfMkpvZXBfVE51YjVmV3JhaktGNXdwSVVKaE9wNnFKTnMyX0RYS0hmNU5seF9ZOUlnZF9ZS2dRS0FYWTk5NjFzeXZmejZmZ0F4R0lEZUlhbFZhWXRyZ0VBaVlZTTA1N21EanR2MGlDUkdZc2N2TnFuWTdZcm9mcGNRVkdkS3lkSk1mV2hHM2lRZGUwLXB4eHpJVm5haW1UVTVmTXVrQVpiMHFzdFhWdWRFWTNnUy1TWW45MTZzN2lqMGVvRHRuVTB2M2tUc3g4LVhrRzM1YW9XeTRIZXZpbg?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795738578000,
+   "added": 1795883076583,
+   "cat": null,
+   "titleKo": "스탬퍼드 브리지 잠금 해제"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
    "title": "Man shot and killed at Chelsea high school football game identified",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
@@ -4223,40 +4257,6 @@
    "added": 1795778386138,
    "cat": null,
    "titleKo": "'첼시의 수준은 용납할 수 없다' — 하지만 사비 알론소가 변화를 가져올 수 있을까요?"
-  },
-  {
-   "id": "https://www.thesun.co.uk/sport/41165611/chelsea-news-xabi-alonso-job-sack-culture-war/",
-   "title": "Xabi Alonso demands immediate reaction from Chelsea flops as his future rests on winning Stamford Bridge culture war",
-   "link": "https://www.thesun.co.uk/sport/41165611/chelsea-news-xabi-alonso-job-sack-culture-war/",
-   "source": "The Sun",
-   "group": "영국 언론",
-   "date": 1795732200000,
-   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FTM-26-11-Chelsea-Rift_OP.jpg?quality%3D90%26strip%3Dall",
-   "added": 1795735192405,
-   "cat": null,
-   "titleKo": "사비 알론소, 첼시의 부진에 즉각적인 대응을 요구하다. 그의 미래는 스탬퍼드 브리지의 문화 전쟁에서 승리하는 데 달려 있다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1VCaGZqWUJjTVZwYURlRnBHQ3dhYnc1NFcxSm5DWFhuNlJvT0JqVmxEYmhGbDVYODY3eFdWeEZ3bTRnak9kbG0zZ3BMMDJadnU3dlJfWXVnQ29TWlk3TEpDR3J5bVE2NE9Nb2FWN3VobVRfTVBZeHk0NmF5dVNzcFJnbnBlcWxWLVlOQmlJTC00cTAwX0NNMTBtR3FIYUtuYkE?oc=5",
-   "title": "Tom Brady Reportedly Buys Ownership Stake in Chelsea FC",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1VCaGZqWUJjTVZwYURlRnBHQ3dhYnc1NFcxSm5DWFhuNlJvT0JqVmxEYmhGbDVYODY3eFdWeEZ3bTRnak9kbG0zZ3BMMDJadnU3dlJfWXVnQ29TWlk3TEpDR3J5bVE2NE9Nb2FWN3VobVRfTVBZeHk0NmF5dVNzcFJnbnBlcWxWLVlOQmlJTC00cTAwX0NNMTBtR3FIYUtuYkE?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795729468000,
-   "added": 1795735192405,
-   "cat": null,
-   "titleKo": "톰 브래디, 첼시 FC 지분 인수 보도"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdWtHdmJqQnU4TFdfRUZac0dhaVIwQzc2RWJNd2FNUHUwQzg4aUtkb3plX2xvZlZmclRnUnh4WmdpQXhQbzBIV2xtcEpOOFZEVU14MTNNNDNDMmZaOVYxcUhkUjRoUS04N1ozVDd0M0ppNmpjQzJXOTRIeWg2bTBkMjJscjU4dU9KenFTUGJEVVItdEhXdG9lc3BxWGtBRXlaeHVWcDgwNGY1czRWREZ1YkdoR1dBMUx2UVBtNHl6Z1gyTWJsLW9pQmNJVzlsbWFQRE9iQlFhd1J1LTdJdVR5MXd4eGNGdFR0?oc=5",
-   "title": "Chelsea Transfer News Today: Antonio Nusa wanted as January agreement reached",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdWtHdmJqQnU4TFdfRUZac0dhaVIwQzc2RWJNd2FNUHUwQzg4aUtkb3plX2xvZlZmclRnUnh4WmdpQXhQbzBIV2xtcEpOOFZEVU14MTNNNDNDMmZaOVYxcUhkUjRoUS04N1ozVDd0M0ppNmpjQzJXOTRIeWg2bTBkMjJscjU4dU9KenFTUGJEVVItdEhXdG9lc3BxWGtBRXlaeHVWcDgwNGY1czRWREZ1YkdoR1dBMUx2UVBtNHl6Z1gyTWJsLW9pQmNJVzlsbWFQRE9iQlFhd1J1LTdJdVR5MXd4eGNGdFR0?oc=5",
-   "source": "LiveScore",
-   "group": "영국 언론",
-   "date": 1795729114000,
-   "added": 1795771203452,
-   "cat": "이적",
-   "titleKo": "첼시 이적 소식 오늘: 1월 이적 합의가 이뤄지면서 안토니오 누사가 원해"
   }
  ]
 }
