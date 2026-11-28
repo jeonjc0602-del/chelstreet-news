@@ -1,5 +1,5 @@
 {
- "updated": 1795861528201,
+ "updated": 1795864542378,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -7,21 +7,21 @@
   "The Guardian": "실패: 403",
   "football.london": 25,
   "Evening Standard": 13,
-  "The Sun": 6,
+  "The Sun": 7,
   "Mirror": 3,
   "Daily Mail": 9,
   "Telegraph": 5,
   "Independent": 3,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 15,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 69,
+  "구글뉴스(영어)": 70,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 47,
+  "구글뉴스(한국어)": 46,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -870,6 +870,65 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699419_833858_4143_v150.jpg"
   },
   {
+   "id": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-man-utd-chelsea-liverpool-nico-paz-fresneda-forbs-b1303142.html",
+   "title": "Transfer news LIVE: Arsenal in Nico Paz talks; Man Utd twist; Chelsea done deal; Liverpool, Tottenham latest",
+   "link": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-man-utd-chelsea-liverpool-nico-paz-fresneda-forbs-b1303142.html",
+   "source": "Evening Standard",
+   "group": "영국 언론",
+   "date": 1795863825000,
+   "image": "https://static.standard.co.uk/2026/11/28/10/23/FotoJet-(80).jpg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795864534650,
+   "cat": "이적",
+   "titleKo": "이적 소식 라이브: 아스널, 니코 파스와 협상 중; 맨유, 반전; 첼시, 이적 완료; 리버풀, 토트넘 최신 소식"
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41179599/chelsea-xabi-alonso-nottingham-forest/",
+   "title": "Chelsea to stick with Xabi Alonso even though they’re in desperate need of guidance and lack anyone ready to provide it",
+   "link": "https://www.thesun.co.uk/sport/41179599/chelsea-xabi-alonso-nottingham-forest/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795863496000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FRB-28-11-BLOCK-COLOUR-CHELSEA_OP.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795864534650,
+   "cat": null,
+   "titleKo": "첼시는 지도력이 절실히 필요하고 이를 제공할 사람이 없지만, 샤비 알론소를 계속 기용할 예정입니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWlJM3VaSnF3RUJEVnV3Q092QWtQRFk4c3ZJYWt3eWN0QUpsTXRmaVg0ZC0tcWdyRnYxbkxTVGJMQzA1bFIxVkI5a3lWdjRwazRGSV9lSDRYUlQtVUN4VUp3a0lKQmxrTGEwTVNvR1hueHdYdEwxRUZxQzhtYzFLRDRwT1E?oc=5",
+   "title": "Chelsea to stick with Xabi Alonso despite crisis and fans turning on players",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWlJM3VaSnF3RUJEVnV3Q092QWtQRFk4c3ZJYWt3eWN0QUpsTXRmaVg0ZC0tcWdyRnYxbkxTVGJMQzA1bFIxVkI5a3lWdjRwazRGSV9lSDRYUlQtVUN4VUp3a0lKQmxrTGEwTVNvR1hueHdYdEwxRUZxQzhtYzFLRDRwT1E?oc=5",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795863480000,
+   "added": 1795864534650,
+   "cat": null,
+   "titleKo": "첼시, 위기 상황과 팬들의 선수 비난에도 불구하고 사비 알론소 감독 체제 유지"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/videos/cqg7ld0x729xo?at_medium=RSS&at_campaign=rss",
+   "title": "Have Chelsea hit rock bottom after Nottingham Forest defeat?",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqg7ld0x729xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "group": "영국 언론",
+   "date": 1795862146000,
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/186e/live/e62eca30-eb16-11f1-99a1-253766e7ad8b.jpg",
+   "added": 1795864534649,
+   "cat": null,
+   "titleKo": "첼시가 노팅엄 포레스트에 패한 후 최악의 상황에 처했나요?"
+  },
+  {
+   "id": "https://www.sportsmole.co.uk/football/chelsea/news/damning-alonso-real-madrid-stat-emerges-after-chelsea-lose-to-forest_610071.html",
+   "title": "Xabi Alonso Chelsea future: Damning Real Madrid stat emerges after Nottingam Forest defeat",
+   "link": "https://www.sportsmole.co.uk/football/chelsea/news/damning-alonso-real-madrid-stat-emerges-after-chelsea-lose-to-forest_610071.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795860761000,
+   "image": "https://www.sportsmole.co.uk/thumbor/L7pfeVBdBMR7rVR0UXKvtnv_mSQ=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Ficonsportxalamy-3g16t6d-1-6aeda480e002c833544915.jpg",
+   "added": 1795864534650,
+   "cat": null,
+   "titleKo": "사비 알론소의 첼시 감독직 가능성: 노팅엄 포레스트전 패배 후 레알 마드리드 시절의 불리한 기록이 드러나"
+  },
+  {
    "id": "https://www.independent.co.uk/sport/football/wesley-fofana-chelsea-fans-chant-xabi-alonso-b3093148.html",
    "title": "Xabi Alonso responds as Chelsea fans tell Wesley Fofana ‘you’re not welcome here’",
    "link": "https://www.independent.co.uk/sport/football/wesley-fofana-chelsea-fans-chant-xabi-alonso-b3093148.html",
@@ -1245,6 +1304,17 @@
    "added": 1795832963259,
    "cat": null,
    "titleKo": "`1-4 대패 이후 또 졌다, 첼시 경기력은 재앙`…알론소 감독 경질설 재점화"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
+   "title": "Tottenham Hotspur - Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795830717000,
+   "added": 1795864534650,
+   "cat": null,
+   "titleKo": "토트넘 홋스퍼 - 첼시"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVlUZU1XcjdEal9zcTAtbzlnNlBid1NGZXo3QWdtS0s3TTNhSG8tc1hDb3BDeVhxX0cwU0NxSVJReGg4MDZ4TFN4VzJ3MFlXNGYxNkdUdlRhcnFycF9MUWRzOTFZOUR6LUU5emxvMHhVOWxvdXY4bXBBNHpZZWZYSkFILTlUM2pmRUhwaA?oc=5",
@@ -2062,6 +2132,17 @@
    "added": 1795821721927,
    "cat": null,
    "titleKo": "노팅엄 포레스트 vs 첼시: 모건 깁스-화이트, 또다시 골망을 흔들다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFQ0RlNvZFYzSXNxU2g3WVd2VXhrQ2RmNUN0ZWQzTS1wYVZ0YjdWZUJHU2FpVVJCUnJocFFTRGhhZ0FzT1pIak9YRUw2TVB0VnRJODZTSGN5RkdxckQyeFBNVmgza0hsdGNleFNnUHJhb2xNQ2FLeER1OG1xb0xMN1dlUXpMSmdodl9hcmVmLVBGWVQ2dmFlMjRSVWFJZm04SHFWZ0VULXZ4WnNtSjQzZHk0SUlPaHFLN3VxTkxYMzlockJzWThjbmpLV016RWJ0RmhUdWkxTzQxREU?oc=5",
+   "title": "Chelsea Transfer News Today: Alex Scott latest as signing confirmed",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFQ0RlNvZFYzSXNxU2g3WVd2VXhrQ2RmNUN0ZWQzTS1wYVZ0YjdWZUJHU2FpVVJCUnJocFFTRGhhZ0FzT1pIak9YRUw2TVB0VnRJODZTSGN5RkdxckQyeFBNVmgza0hsdGNleFNnUHJhb2xNQ2FLeER1OG1xb0xMN1dlUXpMSmdodl9hcmVmLVBGWVQ2dmFlMjRSVWFJZm04SHFWZ0VULXZ4WnNtSjQzZHk0SUlPaHFLN3VxTkxYMzlockJzWThjbmpLV016RWJ0RmhUdWkxTzQxREU?oc=5",
+   "source": "LiveScore",
+   "group": "영국 언론",
+   "date": 1795815437000,
+   "added": 1795864534650,
+   "cat": "오피셜",
+   "titleKo": "첼시 이적 소식 오늘: 알렉스 스콧 영입 확정 소식"
   },
   {
    "id": "https://www.standard.co.uk/sport/football/chelsea-fc-fofana-red-card-nottingham-forest-xabi-alonso-b1306770.html",
@@ -4173,85 +4254,6 @@
    "added": 1795714442779,
    "cat": "오피셜",
    "titleKo": "FPL 2026/27: 첼시 12라운드 | 뉴스 | 공식 사이트"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOclhWUEU4TEpTMHRReHplNGhac0pYZlJlVklEcm93aFZqQ0JSYkdqT0hWNEVjV3dOQW1ZNjZsaHNwcmc2SzdxTDhsckxmYnpLdVVKV2QxeUMzMGZxck4tQi1xVTFteE9HeUZIOGk2T3g5eU9GZC1zbnVpU1VwckxTZ2ROOTJRQzd3ZXNyVlpUenYxTTg0UU15cHJib2ZBa0piMDdmUWdiY3RHTndXMkFIR20zODFhUEVuOTdIamJBOFl5cmdZajFEX0FnTERiVWJzbmdfcmIxUEFQMTM1aWpQeUxBSGFRRkFjWmRvVURXRWM5Mm9JZi1VVFR3?oc=5",
-   "title": "Premier League predictions & Jones Knows' best bets: Nottingham Forest vs Chelsea, Arsenal vs Manchester City and more!",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOclhWUEU4TEpTMHRReHplNGhac0pYZlJlVklEcm93aFZqQ0JSYkdqT0hWNEVjV3dOQW1ZNjZsaHNwcmc2SzdxTDhsckxmYnpLdVVKV2QxeUMzMGZxck4tQi1xVTFteE9HeUZIOGk2T3g5eU9GZC1zbnVpU1VwckxTZ2ROOTJRQzd3ZXNyVlpUenYxTTg0UU15cHJib2ZBa0piMDdmUWdiY3RHTndXMkFIR20zODFhUEVuOTdIamJBOFl5cmdZajFEX0FnTERiVWJzbmdfcmIxUEFQMTM1aWpQeUxBSGFRRkFjWmRvVURXRWM5Mm9JZi1VVFR3?oc=5",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795712349000,
-   "added": 1795721381014,
-   "cat": null,
-   "titleKo": "프리미어리그 예측 및 존스 노우스(Jones Knows)의 베스트 베팅: 노팅엄 포레스트 vs 첼시, 아스널 vs 맨체스터 시티 등!"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzJMaFpuamYzSjNFZXowTXB0UjRFaUJNN09pc28xdmVOdmVqeHBoVkZRZy1feDRoRkJQOGNOaS1MSVZSNlB4Sm1ybTdVTjRFOHYwNjF2RUpKSU8tZTRsbFY4TEgzcVpqWms1cEUxYy1VWHRwQ3F3SERSS1lNV2lENXQxS1AwcUZqZ0dZNjJFb2VBS2Vl?oc=5",
-   "title": "Chelsea boss Alonso reveals Fofana apology after penalty joke",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzJMaFpuamYzSjNFZXowTXB0UjRFaUJNN09pc28xdmVOdmVqeHBoVkZRZy1feDRoRkJQOGNOaS1MSVZSNlB4Sm1ybTdVTjRFOHYwNjF2RUpKSU8tZTRsbFY4TEgzcVpqWms1cEUxYy1VWHRwQ3F3SERSS1lNV2lENXQxS1AwcUZqZ0dZNjJFb2VBS2Vl?oc=5",
-   "source": "AllFootball",
-   "group": "영국 언론",
-   "date": 1795711963000,
-   "added": 1795717398489,
-   "cat": "인터뷰",
-   "titleKo": "첼시의 알론소 감독, 페널티킥 농담 후 포파나에게 사과했다고 밝혀"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWROa2I2aXp1QnBtU3llb3JmZjNyc1BFTkF4UDJ3TlRXa0g3V0picmIwM3BnNUN0U05iUF90V0dfcjhORlVHWHNfX1ZnMjBJSEJqam85cER6MGJqdmQxTW5ZQWYwbEZicWk1OUpzdmd5dzhqQVBCd2cwRXFhSDFuREFUMFpTLVBST2ZUYTFNeGx1VVFRTU1IRk9HVFVGN3lTT19UVDBRN0lzUQ?oc=5",
-   "title": "Why Xabi Alonso’s vision and Chelsea’s reality remain worlds apart",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWROa2I2aXp1QnBtU3llb3JmZjNyc1BFTkF4UDJ3TlRXa0g3V0picmIwM3BnNUN0U05iUF90V0dfcjhORlVHWHNfX1ZnMjBJSEJqam85cER6MGJqdmQxTW5ZQWYwbEZicWk1OUpzdmd5dzhqQVBCd2cwRXFhSDFuREFUMFpTLVBST2ZUYTFNeGx1VVFRTU1IRk9HVFVGN3lTT19UVDBRN0lzUQ?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795711776000,
-   "added": 1795807841750,
-   "cat": null,
-   "titleKo": "샤비 알론소의 비전과 첼시의 현실이 여전히 전혀 다른 이유"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fUFBFOXNXYnlqcGU4TFFvanZnaGNQR1FBY3paN3dsSXh2MnZFSmFMUllENkQ4bUQtc0ltaFBSNTBNU29ERFVsc19PUUdTaEEzS2VYZTBfbzFndXd0NHhzQlJjRExIem1UakZF?oc=5",
-   "title": "Chelsea boss Xabi Alonso: Wesley Fofana has apologised for interview",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fUFBFOXNXYnlqcGU4TFFvanZnaGNQR1FBY3paN3dsSXh2MnZFSmFMUllENkQ4bUQtc0ltaFBSNTBNU29ERFVsc19PUUdTaEEzS2VYZTBfbzFndXd0NHhzQlJjRExIem1UakZF?oc=5",
-   "source": "BBC",
-   "group": "영국 언론",
-   "date": 1795711667000,
-   "added": 1795724836143,
-   "cat": "인터뷰",
-   "titleKo": "첼시 코치 사비 알론소: 웨슬리 포파나가 인터뷰에 대해 사과했습니다"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
-   "title": "Fofana has apologised for interview - Alonso",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "group": "영국 언론",
-   "date": 1795711667000,
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bbb6/live/0c620240-e9b8-11f1-8d2a-f5d2aabc11cb.jpg",
-   "added": 1795714442778,
-   "cat": "인터뷰",
-   "titleKo": "포파나, 인터뷰에 대해 사과 - 알론소"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/which-premier-league-club-is-eyeing-up-real-madrid-defender-rudiger_609942.html",
-   "title": "Real Madrid defender Antonio Rudiger 'eyed up' by Premier League club ahead of January transfer window",
-   "link": "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/which-premier-league-club-is-eyeing-up-real-madrid-defender-rudiger_609942.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795711627000,
-   "image": "https://www.sportsmole.co.uk/thumbor/MxUbZ8KEDprLaPxBmwXaGYnE_pE=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fns-photo-badge-email-sportmole-4-6b086206666a1136225227.jpg",
-   "added": 1795714442779,
-   "cat": "이적",
-   "titleKo": "레알 마드리드의 수비수 안토니오 뤼디거, 1월 이적 시장을 앞두고 프리미어리그 구단이 '관심을 보이고 있음'"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUt3My03WHdxZERSNndEZGstSGZPODhOV0NvbUhMY2hKV0o1NUhFeU81SmRvbklEbW1yN29QR1phS0FNQVp4Q0NLTUN2cFE2VFlGYzdoQXFOa3J1bjVfN3RTUTRINzdqanFBYWtUT1NTeWhuY1FqYzZnb2dZYjFjWF9XdEVvanZuRUE?oc=5",
-   "title": "‘Never in my wildest dreams.’ Fatal shooting at Thanksgiving Eve football game shakes Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUt3My03WHdxZERSNndEZGstSGZPODhOV0NvbUhMY2hKV0o1NUhFeU81SmRvbklEbW1yN29QR1phS0FNQVp4Q0NLTUN2cFE2VFlGYzdoQXFOa3J1bjVfN3RTUTRINzdqanFBYWtUT1NTeWhuY1FqYzZnb2dZYjFjWF9XdEVvanZuRUE?oc=5",
-   "source": "The Boston Globe",
-   "group": "영국 언론",
-   "date": 1795711463000,
-   "added": 1795714442779,
-   "cat": null,
-   "titleKo": "‘가장 황당한 꿈에서도 그런 일은 없었어요.’ 추수감사절 전날 열린 미식축구 경기에서 발생한 총격 사건으로 첼시가 충격에 빠졌습니다."
   }
  ]
 }
