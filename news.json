@@ -1,8 +1,8 @@
 {
- "updated": 1795867352229,
+ "updated": 1795870744795,
  "stats": {
   "BBC Sport": 24,
-  "Sky Sports": 4,
+  "Sky Sports": 5,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
@@ -12,7 +12,7 @@
   "Daily Mail": 9,
   "Telegraph": 5,
   "Independent": 3,
-  "Express": "실패: 403",
+  "Express": 0,
   "Sports Mole": 15,
   "CaughtOffside": 1,
   "90min": 1,
@@ -21,7 +21,7 @@
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 46,
+  "구글뉴스(한국어)": 45,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -857,6 +857,41 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699422_833866_742_v150.jpg"
   },
   {
+   "id": "https://www.skysports.com/watch/video/13617459/chelsea-latest-is-xabi-alonso-under-increasing-pressure-afgter-3-2-defeat-to-nottingham-forest",
+   "title": "Merse: Are the Chelsea players playing for Alonso?",
+   "link": "https://www.skysports.com/watch/video/13617459/chelsea-latest-is-xabi-alonso-under-increasing-pressure-afgter-3-2-defeat-to-nottingham-forest",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795868160000,
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-paul-merson-chelsea_7418481.jpg?20261128122334",
+   "added": 1795870736798,
+   "cat": null,
+   "titleKo": "머슨: 첼시 선수들이 알론소를 위해 뛰고 있나요?"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WbGdmdW83elB0TW4zZGJaakZNckI5Q0VNTjVKSDJfR2phMWZpZTdFLVJTTV9KMkhScDhFaDhDWDBQS0Rsanpaa2s1RVBMbTlZZEdXeU1ERlhhSTdhN25qX01jS1pvUQ?oc=5",
+   "title": "'이럴 수가' 무패 우승 감독 어쩌다 이렇게 됐나? 패패패 중위권 추락…첼시 수뇌부는 여전히 지지! 'Here we go' 기자가 밝혔다 \"첼시는 알론소와 함께한다\"",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WbGdmdW83elB0TW4zZGJaakZNckI5Q0VNTjVKSDJfR2phMWZpZTdFLVJTTV9KMkhScDhFaDhDWDBQS0Rsanpaa2s1RVBMbTlZZEdXeU1ERlhhSTdhN25qX01jS1pvUQ?oc=5",
+   "source": "마이데일리",
+   "group": "한국 언론",
+   "date": 1795867320000,
+   "added": 1795870736799,
+   "cat": "이적",
+   "titleKo": "'이럴 수가' 무패 우승 감독 어쩌다 이렇게 됐나? 패패패 중위권 추락…첼시 수뇌부는 여전히 지지! 'Here we go' 기자가 밝혔다 \"첼시는 알론소와 함께한다\""
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/chelseas-next-five-premier-league-34971603",
+   "title": "Chelsea's next five Premier League fixtures compared to Liverpool and Brentford amid tricky run",
+   "link": "https://www.football.london/chelsea-fc/news/chelseas-next-five-premier-league-34971603",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795867200000,
+   "image": "https://i2-prod.football.london/incoming/article34971629.ece/ALTERNATES/s615/0_GettyImages-2306272662.jpg",
+   "added": 1795870736798,
+   "cat": null,
+   "titleKo": "어려운 일정을 앞둔 첼시의 다음 5경기 일정, 리버풀과 브렌트퍼드와의 경기 비교"
+  },
+  {
    "id": "https://www.talkchelsea.net/news/alonso-fails-answer-basic-question-chelseas-issues/",
    "title": "Alonso fails to answer basic question about Chelsea’s issues against Forest",
    "link": "https://www.talkchelsea.net/news/alonso-fails-answer-basic-question-chelseas-issues/",
@@ -880,6 +915,17 @@
    "titleKo": "19위 맨유와 실점 동률-11월 전패 충격...알론소, 첼시서 조기 경질 위기! \"달라질 수 있다\" 극복 의지 밝혀",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699419_833858_4143_v150.jpg"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1FfcFZiZEJVRVZicEtGY1owTUprVlY3VEdGWGExSERGdHQ0eUJOT0R5LVcwdVV5S2Z4eXBrS1NLbVdEWDN2ZHN6VWYyeVRwWVdiN3FPd1Y0LUV0ejVCRFpCbF9KVnZDT1ltbTRjd09KTDhVbjZvUlpwRFdBbElDOWJ0bXhwYmtUVE5CTnFHZmg1cGlra0JLLWlR?oc=5",
+   "title": "Fresh Italian report clarifies Chelsea’s stance on Palestra transfer",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1FfcFZiZEJVRVZicEtGY1owTUprVlY3VEdGWGExSERGdHQ0eUJOT0R5LVcwdVV5S2Z4eXBrS1NLbVdEWDN2ZHN6VWYyeVRwWVdiN3FPd1Y0LUV0ejVCRFpCbF9KVnZDT1ltbTRjd09KTDhVbjZvUlpwRFdBbElDOWJ0bXhwYmtUVE5CTnFHZmg1cGlra0JLLWlR?oc=5",
+   "source": "Yahoo Sports",
+   "group": "영국 언론",
+   "date": 1795866900000,
+   "added": 1795870736799,
+   "cat": "이적",
+   "titleKo": "최신 이탈리아 보도에 따르면 첼시의 팔레스트라 영입에 대한 입장이 명확해졌습니다."
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
@@ -938,6 +984,17 @@
    "added": 1795864534650,
    "cat": null,
    "titleKo": "첼시, 위기 상황과 팬들의 선수 비난에도 불구하고 사비 알론소 감독 체제 유지"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMl95WXkyQkNvWmx4YUEzc2UwLURjS195ZFRNbl9WWlE5MnVYUUR4ckVOS0owTUN0d3p6bW1xLUJ4Szh1dWQ4dTFSYWVlMEZZUUdEakVuSE51ME1vSDN3VnRMUDRMSkFVU2xIS3dFLXlTQm42djc1RjM5OS0xQTZOMlhhaVFySzdJV3JzdTdQc0xVVDE3eEVOUS1leGRsTl9VX1FnbmdTejJQZw?oc=5",
+   "title": "Crystal Palace U18 v Chelsea U18 | Match",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMl95WXkyQkNvWmx4YUEzc2UwLURjS195ZFRNbl9WWlE5MnVYUUR4ckVOS0owTUN0d3p6bW1xLUJ4Szh1dWQ4dTFSYWVlMEZZUUdEakVuSE51ME1vSDN3VnRMUDRMSkFVU2xIS3dFLXlTQm42djc1RjM5OS0xQTZOMlhhaVFySzdJV3JzdTdQc0xVVDE3eEVOUS1leGRsTl9VX1FnbmdTejJQZw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795862730000,
+   "added": 1795870736799,
+   "cat": null,
+   "titleKo": "크리스털 팰리스 U18 vs 첼시 U18 | 경기"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/cqg7ld0x729xo?at_medium=RSS&at_campaign=rss",
@@ -1418,6 +1475,17 @@
    "titleKo": "'우리가 원하는 대로 되는 일이 많지 않아요' | 동영상"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSjRpSDVicFZPdGVkaW1Mc2Z3azFaTzFyVlRFNWs1N2I4elRiYWlTek5XUjByMk15TUZMVENNdjlNNVVxbGZDS1pMM1BObnhwREtjSkluczVuNDl3cm5yNnFhakk2bExsTGVIaFZpbTdlMVVXa3ZKcU85a2djYkZsT3FvVWJodE1LUk1OM0llMEhGejhOMVpxTkctTWlHM1FFQ2VHMEJ0LVhvRXY2d2FON3lIbEVYcnBrQi05ZllGUms4OWxMOFhabjdTTmhDQlJ3Qjduc3FXSy1Vam1ubXRVQw?oc=5",
+   "title": "Chelsea Nike Home Stadium Shirt 2026-27 - Kids with Lavia 45 printing",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSjRpSDVicFZPdGVkaW1Mc2Z3azFaTzFyVlRFNWs1N2I4elRiYWlTek5XUjByMk15TUZMVENNdjlNNVVxbGZDS1pMM1BObnhwREtjSkluczVuNDl3cm5yNnFhakk2bExsTGVIaFZpbTdlMVVXa3ZKcU85a2djYkZsT3FvVWJodE1LUk1OM0llMEhGejhOMVpxTkctTWlHM1FFQ2VHMEJ0LVhvRXY2d2FON3lIbEVYcnBrQi05ZllGUms4OWxMOFhabjdTTmhDQlJ3Qjduc3FXSy1Vam1ubXRVQw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795827559000,
+   "added": 1795870736799,
+   "cat": null,
+   "titleKo": "첼시 Nike 홈경기장 유니폼 상의 2026/27 - 아동용, 라비아 45 프린트"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVJDU3lOemt2VTJfQmpMWVZYdlpTTWJ0R2JoZWw2US05RDB2NDB2OF9vUV92TENxb0RoT1cwb1pYZ3pSTlgxTm9mbkdNbGNYQnpSRDlZRFJUSWdsRHJzQ2hTclZ3SWRFMzNMaENxLTR1bWhhNDVsbE1MZjVBa2R5OW42RHplTkU?oc=5",
    "title": "노팅엄 포레스트의 패배로 첼시는 더욱 심각한 위기에 빠졌다.",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVJDU3lOemt2VTJfQmpMWVZYdlpTTWJ0R2JoZWw2US05RDB2NDB2OF9vUV92TENxb0RoT1cwb1pYZ3pSTlgxTm9mbkdNbGNYQnpSRDlZRFJUSWdsRHJzQ2hTclZ3SWRFMzNMaENxLTR1bWhhNDVsbE1MZjVBa2R5OW42RHplTkU?oc=5",
@@ -1427,6 +1495,17 @@
    "added": 1795829141013,
    "cat": null,
    "titleKo": "노팅엄 포레스트의 패배로 첼시는 더욱 심각한 위기에 빠졌다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSlhjZ2ZyRm42TFBvdUVsNnBzNHg3UE5kRFA1cmwzZjR1c3FZbnpic1JmY3ZwWDFyWUdxZDJoV2ZsRzZQUDhsX3NFamx3ZFFlVEw1c1hzNHM2WXZRU3RFS1Vpb0txWnJqS3daVFBOVjZfRWEyY0cxTEJMOVlQMHZlWVFQdTkxdUFKcDZ5UFZoSTZ2b19zMW54dVVIbW5uVVhHQWNjaWRPNkNXa29FdUdCQnZqSHctY1FlbWF5S0FROEFvdw?oc=5",
+   "title": "Chelsea Nike i96 Repel Track Pants - Rush Blue",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSlhjZ2ZyRm42TFBvdUVsNnBzNHg3UE5kRFA1cmwzZjR1c3FZbnpic1JmY3ZwWDFyWUdxZDJoV2ZsRzZQUDhsX3NFamx3ZFFlVEw1c1hzNHM2WXZRU3RFS1Vpb0txWnJqS3daVFBOVjZfRWEyY0cxTEJMOVlQMHZlWVFQdTkxdUFKcDZ5UFZoSTZ2b19zMW54dVVIbW5uVVhHQWNjaWRPNkNXa29FdUdCQnZqSHctY1FlbWF5S0FROEFvdw?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795827356000,
+   "added": 1795870736799,
+   "cat": null,
+   "titleKo": "첼시 Nike i96 리펠 트랙 팬츠 - 러시 블루"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5c9IBY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5cw?oc=5",
@@ -2020,6 +2099,17 @@
    "titleKo": "노팅엄 포레스트전 첼시 선수 평점: 수비수가 '치명적인 실수'로 인해 우려스러운 패배를 당하며 3/10점 획득"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDY3dTM1ZUNQY1FMcDZzWlJoMktmZEt3X0c1UkpXQ3hacGktclVxU1BON3diSWhfVGZFOERwZGJIN2c5TU5RM1o4REZMVmlhVGwwbzQ1OG91eVNnSXl2aDJGUnhndjU1Vk1rb0xnaHpwV1N2X1I2Yl82M1IxN0tqczM5RTQxOXJzc045U3RGWG1ZN0Y1ZC1OVGY4dkpkbWdjdm5FWjlQcW1WVW1zOWcwV3gwQTYzVjhkblJBTWJDRWQzMTdIcWtjWTZaWFZNenUyYnVmeXdsRUxaSE5Nc3piZm9zRzRMelNH?oc=5",
+   "title": "Chelsea Cup Nike Away Stadium Shirt 2026-27 - Kids with Sarwie 42 printing",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDY3dTM1ZUNQY1FMcDZzWlJoMktmZEt3X0c1UkpXQ3hacGktclVxU1BON3diSWhfVGZFOERwZGJIN2c5TU5RM1o4REZMVmlhVGwwbzQ1OG91eVNnSXl2aDJGUnhndjU1Vk1rb0xnaHpwV1N2X1I2Yl82M1IxN0tqczM5RTQxOXJzc045U3RGWG1ZN0Y1ZC1OVGY4dkpkbWdjdm5FWjlQcW1WVW1zOWcwV3gwQTYzVjhkblJBTWJDRWQzMTdIcWtjWTZaWFZNenUyYnVmeXdsRUxaSE5Nc3piZm9zRzRMelNH?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795817081000,
+   "added": 1795870736799,
+   "cat": null,
+   "titleKo": "첼시 컵 나이키 원정 경기장 유니폼 상의 2026-27 - 아동용, Sarwie 42 프린트"
+  },
+  {
    "id": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
    "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
@@ -2303,6 +2393,17 @@
    "added": 1795814766283,
    "cat": null,
    "titleKo": "첼시에게 주어진 기회! 에메가가 즉각적인 대응을 보여줍니다."
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObzRNMUowdmgycXRkU3VoQVdVZE83cFQzWmI1MFdNbmpnUTQ0ZGdsSl9aQXoyczUwZVU3ajVRV1lzRERzMXlyMHpCdkpWN3NHUFducllJUy1ubW05RDNwZi1oSWk1TlgtNFlnR0dtMG5EcGd1d2ZRWTBHZTdWd3NBMW9hTnNlamIxYTB0d2tqVmhSbEFyTmItOS1Xb3ZvR0lLWTJJSU53cGlEdkFzcV9MX21MVHBBS3I1a1Q5Mk10OHJ3NUtJNXJvakRTSXV0UFBjWUd1RXQ4bElFN0x5QTlOR1lUVEFQa01fXzljRW5XbXNUVlU?oc=5",
+   "title": "Chelsea 25-26 Third Football - Size 5",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObzRNMUowdmgycXRkU3VoQVdVZE83cFQzWmI1MFdNbmpnUTQ0ZGdsSl9aQXoyczUwZVU3ajVRV1lzRERzMXlyMHpCdkpWN3NHUFducllJUy1ubW05RDNwZi1oSWk1TlgtNFlnR0dtMG5EcGd1d2ZRWTBHZTdWd3NBMW9hTnNlamIxYTB0d2tqVmhSbEFyTmItOS1Xb3ZvR0lLWTJJSU53cGlEdkFzcV9MX21MVHBBS3I1a1Q5Mk10OHJ3NUtJNXJvakRTSXV0UFBjWUd1RXQ4bElFN0x5QTlOR1lUVEFQa01fXzljRW5XbXNUVlU?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795813902000,
+   "added": 1795870736799,
+   "cat": null,
+   "titleKo": "첼시 25-26 서드 유니폼 축구공 - 5호"
   },
   {
    "id": "https://www.mirror.co.uk/sport/football/news/chelsea-wesley-fofana-chant-interview-37924346",
@@ -4152,107 +4253,6 @@
    "added": 1795717398489,
    "cat": "부상",
    "titleKo": "카이세도, 라크루아, 페드로 - 노팅엄 포레스트전을 앞둔 첼시 부상자 최신 소식 및 복귀 일정"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2c1dHFVMkRXY2wwcVN0OUhuRWtHSEVUVEwxVm5ha01jMTBhUzRQU2wzcU1CS0trZUxTTWZrTjJzdkVXNkg4NEg2LUN2aEFNWGhFdl9pWEZITVk0cVZvcG1zMEpWemFoUDVuX3NEd3pQZVJhMWduLUtYQzdBNFNBbFB3dW5uYlZPT3p5WXpVQ1lpVXktLXJoQ2tCN0RFek4tbkpVOGhn?oc=5",
-   "title": "Xabi Alonso calls for a 'strong, competitive reaction' at Forest",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2c1dHFVMkRXY2wwcVN0OUhuRWtHSEVUVEwxVm5ha01jMTBhUzRQU2wzcU1CS0trZUxTTWZrTjJzdkVXNkg4NEg2LUN2aEFNWGhFdl9pWEZITVk0cVZvcG1zMEpWemFoUDVuX3NEd3pQZVJhMWduLUtYQzdBNFNBbFB3dW5uYlZPT3p5WXpVQ1lpVXktLXJoQ2tCN0RFek4tbkpVOGhn?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795716050000,
-   "added": 1795858246793,
-   "cat": null,
-   "titleKo": "사비 알론소, 노팅엄 포레스트전을 앞두고 '강력하고 경쟁력 있는 대응' 촉구"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEp3R0xneFZxeWRzZmJrNXFfSGx0dVM1dGxOcFNqSG5qRGV4VHNSWXpsOTlrTjZNam9yS0pwTzNvYW1XQ09uN1ZObVZoeWFwNklDYnp4MzhYalBxNjlwZ2l2d3RpVDRTUXhrYjVZQ09LUXFwNEIzdWw0T2RVMnJnQXJNd01ublhCa1lLa2JvYVlYYS1JVFJiTC1SOWNCQQ?oc=5",
-   "title": "Training Gallery: Final preparations for Forest complete",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEp3R0xneFZxeWRzZmJrNXFfSGx0dVM1dGxOcFNqSG5qRGV4VHNSWXpsOTlrTjZNam9yS0pwTzNvYW1XQ09uN1ZObVZoeWFwNklDYnp4MzhYalBxNjlwZ2l2d3RpVDRTUXhrYjVZQ09LUXFwNEIzdWw0T2RVMnJnQXJNd01ublhCa1lLa2JvYVlYYS1JVFJiTC1SOWNCQQ?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795716000000,
-   "added": 1795721381015,
-   "cat": null,
-   "titleKo": "트레이닝 갤러리: 포레스트 최종 준비 완료"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmt6V05jVzNmdWZ6X0VVdHFjSi1XQkljZDA1cDF6bllXOTRkYkZCWFltM2kxR1JOck9GUXF5Z2F2U3hDbmtKUTNkd3NIQmNyVGk2TEluTjFQRHlMUnRTb2hfbDVObFIyMUpNeDRCTmZOLTNXeDN1M3VoVFlINnUxOGo1NHppUQ?oc=5",
-   "title": "Nottingham Forest - Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmt6V05jVzNmdWZ6X0VVdHFjSi1XQkljZDA1cDF6bllXOTRkYkZCWFltM2kxR1JOck9GUXF5Z2F2U3hDbmtKUTNkd3NIQmNyVGk2TEluTjFQRHlMUnRTb2hfbDVObFIyMUpNeDRCTmZOLTNXeDN1M3VoVFlINnUxOGo1NHppUQ?oc=5",
-   "source": "Flashscore.com",
-   "group": "영국 언론",
-   "date": 1795715989000,
-   "added": 1795754672251,
-   "cat": null,
-   "titleKo": "노팅엄 포레스트 - 첼시"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/tottenham-chelsea-fc-tosin-palmer-struggles-b1306598.html",
-   "title": "‘No one can chat s***’: Tottenham star defends Cole Palmer amid Chelsea criticism",
-   "link": "https://www.standard.co.uk/sport/football/tottenham-chelsea-fc-tosin-palmer-struggles-b1306598.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795715652000,
-   "image": "https://static.standard.co.uk/2026/11/26/17/2306316452..?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795717398489,
-   "cat": null,
-   "titleKo": "'아무도 헛소리할 수 없다': 토트넘 스타, 첼시의 비판 속에서 콜 파머를 옹호하다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVNcmhGX3BtbHcyQ0hxNWdQbVJzMFlPdzhobmQwdURxTF96RWQxWVFFd0hPWjFBU1VQTFhZYldaQ0VMbkQxTUFubnZpdnJxRjhCZTJOVVZTTXJxRkcxMVpuMVotaFNCWmV6LW9CbkRoandRMWtCTFJNUHJpX2FZMDRfTFhncldpMFpGZ21lUjQwTl91U0Y3bEtNWTVzMG9QMHpUNFZvLTY?oc=5",
-   "title": "Chavarria: We're going to treat it like it's the last game we play",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVNcmhGX3BtbHcyQ0hxNWdQbVJzMFlPdzhobmQwdURxTF96RWQxWVFFd0hPWjFBU1VQTFhZYldaQ0VMbkQxTUFubnZpdnJxRjhCZTJOVVZTTXJxRkcxMVpuMVotaFNCWmV6LW9CbkRoandRMWtCTFJNUHJpX2FZMDRfTFhncldpMFpGZ21lUjQwTl91U0Y3bEtNWTVzMG9QMHpUNFZvLTY?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795715438000,
-   "added": 1795836451053,
-   "cat": null,
-   "titleKo": "차바리아: 마지막 경기처럼 임할 겁니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNzBqRm9lNnJSRWhqVzhleWNrNzZKUjZ6SmJpVU5OcGd2M0xiQlZLU055dmUzb2lmOUpQWGdHMFNubW14T3RwVEdDYkEyZzRST0RId25maXE0bk90dGEtMkZqdHo0Rkh1TGJ3blJ0U1lvdmRlWk9YYXdHRHdHa09oQnlKYmI1anl6U1pDcFZDZ3hoYThTc2JWZXdyWEtBX2tvcHZGTVh0Zk9ldTVGTlplT1RiQWFReTM1dkhod21OblBKc2M?oc=5",
-   "title": "Chelsea's January 'priority' revealed as Xabi Alonso alarm bells ring - Transfer expert",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNzBqRm9lNnJSRWhqVzhleWNrNzZKUjZ6SmJpVU5OcGd2M0xiQlZLU055dmUzb2lmOUpQWGdHMFNubW14T3RwVEdDYkEyZzRST0RId25maXE0bk90dGEtMkZqdHo0Rkh1TGJ3blJ0U1lvdmRlWk9YYXdHRHdHa09oQnlKYmI1anl6U1pDcFZDZ3hoYThTc2JWZXdyWEtBX2tvcHZGTVh0Zk9ldTVGTlplT1RiQWFReTM1dkhod21OblBKc2M?oc=5",
-   "source": "Football Insider",
-   "group": "영국 언론",
-   "date": 1795714200000,
-   "added": 1795714442779,
-   "cat": "이적",
-   "titleKo": "이적 전문가, \"샤비 알론소에 대한 경고음이 울리면서 첼시의 1월 '우선순위'가 드러났다\""
-  },
-  {
-   "id": "https://www.football.london/arsenal-fc/news/pierre-emerick-aubameyang-crashes-car-34972197",
-   "title": "Pierre-Emerick Aubameyang crashes car on motorway as ex-Arsenal star collides with BMW",
-   "link": "https://www.football.london/arsenal-fc/news/pierre-emerick-aubameyang-crashes-car-34972197",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795713684000,
-   "image": "https://i2-prod.football.london/chelsea-fc/news/article30726035.ece/ALTERNATES/s615/0_FBL-EUR-C1-CHELSEA-TRAINING.jpg",
-   "added": 1795714442779,
-   "cat": null,
-   "titleKo": "아스널의 전 스타 선수 피에르-에메릭 오바메양, 고속도로에서 BMW와 충돌하며 차량 사고를 당하다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcTQzbFRKeTJXVHU2ak9XTTJuV0VBSjMtWkNZcGFqckxodDlKa1FBeUpTR05PUXB2WERITVdwU2JpUTN4ejJ5SW44WFc1V05sMmVSODk1d2tuT0o1X1hSdms1QVhUU2JMMnN4b2xSNUhRTEZYQ2lXUkFaNkZKR0lCMkQ5WHNiLXFOSHVRcHcwbS16ejRsdk5lMm1XWnFkN2FsWGdSeDhidVUwajBld3Q5clhoS3FGb1F3Q1laZllwNFJBN0J0ZTFHb2twSmFCSGgzc2l5X0FmTUNwTG5IN0sxdVk3dU9yeUtZSGw3TnB1Q0dPRHVrQnpj?oc=5",
-   "title": "Nottingham Forest vs Chelsea: Premier League preview, predictions, team news and TV info",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcTQzbFRKeTJXVHU2ak9XTTJuV0VBSjMtWkNZcGFqckxodDlKa1FBeUpTR05PUXB2WERITVdwU2JpUTN4ejJ5SW44WFc1V05sMmVSODk1d2tuT0o1X1hSdms1QVhUU2JMMnN4b2xSNUhRTEZYQ2lXUkFaNkZKR0lCMkQ5WHNiLXFOSHVRcHcwbS16ejRsdk5lMm1XWnFkN2FsWGdSeDhidVUwajBld3Q5clhoS3FGb1F3Q1laZllwNFJBN0J0ZTFHb2twSmFCSGgzc2l5X0FmTUNwTG5IN0sxdVk3dU9yeUtZSGw3TnB1Q0dPRHVrQnpj?oc=5",
-   "source": "LiveScore",
-   "group": "영국 언론",
-   "date": 1795713299000,
-   "added": 1795761869057,
-   "cat": "프리뷰",
-   "titleKo": "노팅엄 포레스트 vs 첼시: 프리미어리그 프리뷰, 예상, 팀 소식 및 TV 정보"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQckIwNENZTlBOSFNQekNMM2dROGVzSlZfYmZvOTVLRWloOXhzbVM5VmVZSnc1YUVOdFpqdXBteTJmS3VRMF83WGV5RmVaZUozX0JwT2w4WWNPUXJFVmZsU3FQSU9tdmtvRHJIOXAtbVZFZlFnckhPcG5YcE42Q3ZEZ1VDOXJyMG41aXpMaEg5bktpLWNZWWJPNS1yck45WGNPbDB3cC1MSE1RbU0wNXk1dGY5ckZza1JTTVJ4aFpFV0ZZNWY1RUFrRTV4N0pHSTlzcXBwMEVZbTBOZE9ieVBr?oc=5",
-   "title": "Chelsea Nike Academy Ball - Metallic Silver",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQckIwNENZTlBOSFNQekNMM2dROGVzSlZfYmZvOTVLRWloOXhzbVM5VmVZSnc1YUVOdFpqdXBteTJmS3VRMF83WGV5RmVaZUozX0JwT2w4WWNPUXJFVmZsU3FQSU9tdmtvRHJIOXAtbVZFZlFnckhPcG5YcE42Q3ZEZ1VDOXJyMG41aXpMaEg5bktpLWNZWWJPNS1yck45WGNPbDB3cC1MSE1RbU0wNXk1dGY5ckZza1JTTVJ4aFpFV0ZZNWY1RUFrRTV4N0pHSTlzcXBwMEVZbTBOZE9ieVBr?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795712930000,
-   "added": 1795855074987,
-   "cat": null,
-   "titleKo": "첼시 Nike 아카데미 공 - 메탈릭 실버"
   }
  ]
 }
