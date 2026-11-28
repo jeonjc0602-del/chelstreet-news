@@ -1,23 +1,23 @@
 {
- "updated": 1795870744795,
+ "updated": 1795874433644,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 5,
   "talkSPORT": 6,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 12,
-  "The Sun": 7,
+  "Evening Standard": 11,
+  "The Sun": 5,
   "Mirror": 3,
   "Daily Mail": 9,
   "Telegraph": 5,
   "Independent": 3,
   "Express": 0,
-  "Sports Mole": 15,
+  "Sports Mole": 14,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 69,
+  "구글뉴스(영어)": 72,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
@@ -844,6 +844,53 @@
  },
  "items": [
   {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEd5QUYyZm05NGxQT003T0RTcEJ1SmtETmtaMGJtSHhFZG5IZnNfZWRNckd3YlRUNnFUb2Z4S0dnWmNtSjJJUFJ4eGwyWnJUZDFUNW9KcllicGNfYksyRkdmTVB6ekNnS09pYjNVeEpjdGNfQlRla2VZZXQ5akZFNFlGQm9tQQ?oc=5",
+   "title": "Chelsea legend Joe Cole demands Xabi Alonso axing for Wesley Fofana after brutal fan chants",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEd5QUYyZm05NGxQT003T0RTcEJ1SmtETmtaMGJtSHhFZG5IZnNfZWRNckd3YlRUNnFUb2Z4S0dnWmNtSjJJUFJ4eGwyWnJUZDFUNW9KcllicGNfYksyRkdmTVB6ekNnS09pYjNVeEpjdGNfQlRla2VZZXQ5akZFNFlGQm9tQQ?oc=5",
+   "source": "Yahoo",
+   "group": "영국 언론",
+   "date": 1795873764000,
+   "added": 1795874422713,
+   "cat": null,
+   "titleKo": "첼시의 전설 조 콜, 웨슬리 포파나에 대한 팬들의 가혹한 야유 이후 사비 알론소의 경질을 요구"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/blind-stupid-pundit-according-to-read-the-room/",
+   "title": "“Read the room” – Alonso is either blind or stupid after crazy lineup decision",
+   "link": "https://www.talkchelsea.net/news/blind-stupid-pundit-according-to-read-the-room/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795873244000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Wesley-Fofana-gives-away-a-penalty-414x297.jpg",
+   "added": 1795874422713,
+   "cat": "프리뷰",
+   "titleKo": "\"분위기를 읽으세요\" – 알론소 감독은 황당한 선발 명단 결정 후 눈이 멀었거나 멍청한 것 같습니다."
+  },
+  {
+   "id": "https://www.thesun.co.uk/sport/41180396/jason-cundy-amazon-delivery-chelsea-forest/",
+   "title": "Jason Cundy mocked by Amazon delivery driver with brutal message on box after Chelsea’s defeat at Forest",
+   "link": "https://www.thesun.co.uk/sport/41180396/jason-cundy-amazon-delivery-chelsea-forest/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795872978000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2FLB-OFF-cundy.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795874422712,
+   "cat": null,
+   "titleKo": "아마존 배송 기사가 첼시의 노팅엄 포레스트전 패배 후 상자에 적힌 가혹한 메시지로 제이슨 컨디를 조롱했습니다."
+  },
+  {
+   "id": "https://www.football.london/chelsea-fc/news/wesley-fofana-chelsea-nottingham-forest-34980479",
+   "title": "Wesley Fofana takes drastic action after Chelsea fans turn on their own player",
+   "link": "https://www.football.london/chelsea-fc/news/wesley-fofana-chelsea-nottingham-forest-34980479",
+   "source": "football.london",
+   "group": "영국 언론",
+   "date": 1795872191000,
+   "image": "https://i2-prod.chroniclelive.co.uk/incoming/article34980475.ece/ALTERNATES/s615/0_Nottingham-Forest-FC-v-Chelsea-FC-Premier-League-202627.jpg",
+   "added": 1795874422712,
+   "cat": null,
+   "titleKo": "첼시 팬들이 자팀 선수에게 등을 돌리자 웨슬리 포파나가 과감한 조치를 취하다"
+  },
+  {
    "id": "https://www.interfootball.co.kr/news/articleView.html?idxno=699422",
    "title": "'카이세도를 센터백으로?' 알론소의 이해할 수 없는 용병술, 첼시의 추락은 어디까지...리그 6패+최다 실점 2위",
    "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699422",
@@ -855,6 +902,29 @@
    "titleKo": "'카이세도를 센터백으로?' 알론소의 이해할 수 없는 용병술, 첼시의 추락은 어디까지...리그 6패+최다 실점 2위",
    "imgTried": true,
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699422_833866_742_v150.jpg"
+  },
+  {
+   "id": "https://www.skysports.com/football/leeds-united-vs-coventry-city/live/559560",
+   "title": "Leeds unchanged from Chelsea thrashing vs Coventry LIVE!",
+   "link": "https://www.skysports.com/football/leeds-united-vs-coventry-city/live/559560",
+   "source": "Sky Sports",
+   "group": "영국 언론",
+   "date": 1795870800000,
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-dominic-calvert-lewin_7379902.jpg?20261107121130",
+   "added": 1795874422712,
+   "cat": null,
+   "titleKo": "첼시를 대파한 리즈, 코번트리전 선발 명단 변경 없음. 라이브!"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeElkMy1aMV9SV1ItWUJNc0lSWUtWbXF2MzZ1S3Y2Q0xfVnRoWUtkTVhFMlU1SHBQUFBLV004RVNhTTkxTnlKTlNlbE45NkRieldjVHNFM0h3WWptc1UwMGVraDlsUUMxTHJfWDVpVmFIejFrLV9sQzdFc0hXVVhrbVVjOUdsZGVKYWp0OTNQNkJRZVNyaEpUWXdIel9raC1W?oc=5",
+   "title": "Under-18 Premier League report: Crystal Palace 0-1 Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeElkMy1aMV9SV1ItWUJNc0lSWUtWbXF2MzZ1S3Y2Q0xfVnRoWUtkTVhFMlU1SHBQUFBLV004RVNhTTkxTnlKTlNlbE45NkRieldjVHNFM0h3WWptc1UwMGVraDlsUUMxTHJfWDVpVmFIejFrLV9sQzdFc0hXVVhrbVVjOUdsZGVKYWp0OTNQNkJRZVNyaEpUWXdIel9raC1W?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795870800000,
+   "added": 1795874422714,
+   "cat": null,
+   "titleKo": "18세 이하 프리미어리그 경기 결과: 크리스털 팰리스 0-1 첼시"
   },
   {
    "id": "https://www.skysports.com/watch/video/13617459/chelsea-latest-is-xabi-alonso-under-increasing-pressure-afgter-3-2-defeat-to-nottingham-forest",
@@ -869,6 +939,18 @@
    "titleKo": "머슨: 첼시 선수들이 알론소를 위해 뛰고 있나요?"
   },
   {
+   "id": "https://www.sportsmole.co.uk/football/chelsea/sack-race/feature/why-alonso-should-be-one-defeat-away-from-chelsea-sack_610072.html",
+   "title": "Chelsea news: Why Xabi Alonso should be one defeat away from sack after more senseless decision-making",
+   "link": "https://www.sportsmole.co.uk/football/chelsea/sack-race/feature/why-alonso-should-be-one-defeat-away-from-chelsea-sack_610072.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795867516000,
+   "image": "https://www.sportsmole.co.uk/thumbor/tG7JRE1M_OYVRSobo_PnFrEUqtc=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fxabi-alonso-future-badge-6b053ea541251782778550.png",
+   "added": 1795874422712,
+   "cat": null,
+   "titleKo": "첼시 뉴스: 샤비 알론소가 더 이상 무의미한 의사결정을 내리지 않도록 한 번만 더 패배하면 경질되어야 하는 이유"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WbGdmdW83elB0TW4zZGJaakZNckI5Q0VNTjVKSDJfR2phMWZpZTdFLVJTTV9KMkhScDhFaDhDWDBQS0Rsanpaa2s1RVBMbTlZZEdXeU1ERlhhSTdhN25qX01jS1pvUQ?oc=5",
    "title": "'이럴 수가' 무패 우승 감독 어쩌다 이렇게 됐나? 패패패 중위권 추락…첼시 수뇌부는 여전히 지지! 'Here we go' 기자가 밝혔다 \"첼시는 알론소와 함께한다\"",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WbGdmdW83elB0TW4zZGJaakZNckI5Q0VNTjVKSDJfR2phMWZpZTdFLVJTTV9KMkhScDhFaDhDWDBQS0Rsanpaa2s1RVBMbTlZZEdXeU1ERlhhSTdhN25qX01jS1pvUQ?oc=5",
@@ -878,6 +960,17 @@
    "added": 1795870736799,
    "cat": "이적",
    "titleKo": "'이럴 수가' 무패 우승 감독 어쩌다 이렇게 됐나? 패패패 중위권 추락…첼시 수뇌부는 여전히 지지! 'Here we go' 기자가 밝혔다 \"첼시는 알론소와 함께한다\""
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc19wLXRrRWl2M3VKRkluMHlRd1c3RG9RNWUyNllWX1FtM0dhQVhUS0RBRFZBV293T3FtZ21fV2tGZTg4eHpRMHdwQ2h2akl4c0NfOG1SR2ZWM1lvRVEwOVUwQjZSdGM1dmRpTkNYbnlpcE51QkRTYlpvWVhRTnk1a29SVWcwbnRMOW9CcVNjUTk?oc=5",
+   "title": "Henderson: Emegha gives us something different",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc19wLXRrRWl2M3VKRkluMHlRd1c3RG9RNWUyNllWX1FtM0dhQVhUS0RBRFZBV293T3FtZ21fV2tGZTg4eHpRMHdwQ2h2akl4c0NfOG1SR2ZWM1lvRVEwOVUwQjZSdGM1dmRpTkNYbnlpcE51QkRTYlpvWVhRTnk1a29SVWcwbnRMOW9CcVNjUTk?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795867200000,
+   "added": 1795874422714,
+   "cat": null,
+   "titleKo": "헨더슨: 에메가가 우리에게 색다른 것을 선사합니다."
   },
   {
    "id": "https://www.football.london/chelsea-fc/news/chelseas-next-five-premier-league-34971603",
@@ -1031,6 +1124,17 @@
    "added": 1795861522009,
    "cat": null,
    "titleKo": "샤비 알론소, 첼시 팬들이 웨슬리 포파나에게 '여기서 환영받지 못한다'고 말하자 응답하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEpjMWV0ZVNOMFItYk1lODk0cUZzMjNnNzBYb3laZFRjLWdfcTlSd2dVcHZoaW1aVlBFaEtZWVlYN3I5VkVZQ2hwc2hfWUJYZjNMd09LYUIzZ0laZUxyY3hZYWFDdUpfQnpud2R6VWlEd2s2elZzTjdHZ3VrSEhQcU9OMUpzSDdKdEt1TExrT0J3RkFm?oc=5",
+   "title": "Thompson and Spencer seal Women's World Cup spots",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEpjMWV0ZVNOMFItYk1lODk0cUZzMjNnNzBYb3laZFRjLWdfcTlSd2dVcHZoaW1aVlBFaEtZWVlYN3I5VkVZQ2hwc2hfWUJYZjNMd09LYUIzZ0laZUxyY3hZYWFDdUpfQnpud2R6VWlEd2s2elZzTjdHZ3VrSEhQcU9OMUpzSDdKdEt1TExrT0J3RkFm?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795860000000,
+   "added": 1795874422714,
+   "cat": null,
+   "titleKo": "톰프슨과 스펜서, 여자 월드컵 출전권 확보"
   },
   {
    "id": "https://www.talkchelsea.net/news/alonso-fofana-nothing-future-no/",
@@ -2804,6 +2908,17 @@
    "titleKo": "남성 선수 프로필 | 팀"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmt6V05jVzNmdWZ6X0VVdHFjSi1XQkljZDA1cDF6bllXOTRkYkZCWFltM2kxR1JOck9GUXF5Z2F2U3hDbmtKUTNkd3NIQmNyVGk2TEluTjFQRHlMUnRTb2hfbDVObFIyMUpNeDRCTmZOLTNXeDN1M3VoVFlINnUxOGo1NHppUQ?oc=5",
+   "title": "Nottingham Forest - Chelsea 3-2",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmt6V05jVzNmdWZ6X0VVdHFjSi1XQkljZDA1cDF6bllXOTRkYkZCWFltM2kxR1JOck9GUXF5Z2F2U3hDbmtKUTNkd3NIQmNyVGk2TEluTjFQRHlMUnRTb2hfbDVObFIyMUpNeDRCTmZOLTNXeDN1M3VoVFlINnUxOGo1NHppUQ?oc=5",
+   "source": "Flashscore.com",
+   "group": "영국 언론",
+   "date": 1795801016000,
+   "added": 1795874422713,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트 - 첼시 3-2"
+  },
+  {
    "id": "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/news/emery-vidagany-deliver-contradictory-garnacho-messages_610029.html",
    "title": "Aston Villa transfer news: Unai Emery, Damian Vidagany deliver contradictory Alejandro Garnacho messages",
    "link": "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/news/emery-vidagany-deliver-contradictory-garnacho-messages_610029.html",
@@ -4142,117 +4257,6 @@
    "added": 1795721381015,
    "cat": "부상",
    "titleKo": "알론소 감독이 전하는 주앙 페드로, 모이세스 카이세도, 막상스 라크루아의 부상 소식"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM0t1V191TkRTUVpmN3pHb29LOFVyS0FlQTZadl9uaVpYYnczTjVWdFNtS2UwZ08zVE5Vek9PZUQ1WXpST0RNUXpyZGNNQ2c2bW9rM3p3UnBOZFppa1I3ZC0xX0ZRRU9kMHk5YkdTWnNIaHlrSHR6dU1ITEpzYmUtejI0T3hCZ2pyVW1CU05qX3pQZDZxOVcxOWtwZUl2VXMwYXpTSFVneU1pRktsbkpYZmxscE9Xa0FTY2plLUt4VTY2MVBSamp0TFlWNmxrck9NX3M2Z3gtNEk3TW9VdkFhc1RmRndmX00?oc=5",
-   "title": "Chelsea UCL Fridge Magnet",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM0t1V191TkRTUVpmN3pHb29LOFVyS0FlQTZadl9uaVpYYnczTjVWdFNtS2UwZ08zVE5Vek9PZUQ1WXpST0RNUXpyZGNNQ2c2bW9rM3p3UnBOZFppa1I3ZC0xX0ZRRU9kMHk5YkdTWnNIaHlrSHR6dU1ITEpzYmUtejI0T3hCZ2pyVW1CU05qX3pQZDZxOVcxOWtwZUl2VXMwYXpTSFVneU1pRktsbkpYZmxscE9Xa0FTY2plLUt4VTY2MVBSamp0TFlWNmxrck9NX3M2Z3gtNEk3TW9VdkFhc1RmRndmX00?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795720648000,
-   "added": 1795855074987,
-   "cat": null,
-   "titleKo": "첼시 UCL 냉장고 자석"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQmFjSl9xUTlIRTROR05McDUxc2RyNDhLYjQwS2g5MEtrb3hjZ0RoTWtUSnprdUxnREIwTU1nMkZEalRWLWtabno2dlViRlVtZk9RT0x5Q1l0TlFOMFEzSlFZTExZOU1ZaVVlX3BvTUVUcFFMN1NhTjFZTlVzN0xYclJnR25MUUZxcFBhZS1ZSmdwVXRjN1YwM3R3LVdLOUo1WTI5MFU0VmZPTndQdHNYSUs5WGZjNVlna2g3NUlQcjNrY3NnUEpaM0lUQmRZb1JPZUV5bW9STlBSSFHSAe8BQVVfeXFMUEpJTGxIblVZM3cySGhrRW5VeElsM3pJOGpKcHpqY1NaUU1NX3lXd2VyQ1VuU3JMTV9pZ2J2and4OXAyUUhzdGFVYy1pR1o1QzU4dUtMSTFpTFVvU2wzQzA1WlVsTDRRVDViSkVRY1VNcDJpNDI5NktUNjlhWFFza1lFemQzdldFS2o4STVCNm1PcjBsTGhSdGhRNmozSWtTZm5XT1BTc3haWnFkMjhDLWJmZVlpcXRoMkhEbzQ5NkJabE4yZEhJNG1QTTZ4M1VGc3MwaFBmekRZbnFiTXBvR2Fzd2oyMGpWNDRNVVk2V1k?oc=5",
-   "title": "Police identify man killed in shooting after Chelsea High School football game",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQmFjSl9xUTlIRTROR05McDUxc2RyNDhLYjQwS2g5MEtrb3hjZ0RoTWtUSnprdUxnREIwTU1nMkZEalRWLWtabno2dlViRlVtZk9RT0x5Q1l0TlFOMFEzSlFZTExZOU1ZaVVlX3BvTUVUcFFMN1NhTjFZTlVzN0xYclJnR25MUUZxcFBhZS1ZSmdwVXRjN1YwM3R3LVdLOUo1WTI5MFU0VmZPTndQdHNYSUs5WGZjNVlna2g3NUlQcjNrY3NnUEpaM0lUQmRZb1JPZUV5bW9STlBSSFHSAe8BQVVfeXFMUEpJTGxIblVZM3cySGhrRW5VeElsM3pJOGpKcHpqY1NaUU1NX3lXd2VyQ1VuU3JMTV9pZ2J2and4OXAyUUhzdGFVYy1pR1o1QzU4dUtMSTFpTFVvU2wzQzA1WlVsTDRRVDViSkVRY1VNcDJpNDI5NktUNjlhWFFza1lFemQzdldFS2o4STVCNm1PcjBsTGhSdGhRNmozSWtTZm5XT1BTc3haWnFkMjhDLWJmZVlpcXRoMkhEbzQ5NkJabE4yZEhJNG1QTTZ4M1VGc3MwaFBmekRZbnFiTXBvR2Fzd2oyMGpWNDRNVVk2V1k?oc=5",
-   "source": "Boston 25 News",
-   "group": "영국 언론",
-   "date": 1795719923000,
-   "added": 1795721381014,
-   "cat": null,
-   "titleKo": "경찰, 첼시 고등학교 미식축구 경기 후 총격으로 사망한 남성 신원 확인"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzhvcERQdHlRZk9kV0RXUnR0V3hJckVUbFBzT2w4ajQ4Z0ZQdEVvNndnY2o4c1cwWjdaeHRyeFVYMnpYZDd5Z1RnblUtYUdoTWdJay1BM2FHdTVIbXBURXNOV1ZydmZycm50QXJ2WUFPakpXTG04VVEyYUZoRmpGVHpQX0lFNU1VV2ZEQ2lGSVFHNlo5di1VWDR0eno5YnplLWtfaWdfQXh2ZUxDNERhdWNoekg5ZjhsZnotWA?oc=5",
-   "title": "Chelsea White Hard-Shell Phone Case - iPhone",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzhvcERQdHlRZk9kV0RXUnR0V3hJckVUbFBzT2w4ajQ4Z0ZQdEVvNndnY2o4c1cwWjdaeHRyeFVYMnpYZDd5Z1RnblUtYUdoTWdJay1BM2FHdTVIbXBURXNOV1ZydmZycm50QXJ2WUFPakpXTG04VVEyYUZoRmpGVHpQX0lFNU1VV2ZEQ2lGSVFHNlo5di1VWDR0eno5YnplLWtfaWdfQXh2ZUxDNERhdWNoekg5ZjhsZnotWA?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795719778000,
-   "added": 1795804151126,
-   "cat": null,
-   "titleKo": "첼시 화이트 하드 쉘 폰 케이스 - 아이폰"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDlWWmZiVnNIU3VkZnpURGFZbHNyRHZDWDlwUDdBeWZSVHJwMUgtMXVXWkNGdTZVSXJuUnlZclV0MUxsOUFBNzM0UVhic0NScVJuMF9JYW55aTBjMGlRY0VKemdWencteU1uR3d0MTdiQS1vaGtUVGd1bGRXRThNWjRXZno3bzFRRmJ0bGxBdkRPa1oyNkJGcVJFWXNPTEVaelRJRENsNVVraVE?oc=5",
-   "title": "Alonso on utilising Emegha’s power and handling 'chaotic situations'",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDlWWmZiVnNIU3VkZnpURGFZbHNyRHZDWDlwUDdBeWZSVHJwMUgtMXVXWkNGdTZVSXJuUnlZclV0MUxsOUFBNzM0UVhic0NScVJuMF9JYW55aTBjMGlRY0VKemdWencteU1uR3d0MTdiQS1vaGtUVGd1bGRXRThNWjRXZno3bzFRRmJ0bGxBdkRPa1oyNkJGcVJFWXNPTEVaelRJRENsNVVraVE?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795719600000,
-   "added": 1795721381015,
-   "cat": null,
-   "titleKo": "알론소, 에메가의 힘을 활용하고 '혼란스러운 상황'을 대처하는 방법에 대해 이야기하다"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTNyWXA3Rnl3bTVTMUYxTk5DNUJmUG9qcGpsTXZXM1dIWGdqWlgzQ2tKNmlvWlBNM2JsT0pjY3pkNEQ0dVNlX1FyMjJKY2wwNDFGZERKM0JwUUowWjZLU2g3djhydy1qem5mRGF1NDlWUXNqQTc3X2hTU3BQZUsxYWRWVm1MXzJST3RtWUc0ZkVOYXNSVHc1OHZXTU8?oc=5",
-   "title": "What kit are Chelsea wearing against Nottingham Forest?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTNyWXA3Rnl3bTVTMUYxTk5DNUJmUG9qcGpsTXZXM1dIWGdqWlgzQ2tKNmlvWlBNM2JsT0pjY3pkNEQ0dVNlX1FyMjJKY2wwNDFGZERKM0JwUUowWjZLU2g3djhydy1qem5mRGF1NDlWUXNqQTc3X2hTU3BQZUsxYWRWVm1MXzJST3RtWUc0ZkVOYXNSVHc1OHZXTU8?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795719337000,
-   "added": 1795721381015,
-   "cat": null,
-   "titleKo": "첼시는 노팅엄 포레스트와의 경기에서 어떤 유니폼을 입을까요?"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVNXazYyNDNVYkozOUFDSGo3amFNQWMwVi10cjdkX3F2cGQtM3FBR2FPRGFqR1Fic29zU2xlQS15VXNQYnV1ZXRQeHZJWkt3Vjc3NW9nTV83U1N5VEVVNGI1MnZoUzdIYmUwWXlWQ1JjRGczUkZ2aFBlZElPNU4tT2xwMEVKbE90dVF1ejVnUXl6bFV6VEdF?oc=5",
-   "title": "Moisés Caicedo, Wesley Fofana available for selection for Chelsea against Nottingham Forest",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVNXazYyNDNVYkozOUFDSGo3amFNQWMwVi10cjdkX3F2cGQtM3FBR2FPRGFqR1Fic29zU2xlQS15VXNQYnV1ZXRQeHZJWkt3Vjc3NW9nTV83U1N5VEVVNGI1MnZoUzdIYmUwWXlWQ1JjRGczUkZ2aFBlZElPNU4tT2xwMEVKbE90dVF1ejVnUXl6bFV6VEdF?oc=5",
-   "source": "Yahoo Sports",
-   "group": "영국 언론",
-   "date": 1795718523000,
-   "added": 1795721381014,
-   "cat": null,
-   "titleKo": "모이세스 카이세도, 웨슬리 포파나, 노팅엄 포레스트와의 경기에서 첼시 출전 가능"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnQ1YmV1azA4ZFZMOXJRM3ZUeWZMTFlZcDBsMnV1ZE5OT3o4eGZaX0FIMXhzNkYtcG9KUENFSkRkSWNSZlFsOS1DZ2FrOG9xZ1ZkdUl6eVVLYW1zZHNtYXBSOFdodE5sRktZRGxJSHVMUk9qRFZqeDFKUFpBbVEwZ3RZRUc2c29oNEc0elBseVRPRUFESlU0NVN3SVluTEVMNEZ6MTh5RjZUVU5QbkJZUXFR?oc=5",
-   "title": "Ibrahim Rabbaj helps Morocco into knockout stage at Under-17 World Cup",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnQ1YmV1azA4ZFZMOXJRM3ZUeWZMTFlZcDBsMnV1ZE5OT3o4eGZaX0FIMXhzNkYtcG9KUENFSkRkSWNSZlFsOS1DZ2FrOG9xZ1ZkdUl6eVVLYW1zZHNtYXBSOFdodE5sRktZRGxJSHVMUk9qRFZqeDFKUFpBbVEwZ3RZRUc2c29oNEc0elBseVRPRUFESlU0NVN3SVluTEVMNEZ6MTh5RjZUVU5QbkJZUXFR?oc=5",
-   "source": "첼시 공식",
-   "group": "공식·FotMob",
-   "date": 1795718155000,
-   "added": 1795867346422,
-   "cat": null,
-   "titleKo": "이브라힘 라바지, 모로코의 U-17 월드컵 녹아웃 스테이지 진출에 기여"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmNEQnp5RWJtNU1IZE91Ym0yT011V0pEc0RiaFlYSzFvcFRRT2pUcHdiNEJjVmZub3dFdmd4Vktya1JlUTUzd0dEV0pyQWN5V24zQ0JVdnRzRjI1TlVQRjdtdmUzZHRtbnhqS2oxeGxFZzcteXp6WklsbF9nLTRiTUI3OXd4clRETVVqWFZCa1hET3RvbFJPQVRPUHlTOWIyTW0tWldKNTJjQVRNNnM5MS1yNEJRWlVMeTdrc1VONHZOU3dtV2Y1ajV0bk5TUi1yS1VHY0J2bm8?oc=5",
-   "title": "Nottingham Forest vs. Chelsea Predicted Lineups: Palmer Under Pressure to Deliver",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmNEQnp5RWJtNU1IZE91Ym0yT011V0pEc0RiaFlYSzFvcFRRT2pUcHdiNEJjVmZub3dFdmd4Vktya1JlUTUzd0dEV0pyQWN5V24zQ0JVdnRzRjI1TlVQRjdtdmUzZHRtbnhqS2oxeGxFZzcteXp6WklsbF9nLTRiTUI3OXd4clRETVVqWFZCa1hET3RvbFJPQVRPUHlTOWIyTW0tWldKNTJjQVRNNnM5MS1yNEJRWlVMeTdrc1VONHZOU3dtV2Y1ajV0bk5TUi1yS1VHY0J2bm8?oc=5",
-   "source": "LiveScore",
-   "group": "영국 언론",
-   "date": 1795716584000,
-   "added": 1795761869057,
-   "cat": "프리뷰",
-   "titleKo": "노팅엄 포레스트 vs 첼시 예상 선발 명단: 활약이 기대되는 팔머"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOG16MjNESFlhZmxNYzFCVUpxODJGLVM4N091NEZ3cTJFV016U01YTHROcVZfdDFtYUxBNXJFZGxLaGNNVnFvclRucUU2MV9EeVR5a3BlekNKeVBHNW56aWRNZWxmZ3pFM0ktZ0lST0NiZ2FXUjNKcHNUUjZidnE4QVIzTFRkNWNRUjBzcVhDeFcydGlIbXR2Z2RyVzU2VldO?oc=5",
-   "title": "‘No one can chat s***’: Spurs star defends Palmer amid Chelsea criticism",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOG16MjNESFlhZmxNYzFCVUpxODJGLVM4N091NEZ3cTJFV016U01YTHROcVZfdDFtYUxBNXJFZGxLaGNNVnFvclRucUU2MV9EeVR5a3BlekNKeVBHNW56aWRNZWxmZ3pFM0ktZ0lST0NiZ2FXUjNKcHNUUjZidnE4QVIzTFRkNWNRUjBzcVhDeFcydGlIbXR2Z2RyVzU2VldO?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795716464000,
-   "added": 1795728139151,
-   "cat": null,
-   "titleKo": "'아무도 이런 말을 할 수 없다': 토트넘 스타, 첼시의 비판 속에서 파머를 옹호하다"
-  },
-  {
-   "id": "https://www.football.london/chelsea-fc/news/caicedo-lacroix-pedro-chelsea-injury-34971635",
-   "title": "Caicedo, Lacroix, Pedro - Chelsea injury latest and return dates ahead of Nottingham Forest",
-   "link": "https://www.football.london/chelsea-fc/news/caicedo-lacroix-pedro-chelsea-injury-34971635",
-   "source": "football.london",
-   "group": "영국 언론",
-   "date": 1795716313000,
-   "image": "https://i2-prod.football.london/incoming/article34971611.ece/ALTERNATES/s615/0_GettyImages-2306412997.jpg",
-   "added": 1795717398489,
-   "cat": "부상",
-   "titleKo": "카이세도, 라크루아, 페드로 - 노팅엄 포레스트전을 앞둔 첼시 부상자 최신 소식 및 복귀 일정"
   }
  ]
 }
