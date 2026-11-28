@@ -1,5 +1,5 @@
 {
- "updated": 1795858253046,
+ "updated": 1795861528201,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 4,
@@ -11,17 +11,17 @@
   "Mirror": 3,
   "Daily Mail": 9,
   "Telegraph": 5,
-  "Independent": 2,
-  "Express": 0,
-  "Sports Mole": 14,
+  "Independent": 3,
+  "Express": "실패: 403",
+  "Sports Mole": 15,
   "CaughtOffside": 1,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 69,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 4,
-  "구글뉴스(한국어)": 45,
+  "구글뉴스(한국어)": 47,
   "Talk Chelsea": 10,
   "Chelsea News": 10,
   "The Chelsea Blog": 10,
@@ -870,6 +870,63 @@
    "image": "https://cdn.interfootball.co.kr/news/thumbnail/202611/699419_833858_4143_v150.jpg"
   },
   {
+   "id": "https://www.independent.co.uk/sport/football/wesley-fofana-chelsea-fans-chant-xabi-alonso-b3093148.html",
+   "title": "Xabi Alonso responds as Chelsea fans tell Wesley Fofana ‘you’re not welcome here’",
+   "link": "https://www.independent.co.uk/sport/football/wesley-fofana-chelsea-fans-chant-xabi-alonso-b3093148.html",
+   "source": "Independent",
+   "group": "영국 언론",
+   "date": 1795860311000,
+   "image": "https://static.independent.co.uk/2026/11/27/23/f077206e3e80af5ec6d6997bf770d118Y29udGVudHNlYXJjaGFwaSwxNzk1OTA2ODg3-2.86628069.jpg?width=1200&auto=webp&crop=3%3A2",
+   "added": 1795861522009,
+   "cat": null,
+   "titleKo": "샤비 알론소, 첼시 팬들이 웨슬리 포파나에게 '여기서 환영받지 못한다'고 말하자 응답하다"
+  },
+  {
+   "id": "https://www.talkchelsea.net/news/alonso-fofana-nothing-future-no/",
+   "title": "“No” – Alonso makes Fofana denial; confirms nothing over his future",
+   "link": "https://www.talkchelsea.net/news/alonso-fofana-nothing-future-no/",
+   "source": "Talk Chelsea",
+   "group": "팬 블로그",
+   "date": 1795860000000,
+   "image": "https://icdn.talkchelsea.net/wp-content/uploads/2026/11/Getty-Images-12-414x276.jpg",
+   "added": 1795861522010,
+   "cat": "오피셜",
+   "titleKo": "“아니요” – 알론소 감독, 포파나 영입설 부인. 그의 미래에 대해서는 아무것도 확인하지 않음"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGFxYk1XMDl1a2VvYzRydWVUT2FqYksxY1JieFctb3FqX1FHWGFiQ2YtX3B0cUVVZk14WmQ3UFA5MzNPTUw1bW95dkpCclhmSzY2S3B1MUN0UTJ5TERybjdyek5UMzM5dU9OaWpvUlBCNXVXM19UMWk3d29nMHBVbEtsVFpJTlVKZ09JUnZ2bWF6SDlIYXZXN05iLWNBWm5CUC1n?oc=5",
+   "title": "첼시를 위기 소용돌이 속으로 몰아넣은 실수들",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGFxYk1XMDl1a2VvYzRydWVUT2FqYksxY1JieFctb3FqX1FHWGFiQ2YtX3B0cUVVZk14WmQ3UFA5MzNPTUw1bW95dkpCclhmSzY2S3B1MUN0UTJ5TERybjdyek5UMzM5dU9OaWpvUlBCNXVXM19UMWk3d29nMHBVbEtsVFpJTlVKZ09JUnZ2bWF6SDlIYXZXN05iLWNBWm5CUC1n?oc=5",
+   "source": "Laodong.vn",
+   "group": "한국 언론",
+   "date": 1795859870000,
+   "added": 1795861522010,
+   "cat": null,
+   "titleKo": "첼시를 위기 소용돌이 속으로 몰아넣은 실수들"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2ZhMWV5ZG51U0FRbHFHam9KM3BnNlBFd0pMelN5OXpLd0JVSUhVVGIxbG1NSU83dF9lekt6c0x0aFgyMlFBQUNUN0hDQzNPd2RvaXhoYmw3TTcwR2hLNG5ZY0FTOVd0OWlxRjQtallGMUpPZy1IbE1DQXBYa20zRC1ZRExULXVGS2dyVkNhSEx6YW0tTjZTbnN2UdIBoAFBVV95cUxQaEtvY2ZSTUFGZFB6S3NIQnNrbm9RMVJzQjJxeG11cFdWbTRldmhTOHZFMkpCUDRsUGR3THpPNDJlTm9SVEFBd1RGTWFBbG5MVFJySjU3XzVIZkcxU09mUUo3WlJLYm9acjNfN19vNDBqa1pCVmdVMXVfNUJrLU9OR3FQZDJNNDhfNGpNNU5hVFBjZUpJT05wS3JNVWxtVWVO?oc=5",
+   "title": "Joe Cole tells Chelsea what to do with Wesley Fofana after fans tell him to 'f**k off'",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2ZhMWV5ZG51U0FRbHFHam9KM3BnNlBFd0pMelN5OXpLd0JVSUhVVGIxbG1NSU83dF9lekt6c0x0aFgyMlFBQUNUN0hDQzNPd2RvaXhoYmw3TTcwR2hLNG5ZY0FTOVd0OWlxRjQtallGMUpPZy1IbE1DQXBYa20zRC1ZRExULXVGS2dyVkNhSEx6YW0tTjZTbnN2UdIBoAFBVV95cUxQaEtvY2ZSTUFGZFB6S3NIQnNrbm9RMVJzQjJxeG11cFdWbTRldmhTOHZFMkpCUDRsUGR3THpPNDJlTm9SVEFBd1RGTWFBbG5MVFJySjU3XzVIZkcxU09mUUo3WlJLYm9acjNfN19vNDBqa1pCVmdVMXVfNUJrLU9OR3FQZDJNNDhfNGpNNU5hVFBjZUpJT05wS3JNVWxtVWVO?oc=5",
+   "source": "Metro.co.uk",
+   "group": "영국 언론",
+   "date": 1795859340000,
+   "added": 1795861522009,
+   "cat": null,
+   "titleKo": "조 콜, 팬들이 웨슬리 포파나에게 '꺼져'라고 말한 후 첼시에 대처 방법을 조언하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YSWp0NTdhcjVzVHRBS1J0aDMwWkZrUHZlTDVKSXFFal82SDFLazNqVm1BOEgwRDFabUxVVzhlTDl1dkYwX3cxVjdudTFlbFNXVzFIdUVnaVdscmVMQlVBbzhBbWRZYmJ3YS1LaVRrV3kwdw?oc=5",
+   "title": "‘패승패패패’ 이긴 상대는 맨유뿐이었다!…첼시의 심상치 않은 추락, 최근 리그 5경기서 1승→노팅엄에 29년 만의 안방 승리까지 헌납",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YSWp0NTdhcjVzVHRBS1J0aDMwWkZrUHZlTDVKSXFFal82SDFLazNqVm1BOEgwRDFabUxVVzhlTDl1dkYwX3cxVjdudTFlbFNXVzFIdUVnaVdscmVMQlVBbzhBbWRZYmJ3YS1LaVRrV3kwdw?oc=5",
+   "source": "포포투",
+   "group": "한국 언론",
+   "date": 1795858500000,
+   "added": 1795861522010,
+   "cat": null,
+   "titleKo": "‘패승패패패’ 이긴 상대는 맨유뿐이었다!…첼시의 심상치 않은 추락, 최근 리그 5경기서 1승→노팅엄에 29년 만의 안방 승리까지 헌납"
+  },
+  {
    "id": "https://www.besteleven.com/news/articleView.html?idxno=314407",
    "title": "“우리는 네가 여기 있는 것을 원하지 않는다”… 논란의 인터뷰에 페널티킥까지 헌납한 포파나, 첼시 원정 팬들로부터 뭇매",
    "link": "https://www.besteleven.com/news/articleView.html?idxno=314407",
@@ -881,6 +938,18 @@
    "titleKo": "“우리는 네가 여기 있는 것을 원하지 않는다”… 논란의 인터뷰에 페널티킥까지 헌납한 포파나, 첼시 원정 팬들로부터 뭇매",
    "imgTried": true,
    "image": "https://cdn.besteleven.com/news/photo/202611/314407_245601_3130.jpg"
+  },
+  {
+   "id": "https://www.sportsmole.co.uk/football/chelsea/news/alonso-responds-to-fofana-boos-and-chants-in-chelsea-defeat_610067.html",
+   "title": "Nottingham Forest 3-2 Chelsea: Xabi Alonso responds to Wesley Fofana boos, chants in City Ground defeat",
+   "link": "https://www.sportsmole.co.uk/football/chelsea/news/alonso-responds-to-fofana-boos-and-chants-in-chelsea-defeat_610067.html",
+   "source": "Sports Mole",
+   "group": "영국 언론",
+   "date": 1795857907000,
+   "image": "https://www.sportsmole.co.uk/thumbor/tG7JRE1M_OYVRSobo_PnFrEUqtc=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fxabi-alonso-future-badge-6b053ea541251782778550.png",
+   "added": 1795861522009,
+   "cat": null,
+   "titleKo": "노팅엄 포레스트 3-2 첼시: 사비 알론소, 시티 그라운드 패배 시 웨슬리 포파나에 대한 야유와 조롱에 대응"
   },
   {
    "id": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-wesley-fofana-37924619",
@@ -973,6 +1042,17 @@
    "added": 1795855074985,
    "cat": null,
    "titleKo": "첼시, 포레스트전 패배로 원치 않는 3가지 기록 경신. 알론소는 더 적은 경기 수로 로제니오르와 같은 기록 달성"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcllaZlBycnpoU2hmT1pOYWRkVmxxcWhtcnd1NjBPQWZMYzllNFZxeUwzUzFSd3B1LTlIcnNkT1c4STUyT3h6Wk1lS1NaN05XYVA2bE0tZ25vN2FBaVBCTUpiMGx3NDNaQi1VNWM1eGtSRjZmaGJHT3NFcHlSRUl1RUZfZWc4SzdESDJMdE00OA?oc=5",
+   "title": "Bungling Chelsea break three unwanted records in woeful Forest defeat",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcllaZlBycnpoU2hmT1pOYWRkVmxxcWhtcnd1NjBPQWZMYzllNFZxeUwzUzFSd3B1LTlIcnNkT1c4STUyT3h6Wk1lS1NaN05XYVA2bE0tZ25vN2FBaVBCTUpiMGx3NDNaQi1VNWM1eGtSRjZmaGJHT3NFcHlSRUl1RUZfZWc4SzdESDJMdE00OA?oc=5",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795852440000,
+   "added": 1795861522010,
+   "cat": null,
+   "titleKo": "엉성한 첼시, 노팅엄 포레스트에 패배하며 원치 않는 3가지 기록 경신"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HakJCTHRtVnYwM0E4SmJXVi0ybkRYTHhZMUxrMDhpY0NjX2tPZnhQQVIySzlMSWtrcXBOX1BVVE5iS3JzVFc4c3RjV3NuZkg2bl9iaVduNkthMmZSaGw5dHJmSnA0SEY2UlR6MXUyR3JVQQ?oc=5",
@@ -4172,88 +4252,6 @@
    "added": 1795714442779,
    "cat": null,
    "titleKo": "‘가장 황당한 꿈에서도 그런 일은 없었어요.’ 추수감사절 전날 열린 미식축구 경기에서 발생한 총격 사건으로 첼시가 충격에 빠졌습니다."
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/videos/c6qj5ydvj488o?at_medium=RSS&at_campaign=rss",
-   "title": "Fofana 'has apologised'",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6qj5ydvj488o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "group": "영국 언론",
-   "date": 1795710937000,
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/30d6/live/b18aa520-e9b2-11f1-99a1-253766e7ad8b.jpg",
-   "added": 1795711189576,
-   "cat": null,
-   "titleKo": "포파나, '사과했다'"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZHdtMi1hbE1ZUGtVUlJ5VzFtQ3ZhVHc2V1FRVjdldTQzOC1wRUNLQ05SMGE4dWVYbnBFelFCcGRhR2dUSmFhTjVnR21reUp0VzY2WkdOd3JNZ0VSc0ZNaXdOV1lVRlZMQUM3WlM4T0FBZ3BLVk0wZEw0SGdEeTRYaW5GZWl1a0xaRzEtcEx1MzF6cTI4Y3JaSWI5WDV0M2JXUE5PMTJtaw?oc=5",
-   "title": "Wesley Fofana apologises for unauthorised interview that infuriated Chelsea fans",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZHdtMi1hbE1ZUGtVUlJ5VzFtQ3ZhVHc2V1FRVjdldTQzOC1wRUNLQ05SMGE4dWVYbnBFelFCcGRhR2dUSmFhTjVnR21reUp0VzY2WkdOd3JNZ0VSc0ZNaXdOV1lVRlZMQUM3WlM4T0FBZ3BLVk0wZEw0SGdEeTRYaW5GZWl1a0xaRzEtcEx1MzF6cTI4Y3JaSWI5WDV0M2JXUE5PMTJtaw?oc=5",
-   "source": "The Telegraph",
-   "group": "영국 언론",
-   "date": 1795710540000,
-   "added": 1795711189577,
-   "cat": "인터뷰",
-   "titleKo": "웨슬리 포파나, 첼시 팬들을 분노케 한 무단 인터뷰에 대해 사과"
-  },
-  {
-   "id": "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/fernandes-successor-barca-reach-decision-on-selling-attacker-to-man-utd_609938.html",
-   "title": "Man Utd transfer news: Barca 'reach decision' on selling Bruno Fernandes successor to Red Devils",
-   "link": "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/fernandes-successor-barca-reach-decision-on-selling-attacker-to-man-utd_609938.html",
-   "source": "Sports Mole",
-   "group": "영국 언론",
-   "date": 1795709973000,
-   "image": "https://www.sportsmole.co.uk/thumbor/bolh5TJ9to1wK0GUrSpjIBMMaH8=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fns-photo-badge-email-sportmole-3-6b085b796fa13662142800.jpg",
-   "added": 1795714442779,
-   "cat": "이적",
-   "titleKo": "맨유 이적 소식: 바르셀로나, 브루노 페르난데스의 후계자를 레드 데빌스에 매각하기로 '결정'"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44emh2cjVVbk1qYnBBTTBiNEN5ZUNiMG1IOW5wRGRERmJLbkJCUFlwNFpwTnExRF91d2tpUERzUG5XY1laaEtKMm9nQ3JLWmhfVUJ5OXU0dEdWRnBubldObjZKWDE?oc=5",
-   "title": "올리버 글라스너, 첼시전 3무 1패로 승리 없어",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44emh2cjVVbk1qYnBBTTBiNEN5ZUNiMG1IOW5wRGRERmJLbkJCUFlwNFpwTnExRF91d2tpUERzUG5XY1laaEtKMm9nQ3JLWmhfVUJ5OXU0dEdWRnBubldObjZKWDE?oc=5",
-   "source": "AllFootball",
-   "group": "한국 언론",
-   "date": 1795709925000,
-   "added": 1795821721927,
-   "cat": null,
-   "titleKo": "올리버 글라스너, 첼시전 3무 1패로 승리 없어"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-update-caicedo-joao-pedro-james-latest-news-return-dates-b1305824.html",
-   "title": "Chelsea injury update: Moises Caicedo, Joao Pedro, Reece James latest news and return dates",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-update-caicedo-joao-pedro-james-latest-news-return-dates-b1305824.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795708741000,
-   "image": "https://static.standard.co.uk/2026/11/21/17/11/Joao-Pedro-Caicedo-James-Chelsea.jpeg?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795711189577,
-   "cat": "부상",
-   "titleKo": "첼시 부상자 소식: 모이세스 카이세도, 주앙 페드로, 리스 제임스의 최근 소식과 복귀일"
-  },
-  {
-   "id": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-wesley-fofana-interview-37919516",
-   "title": "Xabi Alonso lays down the law as Wesley Fofana apologises for bombshell Chelsea interview",
-   "link": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-wesley-fofana-interview-37919516",
-   "source": "Mirror",
-   "group": "영국 언론",
-   "date": 1795708511000,
-   "image": "https://i2-prod.mirror.co.uk/sport/football/news/article37919514.ece/ALTERNATES/s615/0_Chelsea-FC-v-Brighton-Hove-Albion-Premier-League-202627.jpg",
-   "added": 1795711189577,
-   "cat": "인터뷰",
-   "titleKo": "웨슬리 포파나가 첼시 인터뷰에서 폭탄 발언을 한 데 대해 사과하자, 사비 알론소가 원칙을 제시하다"
-  },
-  {
-   "id": "https://www.skysports.com/football/news/11095/13616881/chelsea-qa-your-questions-answered-on-wesley-fofana-transfers-danny-welbeck-estevao-and-more",
-   "title": "Chelsea Q&A: Are Blues in crisis? What next for Fofana after viral interview?",
-   "link": "https://www.skysports.com/football/news/11095/13616881/chelsea-qa-your-questions-answered-on-wesley-fofana-transfers-danny-welbeck-estevao-and-more",
-   "source": "Sky Sports",
-   "group": "영국 언론",
-   "date": 1795708500000,
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-wesley-fofana_7417301.png?20261126174459",
-   "added": 1795717398489,
-   "cat": "인터뷰",
-   "titleKo": "첼시 Q&A: 블루스가 위기에 처했나요? 폭발적인 반응을 불러일으킨 인터뷰 이후 포파나의 다음 행보는?"
   }
  ]
 }
