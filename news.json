@@ -1,13 +1,13 @@
 {
- "updated": 1795888708486,
+ "updated": 1795891368351,
  "stats": {
   "BBC Sport": 24,
   "Sky Sports": 2,
   "talkSPORT": 7,
   "The Guardian": "실패: 403",
   "football.london": 25,
-  "Evening Standard": 10,
-  "The Sun": 1,
+  "Evening Standard": 9,
+  "The Sun": 2,
   "Mirror": 4,
   "Daily Mail": 7,
   "Telegraph": 5,
@@ -17,7 +17,7 @@
   "CaughtOffside": 0,
   "90min": 1,
   "The Athletic": 2,
-  "구글뉴스(영어)": 70,
+  "구글뉴스(영어)": 74,
   "인터풋볼": 3,
   "풋볼리스트": 0,
   "베스트일레븐": 3,
@@ -27,7 +27,7 @@
   "The Chelsea Blog": 10,
   "Chelsea Supporters Trust": 10,
   "첼시 공식": 80,
-  "FotMob": 10,
+  "FotMob": "실패: 403",
   "이번 상대": "다음 경기를 못 찾음"
  },
  "match": {
@@ -844,6 +844,17 @@
  },
  "items": [
   {
+   "id": "https://www.thesun.co.uk/sport/41188638/psg-target-chelsea-flop-estevao-khvicha-kvaratskhelia-desire-doue/",
+   "title": "Chelsea misfit Estevao ‘lined up by PSG for January transfer’ after being left on bench in Nottingham Forest defeat",
+   "link": "https://www.thesun.co.uk/sport/41188638/psg-target-chelsea-flop-estevao-khvicha-kvaratskhelia-desire-doue/",
+   "source": "The Sun",
+   "group": "영국 언론",
+   "date": 1795890792000,
+   "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fcrop-41189357.jpg?quality%3D90%26strip%3Dall",
+   "added": 1795891366157,
+   "cat": "이적"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3lKeXNVM3lWNlZpYkRyU2RFX2FPOTY2RUdETXFmazNNdmprZXZpSE44MTlaSWpDaXFINDNQal84bHZ6bjI4NGJnYnUtLTVoLWZYYm5ha2JDcklzaFNybE5KYTZDc1ZLTGlsa2tQVFN6b0RvUl8tcXJxeXRITGtMcW5Gd2N0M0d5X3hVaUY0YXVvOWE2OUpGYnlmTzcxeVBkT3pyZ2M4NXBXVHlfTG1n?oc=5",
    "title": "MSport Brings Football Fans Closer to the Game with Chelsea, BVB and #BetOnAlmostAnything",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3lKeXNVM3lWNlZpYkRyU2RFX2FPOTY2RUdETXFmazNNdmprZXZpSE44MTlaSWpDaXFINDNQal84bHZ6bjI4NGJnYnUtLTVoLWZYYm5ha2JDcklzaFNybE5KYTZDc1ZLTGlsa2tQVFN6b0RvUl8tcXJxeXRITGtMcW5Gd2N0M0d5X3hVaUY0YXVvOWE2OUpGYnlmTzcxeVBkT3pyZ2M4NXBXVHlfTG1n?oc=5",
@@ -866,6 +877,16 @@
    "titleKo": "첼시의 경기 결과에 대해 아마존 배송 기사가 제이슨 컨디를 조롱하다",
    "imgTried": true,
    "image": "https://talksport.com/wp-content/uploads/2026/11/crop-4642195_301de7.jpg?strip=all&quality=100&w=1228&h=818&crop=1"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG55OEhwdWg0Qm95eG9FQlpCSFZHQXQydE90ckxBTEdLdlgwLVUwcVpwQWVoNmJON0psckQ3MzI1SWZIZUpjMU02RkwzQS10OHlXaDc3UXJ3ejBBRVl4aVNoUEJtTTlnTWY0NVlmMWQ3dnFzczJOMW5Lc251a2FLQmhqNWR3XzVfVFQxcGx4UFlJUEptRzNFRUpORUpaOXlRN2dMS0FTRQ?oc=5",
+   "title": "How to spend £1.73bn and only get worse, by Chelsea Football Club",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG55OEhwdWg0Qm95eG9FQlpCSFZHQXQydE90ckxBTEdLdlgwLVUwcVpwQWVoNmJON0psckQ3MzI1SWZIZUpjMU02RkwzQS10OHlXaDc3UXJ3ejBBRVl4aVNoUEJtTTlnTWY0NVlmMWQ3dnFzczJOMW5Lc251a2FLQmhqNWR3XzVfVFQxcGx4UFlJUEptRzNFRUpORUpaOXlRN2dMS0FTRQ?oc=5",
+   "source": "The Observer",
+   "group": "영국 언론",
+   "date": 1795885622000,
+   "added": 1795891366158,
+   "cat": null
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lmT0dUalloN3Z2akhtSEdXbkx6T0U5ZnhOdTVrdmhWMGhQU3pQNUlJQ2NpazQ4NVZ4ZUlxeF9VV2lSODRaY21HZU9BME5JRDdCYnNhTmtsVE9CWDIxT0Q5TzZMaXd0UjMtbk00eEFuLW5GNVNhVE1jVlhRNTE5MG9sTQ?oc=5",
@@ -1707,6 +1728,16 @@
    "titleKo": "`1-4 대패 이후 또 졌다, 첼시 경기력은 재앙`…알론소 감독 경질설 재점화"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xZ0s1T3dGOVEyZk8tdFdmR3BKd3dWanZsOG9lWTdvbmxlSFRFZEpyaW5ULUg1bWRlV0NOTmtVQURtV25paVh5bTFqWWQ1NWs?oc=5",
+   "title": "Alonso backs Fofana after Chelsea's 3-2 defeat at Nottingham Forest",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xZ0s1T3dGOVEyZk8tdFdmR3BKd3dWanZsOG9lWTdvbmxlSFRFZEpyaW5ULUg1bWRlV0NOTmtVQURtV25paVh5bTFqWWQ1NWs?oc=5",
+   "source": "懂球帝",
+   "group": "영국 언론",
+   "date": 1795831380000,
+   "added": 1795891366158,
+   "cat": null
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
    "title": "Tottenham Hotspur - Chelsea",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlZKS19NLUlOWlFvTmRUaUtzTWxFVkVOU0RXY0NXVEZrYWlzVjJpUHNnblRENldlZF9sUl9aeExNWlFQRDJUUGpKVFhFb0dLb3B4aFFuN3lOUU1ZdGFYUlNhQ0I2OEpuWDlQNW56VGFQeWZpRHpCcG00RmZMLXY3WHdoYk8?oc=5",
@@ -1815,6 +1846,16 @@
    "added": 1795870736799,
    "cat": null,
    "titleKo": "첼시 Nike i96 리펠 트랙 팬츠 - 러시 블루"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSlN2a0I5LWhVeWdDNzJTbnRWb3lVbkpfcFh6WThzRlpTS19TWjlSUDliSVNRY3Y1WjBhUm9YREMzcVNrakdUcnFmUms5d19aNklkUnlyT2VEd1A5djI2YUF2a0ZOc0s3MHlHN1lhUUdTS04tMmdzT1dQZDRDMGk0VXJQSVpTTGZCRFFkd2FrbUQ1Q1FGNDFwS2prS1I2MFMyZHNtbzRsM1VoYmt2RDhEWHIyWGR4SjlRQndUczZSakpGZlNQWVVCLVB1Vm5Wb0FXVXptSmZyb1lXTHdnWm40Y3JJZnlzb2syY2FRTXlzWHFBWjRQ?oc=5",
+   "title": "Chelsea Nike Home Stadium Shirt 2026-27 - Long Sleeve - Kids with Henderson 14 printing",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSlN2a0I5LWhVeWdDNzJTbnRWb3lVbkpfcFh6WThzRlpTS19TWjlSUDliSVNRY3Y1WjBhUm9YREMzcVNrakdUcnFmUms5d19aNklkUnlyT2VEd1A5djI2YUF2a0ZOc0s3MHlHN1lhUUdTS04tMmdzT1dQZDRDMGk0VXJQSVpTTGZCRFFkd2FrbUQ1Q1FGNDFwS2prS1I2MFMyZHNtbzRsM1VoYmt2RDhEWHIyWGR4SjlRQndUczZSakpGZlNQWVVCLVB1Vm5Wb0FXVXptSmZyb1lXTHdnWm40Y3JJZnlzb2syY2FRTXlzWHFBWjRQ?oc=5",
+   "source": "첼시 공식",
+   "group": "공식·FotMob",
+   "date": 1795827191000,
+   "added": 1795891366159,
+   "cat": null
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5c9IBY0FVX3lxTE5hNm9EcTVncDZ1eE5qcUdQZThEMlllMm50WGxJR2Y5UnhjYmFZUkVRVThsZS1EUWt3UWstdjZLemgydW9HcHhmVVJkZlN5a2xqci1wZHpIa1NOaFJqSWlURVc5cw?oc=5",
@@ -2622,6 +2663,16 @@
    "added": 1795818338885,
    "cat": null,
    "titleKo": "첼시 고등학교, 경찰이 치명적인 축구 경기 총격 사건의 영상을 확보하려는 가운데 추모 행사를 계획하다"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMUXY5NEExRmRTQ3lVdzdPS3lOeUFuOFlMX0tLTWxDb3Bka2dqOE1nLUNUSXZDOTNOS0VxRDd0cUYyeUFla1Vzb0hpU0NXaEE?oc=5",
+   "title": "Chelsea visit Nottingham Forest as Pochettino's Manchester United host Brentford",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMUXY5NEExRmRTQ3lVdzdPS3lOeUFuOFlMX0tLTWxDb3Bka2dqOE1nLUNUSXZDOTNOS0VxRDd0cUYyeUFla1Vzb0hpU0NXaEE?oc=5",
+   "source": "懂球帝",
+   "group": "영국 언론",
+   "date": 1795815120000,
+   "added": 1795891366158,
+   "cat": null
   },
   {
    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGQ1d1UTVUTlo1WGZIdHhWLWZvTDFodFlpQ0dFR0QyVlBvWDNzdGJNWXJrTkgyVDUtVUpVSDN3WTBNWng0SHU3RDdvWklLSGFvRWxJaGxtNlE3bkhIWnNibkZyZzBvY3dLV09n?oc=5",
@@ -4201,62 +4252,6 @@
    "added": 1795883076583,
    "cat": null,
    "titleKo": "스탬퍼드 브리지 잠금 해제"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
-   "title": "Man shot and killed at Chelsea high school football game identified",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHNNM0FwaEk0QmxRSmhKZHdIMlgzZW9RWmh1OWMyUzZGRGlHMWtsVnp1TGw5M1Z2RlJ6ZE1KU2MxLXZ0bEp6amVUbXJsZVoxYTNiUVdKSEV1bU1NdFV5dkh3ZEczajdDd1FfcFJLeFlMWU9BdXlqTWR4UGs5MDRCS2RsSEtXVVdGM1pEVG5SQ09zQ3BHdy1Namdwb3QzbVdIMnFQalpzUW5uSDhpYjVMMF90cVd4TkJHclZNVm5iRG1EaGp50gHMAUFVX3lxTE9HNXhMaF85SUd0cGJoN3dKUklzWVc4MGQtWHkyNmdic0V3clVYZGNadUwtX0d0X2syRmVNR2VwWFVHNllrVEd3T0NsbkNmVF9PVUNBNlF4N2c3amh2RmMwZWZFaDF1eFVBUXNEaFZfQ0puak5vM3RNNVF4Q3lHRkNGaTNGaEtPS3c3YVdzdjZXYVdzcHNCUWp4Q0lWQXhjSG5vZlMyNWJ6TS16SUpqUEpXX0R2QjBmaU9CQUlOT3BhVW5PRVVsSFR4TmFLUw?oc=5",
-   "source": "NBC Boston",
-   "group": "영국 언론",
-   "date": 1795737006000,
-   "added": 1795743727003,
-   "cat": null,
-   "titleKo": "첼시 고등학교 미식축구 경기에서 총격을 당해 사망한 남성의 신원이 확인되었습니다."
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSkJwckhYenVOLVJndHhyclRuY1FUSHNZYVduYVQwckRPbW84UHowZlF6YXMtc19PWUdpX2dnazJvWUhJQUVUUFZQUm1nY2NraXNtQmVrN3dYMW1nZ0t5dVlYMDh4UTllVEZUcllyTVB0blhUOHBETGZNRlFtQXhBMklMSlpuanZaN3dWeTFJR2dVYUI3ODNUSk9WNV9qV2VUMF9FTnI1TzJTaUdPYzRiX19EU0tjVkNWR0Y4dk5JNkxhTG8wSjdGNXZSQ0JVZ2NPVWlSZXRNcHBkS0RQMXNB?oc=5",
-   "title": "Chelsea XI vs Nottm Forest: Confirmed team news and predicted lineup",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSkJwckhYenVOLVJndHhyclRuY1FUSHNZYVduYVQwckRPbW84UHowZlF6YXMtc19PWUdpX2dnazJvWUhJQUVUUFZQUm1nY2NraXNtQmVrN3dYMW1nZ0t5dVlYMDh4UTllVEZUcllyTVB0blhUOHBETGZNRlFtQXhBMklMSlpuanZaN3dWeTFJR2dVYUI3ODNUSk9WNV9qV2VUMF9FTnI1TzJTaUdPYzRiX19EU0tjVkNWR0Y4dk5JNkxhTG8wSjdGNXZSQ0JVZ2NPVWlSZXRNcHBkS0RQMXNB?oc=5",
-   "source": "London Evening Standard",
-   "group": "영국 언론",
-   "date": 1795734777000,
-   "added": 1795811232710,
-   "cat": "오피셜",
-   "titleKo": "첼시 XI vs 노팅엄 포레스트: 확정된 팀 소식 및 예상 선발 명단"
-  },
-  {
-   "id": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-carragher-colwill-fofana-b1306591.html",
-   "title": "Xabi Alonso hits back at Jamie Carragher criticism as ‘responsibility’ claimed for Chelsea defending",
-   "link": "https://www.standard.co.uk/sport/football/chelsea-fc-alonso-carragher-colwill-fofana-b1306591.html",
-   "source": "Evening Standard",
-   "group": "영국 언론",
-   "date": 1795734122000,
-   "image": "https://static.standard.co.uk/2026/11/26/17/2306413120..?width=1200&auto=webp&crop=3%3A2",
-   "added": 1795735192405,
-   "cat": null,
-   "titleKo": "사비 알론소, 첼시 수비에 대한 '책임'을 주장한 제이미 캐러거의 비판에 반격"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
-   "title": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNmcza2kxMl9KTFNSUVQybG5ReFE2LWhJdWE1cEU3QW8yWElGUmFmSFZ5V0I1ZTlkWFpuMWswXzQ3blJ0WnlCczdObEJHZXZWYTZhcGFtTnJlR1NKUWVsZ09WaXJ0X0lZQUgzd2d3?oc=5",
-   "source": "베스트일레븐",
-   "group": "한국 언론",
-   "date": 1795734072000,
-   "added": 1795735192405,
-   "cat": "부상",
-   "titleKo": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNGxqalZSUWRkYXAyQnR5Y2xUb2xMaTcycERVSXllMk9QT1VfMGRUenc1NVBFak5uN0FVRVkzUk0xZjhjR1lYaEs1RWE2TVY3MUVBak5kSUpTRW5qYTZ6RmR1NDZzcFZUNmFSN0U0cWNlbHRSV3M4ZHc1Mk9kY1FvQXF0Y0FWdWhKa0MzN0lKZ1pYbl96NzhJY0ZxdWVMTG83dUFOTnpuU29zemQxQWZocXdvdExiMGVJMC1raGFkbThsdDRWczFvd3pkVG0wcVdsVkMteG5fVG5KT0ExM2NvYmtaVHlwUWVNZEl6c3F6UWhEQkgybHVJQTBKT1JRak95SnB2c2ZaTm1CYXZJQ19B?oc=5",
-   "title": "'Football can change' - Emery addresses Garnacho's Villa future amid Chelsea return talk",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNGxqalZSUWRkYXAyQnR5Y2xUb2xMaTcycERVSXllMk9QT1VfMGRUenc1NVBFak5uN0FVRVkzUk0xZjhjR1lYaEs1RWE2TVY3MUVBak5kSUpTRW5qYTZ6RmR1NDZzcFZUNmFSN0U0cWNlbHRSV3M4ZHc1Mk9kY1FvQXF0Y0FWdWhKa0MzN0lKZ1pYbl96NzhJY0ZxdWVMTG83dUFOTnpuU29zemQxQWZocXdvdExiMGVJMC1raGFkbThsdDRWczFvd3pkVG0wcVdsVkMteG5fVG5KT0ExM2NvYmtaVHlwUWVNZEl6c3F6UWhEQkgybHVJQTBKT1JRak95SnB2c2ZaTm1CYXZJQ19B?oc=5",
-   "source": "TribalFootball",
-   "group": "영국 언론",
-   "date": 1795733340000,
-   "added": 1795804151124,
-   "cat": null,
-   "titleKo": "'축구는 변할 수 있다' - 첼시 복귀설이 제기되는 가운데, 에메리 감독이 가르나초의 아스톤 빌라 미래에 대해 언급"
   }
  ]
 }
